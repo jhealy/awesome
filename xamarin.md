@@ -1,3 +1,6 @@
+## GENERAL
+Xamarin Forms Performance Discussion - http://aka.ms/xfperformance
+
 ## LEARN
 Mobile Applications with Xamarin Architecture Guide (free ebook) - https://www.microsoft.com/net/learn/architecture
 

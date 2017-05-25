@@ -12,6 +12,9 @@ Mobile Samples from Xamarin - https://github.com/xamarin/mobile-samples - home o
 Material Design for your Xamarin Forms Android Apps - montemagno - https://blog.xamarin.com/material-design-for-your-xamarin-forms-android-apps/
 Remote your Android device to your desktop - Montemagno recommends -http://www.vysor.io/
 
+## FORMS
+Localizing Xamarin Forms using RESX files - https://developer.xamarin.com/guides/xamarin-forms/advanced/localization/
+
 ## IOS
 * Provisioning up a physical iOS device for developer.  Not for the wimpy or weak.  Requires Apple developer account - https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/
 * Remote your iPhone to your desktop - Montemagno recommends AirPlay, but it only works on Fruit.  Some alternative for PC users listed here - https://www.lifewire.com/where-to-get-airplay-for-windows-2000736

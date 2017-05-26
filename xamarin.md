@@ -13,7 +13,9 @@ Material Design for your Xamarin Forms Android Apps - montemagno - https://blog.
 Remote your Android device to your desktop - Montemagno recommends -http://www.vysor.io/
 
 ## FORMS
-Localizing Xamarin Forms using RESX files - https://developer.xamarin.com/guides/xamarin-forms/advanced/localization/
+* Localizing Xamarin Forms using RESX files - https://developer.xamarin.com/guides/xamarin-forms/advanced/localization/
+* Maps - Xamarin Maps Component Sample - https://github.com/xamarin/Xamarin.Forms
+* Maps - Using Google Maps Across all app types - https://github.com/amay077/Xamarin.Forms.GoogleMaps [thanks AG!]
 
 ## IOS
 * Provisioning up a physical iOS device for developer.  Not for the wimpy or weak.  Requires Apple developer account - https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/

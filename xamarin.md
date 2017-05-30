@@ -22,3 +22,6 @@ Remote your Android device to your desktop - Montemagno recommends -http://www.v
 * Provisioning up a physical iOS device for developer.  Not for the wimpy or weak.  Requires Apple developer account - https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/
 * Remote your iPhone to your desktop - Montemagno recommends AirPlay, but it only works on Fruit.  Some alternative for PC users listed here - https://www.lifewire.com/where-to-get-airplay-for-windows-2000736
 * Unable to boot device in current state: Booted.  Simulator won't start and just hangs.  Switch to remote run from pc to mac and get this error.  See https://stackoverflow.com/questions/24135067/unable-to-boot-device-in-current-state-booted for discussions.
+
+# MISC
+* UWP - MEF not supported in Xamarin - definitive - https://github.com/PrismLibrary/Prism

@@ -10,8 +10,8 @@ Case Studies - https://www.xamarin.com/resources/case-studies
 Mobile Samples from Xamarin - https://github.com/xamarin/mobile-samples - home of Tasky and LivePreviewer demos and other such stuff
 
 ## ANDROID
-Material Design for your Xamarin Forms Android Apps - montemagno - https://blog.xamarin.com/material-design-for-your-xamarin-forms-android-apps/
-Remote your Android device to your desktop - Montemagno recommends -http://www.vysor.io/
+* Material Design for your Xamarin Forms Android Apps - montemagno - https://blog.xamarin.com/material-design-for-your-xamarin-forms-android-apps/
+* Remote your Android device to your desktop - Montemagno recommends -http://www.vysor.io/
 
 ## FORMS
 * Localizing Xamarin Forms using RESX files - https://developer.xamarin.com/guides/xamarin-forms/advanced/localization/

@@ -24,6 +24,7 @@ pooling, and socket exceptions
 
 
 # MISC
+* .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/
 * UWP - MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism
 * Visual Studio > MSBuild > Common MSBuild Commands - https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties

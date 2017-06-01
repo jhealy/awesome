@@ -7,4 +7,7 @@ Using memory cache in ASP.NET Core - alternative to ObjectCache - local and dist
 # Blogs and Websites
 Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 
+# SAMPLES
+* Music Store - https://github.com/aspnet/MusicStore
+
 

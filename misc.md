@@ -19,6 +19,7 @@ pooling, and socket exceptions
 * Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
 * Docs on microsoft.com - https://docs.microsoft.com/en-us/iis/
 * Install Failed Request Tracing Tool (8.5) - https://blogs.msdn.microsoft.com/benjaminperkins/2015/11/02/install-failed-request-tracing-on-iis-8-5-server-core/
+* LogParser for IIS Logs ( w3c ext log format ) - https://docs.microsoft.com/en-us/iis/troubleshoot/performance-issues/troubleshooting-iis-performance-issues-or-application-errors-using-logparser
 * Troubleshooting Failed Requests Using Tracing (8.5) - https://docs.microsoft.com/en-us/iis/troubleshoot/using-failed-request-tracing/troubleshooting-failed-requests-using-tracing-in-iis-85
 * Troubleshooting IIS - https://docs.microsoft.com/en-us/iis/troubleshoot/
 

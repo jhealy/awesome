@@ -17,8 +17,9 @@ pooling, and socket exceptions
 
 # WEB TESTING
 * Great overview of VS2015+ Load Testing setup - https://blogs.msdn.microsoft.com/testingspot/2017/02/23/guide-to-get-started-with-visual-studio-web-load-testing-and-automation/
-* Logger for Performance Testing - https://blogs.msdn.microsoft.com/testingspot/2017/05/31/logger-for-performance-testing/
 * Homer is pulled – where to find it – not supported - https://forums.iis.net/t/1161284.aspx
+* Logger for Performance Testing - https://blogs.msdn.microsoft.com/testingspot/2017/05/31/logger-for-performance-testing/
+* VS2015 Test Tools - getting started - https://blogs.msdn.microsoft.com/visualstudioalm/2015/12/10/visual-studio-2015-test-tools-getting-started-content/
 
 # MISC
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/

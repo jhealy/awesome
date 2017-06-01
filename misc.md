@@ -26,3 +26,5 @@ pooling, and socket exceptions
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/
 * UWP - MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism
 * Visual Studio > MSBuild > Common MSBuild Commands - https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties
+* Visual Studio 2015 > docs - https://msdn.microsoft.com/en-us/library/dd831853.aspx
+* Visual Studio 2017 > docs - https://docs.microsoft.com/en-us/visualstudio/

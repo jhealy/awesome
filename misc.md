@@ -20,6 +20,7 @@ pooling, and socket exceptions
 * Homer is pulled – where to find it – not supported - https://forums.iis.net/t/1161284.aspx
 * Logger for Performance Testing - https://blogs.msdn.microsoft.com/testingspot/2017/05/31/logger-for-performance-testing/
 * VS2015 Test Tools - getting started - https://blogs.msdn.microsoft.com/visualstudioalm/2015/12/10/visual-studio-2015-test-tools-getting-started-content/
+* WCAT - web capacity analysis tool - lightweight http load generation tool - controlled environment - up to IIS7 - https://www.iis.net/downloads/community/2007/05/wcat-63-x86
 
 # MISC
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/

@@ -16,9 +16,11 @@ pooling, and socket exceptions
 * You're using HttpClient wrong and it is destabilizing your software - http://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
 
 # IIS
-* IIS Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
-* IIS 8.5 - Install Failed Request Tracing Tool - https://blogs.msdn.microsoft.com/benjaminperkins/2015/11/02/install-failed-request-tracing-on-iis-8-5-server-core/
-* IIS 8.5 - Troubleshooting Failed Requests Using Tracing - https://docs.microsoft.com/en-us/iis/troubleshoot/using-failed-request-tracing/troubleshooting-failed-requests-using-tracing-in-iis-85
+* Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
+* Docs on microsoft.com - https://docs.microsoft.com/en-us/iis/
+* Install Failed Request Tracing Tool (8.5) - https://blogs.msdn.microsoft.com/benjaminperkins/2015/11/02/install-failed-request-tracing-on-iis-8-5-server-core/
+* Troubleshooting Failed Requests Using Tracing (8.5) - https://docs.microsoft.com/en-us/iis/troubleshoot/using-failed-request-tracing/troubleshooting-failed-requests-using-tracing-in-iis-85
+* Troubleshooting IIS - https://docs.microsoft.com/en-us/iis/troubleshoot/
 
 # WEB TESTING
 * Great overview of VS2015+ Load Testing setup - https://blogs.msdn.microsoft.com/testingspot/2017/02/23/guide-to-get-started-with-visual-studio-web-load-testing-and-automation/

@@ -15,6 +15,11 @@ pooling, and socket exceptions
 * PNP Guide to HttpClient - https://github.com/mspnp/performance-optimization/blob/master/ImproperInstantiation/docs/ImproperInstantiation.md
 * You're using HttpClient wrong and it is destabilizing your software - http://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
 
+# WEB TESTING
+* Great overview of VS2015+ Load Testing setup - https://blogs.msdn.microsoft.com/testingspot/2017/02/23/guide-to-get-started-with-visual-studio-web-load-testing-and-automation/
+* Logger for Performance Testing - https://blogs.msdn.microsoft.com/testingspot/2017/05/31/logger-for-performance-testing/
+* Homer is pulled – where to find it – not supported - https://forums.iis.net/t/1161284.aspx
+
 # MISC
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/
 * UWP - MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism

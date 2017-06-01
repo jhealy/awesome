@@ -17,6 +17,7 @@ pooling, and socket exceptions
 
 # WEB TESTING
 * Great overview of VS2015+ Load Testing setup - https://blogs.msdn.microsoft.com/testingspot/2017/02/23/guide-to-get-started-with-visual-studio-web-load-testing-and-automation/
+* IIS Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
 * IIS 8.5 - Install Failed Request Tracing Tool - https://blogs.msdn.microsoft.com/benjaminperkins/2015/11/02/install-failed-request-tracing-on-iis-8-5-server-core/
 * Logger for Performance Testing - https://blogs.msdn.microsoft.com/testingspot/2017/05/31/logger-for-performance-testing/
 * On-Premise Testing using VS2015+ - https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release

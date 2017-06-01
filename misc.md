@@ -16,6 +16,6 @@ pooling, and socket exceptions
 * You're using HttpClient wrong and it is destabilizing your software - http://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
 
 # MISC
-Visual Studio > MSBuild > Common MSBuild Commands - https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties
-
-UWP - MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism
+* Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases -
+* UWP - MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism
+* Visual Studio > MSBuild > Common MSBuild Commands - https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties

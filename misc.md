@@ -19,6 +19,7 @@ pooling, and socket exceptions
 * Great overview of VS2015+ Load Testing setup - https://blogs.msdn.microsoft.com/testingspot/2017/02/23/guide-to-get-started-with-visual-studio-web-load-testing-and-automation/
 * Homer is pulled – where to find it – not supported - https://forums.iis.net/t/1161284.aspx
 * Logger for Performance Testing - https://blogs.msdn.microsoft.com/testingspot/2017/05/31/logger-for-performance-testing/
+* On-Premise Testing using VS2015+ - https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release
 * Team Services Load Testing Tools - https://www.visualstudio.com/team-services/testing-tools/
 * VS2015 Test Tools - getting started - https://blogs.msdn.microsoft.com/visualstudioalm/2015/12/10/visual-studio-2015-test-tools-getting-started-content/
 * WCAT - web capacity analysis tool - lightweight http load generation tool - controlled environment - up to IIS7 - https://www.iis.net/downloads/community/2007/05/wcat-63-x86  -  IIS Stress Testing with WCAT and Log Parser - IIS7.5 - https://ciredx.wordpress.com/2012/03/19/iis-stress-testing-with-wcat-and-log-parser/  - Using WCAT to Stres-Test IIS - https://msdn.microsoft.com/en-us/library/ms951774.aspx#usingwcat_topic9

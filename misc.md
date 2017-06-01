@@ -15,10 +15,13 @@ pooling, and socket exceptions
 * PNP Guide to HttpClient - https://github.com/mspnp/performance-optimization/blob/master/ImproperInstantiation/docs/ImproperInstantiation.md
 * You're using HttpClient wrong and it is destabilizing your software - http://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
 
-# WEB TESTING
-* Great overview of VS2015+ Load Testing setup - https://blogs.msdn.microsoft.com/testingspot/2017/02/23/guide-to-get-started-with-visual-studio-web-load-testing-and-automation/
+# IIS
 * IIS Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
 * IIS 8.5 - Install Failed Request Tracing Tool - https://blogs.msdn.microsoft.com/benjaminperkins/2015/11/02/install-failed-request-tracing-on-iis-8-5-server-core/
+* IIS 8.5 - Troubleshooting Failed Requests Using Tracing - https://docs.microsoft.com/en-us/iis/troubleshoot/using-failed-request-tracing/troubleshooting-failed-requests-using-tracing-in-iis-85
+
+# WEB TESTING
+* Great overview of VS2015+ Load Testing setup - https://blogs.msdn.microsoft.com/testingspot/2017/02/23/guide-to-get-started-with-visual-studio-web-load-testing-and-automation/
 * Logger for Performance Testing - https://blogs.msdn.microsoft.com/testingspot/2017/05/31/logger-for-performance-testing/
 * On-Premise Testing using VS2015+ - https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release
 * Team Services Load Testing Tools - https://www.visualstudio.com/team-services/testing-tools/

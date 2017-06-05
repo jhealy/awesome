@@ -32,8 +32,9 @@ pooling, and socket exceptions
 
 
 # MISC
+* .NET > Diagnostics > How to enable debug tracing for System.Net.Mail API - https://blogs.msdn.microsoft.com/deva/2017/06/02/debugging-how-to-enable-debug-tracing-for-system-net-mail-api/
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
-* Code Review > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx
+* Code Reiew > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx
 * Code Review > Globalization best practices - https://msdn.microsoft.com/en-us/library/w7x1y988(v=vs.110).aspx
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/

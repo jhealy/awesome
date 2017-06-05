@@ -13,8 +13,8 @@
 * Top 20 Analyzers - http://nugetmusthaves.com/Tag/analyzers
 * C# Essentials - Dustin Campbell - gallery: https://visualstudiogallery.msdn.microsoft.com/a4445ad0-f97c-41f9-a148-eae225dcc8a5 - github: https://github.com/DustinCampbell/CSharpEssentials - NameOf, Getter-Only AutoProperty, Expression-Bodied member, Convert to Interpolated String
 * Refactoring Essentials by the ILSpy Team - http://vsrefactoringessentials.com/
-Roslynator- http://pihrt.net/RoslynatorRuleset - Kentico - https://github.com/Kentico/CodeAnalysisRuleset/blob/master/Kentico.CodeAnalysis.rulesetSecurity 
-- Built in - https://blogs.msdn.microsoft.com/secdevblog/2016/03/30/roslyn-diagnostics-security-analyzers-overview/
+* Roslynator- http://pihrt.net/RoslynatorRuleset
+* Kentico - https://github.com/Kentico/CodeAnalysisRuleset/blob/master/Kentico.CodeAnalysis.rulesetSecurity - Built in - https://blogs.msdn.microsoft.com/secdevblog/2016/03/30/roslyn-diagnostics-security-analyzers-overview/
 * Security - Roslyn Security Guard - https://dotnet-security-guard.github.io/,https://github.com/dotnet-security-guard/roslyn-security-guard,https://marketplace.visualstudio.com/items?itemName=PhilippeArteau.RoslynSecurityGuardStyleCopAnalyzers - https://github.com/DotNetAnalyzers/
 * StyleCopAnalyzersWintellect - https://github.com/Wintellect/Wintellect.Analyzers
 * Writing a VB Analyzer - https://github.com/dotnet/roslyn/wiki/How-To-Write-a-Visual-Basic-Analyzer-and-Code-Fix

@@ -24,7 +24,7 @@
 # LEARN 
 * Power of Rosln: Improving Your Productivity with Live Code Analyzers - Xam Evolve 2016 - @kuhlenhuth - https://channel9.msdn.com/events/Xamarin-Evolve/2016/The-Power-of-Roslyn-Improving-Your-Productivity-with-Live-Code-Analyzers
 
-#FxCop 
+# FxCop 
 * FxCop - latest release - deprecated - https://blogs.msdn.microsoft.com/codeanalysis/2010/07/26/fxcop-10-0-is-available/
 * FxCop - state of the product - via project manager - http://michaelsync.net/2014/07/19/status-of-fxcop-code-analysisFxCop
 * Analyzers - https://www.nuget.org/packages/Microsoft.CodeAnalysis.FxCopAnalyzers/1.1.0

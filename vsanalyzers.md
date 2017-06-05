@@ -16,8 +16,9 @@
 * Refactoring Essentials by the ILSpy Team - http://vsrefactoringessentials.com/
 * Roslynator- http://pihrt.net/RoslynatorRuleset
 * Kentico - https://github.com/Kentico/CodeAnalysisRuleset/blob/master/Kentico.CodeAnalysis.rulesetSecurity
-* Security - Roslyn Security Guard - https://dotnet-security-guard.github.io/,https://github.com/dotnet-security-guard/roslyn-security-guard,https://marketplace.visualstudio.com/items?itemName=PhilippeArteau.RoslynSecurityGuardStyleCopAnalyzers - https://github.com/DotNetAnalyzers/
-* StyleCopAnalyzersWintellect - https://github.com/Wintellect/Wintellect.Analyzers
+* Security - Roslyn Security Guard - https://dotnet-security-guard.github.io/,https://github.com/dotnet-security-guard/roslyn-security-guard,https://marketplace.visualstudio.com/items?itemName=PhilippeArteau.RoslynSecurityGuard
+* StyleCopAnalyzers - https://github.com/DotNetAnalyzers/
+* StyleCopAnalyzers - Wintellect - https://github.com/Wintellect/Wintellect.Analyzers
 * Writing a VB Analyzer - https://github.com/dotnet/roslyn/wiki/How-To-Write-a-Visual-Basic-Analyzer-and-Code-Fix
 
 # LEARN 

@@ -33,7 +33,9 @@ pooling, and socket exceptions
 
 # MISC
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
-* Performance > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
+* Code Review > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx
+* Code Review > Globalization best practices - https://msdn.microsoft.com/en-us/library/w7x1y988(v=vs.110).aspx
+* Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/
 * UWP - MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism
 * Visual Studio > MSBuild > Common MSBuild Commands - https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties

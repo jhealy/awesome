@@ -3,11 +3,12 @@
 * Xamarin Forms Performance Discussion - http://aka.ms/xfperformance
 
 ## LEARN
-Mobile Applications with Xamarin Architecture Guide (free ebook) - https://www.microsoft.com/net/learn/architecture
+* Mobile Applications with Xamarin Architecture Guide (free ebook) - https://www.microsoft.com/net/learn/architecture
 
 ## SOURCE CODE REPOS
-Case Studies - https://www.xamarin.com/resources/case-studies
-Mobile Samples from Xamarin - https://github.com/xamarin/mobile-samples - home of Tasky and LivePreviewer demos and other such stuff
+* Case Studies - https://www.xamarin.com/resources/case-studies
+* Mobile Applications with Xamarin Architecture Guide (free ebook) - https://www.microsoft.com/net/learn/architecture - source code sample available
+* Mobile Samples from Xamarin - https://github.com/xamarin/mobile-samples - home of Tasky and LivePreviewer demos and other such stuff
 
 ## ANDROID
 * Material Design for your Xamarin Forms Android Apps - montemagno - https://blog.xamarin.com/material-design-for-your-xamarin-forms-android-apps/

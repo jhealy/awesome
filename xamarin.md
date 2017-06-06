@@ -17,6 +17,7 @@ Mobile Samples from Xamarin - https://github.com/xamarin/mobile-samples - home o
 * Localizing Xamarin Forms using RESX files - https://developer.xamarin.com/guides/xamarin-forms/advanced/localization/
 * Maps - Xamarin Maps Component Sample - https://github.com/xamarin/Xamarin.Forms
 * Maps - Using Google Maps Across all app types - https://github.com/amay077/Xamarin.Forms.GoogleMaps [thanks AG!]
+* MVVM / PRISM with Xamarin Forms - http://www.jonbachelor.com/blog/an-introduction-to-xamarinforms-with-prism
 
 ## IOS
 * Provisioning up a physical iOS device for developer.  Not for the wimpy or weak.  Requires Apple developer account - https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/

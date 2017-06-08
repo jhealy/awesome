@@ -4,7 +4,8 @@ Held here until enough volume to be posted elsewhere....
 # .NET GENERAL
 * .NET API Browser - https://docs.microsoft.com/en-us/dotnet/api/
 * .NET Verification Tool - https://blogs.msdn.microsoft.com/astebner/2017/05/26/net-framework-setup-verification-tool-cleanup-tool-and-detection-sample-code-now-support-net-framework-4-7/
-* .NET Performance Tuning Guide circa 2004 - an oldie but goodie - https://msdn.microsoft.com/en-us/library/ff649152.aspx
+* Performance > .NET Performance Tuning Guide circa 2004 - an oldie but goodie - https://msdn.microsoft.com/en-us/library/ff649152.aspx
+* Performance > .NET 4.7 v .NET Core 2.0 - Performance Improvements - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 
 # HTTPCLIENT
 * InfoQ on httpclient - lots of links - https://www.infoq.com/news/2016/09/HttpClient - shows why "using" around a new httpclient is bad
@@ -34,6 +35,7 @@ pooling, and socket exceptions
 # MISC
 * .NET > Diagnostics > How to enable debug tracing for System.Net.Mail API - https://blogs.msdn.microsoft.com/deva/2017/06/02/debugging-how-to-enable-debug-tracing-for-system-net-mail-api/
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
+* .NET Core > 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 * Code Reiew > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx
 * Code Review > Globalization best practices - https://msdn.microsoft.com/en-us/library/w7x1y988(v=vs.110).aspx
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx

@@ -10,4 +10,7 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 # SAMPLES
 * Music Store - https://github.com/aspnet/MusicStore
 
+# MISC
+* ReDis Session Provider - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session
+
 

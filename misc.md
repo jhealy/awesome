@@ -41,7 +41,8 @@ pooling, and socket exceptions
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
 * Docker and .NET > https://www.hanselman.com/blog/NETAndDocker.aspx
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/
-* UWP - MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism
+* UWP > BTLE - iBeacon with UWP - https://peterfoot.net/2017/05/26/read-ibeacons-from-uwp/
+* UWP > MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism
 * Visual Studio > MSBuild > Common MSBuild Commands - https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties
 * Visual Studio 2015 > docs - https://msdn.microsoft.com/en-us/library/dd831853.aspx
 * Visual Studio 2017 > docs - https://docs.microsoft.com/en-us/visualstudio/

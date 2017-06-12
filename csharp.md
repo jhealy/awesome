@@ -12,8 +12,9 @@ https://github.com/dotnet/Roslyn
 # History of C#
 https://en.wikipedia.org/wiki/C_Sharp_%28programming_language 
 
-# 7.0
+## 7.0
 Tuples - https://blogs.msdn.microsoft.com/mazhou/2017/05/26/c-7-series-part-1-value-tuples/
 
-# 7.1
+## 7.1
 Async Main - https://blogs.msdn.microsoft.com/mazhou/2017/05/30/c-7-series-part-2-async-main/
+Default Expressions - https://blogs.msdn.microsoft.com/mazhou/2017/06/06/c-7-series-part-3-default-literals/

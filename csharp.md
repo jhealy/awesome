@@ -1,20 +1,20 @@
 # Design
-https://github.com/dotnet/csharplang
-https://blogs.msdn.microsoft.com/dotnet/2017/03/09/new-features-in-c-7-0/
+* https://github.com/dotnet/csharplang
+* https://blogs.msdn.microsoft.com/dotnet/2017/03/09/new-features-in-c-7-0/
 
 # Language strategy
-https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
-https://blogs.msdn.microsoft.com/vbteam/2017/02/01/digging-deeper-into-the-visual-basic-language-strategy/
+* https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
+* https://blogs.msdn.microsoft.com/vbteam/2017/02/01/digging-deeper-into-the-visual-basic-language-strategy/
 
 # Roslyn
-https://github.com/dotnet/Roslyn
+* https://github.com/dotnet/Roslyn
 
 # History of C#
-https://en.wikipedia.org/wiki/C_Sharp_%28programming_language 
+* https://en.wikipedia.org/wiki/C_Sharp_%28programming_language 
 
 ## 7.0
-Tuples - https://blogs.msdn.microsoft.com/mazhou/2017/05/26/c-7-series-part-1-value-tuples/
+* Tuples - https://blogs.msdn.microsoft.com/mazhou/2017/05/26/c-7-series-part-1-value-tuples/
 
 ## 7.1
-Async Main - https://blogs.msdn.microsoft.com/mazhou/2017/05/30/c-7-series-part-2-async-main/
-Default Expressions - https://blogs.msdn.microsoft.com/mazhou/2017/06/06/c-7-series-part-3-default-literals/
+* Async Main - https://blogs.msdn.microsoft.com/mazhou/2017/05/30/c-7-series-part-2-async-main/
+* Default Expressions - https://blogs.msdn.microsoft.com/mazhou/2017/06/06/c-7-series-part-3-default-literals/

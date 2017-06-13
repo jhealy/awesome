@@ -36,3 +36,10 @@ Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam
 * Getting  started storing app data locally - https://blogs.windows.com/buildingapps/2016/05/10/getting-started-storing-app-data-locally/
 * Offline Apps: what to do when your user disconnects (July 2016) - https://blogs.windows.com/buildingapps/2016/07/25/offline-apps-what-to-do-when-your-user-disconnects/
 * Roaming app data and the user experience - https://blogs.windows.com/buildingapps/2016/05/04/roaming-app-data-and-the-user-experience/
+
+# MISC
+* Azure > IoT Hub > Connect your Windows app to Azure IoT Hub with Visual Studio - https://blogs.windows.com/buildingapps/2016/03/03/connect-your-windows-app-to-azure-iot-hub-with-visual-studio/
+* Navigation > Back button handling - http://stackoverflow.com/questions/30597585/windows-10-uap-back-button
+* Navigation > https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt187344.aspx
+* Navigation > Peer to Peer Navigation Between Two Pages - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt465735.aspx
+

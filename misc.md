@@ -7,6 +7,9 @@ Held here until enough volume to be posted elsewhere....
 * Performance > .NET Performance Tuning Guide circa 2004 - an oldie but goodie - https://msdn.microsoft.com/en-us/library/ff649152.aspx
 * Performance > .NET 4.7 v .NET Core 2.0 - Performance Improvements - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 
+# DEVOPS
+* Team Foundation Server to Visual Studio Team Services Migration Guide and Database Import Tooling - https://www.microsoft.com/en-us/download/details.aspx?id=54274
+
 # HTTPCLIENT
 * InfoQ on httpclient - lots of links - https://www.infoq.com/news/2016/09/HttpClient - shows why "using" around a new httpclient is bad
 * Official http client doc vs.118 - 

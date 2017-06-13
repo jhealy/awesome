@@ -39,6 +39,10 @@ Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam
 
 # MISC
 * Azure > IoT Hub > Connect your Windows app to Azure IoT Hub with Visual Studio - https://blogs.windows.com/buildingapps/2016/03/03/connect-your-windows-app-to-azure-iot-hub-with-visual-studio/
+* Design > Responsive UI > 
+* Design > Responsive UI > Morton Nielsen's State Triggers collection - https://github.com/dotMorten/WindowsStateTriggers
+* Design > Responsive UI > Responsive Design 101 for Universal Windows Platform Apps - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn958435.aspx
+* Design > Responsive UI > Scaling your phone app design to all UWP device families - https://blogs.windows.com/buildingapps/2016/06/27/scaling-your-phone-app-design-to-all-uwp-device-families/
 * Navigation > Back button handling - http://stackoverflow.com/questions/30597585/windows-10-uap-back-button
 * Navigation > https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt187344.aspx
 * Navigation > Peer to Peer Navigation Between Two Pages - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt465735.aspx

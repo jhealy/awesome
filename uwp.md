@@ -22,6 +22,17 @@ effect, - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cr
 * Telerik - UI for UWP - https://github.com/telerik/UI-For-UWP
 Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam/waslibs
 
+# DESIGN
+## RESPONSIVE UI
+* Morton Nielsen's State Triggers collection - https://github.com/dotMorten/WindowsStateTriggers
+* Responsive Design 101 for Universal Windows Platform Apps - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn958435.aspx
+* Scaling your phone app design to all UWP device families - https://blogs.windows.com/buildingapps/2016/06/27/scaling-your-phone-app-design-to-all-uwp-device-families/
+
+## STYLING AND THEMES
+* Intro to UWP for Designers - https://msdn.microsoft.com/en-us/library/windows/apps/dn958439.aspx
+* Styling and themes - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt210949.aspx
+* UX Guidelines for UWP Apps - https://msdn.microsoft.com/en-us/library/windows/apps/hh465424.aspx
+
 # LEARN
 * Absolute Beginners Series to Windows 10 ( UWP ) - https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginnersDevelopers 
 * Guide to Windows 10 (ch9) - https://channel9.msdn.com/Series/A-Developers-Guide-to-Windows-10
@@ -39,10 +50,6 @@ Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam
 
 # MISC
 * Azure > IoT Hub > Connect your Windows app to Azure IoT Hub with Visual Studio - https://blogs.windows.com/buildingapps/2016/03/03/connect-your-windows-app-to-azure-iot-hub-with-visual-studio/
-* Design > Responsive UI > 
-* Design > Responsive UI > Morton Nielsen's State Triggers collection - https://github.com/dotMorten/WindowsStateTriggers
-* Design > Responsive UI > Responsive Design 101 for Universal Windows Platform Apps - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn958435.aspx
-* Design > Responsive UI > Scaling your phone app design to all UWP device families - https://blogs.windows.com/buildingapps/2016/06/27/scaling-your-phone-app-design-to-all-uwp-device-families/
 * Navigation > Back button handling - http://stackoverflow.com/questions/30597585/windows-10-uap-back-button
 * Navigation > https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt187344.aspx
 * Navigation > Peer to Peer Navigation Between Two Pages - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt465735.aspx

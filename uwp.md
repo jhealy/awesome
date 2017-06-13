@@ -29,3 +29,10 @@ Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam
 * Hands on Labs - https://github.com/Windows-Readiness/WinDevHOLs
 * UWP QuickStarts - http://microsoft.github.io/UWPQuickStart/index.html#
 * Windows Readiness Workshops - https://github.com/Windows-Readiness
+
+# STORAGE
+* Data Access in UWP Apps - https://blogs.windows.com/buildingapps/2016/05/03/data-access-in-universal-windows-platform-uwp-apps/
+* Data - Offline from Azure using SQLLite - https://shellmonger.com/2016/05/04/30-days-of-zumo-v2-azure-mobile-apps-day-16-offline-sync-net-edition/
+* Getting  started storing app data locally - https://blogs.windows.com/buildingapps/2016/05/10/getting-started-storing-app-data-locally/
+* Offline Apps: what to do when your user disconnects (July 2016) - https://blogs.windows.com/buildingapps/2016/07/25/offline-apps-what-to-do-when-your-user-disconnects/
+* Roaming app data and the user experience - https://blogs.windows.com/buildingapps/2016/05/04/roaming-app-data-and-the-user-experience/

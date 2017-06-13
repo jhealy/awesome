@@ -11,5 +11,6 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 
 # MISC
 * Configuring Session Providers - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session
+* Porting to .NET Core - https://blogs.msdn.microsoft.com/dotnet/2016/02/10/porting-to-net-core/
 
 

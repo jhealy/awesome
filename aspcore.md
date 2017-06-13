@@ -11,6 +11,7 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 
 # MISC
 * Configuring Session Providers - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session
+* Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
 
 SEE ALSO - .NET Core section in this doc - https://github.com/jhealy/awesome/blob/master/dnc.md
 

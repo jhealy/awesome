@@ -49,8 +49,17 @@ Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam
 * Roaming app data and the user experience - https://blogs.windows.com/buildingapps/2016/05/04/roaming-app-data-and-the-user-experience/
 
 # MISC
+* Awesome UWP Resources Collection - https://github.com/igorkulman/awesome-uwp
+* Azure > DocumentDB and UWP - photo sharing - https://blogs.windows.com/buildingapps/2016/03/17/uwp-azure-app-services-and-documentdb-soup-a-photo-sharing-app/
 * Azure > IoT Hub > Connect your Windows app to Azure IoT Hub with Visual Studio - https://blogs.windows.com/buildingapps/2016/03/03/connect-your-windows-app-to-azure-iot-hub-with-visual-studio/
+* Barcode scanning - https://msdn.microsoft.com/en-us/library/windows/apps/windows.devices.pointofservice.barcodesymbologies.aspx
+* Barcode scanning - camera - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/CameraBarcodeScanner
+* Barcode scanning - component - xplat - http://zxingnet.codeplex.com/
+* Barcode scanning - sample - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/BarcodeScanner
+* Hosted App > Chakra Bridge - Javascript inside UWP - http://blogs.msdn.com/b/eternalcoding/archive/2015/10/21/using-javascript-frameworks-from-your-c-uwp-application.aspx
 * Navigation > Back button handling - http://stackoverflow.com/questions/30597585/windows-10-uap-back-button
 * Navigation > https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt187344.aspx
 * Navigation > Peer to Peer Navigation Between Two Pages - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt465735.aspx
+* Windows Store App Samples > https://code.msdn.microsoft.com/windowsapps/site/search?f%5B0%5D.Type=Platform&f%5B0%5D.Value=Windows%20RT&f%5B0%5D.Text=Windows%20Store%20apps&f%5B1%5D.Type=VisualStudioVersion&f%5B1%5D.Value=14.0&f%5B1%5D.Text=Visual%20Studio%202015&f%5B2%5D.Type=ProgrammingLanguage&f%5B2%5D.Value=C%23&f%5B2%5D.Text=C%23
+* Windows Template Studio > https://blogs.windows.com/buildingapps/2017/05/16/announcing-windows-template-studio/
 

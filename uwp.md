@@ -56,10 +56,39 @@ Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam
 * Barcode scanning - camera - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/CameraBarcodeScanner
 * Barcode scanning - component - xplat - http://zxingnet.codeplex.com/
 * Barcode scanning - sample - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/BarcodeScanner
+* DataSources - AppStudio Open Source Data Sources - WordPress and YouTube and others - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-creation-with-windows-app-studios-open-source-uwp-libraries-and-samples-app/
+* Debugging - Turning off the live visual tree debugger tool - http://stackoverflow.com/questions/36618494/disable-visual-studio-2015-extra-debug-option
+* HockeyApp SDK for UWP - http://hockeyapp.net/blog/2016/02/15/hockeysdk-for-uwp-apps.html +keyword: hockey 
+* HockeyApp Transition - App Insights for Mobile no longer accepted, please use HockeyApp - April 2016 https://azure.microsoft.com/en-us/blog/transitioning-mobile-apps-from-application-insights-to-hockeyapp/
 * Hosted App > Chakra Bridge - Javascript inside UWP - http://blogs.msdn.com/b/eternalcoding/archive/2015/10/21/using-javascript-frameworks-from-your-c-uwp-application.aspx
+* Hosted Web App - https://blogs.windows.com/buildingapps/2016/02/17/building-a-great-hosted-web-app/
+* Hosting the JavaScript Runtime - https://msdn.microsoft.com/en-us/library/dn249552(v=vs.94).aspx
+* Lifecycle - https://blogs.windows.com/buildingapps/2016/04/28/the-lifecycle-of-a-uwp-app/
+* Logging Channels Walkthrough - https://blogs.windows.com/buildingapps/2016/06/10/using-device-portal-to-view-debug-logs-for-uwp/
 * Navigation > Back button handling - http://stackoverflow.com/questions/30597585/windows-10-uap-back-button
 * Navigation > https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt187344.aspx
 * Navigation > Peer to Peer Navigation Between Two Pages - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt465735.aspx
+* NDEF / NFC Library - https://github.com/andijakl/ndef-nfc
+* Performance - Working with Memory Limits and Task Priorities in the UWP - https://msdn.microsoft.com/en-us/magazine/mt742869.aspx
+* Performance - Reducing Memory when App Suspended - https://docs.microsoft.com/en-us/windows/uwp/launch-resume/reduce-memory-usage
+* Optical Character Recognition (OCR) for Windows 10 - https://blogs.windows.com/buildingapps/2016/02/08/optical-character-recognition-ocr-for-windows-10/
+* Polishing Your Apps with Animation and Audio Queues - https://blogs.windows.com/buildingapps/2016/08/09/polishing-your-app-with-animations-and-audio-cues/
+* Publishing Apps for 3rd Parties - https://blogs.windows.com/buildingapps/2015/12/15/building-an-app-for-a-3rd-party-how-to-package-their-store-app/
+* Pull to Refresh - codeproject.com
+* ReactJS for UWP - https://github.com/ReactWindows
+* Samples - Windows Universal Samples - https://github.com/Microsoft/Windows-universal-samples
+* Screen Sizes and Breakpoints for Responsive Design - https://msdn.microsoft.com/en-us/windows/uwp/layout/screen-sizes-and-breakpoints-for-responsive-design
+* Universal Bluetooth Beacon Library - https://github.com/andijakl/universal-beacon
+* Using Chakra for Script across Windows 10 - http://blogs.windows.com/msedgedev/2015/05/18/using-chakra-for-scripting-applications-across-windows-10/
+* UWP Design - https://dev.windows.com/en-us/design/assets?logged_in=1
+* UWP Design and Style Guide - https://developer.microsoft.com/en-us/windows/apps/design
+* UWP Experiences Sample Apps -https://blogs.windows.com/buildingapps/2016/12/16/uwp-experiences-app-samples/
+* WebRTC Client for UWP - http://www.nuget.org/packages/WebRTC/
+* Web Services Consumption with UWP - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/HttpClient,code.msdn.microsoft.com
 * Windows Store App Samples > https://code.msdn.microsoft.com/windowsapps/site/search?f%5B0%5D.Type=Platform&f%5B0%5D.Value=Windows%20RT&f%5B0%5D.Text=Windows%20Store%20apps&f%5B1%5D.Type=VisualStudioVersion&f%5B1%5D.Value=14.0&f%5B1%5D.Text=Visual%20Studio%202015&f%5B2%5D.Type=ProgrammingLanguage&f%5B2%5D.Value=C%23&f%5B2%5D.Text=C%23
 * Windows Template Studio > https://blogs.windows.com/buildingapps/2017/05/16/announcing-windows-template-studio/
+* XAML Designer not showing up - look at changing version - http://stackoverflow.com/questions/34664329/xaml-designer-not-showing-in-visual-studio-2015
+
+
+
 

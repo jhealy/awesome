@@ -12,14 +12,15 @@
 # CONTROLS
 * Accordian - https://github.com/brendankowitz/ZeroProximity.AccordionAppStudio 
 * Open Source Controls - Variable Sized Grid, Pivorama, Carousel, Animation 
-effect, - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-creation-with-windows-app-studios-open-source-uwp-libraries-and-samples-app/
+effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-creation-with-windows-app-studios-open-source-uwp-libraries-and-samples-app/
 * Composition Tool - https://github.com/ratishphilip/CompositionProToolkit
 * FlipView - http://blog.jerrynixon.com/2014/04/lets-code-build-your-own-flipview-page.html
 * Image Cropper Control - http://blogs.u2u.be/diederik/post/2015/08/14/An-ImageCropper-control-for-the-Universal-Windows-Platform.aspx
 * SVG for XAML - burpy - https://github.com/mntone/svgforxaml
-* UWP Community Toolkit - source - https://blogs.windows.com/buildingapps/2016/08/17/introducing-the-uwp-community-toolkit/, 
+* UWP Community Toolkit - source - https://blogs.windows.com/buildingapps/2016/08/17/introducing-the-uwp-community-toolkit/ 
+* UWP Community Toolkit - sample app - https://www.microsoft.com/en-us/store/p/uwp-community-toolkit-sample-app/ 
 * Telerik - UI for UWP - https://github.com/telerik/UI-For-UWP
-Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam/waslibs
+* Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam/waslibs
 
 # DESIGN
 ## RESPONSIVE UI

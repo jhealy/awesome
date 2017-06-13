@@ -1,5 +1,3 @@
-SEE ALSO ASP.NET CORE SECTION IN THIS DOC
-
 # General
 * Hosting > IIS - https://docs.microsoft.com/en-us/aspnet/core/publishing/iis
 * Sql Server based distributed cache for ASP.NET Core - http://gunnarpeipman.com/2017/04/aspnet-core-sql-server-cache/
@@ -13,5 +11,7 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 
 # MISC
 * Configuring Session Providers - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session
+
+SEE ALSO - .NET Core section in this doc - https://github.com/jhealy/awesome/blob/master/dnc.md
 
 

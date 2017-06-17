@@ -13,7 +13,7 @@
 # CONTROLS - BUILT-IN
 ## WEBVIEW
 * Bypassing HTTPS Certification Validation in UWP WebView - https://www.suchan.cz/2016/11/hacking-uwp-webview-part-3-bypassing-https-certificate-validation-in-uwp-webview/
-* Debugging a webview control - https://msdn.microsoft.com/en-us/library/dn715902.aspx 
+* Debugging a webview control - https://docs.microsoft.com/en-us/visualstudio/debugger/debug-a-webview-control
 * Invalid Certificate Handling in WebView - https://www.suchan.cz/2015/10/displaying-https-page-with-invalid-certificate-in-uwp-webview/
 * KeyHandler add-in using c# - https://www.suchan.cz/2016/01/hacking-uwp-webview-part-2-bypassing-window-external-notify-whitelist/
 * Reference - https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Controls.WebView

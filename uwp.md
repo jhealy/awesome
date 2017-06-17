@@ -10,12 +10,16 @@
 * What's new in Windows for Developers - breakout by version - https://msdn.microsoft.com/en-us/windows/uwp/whats-new/windows-10-version-1607
 * Windows Developer Platform Backlog - Features implemented, bugs and feature requests - https://developer.microsoft.com/en-us/windows/platform
 
-# CONTROLs
+# CONTROLS - BUILT-IN
+## WEBVIEW
+* Bypassing HTTPS Certification Validation in UWP WebView - https://www.suchan.cz/2016/11/hacking-uwp-webview-part-3-bypassing-https-certificate-validation-in-uwp-webview/
+* Debugging a webview control - https://msdn.microsoft.com/en-us/library/dn715902.aspx 
+* Invalid Certificate Handling in WebView - https://www.suchan.cz/2015/10/displaying-https-page-with-invalid-certificate-in-uwp-webview/
+* KeyHandler add-in using c# - https://www.suchan.cz/2016/01/hacking-uwp-webview-part-2-bypassing-window-external-notify-whitelist/
+* Reference - https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Controls.WebView
+
+# CONTROLs - OTHER
 * Accordian - https://github.com/brendankowitz/ZeroProximity.AccordionAppStudio 
-* Built-in > WebView -> Bypassing HTTPS Certification Validation in UWP WebView - https://www.suchan.cz/2016/11/hacking-uwp-webview-part-3-bypassing-https-certificate-validation-in-uwp-webview/
-* Built-in > WebView -> Invalid Certificate Handling in WebView - https://www.suchan.cz/2015/10/displaying-https-page-with-invalid-certificate-in-uwp-webview/
-* Built-in > WebView > KeyHandler add-in using c# - https://www.suchan.cz/2016/01/hacking-uwp-webview-part-2-bypassing-window-external-notify-whitelist/
-* Built-in > WebView > Reference - https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Controls.WebView
 * Open Source Controls - Variable Sized Grid, Pivorama, Carousel, Animation 
 effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-creation-with-windows-app-studios-open-source-uwp-libraries-and-samples-app/
 * Composition Tool - https://github.com/ratishphilip/CompositionProToolkit

@@ -1,5 +1,7 @@
-** Collection - Prototyping tool breakout - https://uxtools.co/tools/prototyping
+# EDGE
+* window.external reference - https://msdn.microsoft.com/en-us/library/ms535246(v=vs.85).aspx
 
-https://framer.com/
-
-http://getwirefy.com/
+# PROTOTYPING TOOLS
+* https://uxtools.co/tools/prototyping
+* https://framer.com/
+* http://getwirefy.com/

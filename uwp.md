@@ -12,7 +12,10 @@
 
 # CONTROLs
 * Accordian - https://github.com/brendankowitz/ZeroProximity.AccordionAppStudio 
-* Built-in > WebView > https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Controls.WebView
+* Built-in > WebView -> Bypassing HTTPS Certification Validation in UWP WebView - https://www.suchan.cz/2016/11/hacking-uwp-webview-part-3-bypassing-https-certificate-validation-in-uwp-webview/
+* Built-in > WebView -> Invalid Certificate Handling in WebView - https://www.suchan.cz/2015/10/displaying-https-page-with-invalid-certificate-in-uwp-webview/
+* Built-in > WebView > KeyHandler add-in using c# - https://www.suchan.cz/2016/01/hacking-uwp-webview-part-2-bypassing-window-external-notify-whitelist/
+* Built-in > WebView > Reference - https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Controls.WebView
 * Open Source Controls - Variable Sized Grid, Pivorama, Carousel, Animation 
 effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-creation-with-windows-app-studios-open-source-uwp-libraries-and-samples-app/
 * Composition Tool - https://github.com/ratishphilip/CompositionProToolkit

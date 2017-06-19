@@ -37,6 +37,7 @@ pooling, and socket exceptions
 
 # MISC
 * .NET > Diagnostics > How to enable debug tracing for System.Net.Mail API - https://blogs.msdn.microsoft.com/deva/2017/06/02/debugging-how-to-enable-debug-tracing-for-system-net-mail-api/
+* .NET > Diagnostics > Name of current method - https://stackoverflow.com/questions/2652460/how-to-get-the-name-of-the-current-method-from-code
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
 * .NET Core > 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 * Code Reiew > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx

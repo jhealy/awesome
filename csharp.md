@@ -18,3 +18,6 @@
 ## 7.1
 * Async Main - https://blogs.msdn.microsoft.com/mazhou/2017/05/30/c-7-series-part-2-async-main/
 * Default Expressions - https://blogs.msdn.microsoft.com/mazhou/2017/06/06/c-7-series-part-3-default-literals/
+
+# MISC
+* Events tutorial - https://msdn.microsoft.com/en-us/library/aa645739(v=vs.71).aspx

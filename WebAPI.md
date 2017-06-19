@@ -1,3 +1,3 @@
-Things webapi related, including REST and links to other goodies.
-
-Microsoft REST API Guidelines - https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
+# WEBAPI
+* Microsoft REST API Guidelines - https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
+* WCF v WebAPI - Guidelines on when to use each - https://docs.microsoft.com/en-us/dotnet/framework/wcf/wcf-and-aspnet-web-api

@@ -17,6 +17,9 @@
 * Invalid Certificate Handling in WebView - https://www.suchan.cz/2015/10/displaying-https-page-with-invalid-certificate-in-uwp-webview/
 * KeyHandler add-in using c# - https://www.suchan.cz/2016/01/hacking-uwp-webview-part-2-bypassing-window-external-notify-whitelist/ - watch out, if  you have Script debugging on for the webview this does not work.  VS2017->Debug->Application Process->Change from 'Managed Only' to 'Script'
 * KeyHandler add-in using c++ inside a javascript uwp browser shell - https://github.com/MicrosoftEdge/JSBrowser
+* Localhost - CheckNetIsolation.exe tool - https://msdn.microsoft.com/en-us/library/windows/apps/hh780593.aspx?f=255&MSPPError=-2147217396
+* Localhost - why webview cannot hit localhost, or 127.0.0.1 - https://stackoverflow.com/questions/28608754/unable-to-access-localhost-from-x-ms-webview
+* Localhost - Open up Network Isolation via skyplark - https://skylark-workshop.xyz/blog/connect-to-localhost-in-uwp-apps-desktop/
 * Reference - https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Controls.WebView
 
 # CONTROLs - OTHER
@@ -67,6 +70,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Barcode scanning - camera - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/CameraBarcodeScanner
 * Barcode scanning - component - xplat - http://zxingnet.codeplex.com/
 * Barcode scanning - sample - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/BarcodeScanner
+* Data - Sharing - Publisher Cache - https://blogs.windows.com/buildingapps/2016/05/24/sharing-your-local-app-data/#KeXxuCrZZtsu3Qph.97
 * DataSources - AppStudio Open Source Data Sources - WordPress and YouTube and others - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-creation-with-windows-app-studios-open-source-uwp-libraries-and-samples-app/
 * Debugging - Turning off the live visual tree debugger tool - http://stackoverflow.com/questions/36618494/disable-visual-studio-2015-extra-debug-option
 * HockeyApp SDK for UWP - http://hockeyapp.net/blog/2016/02/15/hockeysdk-for-uwp-apps.html +keyword: hockey 

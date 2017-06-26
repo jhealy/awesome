@@ -80,6 +80,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Hosting the JavaScript Runtime - https://msdn.microsoft.com/en-us/library/dn249552(v=vs.94).aspx
 * Lifecycle - https://blogs.windows.com/buildingapps/2016/04/28/the-lifecycle-of-a-uwp-app/
 * Logging Channels Walkthrough - https://blogs.windows.com/buildingapps/2016/06/10/using-device-portal-to-view-debug-logs-for-uwp/
+* Menus > Menus and context menus - https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/menus
 * Navigation > Back button handling - http://stackoverflow.com/questions/30597585/windows-10-uap-back-button
 * Navigation > https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt187344.aspx
 * Navigation > Peer to Peer Navigation Between Two Pages - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt465735.aspx

@@ -6,6 +6,8 @@
 * Build > CI with .NET Core - https://docs.microsoft.com/en-us/dotnet/core/tools/using-ci-with-cli
 * Command line tools > https://docs.microsoft.com/en-us/dotnet/core/tools/
 * Compared with .NET Framework > https://stackoverflow.com/questions/42939454/what-is-the-difference-between-net-core-and-net-standard-class-library-project
+* Database > Oracle support coming but no EF - http://www.oracle.com/technetwork/topics/dotnet/tech-info/odpnet-dotnet-core-sod-3628981.pdf
+* Database > Providers - https://docs.microsoft.com/en-us/ef/core/providers/index
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
 
 # LEARN

@@ -10,6 +10,10 @@ Held here until enough volume to be posted elsewhere....
 # DEVOPS
 * Team Foundation Server to Visual Studio Team Services Migration Guide and Database Import Tooling - https://www.microsoft.com/en-us/download/details.aspx?id=54274
 
+# DOCKER
+* Docker and .NET > https://www.hanselman.com/blog/NETAndDocker.aspx
+* Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
+
 # HTTPCLIENT
 * InfoQ on httpclient - lots of links - https://www.infoq.com/news/2016/09/HttpClient - shows why "using" around a new httpclient is bad
 * Official http client doc vs.118 - 
@@ -39,12 +43,11 @@ pooling, and socket exceptions
 * .NET > Diagnostics > How to enable debug tracing for System.Net.Mail API - https://blogs.msdn.microsoft.com/deva/2017/06/02/debugging-how-to-enable-debug-tracing-for-system-net-mail-api/
 * .NET > Diagnostics > Name of current method - https://stackoverflow.com/questions/2652460/how-to-get-the-name-of-the-current-method-from-code
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
-* .NET Core > 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
-* Code Reiew > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx
+* Code Review > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx
 * Code Review > Globalization best practices - https://msdn.microsoft.com/en-us/library/w7x1y988(v=vs.110).aspx
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
-* Docker and .NET > https://www.hanselman.com/blog/NETAndDocker.aspx
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
+* Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/
 * UWP > BTLE - iBeacon with UWP - https://peterfoot.net/2017/05/26/read-ibeacons-from-uwp/
 * UWP > MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism

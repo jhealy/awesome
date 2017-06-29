@@ -11,3 +11,5 @@
 
 # WEBVIEW CAVEATS
 * You cannot invoke the native contextmenu inside a webview.  You can invoke a context menu over the webview but its tricky.
+* If you set a menu flyout, the oncontextmenu event will not fire.  Not documented.
+* If you set a menu flyout, it will not fire at all without some tricker.  This is the contextmenu hack using scriptnotify or embedded winmd object.

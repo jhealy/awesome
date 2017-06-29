@@ -1,5 +1,6 @@
 ## GENERAL
 * Bugs and such?  Is it a bug or some other kind of knightmare? http://bugzilla.xamarin.com
+* Latest release notes - https://releases.xamarin.com/2017/06/
 * Xamarin Forms Performance Discussion - http://aka.ms/xfperformance
 
 ## LEARN

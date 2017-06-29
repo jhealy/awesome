@@ -48,6 +48,12 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * UWP Succinctly eBook - https://www.syncfusion.com/resources/techportal/details/ebooks/UWP_Succinctly
 * Windows Readiness Workshops - https://github.com/Windows-Readiness
 
+# MULTI VIEW
+* Guidelines for multiple windows - https://msdn.microsoft.com/en-us/library/windows/apps/dn434070.aspx
+* Multiview sample - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/MultipleViews
+* Projection discussion - https://msdn.microsoft.com/en-us/library/windows/apps/dn495078.aspx
+* Projection sample - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/Projection
+
 # STORAGE
 * Data Access in UWP Apps - https://blogs.windows.com/buildingapps/2016/05/03/data-access-in-universal-windows-platform-uwp-apps/
 * Data - Offline from Azure using SQLLite - https://shellmonger.com/2016/05/04/30-days-of-zumo-v2-azure-mobile-apps-day-16-offline-sync-net-edition/

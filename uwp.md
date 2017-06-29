@@ -53,6 +53,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Developers Guide to Windows 10 (MVA) - https://mva.microsoft.com/en-US/training-courses/a-developers-guide-to-windows-10-12618
 * Hands on Labs - https://github.com/Windows-Readiness/WinDevHOLs
 * UWP QuickStarts - http://microsoft.github.io/UWPQuickStart/index.html#
+* UWP Succinctly eBook - https://www.syncfusion.com/resources/techportal/details/ebooks/UWP_Succinctly
 * Windows Readiness Workshops - https://github.com/Windows-Readiness
 
 # STORAGE
@@ -78,6 +79,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Hosted App > Chakra Bridge - Javascript inside UWP - http://blogs.msdn.com/b/eternalcoding/archive/2015/10/21/using-javascript-frameworks-from-your-c-uwp-application.aspx
 * Hosted Web App - https://blogs.windows.com/buildingapps/2016/02/17/building-a-great-hosted-web-app/
 * Hosting the JavaScript Runtime - https://msdn.microsoft.com/en-us/library/dn249552(v=vs.94).aspx
+* Install > Remove Apps Script - https://blogs.technet.microsoft.com/mniehaus/2015/12/31/updated-remove-apps-script-and-a-workaround/
 * Lifecycle - https://blogs.windows.com/buildingapps/2016/04/28/the-lifecycle-of-a-uwp-app/
 * Logging Channels Walkthrough - https://blogs.windows.com/buildingapps/2016/06/10/using-device-portal-to-view-debug-logs-for-uwp/
 * Menus > Menus and context menus - https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/menus

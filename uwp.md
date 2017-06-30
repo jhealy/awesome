@@ -11,6 +11,8 @@
 * Windows Developer Platform Backlog - Features implemented, bugs and feature requests - https://developer.microsoft.com/en-us/windows/platform
 
 # CONTROLS - BUILT-IN
+## STACKPANEL
+* Spacing property via Creator's Update - https://reflectionit.nl/blog/2017/new-spacing-property-in-stackpanel
 ## WEBVIEW
 Moved to its own page.  Yes, its that evil.  See https://github.com/jhealy/awesome/blob/master/uwp_webview.md ....
 

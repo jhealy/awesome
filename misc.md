@@ -7,6 +7,10 @@ Held here until enough volume to be posted elsewhere....
 * Performance > .NET Performance Tuning Guide circa 2004 - an oldie but goodie - https://msdn.microsoft.com/en-us/library/ff649152.aspx
 * Performance > .NET 4.7 v .NET Core 2.0 - Performance Improvements - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 
+# ART
+## ICONS
+* SyncFusion Metro Studio - https://www.syncfusion.com/downloads/metrostudio
+
 # DEVOPS
 * Team Foundation Server to Visual Studio Team Services Migration Guide and Database Import Tooling - https://www.microsoft.com/en-us/download/details.aspx?id=54274
 
@@ -20,7 +24,8 @@ Held here until enough volume to be posted elsewhere....
 https://msdn.microsoft.com/en-us/library/system.net.http.httpclient(v=vs.118).aspxOfficial 
 * http client doc vs.110 - https://msdn.microsoft.com/en-us/library/system.net.http.httpclient(v=vs.110).aspx - discusses proper usage, 
 pooling, and socket exceptions 
-* PNP Guide to HttpClient - https://github.com/mspnp/performance-optimization/blob/master/ImproperInstantiation/docs/ImproperInstantiation.md
+* PNP Guide to HttpClient - https://github.com/mspnp/performance-optimization/blob/465514674354c8f833c73882f7405ac22c4fd437/ImproperInstantiation/docs/ImproperInstantiation.md
+* PNP Good/Bad HttpClient Sample - https://github.com/mspnp/performance-optimization/tree/465514674354c8f833c73882f7405ac22c4fd437/ImproperInstantiation
 * You're using HttpClient wrong and it is destabilizing your software - http://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
 
 # IIS

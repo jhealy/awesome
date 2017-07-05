@@ -7,14 +7,19 @@
 * Updates - http://aka.ms/getupdates
 * Windows Samples - beyond SDK Samples - http://microsoft.github.io/windows/
 * What's new via UWP over Win8.1 store model - https://blogs.msdn.microsoft.com/dotnet/2015/07/30/universal-windows-apps-in-net/
-* What's new in Windows for Developers - breakout by version - https://msdn.microsoft.com/en-us/windows/uwp/whats-new/windows-10-version-1607
+* What's new in Windows for Developers - breakout by version - https://msdn.microsoft.com/en-us/windows/uwp/whats-new/
 * Windows Developer Platform Backlog - Features implemented, bugs and feature requests - https://developer.microsoft.com/en-us/windows/platform
 
-# CONTROLS - BUILT-IN
+# CONTROLS - BUILT-IN 
 ## STACKPANEL
 * Spacing property via Creator's Update - https://reflectionit.nl/blog/2017/new-spacing-property-in-stackpanel
 ## WEBVIEW
 Moved to its own page.  Yes, its that evil.  See https://github.com/jhealy/awesome/blob/master/uwp_webview.md ....
+
+# CONTROSL - COLLECTIONS
+* Telerik controls for UWP - opensourced (free) - http://www.telerik.com/universal-windows-platform-ui
+* UWP Community Toolkit - source - https://blogs.windows.com/buildingapps/2016/08/17/introducing-the-uwp-community-toolkit/ 
+* UWP Community Toolkit - sample app - https://www.microsoft.com/en-us/store/p/uwp-community-toolkit-sample-app/
 
 # CONTROLs - OTHER
 * Accordian - https://github.com/brendankowitz/ZeroProximity.AccordionAppStudio 
@@ -24,9 +29,6 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * FlipView - http://blog.jerrynixon.com/2014/04/lets-code-build-your-own-flipview-page.html
 * Image Cropper Control - http://blogs.u2u.be/diederik/post/2015/08/14/An-ImageCropper-control-for-the-Universal-Windows-Platform.aspx
 * SVG for XAML - burpy - https://github.com/mntone/svgforxaml
-* UWP Community Toolkit - source - https://blogs.windows.com/buildingapps/2016/08/17/introducing-the-uwp-community-toolkit/ 
-* UWP Community Toolkit - sample app - https://www.microsoft.com/en-us/store/p/uwp-community-toolkit-sample-app/ 
-* Telerik - UI for UWP - https://github.com/telerik/UI-For-UWP
 * Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam/waslibs
 
 

@@ -16,7 +16,7 @@
 ## WEBVIEW
 Moved to its own page.  Yes, its that evil.  See https://github.com/jhealy/awesome/blob/master/uwp_webview.md ....
 
-# CONTROSL - COLLECTIONS
+# CONTROLS - COLLECTIONS
 * Telerik controls for UWP - opensourced (free) - http://www.telerik.com/universal-windows-platform-ui
 * UWP Community Toolkit - source - https://blogs.windows.com/buildingapps/2016/08/17/introducing-the-uwp-community-toolkit/ 
 * UWP Community Toolkit - sample app - https://www.microsoft.com/en-us/store/p/uwp-community-toolkit-sample-app/
@@ -29,6 +29,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * FlipView - http://blog.jerrynixon.com/2014/04/lets-code-build-your-own-flipview-page.html
 * Image Cropper Control - http://blogs.u2u.be/diederik/post/2015/08/14/An-ImageCropper-control-for-the-Universal-Windows-Platform.aspx
 * SVG for XAML - burpy - https://github.com/mntone/svgforxaml
+* TextBox - Search Hilight Sample - https://github.com/kimiko88/Uwp-Highlight_on_search/blob/master/HighlightOnSearch/MainPage.xaml.cs
 * Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam/waslibs
 
 

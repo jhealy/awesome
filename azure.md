@@ -7,6 +7,9 @@
 # MICROSERVICES
 * Patterns for Microservices - http://microservices.io/patterns/index.html
 * Learn > Book > Building Microservices by Sam Newman - http://amzn.to/2tEh5Uw
+* Learn > eBook > Microservices Architecture for eCommerce - http://go.divante.co/microservices-architecture-ecommerce/
+* Learn > eBook > Microservices and Docker Containers Architecture Guide and Source Code - https://www.microsoft.com/net/learn/architecture
+* Learn > Video > Russinovich on Microservices - https://channel9.msdn.com/Blogs/Seth-Juarez/An-Introduction-to-Microservices-with-Mark-Russinovich
 * Source Code > eShopOnContainers reference architecture - download and ebook links - https://github.com/dotnet-architecture/eShopOnContainers
 
 # MISC
@@ -17,3 +20,4 @@
 * Exam 70-534 - Architecting Microsoft Azure Solutions > Prep - https://blogs.msdn.microsoft.com/make_it_better/2017/05/06/exam-prep-for-architecting-microsoft-azure-solutions-70-534/
 * IoT > Starter Kits > Docs for Starter Kits - free - https://azure.microsoft.com/en-us/resources/samples/?service=iot-hub&term=starter+kit
 * IoT > Starter Kits > March 2016 Blog - https://blogs.microsoft.com/iot/2016/03/31/azure-iot-starter-kits-open-the-door-to-developer-innovation/
+* Service Fabric > Linux and Windows differences - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-linux-windows-differences

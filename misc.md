@@ -6,6 +6,7 @@ Held here until enough volume to be posted elsewhere....
 * .NET Verification Tool - https://blogs.msdn.microsoft.com/astebner/2017/05/26/net-framework-setup-verification-tool-cleanup-tool-and-detection-sample-code-now-support-net-framework-4-7/
 * Performance > .NET Performance Tuning Guide circa 2004 - an oldie but goodie - https://msdn.microsoft.com/en-us/library/ff649152.aspx
 * Performance > .NET 4.7 v .NET Core 2.0 - Performance Improvements - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
+* Tools > JustAssembly - decompile and compare assemblies - telerik free - http://www.telerik.com/justassembly?utm_source=devfish
 
 # ART
 ## ICONS
@@ -43,7 +44,6 @@ pooling, and socket exceptions
 * Team Services Load Testing Tools - https://www.visualstudio.com/team-services/testing-tools/
 * VS2015+ Test Tools - getting started - https://blogs.msdn.microsoft.com/visualstudioalm/2015/12/10/visual-studio-2015-test-tools-getting-started-content/
 
-
 # MISC
 * .NET > Diagnostics > How to enable debug tracing for System.Net.Mail API - https://blogs.msdn.microsoft.com/deva/2017/06/02/debugging-how-to-enable-debug-tracing-for-system-net-mail-api/
 * .NET > Diagnostics > Name of current method - https://stackoverflow.com/questions/2652460/how-to-get-the-name-of-the-current-method-from-code
@@ -53,9 +53,11 @@ pooling, and socket exceptions
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
 * Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
+* Office 365 > Office Graph Home - https://developer.microsoft.com/en-us/graph/docs/concepts/overview
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/
 * UWP > BTLE - iBeacon with UWP - https://peterfoot.net/2017/05/26/read-ibeacons-from-uwp/
 * UWP > MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism
 * Visual Studio > MSBuild > Common MSBuild Commands - https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties
+* Visual Studio > Analysis Tools > Code Metrics Power Tool (commmand line) - https://blogs.msdn.microsoft.com/camerons/2011/01/28/code-metrics-from-the-command-line/
 * Visual Studio 2015 > docs - https://msdn.microsoft.com/en-us/library/dd831853.aspx
 * Visual Studio 2017 > docs - https://docs.microsoft.com/en-us/visualstudio/

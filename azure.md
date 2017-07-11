@@ -5,6 +5,8 @@
 * Architecture Guide for MicroServices, Web Apps, Cloud Deployment - https://www.microsoft.com/net/learn/architecture
 
 # MICROSERVICES
+* Patterns for Microservices - http://microservices.io/patterns/index.html
+* Learn > Book > Building Microservices by Sam Newman - http://amzn.to/2tEh5Uw
 * Source Code > eShopOnContainers reference architecture - download and ebook links - https://github.com/dotnet-architecture/eShopOnContainers
 
 # MISC

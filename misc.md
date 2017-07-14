@@ -18,6 +18,7 @@ Held here until enough volume to be posted elsewhere....
 # DOCKER
 * Docker and .NET > https://www.hanselman.com/blog/NETAndDocker.aspx
 * Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
+* Running 1000 Containers in Docker Swarm - https://blog.codeship.com/running-1000-containers-in-docker-swarm/
 
 # HTTPCLIENT
 * InfoQ on httpclient - lots of links - https://www.infoq.com/news/2016/09/HttpClient - shows why "using" around a new httpclient is bad

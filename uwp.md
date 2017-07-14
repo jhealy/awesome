@@ -11,10 +11,11 @@
 * Windows Developer Platform Backlog - Features implemented, bugs and feature requests - https://developer.microsoft.com/en-us/windows/platform
 
 # CONTROLS - BUILT-IN 
-## STACKPANEL
-* Spacing property via Creator's Update - https://reflectionit.nl/blog/2017/new-spacing-property-in-stackpanel
-## WEBVIEW
-Moved to its own page.  Yes, its that evil.  See https://github.com/jhealy/awesome/blob/master/uwp_webview.md ....
+* Glyphs > Doc - https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Documents.Glyphs
+* Glyphs > seguiemj.ttf - noting its located in c:\windows\fonts
+* RichTextBox > Custom Selection Color aka highlight search - https://stackoverflow.com/questions/3707120/how-to-select-text-from-the-richtextbox-and-then-color-it
+* StackPanel >Spacing property via Creator's Update - https://reflectionit.nl/blog/2017/new-spacing-property-in-stackpanel
+* WebView > Moved to its own page.  Yes, WebView is that evil.  See https://github.com/jhealy/awesome/blob/master/uwp_webview.md ....
 
 # CONTROLS - COLLECTIONS
 * Telerik controls for UWP - opensourced (free) - http://www.telerik.com/universal-windows-platform-ui
@@ -31,7 +32,6 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * SVG for XAML - burpy - https://github.com/mntone/svgforxaml
 * TextBox - Search Hilight Sample - https://github.com/kimiko88/Uwp-Highlight_on_search/blob/master/HighlightOnSearch/MainPage.xaml.cs
 * Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam/waslibs
-
 
 # DESIGN
 ## RESPONSIVE UI

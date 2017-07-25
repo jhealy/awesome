@@ -1,5 +1,6 @@
 # POWERAPPS
 * Team Blog - https://powerapps.microsoft.com/en-us/blog/
+* Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 * Connectors with Premium Identified - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Documentation > https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Delegation > Understanding - https://powerapps.microsoft.com/en-us/tutorials/delegation-overview/

@@ -3,8 +3,10 @@
 * Documentation > https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Delegation > Understanding - https://powerapps.microsoft.com/en-us/tutorials/delegation-overview/
 * Delegated > Data sources supported - https://powerapps.microsoft.com/en-us/tutorials/delegation-list/
+* Release notes - https://powerapps.microsoft.com/en-us/tutorials/release-notes/
 
 # COMMON DATA SERVICE
+* Overview - https://docs.microsoft.com/en-us/common-data-service/entity-reference/security-model
 * Pricing - https://powerapps.microsoft.com/en-us/pricing/
 
 # LEARN

@@ -10,6 +10,13 @@
 * What's new in Windows for Developers - breakout by version - https://msdn.microsoft.com/en-us/windows/uwp/whats-new/
 * Windows Developer Platform Backlog - Features implemented, bugs and feature requests - https://developer.microsoft.com/en-us/windows/platform
 
+# BARCODE SCANNING
+* Camera scanner - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/CameraBarcodeScanner
+* Sample - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/BarcodeScanner
+* Symbology symbolds https://msdn.microsoft.com/en-us/library/windows/apps/windows.devices.pointofservice.barcodesymbologies.aspx
+* Taulty on Barcode Scanning in UWP - https://mtaulty.com/2016/12/28/windows-10-uwp-qr-code-scanning-with-zxing-and-hololens/
+* Zxing component - xplat - http://zxingnet.codeplex.com/
+
 # CONTROLS - BUILT-IN 
 * Glyphs > Doc - https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Documents.Glyphs
 * Glyphs > seguiemj.ttf - noting its located in c:\windows\fonts
@@ -70,10 +77,6 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Awesome UWP Resources Collection - https://github.com/igorkulman/awesome-uwp
 * Azure > DocumentDB and UWP - photo sharing - https://blogs.windows.com/buildingapps/2016/03/17/uwp-azure-app-services-and-documentdb-soup-a-photo-sharing-app/
 * Azure > IoT Hub > Connect your Windows app to Azure IoT Hub with Visual Studio - https://blogs.windows.com/buildingapps/2016/03/03/connect-your-windows-app-to-azure-iot-hub-with-visual-studio/
-* Barcode scanning - https://msdn.microsoft.com/en-us/library/windows/apps/windows.devices.pointofservice.barcodesymbologies.aspx
-* Barcode scanning - camera - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/CameraBarcodeScanner
-* Barcode scanning - component - xplat - http://zxingnet.codeplex.com/
-* Barcode scanning - sample - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/BarcodeScanner
 * Data - Sharing - Publisher Cache - https://blogs.windows.com/buildingapps/2016/05/24/sharing-your-local-app-data/#KeXxuCrZZtsu3Qph.97
 * DataSources - AppStudio Open Source Data Sources - WordPress and YouTube and others - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-creation-with-windows-app-studios-open-source-uwp-libraries-and-samples-app/
 * Debugging - Turning off the live visual tree debugger tool - http://stackoverflow.com/questions/36618494/disable-visual-studio-2015-extra-debug-option

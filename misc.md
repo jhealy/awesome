@@ -50,11 +50,13 @@ pooling, and socket exceptions
 * .NET > Diagnostics > Name of current method - https://stackoverflow.com/questions/2652460/how-to-get-the-name-of-the-current-method-from-code
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
 * .NET > Framework > Troubleshoot .NET Framework Installation Issues on Windows - http://www.thewindowsclub.com/troubleshoot-net-frameworks-4-0-install-issues-on-windows-7
+* BTLE > Flic.io - https://flic.io/ - SDK for BTLE
 * Code Review > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx
 * Code Review > Globalization best practices - https://msdn.microsoft.com/en-us/library/w7x1y988(v=vs.110).aspx
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
 * Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
+* Office 365 > Add-in Model Labs - https://github.com/OfficeDev/TrainingContent/tree/master/O3652
 * Office 365 > Office Graph Home - https://developer.microsoft.com/en-us/graph/docs/concepts/overview
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/
 * UWP > BTLE - iBeacon with UWP - https://peterfoot.net/2017/05/26/read-ibeacons-from-uwp/
@@ -63,3 +65,4 @@ pooling, and socket exceptions
 * Visual Studio > Analysis Tools > Code Metrics Power Tool (commmand line) - https://blogs.msdn.microsoft.com/camerons/2011/01/28/code-metrics-from-the-command-line/
 * Visual Studio 2015 > docs - https://msdn.microsoft.com/en-us/library/dd831853.aspx
 * Visual Studio 2017 > docs - https://docs.microsoft.com/en-us/visualstudio/
+* Win10 IoT > Thermostat w Cortana from Johnson Controls - http://www.zdnet.com/article/a-windows-10-smart-thermostat-is-coming-from-johnson-controls/ - https://www.engadget.com/2017/07/19/microsoft-cortana-based-thermostat/

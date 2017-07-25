@@ -1,5 +1,6 @@
 # POWERAPPS
 * Team Blog - https://powerapps.microsoft.com/en-us/blog/
+* Connectors with Premium Identified - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Documentation > https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Delegation > Understanding - https://powerapps.microsoft.com/en-us/tutorials/delegation-overview/
 * Delegated > Data sources supported - https://powerapps.microsoft.com/en-us/tutorials/delegation-list/

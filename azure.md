@@ -3,8 +3,11 @@
 
 # LEARN
 * Architecture Guide for MicroServices, Web Apps, Cloud Deployment - https://www.microsoft.com/net/learn/architecture
+* DocumentDB MVA - https://mva.microsoft.com/en-US/training-courses/azure-documentdb-planetscale-nosql-16847
 
 # MICROSERVICES
+* Service Fabric > team blog - https://blogs.msdn.microsoft.com/azureservicefabric/
+* ISV > Microservice applications - https://azure.microsoft.com/en-us/solutions/microservice-applications/
 * Patterns for Microservices - http://microservices.io/patterns/index.html
 * Learn > Book > Building Microservices by Sam Newman - http://amzn.to/2tEh5Uw
 * Learn > eBook > Microservices Architecture for eCommerce - http://go.divante.co/microservices-architecture-ecommerce/

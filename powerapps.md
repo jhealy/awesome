@@ -1,10 +1,12 @@
 # POWERAPPS
 * Team Blog - https://powerapps.microsoft.com/en-us/blog/
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
+* Connectors with Descriptions - https://docs.microsoft.com/en-us/connectors/
 * Connectors with Premium Identified - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Documentation > https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Delegation > Understanding - https://powerapps.microsoft.com/en-us/tutorials/delegation-overview/
 * Delegated > Data sources supported - https://powerapps.microsoft.com/en-us/tutorials/delegation-list/
+* Publishing Apps - https://powerapps.microsoft.com/en-us/tutorials/save-publish-app/
 * Release notes - https://powerapps.microsoft.com/en-us/tutorials/release-notes/
 
 # COMMON DATA SERVICE
@@ -15,3 +17,9 @@
 * Create an app using the browser tool - works on a Mac - https://powerapps.microsoft.com/en-us/tutorials/create-app-browser/ 
 * Developing Busines Applications with Power Apps and Microsoft Flow - edx - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
 * EdX - Developing Business Applications with PowerApps and Flow - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
+* Lynda - What are powerapps? - https://www.lynda.com/PowerApps-tutorials/What-PowerApps/573387/615409-4.html
+
+# MISC
+* Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
+* Flow - https://ms.flow.microsoft.com/en-us/documentation/multi-step-logic-flow/
+* Flow > Getting Started with Microsoft Flow - https://ms.flow.microsoft.com/en-us/documentation/multi-step-logic-flow/

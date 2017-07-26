@@ -10,6 +10,7 @@
 * System Status for PowerApps - https://powerapps.microsoft.com/support/
 
 # ADMIN
+* Moving a Flow between environments - or rather the inability to - https://powerusers.microsoft.com/t5/General-Flow-Discussion/How-to-move-a-flow-between-two-envirionments/td-p/10838
 * Moving a PowerApp between environments - https://powerapps.microsoft.com/en-us/tutorials/environment-and-tenant-migration/
 
 # COMMON DATA SERVICE
@@ -19,7 +20,7 @@
 # DELEGATION
 * Understanding Delegation - https://powerapps.microsoft.com/en-us/tutorials/delegation-overview/
 * Data sources supported - https://powerapps.microsoft.com/en-us/tutorials/delegation-list/
-* 500 Record Limit, Delegation, and How to Work Around It - https://blog.coeo.com/davidmorrison/2017/06/21/powerapps-500-record-limit-delegation-and-how-to-work-around-it
+* 500 Record Limit, Delegation, and How to Work Around It - via Collections - https://blog.coeo.com/davidmorrison/2017/06/21/powerapps-500-record-limit-delegation-and-how-to-work-around-it
 
 # LEARN
 * Create an app using the browser tool - works on a Mac - https://powerapps.microsoft.com/en-us/tutorials/create-app-browser/ 

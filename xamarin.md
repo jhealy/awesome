@@ -30,4 +30,5 @@
 * Unable to boot device in current state: Booted.  Simulator won't start and just hangs.  Switch to remote run from pc to mac and get this error.  See https://stackoverflow.com/questions/24135067/unable-to-boot-device-in-current-state-booted for discussions.
 
 # MISC
+* Skia Sharp > Deep dive - https://blog.xamarin.com/deep-dive-skiasharp-xamarin-forms/
 * UWP - MEF not supported in Xamarin - definitive - https://github.com/PrismLibrary/Prism

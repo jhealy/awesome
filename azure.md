@@ -23,4 +23,5 @@
 * Exam 70-534 - Architecting Microsoft Azure Solutions > Prep - https://blogs.msdn.microsoft.com/make_it_better/2017/05/06/exam-prep-for-architecting-microsoft-azure-solutions-70-534/
 * IoT > Starter Kits > Docs for Starter Kits - free - https://azure.microsoft.com/en-us/resources/samples/?service=iot-hub&term=starter+kit
 * IoT > Starter Kits > March 2016 Blog - https://blogs.microsoft.com/iot/2016/03/31/azure-iot-starter-kits-open-the-door-to-developer-innovation/
+* Logic Apps > Samples - https://github.com/logicappsio
 * Service Fabric > Linux and Windows differences - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-linux-windows-differences

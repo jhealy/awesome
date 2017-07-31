@@ -33,4 +33,6 @@
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
 * Flow > Documentation - tutorials et al - https://ms.flow.microsoft.com/en-us/documentation/getting-started/
 * Flow > Licensing - https://preview.flow.microsoft.com/en-us/pricing/
+* Gateway > Firewall and FAQ - https://powerapps.microsoft.com/en-us/tutorials/gateway-reference/
+
 

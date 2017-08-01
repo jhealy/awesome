@@ -1,8 +1,7 @@
 # FEEDBACK
 Even as a Microsoft employee is hard even for me to figure out the public routes to give feedback to Microsoft on.  Sooo, here's the various feedback routes as I find them.  Not I've got a bunch buried away and its going to take me a while to populate them out here.
 
-* Microsoft Product Family Support Lifecycles - https://support.microsoft.com/en-us/lifecycle?p1=16674
-
+* Microsoft Product Family Support Lifecycles - https://support.microsoft.com/en-us/lifecycle/search
 
 # MISC FEEDBACK
 * Ad SDK - adsfdbk@microsoft.com 

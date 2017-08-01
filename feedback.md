@@ -41,6 +41,7 @@ http://domains.Live.com|domains.live.com support - dsupport@microsoft.com
 * MSDN Support - download issues, et al - http://msdn.microsoft.com/en-us/subscriptions/aa948874.aspx 
 * MS Press - How to Report Errors in Books - http://blogs.msdn.com/b/microsoft_press/archive/2011/04/11/how-to-report-errors-in-microsoft-press-books.aspx|microsoft_press 
 Office 365 
+** Developer Feedback - https://officespdev.uservoice.com/forums/224641-feature-requests-and-feedback
 ** Feedback - http://office365.uservoice.com/ 
 ** Forums and Discussions via Yammer - https://www.yammer.com/itpronetwork/ 
 * PHP on IIS - iisphp@microsoft.com|iisphp@microsoft.com 

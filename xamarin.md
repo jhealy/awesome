@@ -1,7 +1,6 @@
 ## GENERAL
 * Bugs and such?  Is it a bug or some other kind of knightmare? http://bugzilla.xamarin.com
-* Latest release notes - https://releases.xamarin.com/2017/06/
-* Xamarin Forms Performance Discussion - http://aka.ms/xfperformance
+* Latest release notes - https://releases.xamarin.com/
 
 ## LEARN
 * Mobile Applications with Xamarin Architecture Guide (free ebook) - https://www.microsoft.com/net/learn/architecture
@@ -24,6 +23,8 @@
 * Maps - Xamarin Maps Component Sample - https://github.com/xamarin/Xamarin.Forms
 * Maps - Using Google Maps Across all app types - https://github.com/amay077/Xamarin.Forms.GoogleMaps [thanks AG!]
 * MVVM / PRISM with Xamarin Forms - http://www.jonbachelor.com/blog/an-introduction-to-xamarinforms-with-prism
+* Performance Discussion - http://aka.ms/xfperformance
+* Roadmap - https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap
 
 ## IOS
 * Provisioning up a physical iOS device for developer.  Not for the wimpy or weak.  Requires Apple developer account - https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/

@@ -34,6 +34,9 @@
 * Flow > Documentation - tutorials et al - https://ms.flow.microsoft.com/en-us/documentation/getting-started/
 * Flow > Licensing - https://preview.flow.microsoft.com/en-us/pricing/
 * Gateway > Firewall and FAQ - https://powerapps.microsoft.com/en-us/tutorials/gateway-reference/
+* InfoPath > Convert InfoPath/Designer workflow processes to PowerApps - https://www.youtube.com/watch?v=l69E7q79y6w
+* InfoPath > Rebuilding an InfoPath Designer form in PowerApps - https://www.youtube.com/watch?v=ohQcxcVZSK4
+* Using the Cognitive Services Text Analytics API in PowerApps - https://powerapps.microsoft.com/en-us/blog/custom-connectors-and-text-analytics-in-powerapps-part-one/
 
 LAB - https://1drv.ms/f/s!AnCe2U9G5b1slLhtx09optITf7DqyA 
 

@@ -35,4 +35,6 @@
 * Flow > Licensing - https://preview.flow.microsoft.com/en-us/pricing/
 * Gateway > Firewall and FAQ - https://powerapps.microsoft.com/en-us/tutorials/gateway-reference/
 
+LAB - https://1drv.ms/f/s!AnCe2U9G5b1slLhtx09optITf7DqyA 
+
 

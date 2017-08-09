@@ -26,13 +26,12 @@
 * Create an app using the browser tool - works on a Mac - https://powerapps.microsoft.com/en-us/tutorials/create-app-browser/ 
 * Developing Busines Applications with Power Apps and Microsoft Flow - edx - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
 * EdX - Developing Business Applications with PowerApps and Flow - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
+* Guided Learning - https://powerapps.microsoft.com/en-us/guided-learning/
 * Introduction to PowerApps for Access Developers - https://www.microsoft.com/en-us/download/details.aspx?id=54942 
 * Lynda - What are powerapps? - https://www.lynda.com/PowerApps-tutorials/What-PowerApps/573387/615409-4.html
 
 # MISC
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
-* Flow > Documentation - tutorials et al - https://ms.flow.microsoft.com/en-us/documentation/getting-started/
-* Flow > Licensing - https://preview.flow.microsoft.com/en-us/pricing/
 * Gateway > Firewall and FAQ - https://powerapps.microsoft.com/en-us/tutorials/gateway-reference/
 * InfoPath > Convert InfoPath/Designer workflow processes to PowerApps - https://www.youtube.com/watch?v=l69E7q79y6w
 * InfoPath > Rebuilding an InfoPath Designer form in PowerApps - https://www.youtube.com/watch?v=ohQcxcVZSK4

@@ -33,6 +33,7 @@
 # SHAREPOINT
 * Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
 * Creating an app for Sharepoint Guided Learning - Generate an App - App Formulas - https://powerapps.microsoft.com/en-us/guided-learning/learning-spo-app-generate/ 
+* Sharepoint Samples in Flow page - https://github.com/jhealy/awesome/blob/master/flow.md#samples
 
 # MISC
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables

@@ -30,12 +30,17 @@
 * Introduction to PowerApps for Access Developers - https://www.microsoft.com/en-us/download/details.aspx?id=54942 
 * Lynda - What are powerapps? - https://www.lynda.com/PowerApps-tutorials/What-PowerApps/573387/615409-4.html
 
+# SHAREPOINT
+* Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
+* Creating an app for Sharepoint Guided Learning - Generate an App - App Formulas - https://powerapps.microsoft.com/en-us/guided-learning/learning-spo-app-generate/ 
+
 # MISC
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
 * Gateway > Firewall and FAQ - https://powerapps.microsoft.com/en-us/tutorials/gateway-reference/
 * InfoPath > Convert InfoPath/Designer workflow processes to PowerApps - https://www.youtube.com/watch?v=l69E7q79y6w
 * InfoPath > Rebuilding an InfoPath Designer form in PowerApps - https://www.youtube.com/watch?v=ohQcxcVZSK4
 * Launching a URL / Hyperlink - https://powerusers.microsoft.com/t5/PowerApps-Forum/Hyperlinks-in-Powerapps/td-p/1477
+* PowerBI > Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
 * Using the Cognitive Services Text Analytics API in PowerApps - https://powerapps.microsoft.com/en-us/blog/custom-connectors-and-text-analytics-in-powerapps-part-one/
 
 LAB - https://1drv.ms/f/s!AnCe2U9G5b1slLhtx09optITf7DqyA 

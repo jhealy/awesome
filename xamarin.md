@@ -25,6 +25,7 @@
 * MVVM / PRISM with Xamarin Forms - http://www.jonbachelor.com/blog/an-introduction-to-xamarinforms-with-prism
 * Performance Discussion - http://aka.ms/xfperformance
 * Roadmap - https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap
+* Source Code to Xamarin Forms - https://github.com/xamarin/Xamarin.Forms
 
 ## IOS
 * Provisioning up a physical iOS device for developer.  Not for the wimpy or weak.  Requires Apple developer account - https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/
@@ -32,5 +33,8 @@
 * Unable to boot device in current state: Booted.  Simulator won't start and just hangs.  Switch to remote run from pc to mac and get this error.  See https://stackoverflow.com/questions/24135067/unable-to-boot-device-in-current-state-booted for discussions.
 
 # MISC
+* Design > Images - Cross Platform Images in Xamarin Forms Using SVG - http://www.patridgedev.com/2016/03/17/cross-platform-images-in-xamarin-forms-using-svgs/
+* HAXM Emulator issues with Credential Guard or Device Guard - https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2146361
+* Live player limitations - https://developer.xamarin.com/guides/cross-platform/live/limitations/
 * Skia Sharp > Deep dive - https://blog.xamarin.com/deep-dive-skiasharp-xamarin-forms/
 * UWP - MEF not supported in Xamarin - definitive - https://github.com/PrismLibrary/Prism

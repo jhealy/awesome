@@ -13,6 +13,11 @@ Held here until enough volume to be posted elsewhere....
 ## ICONS
 * SyncFusion Metro Studio - https://www.syncfusion.com/downloads/metrostudio
 
+# DEEP LEARNING
+* Coursera - Deep Learning Specialization - https://www.coursera.org/specializations/deep-learning
+* Deep Learning Explained - https://www.edx.org/course/deep-learning-explained-microsoft-dat236x
+* Practical Deep Learning For Coders - http://course.fast.ai/
+
 # DEVOPS
 * Team Foundation Server to Visual Studio Team Services Migration Guide and Database Import Tooling - https://www.microsoft.com/en-us/download/details.aspx?id=54274
 

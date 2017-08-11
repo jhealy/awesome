@@ -17,6 +17,7 @@
 * EF > Entity Framework Core: Getting Started - pluralsight - https://www.pluralsight.com/courses/entity-framework-core-getting-started
 
 # MISC
+* Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
 * .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 
 SEE ALSO - ASP.Net Core section in this doc - https://github.com/jhealy/awesome/blob/master/aspcore.md

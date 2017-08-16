@@ -16,6 +16,15 @@
 * Get Started - https://www.microsoft.com/net/core#windowsvs2017
 * EF > Entity Framework Core: Getting Started - pluralsight - https://www.pluralsight.com/courses/entity-framework-core-getting-started
 
+# WINDOWS WORKFLOW
+While WWF is in VS2017 and available for Windows, WWF is not being ported 100% to .net core.  Dustin Metzgar, a Microsoft PM is running an open source port of workflow, but its not released nor will it be officially supported or 100% feature compat.
+
+* Req to port WWF to .NET Core with great dialog - https://github.com/dotnet/corefx/issues/2394 
+* Article discussing WWF to .NET Core dilemma - http://www.dotnetcatch.com/2017/01/27/windows-workflow-foundation-coming-to-net-core/ 
+* Dead req to port WWF to .NET CORE - https://github.com/dotnet/corefx/issues/23051 
+* 2016 article on .net core discontinued features - https://www.infoq.com/news/2016/02/Core-Discontinued 
+* Dustin Metzgar repos for porting pieces of WWF to .NET Core - https://github.com/dmetzgar/corewf - https://github.com/dmetzgar
+
 # MISC
 * Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
 * .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/

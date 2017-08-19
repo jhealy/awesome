@@ -56,6 +56,7 @@ pooling, and socket exceptions
 * .NET > Diagnostics > Name of current method - https://stackoverflow.com/questions/2652460/how-to-get-the-name-of-the-current-method-from-code
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
 * .NET > Framework > Troubleshoot .NET Framework Installation Issues on Windows - http://www.thewindowsclub.com/troubleshoot-net-frameworks-4-0-install-issues-on-windows-7
+* API > NightScout - Diabetes blood sugar monitor - http://www.nightscout.info/
 * BTLE > Flic.io - https://flic.io/ - SDK for BTLE
 * Code Review > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx
 * Code Review > Globalization best practices - https://msdn.microsoft.com/en-us/library/w7x1y988(v=vs.110).aspx

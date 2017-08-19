@@ -10,6 +10,7 @@
 * Database > Oracle via dbConnect from devart as of June 2017 - https://www.devart.com/dotconnect/oracle/history.html
 * Database > Providers - https://docs.microsoft.com/en-us/ef/core/providers/index
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
+* System Requirements - https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements
 * Windows Pre-Requisites - https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites
 
 # LEARN
@@ -26,7 +27,8 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * Dustin Metzgar repos for porting pieces of WWF to .NET Core - https://github.com/dmetzgar/corewf - https://github.com/dmetzgar
 
 # MISC
-* Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
 * .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
+* Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
+* Libraries > Refit - Typesafe REST lib from Paul Betts - .NET Standard 1.4 and up - https://paulcbetts.github.io/refit/
 
 SEE ALSO - ASP.Net Core section in this doc - https://github.com/jhealy/awesome/blob/master/aspcore.md

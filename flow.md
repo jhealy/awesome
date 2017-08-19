@@ -18,4 +18,4 @@
 * Email - Post when emailed - https://ms.flow.microsoft.com/en-us/documentation/get-started-logic-template/
 * Notifications for emails, text - https://flow.microsoft.com/en-us/guided-learning/learning-get-notifications/
 * Twitter - notify me when twittered about - https://ms.flow.microsoft.com/en-us/documentation/get-started-logic-flow/
-* Warehouse delivery notification - flick physical button - SharePoint - https://flow.microsoft.com/en-us/blog/flow-of-the-week-warehouse-delivery-notification/ 
+* Warehouse delivery notification - flick physical button - SharePoint - Twilio - https://flow.microsoft.com/en-us/blog/flow-of-the-week-warehouse-delivery-notification/ 

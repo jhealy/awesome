@@ -8,6 +8,7 @@
 * Release notes - https://powerapps.microsoft.com/en-us/tutorials/release-notes/
 * System Status for Flow - https://flow.microsoft.com/support/
 * System Status for PowerApps - https://powerapps.microsoft.com/support/
+* VOTE for features - https://community.powerapps.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 
 # ADMIN
 * Deploying PowerApps - https://www.youtube.com/watch?v=QoL1SMaDZac&t=1533s
@@ -49,6 +50,7 @@
 * InfoPath > Rebuilding an InfoPath Designer form in PowerApps - https://www.youtube.com/watch?v=ohQcxcVZSK4
 * Launching a URL / Hyperlink - https://powerusers.microsoft.com/t5/PowerApps-Forum/Hyperlinks-in-Powerapps/td-p/1477
 * Offline Apps - https://powerapps.microsoft.com/en-us/blog/build-offline-apps-with-new-powerapps-capabilities/
+* PowerBI > PowerBI, PowerApps and Flow - https://www.blue-granite.com/blog/self-service-bi-improving-data-quality-using-power-bi-flow-powerapps
 * PowerBI > Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
 * Using the Cognitive Services Text Analytics API in PowerApps - https://powerapps.microsoft.com/en-us/blog/custom-connectors-and-text-analytics-in-powerapps-part-one/
 

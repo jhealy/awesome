@@ -55,6 +55,3 @@
 * Using the Cognitive Services Text Analytics API in PowerApps - https://powerapps.microsoft.com/en-us/blog/custom-connectors-and-text-analytics-in-powerapps-part-one/
 
 SEE ALSO - Microsoft Flow - https://github.com/jhealy/awesome/blob/master/flow.md
-
-LAB - https://1drv.ms/f/s!AnCe2U9G5b1slLhtx09optITf7DqyA 
-

@@ -2,6 +2,7 @@
 * Remote Debugging Azure App Services including .NET Core - https://blogs.msdn.microsoft.com/benjaminperkins/2017/06/06/remote-debug-your-azure-app-service-2017-including-asp-net-core/
 
 # LEARN
+* Application Architecture Guide (pdf available too) = https://docs.microsoft.com/en-us/azure/architecture/guide/
 * Architecture Guide for MicroServices, Web Apps, Cloud Deployment - https://www.microsoft.com/net/learn/architecture
 * DocumentDB MVA - https://mva.microsoft.com/en-US/training-courses/azure-documentdb-planetscale-nosql-16847
 
@@ -16,12 +17,15 @@
 * Source Code > eShopOnContainers reference architecture - download and ebook links - https://github.com/dotnet-architecture/eShopOnContainers
 
 # MISC
+* AD - Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app/
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Cloud Design Patterns (pnp) - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 * Cognitive Services - Speech to Text WebSockets Sample (js) - https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript
 * Exam 70-534 - Architecting Microsoft Azure Solutions > Labs - https://github.com/dstolts/70-534
 * Exam 70-534 - Architecting Microsoft Azure Solutions > Prep - https://blogs.msdn.microsoft.com/make_it_better/2017/05/06/exam-prep-for-architecting-microsoft-azure-solutions-70-534/
+* IoT > Article Collection - https://buildazure.com/category/internet-of-things/
 * IoT > Starter Kits > Docs for Starter Kits - free - https://azure.microsoft.com/en-us/resources/samples/?service=iot-hub&term=starter+kit
 * IoT > Starter Kits > March 2016 Blog - https://blogs.microsoft.com/iot/2016/03/31/azure-iot-starter-kits-open-the-door-to-developer-innovation/
 * Logic Apps > Samples - https://github.com/logicappsio
+* Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
 * Service Fabric > Linux and Windows differences - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-linux-windows-differences

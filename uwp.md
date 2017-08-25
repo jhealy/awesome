@@ -58,6 +58,8 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Hands on Labs - https://github.com/Windows-Readiness/WinDevHOLs
 * UWP QuickStarts - http://microsoft.github.io/UWPQuickStart/index.html#
 * UWP Succinctly eBook - https://www.syncfusion.com/resources/techportal/details/ebooks/UWP_Succinctly
+* More UWP Succinctly eBook - https://www.syncfusion.com/resources/techportal/details/ebooks/More_uwp_succinctly
+* UWP Whitepapers - https://www.syncfusion.com/resources/techportal/whitepapers
 * Windows Readiness Workshops - https://github.com/Windows-Readiness
 
 # MULTI VIEW

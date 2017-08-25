@@ -1,11 +1,13 @@
 # POWERAPPS
 * Team Blog - https://powerapps.microsoft.com/en-us/blog/
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
+* Get help - https://powerusers.microsoft.com/t5/PowerApps-Forum
 * Connectors with Descriptions - https://docs.microsoft.com/en-us/connectors/
 * Connectors with Premium Identified - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Documentation > https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Publishing Apps - https://powerapps.microsoft.com/en-us/tutorials/save-publish-app/
 * Release notes - https://powerapps.microsoft.com/en-us/tutorials/release-notes/
+* Service Status for O365 - https://portal.office.com/servicestatus
 * System Status for Flow - https://flow.microsoft.com/support/
 * System Status for PowerApps - https://powerapps.microsoft.com/support/
 * VOTE for features - https://community.powerapps.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
@@ -41,9 +43,11 @@
 # SHAREPOINT
 * Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
 * Creating an app for Sharepoint Guided Learning - Generate an App - App Formulas - https://powerapps.microsoft.com/en-us/guided-learning/learning-spo-app-generate/ 
+* Image from a Sharepoint list - https://community.powerapps.com/t5/PowerApps-Forum/PowerApps-doesn-t-support-images-from-SharePoint-lists/td-p/3635/page/7 
 * Sharepoint Samples in Flow page - https://github.com/jhealy/awesome/blob/master/flow.md#samples
 
 # MISC
+* AddColumn not working - https://powerusers.microsoft.com/t5/PowerApps-Forum/AddColumns-not-working-with-collection/td-p/29072
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
 * Gateway > Firewall and FAQ - https://powerapps.microsoft.com/en-us/tutorials/gateway-reference/
 * InfoPath > Convert InfoPath/Designer workflow processes to PowerApps - https://www.youtube.com/watch?v=l69E7q79y6w

@@ -40,6 +40,10 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * TextBox - Search Hilight Sample - https://github.com/kimiko88/Uwp-Highlight_on_search/blob/master/HighlightOnSearch/MainPage.xaml.cs
 * Windows App Studio DataProviders, Controls and Libs - https://github.com/wasteam/waslibs
 
+# CORE - .NET CORE
+* .NET standard 2.0 for uwp not available until late CY17 - https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-st
+* .NET Standard 2.0 Preview for UWP Now Available - https://blogs.msdn.microsoft.com/dotnet/2017/08/25/uwp-net-standard-2-0-preview/
+
 # DESIGN
 ## RESPONSIVE UI
 * Morton Nielsen's State Triggers collection - https://github.com/dotMorten/WindowsStateTriggers

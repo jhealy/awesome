@@ -32,3 +32,4 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * Libraries > Refit - Typesafe REST lib from Paul Betts - .NET Standard 1.4 and up - https://paulcbetts.github.io/refit/
 
 SEE ALSO - ASP.Net Core section in this doc - https://github.com/jhealy/awesome/blob/master/aspcore.md
+SEE ALSO - UWP and .NET Core - https://github.com/jhealy/awesome/blob/master/uwp.md#core---net-core

@@ -14,6 +14,7 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 * Music Store - https://github.com/aspnet/MusicStore
 
 # MISC
+* SPA - templates - https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
 * Auth - Google Auth with ASP.NET Core - http://ruimourato.com/2016/02/12/using-google-auth-middleware-aspnetcore.html
 * Choosing between Core and .NET - https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
 * Configuring Session Providers - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session

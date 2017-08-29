@@ -36,6 +36,7 @@
 # MISC
 * Design > Images - Cross Platform Images in Xamarin Forms Using SVG - http://www.patridgedev.com/2016/03/17/cross-platform-images-in-xamarin-forms-using-svgs/
 * HAXM Emulator issues with Credential Guard or Device Guard - https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2146361
+* HAXM Emulator - Manual Install - https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
 * Live player limitations - https://developer.xamarin.com/guides/cross-platform/live/limitations/
 * Skia Sharp > Deep dive - https://blog.xamarin.com/deep-dive-skiasharp-xamarin-forms/
 * UWP - MEF not supported in Xamarin - definitive - https://github.com/PrismLibrary/Prism

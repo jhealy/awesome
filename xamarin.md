@@ -42,3 +42,5 @@
 * Live player limitations - https://developer.xamarin.com/guides/cross-platform/live/limitations/
 * Skia Sharp > Deep dive - https://blog.xamarin.com/deep-dive-skiasharp-xamarin-forms/
 * UWP - MEF not supported in Xamarin - definitive - https://github.com/PrismLibrary/Prism
+
+....

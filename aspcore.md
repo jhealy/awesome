@@ -14,7 +14,6 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 * Music Store - https://github.com/aspnet/MusicStore
 
 # MISC
-* SPA - templates - https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
 * Auth - Google Auth with ASP.NET Core - http://ruimourato.com/2016/02/12/using-google-auth-middleware-aspnetcore.html
 * Choosing between Core and .NET - https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
 * Configuring Session Providers - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session
@@ -24,6 +23,7 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 * Porting > MVC - https://docs.microsoft.com/en-us/aspnet/core/migration/mvc
 * Porting > Third party dependencies - https://docs.microsoft.com/en-us/dotnet/articles/core/porting/third-party-deps
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
+* SPA - templates - https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
 * .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
 
 SEE ALSO - .NET Core section in this doc - databases included here - https://github.com/jhealy/awesome/blob/master/dnc.md

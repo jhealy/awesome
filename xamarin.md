@@ -26,6 +26,8 @@
 * MVVM / PRISM with Xamarin Forms - http://www.jonbachelor.com/blog/an-introduction-to-xamarinforms-with-prism
 * Performance Discussion - http://aka.ms/xfperformance
 * Roadmap - https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap
+* Samples - By tag - https://developer.xamarin.com/samples/tag/Xamarin.Forms/
+* Samples - Source - https://github.com/xamarin/xamarin-forms-samples
 * Source Code to Xamarin Forms - https://github.com/xamarin/Xamarin.Forms
 
 ## IOS

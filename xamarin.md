@@ -41,6 +41,9 @@
 * HAXM Emulator issues with Credential Guard or Device Guard - https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2146361
 * HAXM Emulator - Manual Install - https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
 * Live player limitations - https://developer.xamarin.com/guides/cross-platform/live/limitations/
+cl-profile-notes/ 
+* PCL Profiles annotated up to VS2015 R3 by S. Cleary - http://portablelibraryprofiles.stephencleary.com/
+* PCL Profiles supported in Xamarin - https://www.danrigby.com/2014/04/16/xamarin-pcl-profile-notes/ and https://www.danrigby.com/2014/04/16/xamarin-p - recommended is p111 or p44
 * Skia Sharp > Deep dive - https://blog.xamarin.com/deep-dive-skiasharp-xamarin-forms/
 * UWP - MEF not supported in Xamarin - definitive - https://github.com/PrismLibrary/Prism
 

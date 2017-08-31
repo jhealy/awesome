@@ -9,6 +9,7 @@
 * Case Studies - https://www.xamarin.com/resources/case-studies
 * Mobile Applications with Xamarin Architecture Guide (free ebook) - https://www.microsoft.com/net/learn/architecture - source code sample available
 * Mobile Samples from Xamarin - https://github.com/xamarin/mobile-samples - home of Tasky and LivePreviewer demos and other such stuff
+* Prebuilt - Xamarin Prebuilt starter apps - https://www.xamarin.com/prebuilt
 
 ## ANDROID
 * Material Design for your Xamarin Forms Android Apps - montemagno - https://blog.xamarin.com/material-design-for-your-xamarin-forms-android-apps/
@@ -43,4 +44,3 @@
 * Skia Sharp > Deep dive - https://blog.xamarin.com/deep-dive-skiasharp-xamarin-forms/
 * UWP - MEF not supported in Xamarin - definitive - https://github.com/PrismLibrary/Prism
 
-....

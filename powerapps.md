@@ -1,5 +1,6 @@
 # POWERAPPS
-* Team Blog - https://powerapps.microsoft.com/en-us/blog/
+* Blog - PowerApps Team - https://powerapps.microsoft.com/en-us/blog/
+* Blog - Office Team - https://blogs.office.com/en-us/feed/
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Forum
 * Connectors with Descriptions - https://docs.microsoft.com/en-us/connectors/
@@ -42,7 +43,8 @@
 
 # SHAREPOINT
 * Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
-* Creating an app for Sharepoint Guided Learning - Generate an App - App Formulas - https://powerapps.microsoft.com/en-us/guided-learning/learning-spo-app-generate/ 
+* Creating an app for Sharepoint Guided Learning - Generate an App - App Formulas - https://powerapps.microsoft.com/en-us/guided-learning/learning-spo-app-generate/
+* Forms for Sharepoint - inside lists and libs - https://blogs.office.com/en-us/2017/05/16/sharepoint-virtual-summit-showcases-growth-innovations-and-customer-success/ 
 * Image from a Sharepoint list - https://community.powerapps.com/t5/PowerApps-Forum/PowerApps-doesn-t-support-images-from-SharePoint-lists/td-p/3635/page/7 
 * Sharepoint Samples in Flow page - https://github.com/jhealy/awesome/blob/master/flow.md#samples
 

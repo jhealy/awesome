@@ -1,5 +1,7 @@
 # .NET CORE
 * .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
+* .NET Standard - github - https://github.com/dotnet/standard
+* .NET Standard FAQ - https://github.com/dotnet/standard/blob/master/docs/faq.md
 * Bugs and Issues - File here - https://github.com/dotnet/corefx
 * API check - https://apisof.net/ .  For instance, to see if DataSet is there - https://apisof.net/catalog/System.Data.DataSet
 * Build > Build Tools - https://github.com/dotnet/buildtools

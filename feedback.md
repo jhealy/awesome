@@ -62,3 +62,4 @@ http://www.devfish.net/fullblogitemview.aspx?blogid=734|Web Application Toolkit 
 * Windows 10 End User - https://news.yahoo.com/free-help-microsoft-windows-10-130326359.html 
 * Windows 10 UWP - https://wpdev.uservoice.com/forums/110705-universal-windows-platform 
 * WPF - Bugs - https://devdiv.visualstudio.com/DevDiv 
+* XAML Designer - xamldesignerfeedback@microsoft.com 

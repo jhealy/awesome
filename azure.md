@@ -22,8 +22,9 @@
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Cloud Design Patterns (pnp) - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 * Cognitive Services - Speech to Text WebSockets Sample (js) - https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript
-* Exam 70-534 - Architecting Microsoft Azure Solutions > Labs - https://github.com/dstolts/70-534
-* Exam 70-534 - Architecting Microsoft Azure Solutions > Prep - https://blogs.msdn.microsoft.com/make_it_better/2017/05/06/exam-prep-for-architecting-microsoft-azure-solutions-70-534/
+* Certification - Collection of study guides for various exams - https://rmmartins.github.io/AzureCertification/
+* Certification - Exam 70-534 - Architecting Microsoft Azure Solutions > Labs - https://github.com/dstolts/70-534
+* Certification - Exam 70-534 - Architecting Microsoft Azure Solutions > Prep - https://blogs.msdn.microsoft.com/make_it_better/2017/05/06/exam-prep-for-architecting-microsoft-azure-solutions-70-534/
 * Functions > Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
 * IoT > Article Collection - https://buildazure.com/category/internet-of-things/
 * IoT > Starter Kits > Docs for Starter Kits - free - https://azure.microsoft.com/en-us/resources/samples/?service=iot-hub&term=starter+kit

@@ -5,6 +5,7 @@
 * SDK - Install Latest Tools - use to fix devtools not working issues - https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk
 * SDK - Install SDK 10240 Install - https://msdn.microsoft.com/en-us/library/mt653628.aspx
 * Updates - http://aka.ms/getupdates
+* Visual Studio Blog - https://blogs.msdn.microsoft.com/visualstudio/
 * Windows Samples - beyond SDK Samples - http://microsoft.github.io/windows/
 * What's new via UWP over Win8.1 store model - https://blogs.msdn.microsoft.com/dotnet/2015/07/30/universal-windows-apps-in-net/
 * What's new in Windows for Developers - breakout by version - https://msdn.microsoft.com/en-us/windows/uwp/whats-new/
@@ -45,6 +46,9 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * .NET Standard 2.0 Preview for UWP Now Available - https://blogs.msdn.microsoft.com/dotnet/2017/08/25/uwp-net-standard-2-0-preview/
 
 # DESIGN
+* Fluent Design System - https://blogs.msdn.microsoft.com/visualstudio/2017/09/11/a-significant-update-to-the-xaml-designer/
+* Sept 2017 Xaml designer preview - https://blogs.msdn.microsoft.com/visualstudio/2017/09/11/a-significant-update-to-the-xaml-designer/
+
 ## RESPONSIVE UI
 * Morton Nielsen's State Triggers collection - https://github.com/dotMorten/WindowsStateTriggers
 * Responsive Design 101 for Universal Windows Platform Apps - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn958435.aspx
@@ -92,6 +96,9 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Hosted Web App - https://blogs.windows.com/buildingapps/2016/02/17/building-a-great-hosted-web-app/
 * Hosting the JavaScript Runtime - https://msdn.microsoft.com/en-us/library/dn249552(v=vs.94).aspx
 * Install > Remove Apps Script - https://blogs.technet.microsoft.com/mniehaus/2015/12/31/updated-remove-apps-script-and-a-workaround/
+* Kiosk Mode - Single App Access - https://www.windowscentral.com/how-set-assigned-access-windows-10
+* Kiosk Mode - Setup - https://docs.microsoft.com/en-us/windows/configuration/set-up-a-kiosk-for-windows-10-for-desktop-editions
+
 * Lifecycle - https://blogs.windows.com/buildingapps/2016/04/28/the-lifecycle-of-a-uwp-app/
 * Logging Channels Walkthrough - https://blogs.windows.com/buildingapps/2016/06/10/using-device-portal-to-view-debug-logs-for-uwp/
 * Menus > Menus and context menus - https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/menus

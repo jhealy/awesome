@@ -23,6 +23,7 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 * Porting > MVC - https://docs.microsoft.com/en-us/aspnet/core/migration/mvc
 * Porting > Third party dependencies - https://docs.microsoft.com/en-us/dotnet/articles/core/porting/third-party-deps
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
+* Razor - https://msdn.microsoft.com/en-us/magazine/mt842512
 * SPA - templates - https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
 * .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
 

@@ -22,6 +22,7 @@ Held here until enough volume to be posted elsewhere....
 * Team Foundation Server to Visual Studio Team Services Migration Guide and Database Import Tooling - https://www.microsoft.com/en-us/download/details.aspx?id=54274
 
 # DOCKER
+* Azure Batch and Docker Containers Lab - https://github.com/AdamPaternostro/Azure-Docker-Shipyard 
 * Docker and .NET > https://www.hanselman.com/blog/NETAndDocker.aspx
 * Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Running 1000 Containers in Docker Swarm - https://blog.codeship.com/running-1000-containers-in-docker-swarm/

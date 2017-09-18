@@ -21,12 +21,15 @@
 * Controls > Forms > Grial - ton of controls but no UWP - $ - http://grialkit.com/download/
 * Controls > Syncfusion - free if revenue less than $1m/yr - https://www.syncfusion.com/?utm_source=devfish
 * Controls > TreeView - https://github.com/danvanderboom/Xamarin-Forms-TreeView.git
+* Design > Good Looking UI Samples - https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI 
 * Embedding Xamarin Forms in Native Applications - https://blog.xamarin.com/unleashed-embedding-xamarin-forms-in-xamarin-native/
 * Localizing Xamarin Forms using RESX files - https://developer.xamarin.com/guides/xamarin-forms/advanced/localization/
 * Maps - Xamarin Maps Component Sample - https://github.com/xamarin/Xamarin.Forms
 * Maps - Using Google Maps Across all app types - https://github.com/amay077/Xamarin.Forms.GoogleMaps [thanks AG!]
 * MVVM / PRISM with Xamarin Forms - http://www.jonbachelor.com/blog/an-introduction-to-xamarinforms-with-prism
 * Performance Discussion - http://aka.ms/xfperformance
+* Performance > Guide - https://developer.xamarin.com/guides/xamarin-forms/deployment-testing/performance/
+* Performance > Boost Startup Time - https://blog.xamarin.com/5-ways-boost-xamarin-forms-app-startup-time/
 * Roadmap - https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap
 * Samples - By tag - https://developer.xamarin.com/samples/tag/Xamarin.Forms/
 * Samples - Source - https://github.com/xamarin/xamarin-forms-samples

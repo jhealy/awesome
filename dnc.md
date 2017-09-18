@@ -1,7 +1,5 @@
 # .NET CORE
-* .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
-* .NET Standard - github - https://github.com/dotnet/standard
-* .NET Standard FAQ - https://github.com/dotnet/standard/blob/master/docs/faq.md
+* .NET Core documentation - https://docs.microsoft.com/en-us/dotnet/core/get-started
 * Bugs and Issues - File here - https://github.com/dotnet/corefx
 * API check - https://apisof.net/ .  For instance, to see if DataSet is there - https://apisof.net/catalog/System.Data.DataSet
 * Build > Build Tools - https://github.com/dotnet/buildtools
@@ -19,6 +17,13 @@
 * .NET Core 2.0 Announced - https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/
 * .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 
+# .NET STANDARD
+* .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
+* .NET Standard - github - https://github.com/dotnet/standard
+* .NET Standard API Reference - https://docs.microsoft.com/en-us/dotnet/api/?view=netstandard-2.0
+* .NET Standard FAQ - https://github.com/dotnet/standard/blob/master/docs/faq.md
+
+
 # LEARN
 * Get Started - https://www.microsoft.com/net/core#windowsvs2017
 * EF > Entity Framework Core: Getting Started - pluralsight - https://www.pluralsight.com/courses/entity-framework-core-getting-started
@@ -35,6 +40,8 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 # MISC
 * Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
 * Libraries > Refit - Typesafe REST lib from Paul Betts - .NET Standard 1.4 and up - https://paulcbetts.github.io/refit/
+* XProj depreciated - https://visualstudio.uservoice.com/forums/563332-visual-studio-for-mac/suggestions/17136148-support-for-visual-studio-xproj-format - https://stackoverflow.com/questions/43679083/how-to-open-xproj-file-in-vs2017-2015
+
 
 SEE ALSO - ASP.Net Core section in this doc - https://github.com/jhealy/awesome/blob/master/aspcore.md
 SEE ALSO - UWP and .NET Core - https://github.com/jhealy/awesome/blob/master/uwp.md#core---net-core

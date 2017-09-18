@@ -1,6 +1,7 @@
 # GENERAL
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
 * Hosting > IIS - https://docs.microsoft.com/en-us/aspnet/core/publishing/iis
+* Migration - https://docs.microsoft.com/en-us/aspnet/core/migration/
 * Sql Server based distributed cache for ASP.NET Core - http://gunnarpeipman.com/2017/04/aspnet-core-sql-server-cache/
 * Using memory cache in ASP.NET Core - alternative to ObjectCache - local and distributed - http://gunnarpeipman.com/2017/04/aspnet-core-memory-cache/
 
@@ -24,6 +25,7 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 * Porting > Third party dependencies - https://docs.microsoft.com/en-us/dotnet/articles/core/porting/third-party-deps
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
 * Razor - https://msdn.microsoft.com/en-us/magazine/mt842512
+* SignalR for ASP.NET Core 2.0 Announced - Sept 2017 - https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/
 * SPA - templates - https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
 * .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
 

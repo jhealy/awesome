@@ -4,6 +4,7 @@ Held here until enough volume to be posted elsewhere....
 # .NET GENERAL
 * .NET API Browser - https://docs.microsoft.com/en-us/dotnet/api/
 * .NET Verification Tool - https://blogs.msdn.microsoft.com/astebner/2017/05/26/net-framework-setup-verification-tool-cleanup-tool-and-detection-sample-code-now-support-net-framework-4-7/
+* Memory > Analyzing Issues - https://msdn.microsoft.com/en-us/library/dn342825.aspx 
 * Performance > .NET Performance Tuning Guide circa 2004 - an oldie but goodie - https://msdn.microsoft.com/en-us/library/ff649152.aspx
 * Performance > .NET 4.7 v .NET Core 2.0 - Performance Improvements - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 * Tools > JustAssembly - decompile and compare assemblies - telerik free - http://www.telerik.com/justassembly?utm_source=devfish
@@ -12,6 +13,13 @@ Held here until enough volume to be posted elsewhere....
 # ART
 ## ICONS
 * SyncFusion Metro Studio - https://www.syncfusion.com/downloads/metrostudio
+
+# CACHING
+* Migrate from Managed Cache to Azure Redis - https://docs.microsoft.com/en-us/azure/redis-cache/cache-migrate-to-redis - https://blogs.msdn.microsoft.com/appfabric/2015/04/02/microsoft-appfabric-1-1-for-windows-server-ends-support-422016/
+* Azure Redis Cache - https://azure.microsoft.com/en-us/services/cache/
+* NCache - commercially supported cache solution for Windows - http://www.alachisoft.com/ncache/
+* Redis on Windows oppen source - https://github.com/MicrosoftArchive/redis
+
 
 # DEEP LEARNING
 * Coursera - Deep Learning Specialization - https://www.coursera.org/specializations/deep-learning
@@ -62,6 +70,7 @@ pooling, and socket exceptions
 * Code Review > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx
 * Code Review > Globalization best practices - https://msdn.microsoft.com/en-us/library/w7x1y988(v=vs.110).aspx
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
+* Entity Framework > Tutorials - https://msdn.microsoft.com/en-us/library/aa937723(v=vs.113).aspx 
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
 * Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Office 365 > Add-in Model Labs - https://github.com/OfficeDev/TrainingContent/tree/master/O3652
@@ -74,5 +83,6 @@ pooling, and socket exceptions
 * Tools > Winmerge > diff individidual filer or FOLDERS - good for seeing the differences in two code bases - http://winmerge.org/
 * UWP > BTLE - iBeacon with UWP - https://peterfoot.net/2017/05/26/read-ibeacons-from-uwp/
 * UWP > MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism
+* Visual Studio Mobility Center Roadmap - https://docs.microsoft.com/en-us/mobile-center/general/roadmap
 * Visual Studio Team System - Features timeline - https://www.visualstudio.com/en-us/articles/news/features-timeline
 * Win10 IoT > Thermostat w Cortana from Johnson Controls - http://www.zdnet.com/article/a-windows-10-smart-thermostat-is-coming-from-johnson-controls/ - https://www.engadget.com/2017/07/19/microsoft-cortana-based-thermostat/

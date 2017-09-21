@@ -22,6 +22,7 @@
 * Controls > Syncfusion - free if revenue less than $1m/yr - https://www.syncfusion.com/?utm_source=devfish
 * Controls > TreeView - https://github.com/danvanderboom/Xamarin-Forms-TreeView.git
 * Design > Good Looking UI Samples - https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI 
+* Design > Recreating the spotify UI on XF - https://www.thewissen.io/xamarin-forms-ui-spotify/
 * Embedding Xamarin Forms in Native Applications - https://blog.xamarin.com/unleashed-embedding-xamarin-forms-in-xamarin-native/
 * Localizing Xamarin Forms using RESX files - https://developer.xamarin.com/guides/xamarin-forms/advanced/localization/
 * Maps - Xamarin Maps Component Sample - https://github.com/xamarin/Xamarin.Forms

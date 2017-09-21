@@ -19,6 +19,7 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 * Choosing between Core and .NET - https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
 * Configuring Session Providers - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session
 * Loggings > Introduction to Logging in ASP.NET Core - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging
+* Mocking in .NET Core > https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing
 * Performance > .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 * Porting > Configuration - https://docs.microsoft.com/en-us/aspnet/core/migration/configuration
 * Porting > MVC - https://docs.microsoft.com/en-us/aspnet/core/migration/mvc

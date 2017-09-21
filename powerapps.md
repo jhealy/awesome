@@ -3,6 +3,7 @@
 * Blog - Office Team - https://blogs.office.com/en-us/feed/
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Forum
+* Get help - Community Forms and App Gallery - https://powerapps.microsoft.com/en-us/blog/new-best-practices-community-forums-and-app-gallery/
 * Connectors with Descriptions - https://docs.microsoft.com/en-us/connectors/
 * Connectors with Premium Identified - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Documentation > https://powerapps.microsoft.com/en-us/tutorials/connections-list/

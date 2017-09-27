@@ -10,6 +10,7 @@
 * Database > Oracle via dbConnect from devart as of June 2017 - https://www.devart.com/dotconnect/oracle/history.html
 * Database > Providers - https://docs.microsoft.com/en-us/ef/core/providers/index
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
+* Runtime - Book of the Runtime - https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
 * System Requirements - https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements
 * Windows Pre-Requisites - https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites
 

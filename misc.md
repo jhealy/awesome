@@ -85,5 +85,7 @@ pooling, and socket exceptions
 * UWP > BTLE - iBeacon with UWP - https://peterfoot.net/2017/05/26/read-ibeacons-from-uwp/
 * UWP > MEF not supported in UWP - definitive - https://github.com/PrismLibrary/Prism
 * Visual Studio Mobility Center Roadmap - https://docs.microsoft.com/en-us/mobile-center/general/roadmap
-* Visual Studio Team System - Features timeline - https://www.visualstudio.com/en-us/articles/news/features-timeline
+* Visual Studio Team System > Features timeline - https://www.visualstudio.com/en-us/articles/news/features-timeline
+* Visual Studio Team System > Docs - https://docs.microsoft.com/en-us/vsts/
 * Win10 IoT > Thermostat w Cortana from Johnson Controls - http://www.zdnet.com/article/a-windows-10-smart-thermostat-is-coming-from-johnson-controls/ - https://www.engadget.com/2017/07/19/microsoft-cortana-based-thermostat/
+* WPF > .NET Framework 7.1 Enhancements for WPF - https://blogs.msdn.microsoft.com/dotnet/2017/09/21/net-framework-4-7-1-accessibility-and-wpf-improvements/?utm_source=vs_developer_news&utm_medium=referral

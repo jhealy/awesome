@@ -21,6 +21,7 @@
 * Moving a Flow between environments - or rather the inability to - https://powerusers.microsoft.com/t5/General-Flow-Discussion/How-to-move-a-flow-between-two-envirionments/td-p/10838
 * Moving a PowerApp between environments - https://powerapps.microsoft.com/en-us/tutorials/environment-and-tenant-migration/
 * Save and Publish - https://powerapps.microsoft.com/en-us/blog/saveandpublish/
+* Web > Open PowerApp from HyperLink in Visio Online - https://blog.bvisual.net/2017/05/02/opening-powerapps-from-a-hyperlink-in-visio-online/
 
 # COMMON DATA SERVICE
 * Overview - https://docs.microsoft.com/en-us/common-data-service/entity-reference/security-model
@@ -42,6 +43,7 @@
 
 # TEMPLATES
 * Calendar App from SharePoint Data - https://powerapps.microsoft.com/en-us/blog/building-an-internal-event-calendar-app-in-flight/
+* Out of Office Template (o365 connector) - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
 
 # SHAREPOINT
 * Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
@@ -53,6 +55,8 @@
 # MISC
 * AddColumn not working - https://powerusers.microsoft.com/t5/PowerApps-Forum/AddColumns-not-working-with-collection/td-p/29072
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
+* Connectors > Office 365 > RelevantPeople() - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
+* Connectors > Office 365 > Out of Office Template - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
 * Gateway > Firewall and FAQ - https://powerapps.microsoft.com/en-us/tutorials/gateway-reference/
 * InfoPath > Convert InfoPath/Designer workflow processes to PowerApps - https://www.youtube.com/watch?v=l69E7q79y6w
 * InfoPath > Rebuilding an InfoPath Designer form in PowerApps - https://www.youtube.com/watch?v=ohQcxcVZSK4
@@ -60,6 +64,7 @@
 * Offline Apps - https://powerapps.microsoft.com/en-us/blog/build-offline-apps-with-new-powerapps-capabilities/
 * PowerBI > PowerBI, PowerApps and Flow - https://www.blue-granite.com/blog/self-service-bi-improving-data-quality-using-power-bi-flow-powerapps
 * PowerBI > Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
+* SortByColumns(), also Concat() - https://blogs.msdn.microsoft.com/briangre/2017/10/04/powerappspuzzle-sorting-selecteditems/
 * Using the Cognitive Services Text Analytics API in PowerApps - https://powerapps.microsoft.com/en-us/blog/custom-connectors-and-text-analytics-in-powerapps-part-one/
 
 SEE ALSO - Microsoft Flow - https://github.com/jhealy/awesome/blob/master/flow.md

@@ -21,6 +21,7 @@
 * Moving a Flow between environments - or rather the inability to - https://powerusers.microsoft.com/t5/General-Flow-Discussion/How-to-move-a-flow-between-two-envirionments/td-p/10838
 * Moving a PowerApp between environments - https://powerapps.microsoft.com/en-us/tutorials/environment-and-tenant-migration/
 * Save and Publish - https://powerapps.microsoft.com/en-us/blog/saveandpublish/
+* View and Manage Apps from Your Organization - https://powerapps.microsoft.com/en-us/blog/view-and-manage-apps-that-your-organization-is-building/
 * Web > Open PowerApp from HyperLink in Visio Online - https://blog.bvisual.net/2017/05/02/opening-powerapps-from-a-hyperlink-in-visio-online/
 
 # COMMON DATA SERVICE

@@ -125,4 +125,4 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Windows Store App Samples > https://code.msdn.microsoft.com/windowsapps/site/search?f%5B0%5D.Type=Platform&f%5B0%5D.Value=Windows%20RT&f%5B0%5D.Text=Windows%20Store%20apps&f%5B1%5D.Type=VisualStudioVersion&f%5B1%5D.Value=14.0&f%5B1%5D.Text=Visual%20Studio%202015&f%5B2%5D.Type=ProgrammingLanguage&f%5B2%5D.Value=C%23&f%5B2%5D.Text=C%23
 * Windows Template Studio > https://blogs.windows.com/buildingapps/2017/05/16/announcing-windows-template-studio/
 * XAML Designer not showing up - look at changing version - http://stackoverflow.com/questions/34664329/xaml-designer-not-showing-in-visual-studio-2015
-
+* xAML Designer Update for Fall 2017 Creators Update - https://blogs.msdn.microsoft.com/visualstudio/2017/09/11/a-significant-update-to-the-xaml-designer/

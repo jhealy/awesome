@@ -6,6 +6,7 @@
 * SQL > Use Visual Studio Code to create and run Tranasact-SQL scripts for SQL Server - https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-develop-use-vscode
 
 # EXTENSIONS
+* Chrome JavaScript Debugger - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 * mssql > SQL Server - https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
 * vscode-database > mysql and posgres - https://marketplace.visualstudio.com/items?itemName=bajdzis.vscode-database
 

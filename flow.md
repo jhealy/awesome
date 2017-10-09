@@ -19,3 +19,8 @@
 * Notifications for emails, text - https://flow.microsoft.com/en-us/guided-learning/learning-get-notifications/
 * Twitter - notify me when twittered about - https://ms.flow.microsoft.com/en-us/documentation/get-started-logic-flow/
 * Warehouse delivery notification - flick physical button - SharePoint - Twilio - https://flow.microsoft.com/en-us/blog/flow-of-the-week-warehouse-delivery-notification/ 
+
+# MISC
+* HttpTrigger for custom applications - http://techcarpenter.blogspot.no/2017/10/microsoft-flow-as-a-service-for-custom-applications.html
+
+

@@ -4,6 +4,7 @@
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Forum
 * Get help - Community Forms and App Gallery - https://powerapps.microsoft.com/en-us/blog/new-best-practices-community-forums-and-app-gallery/
+* Compliance Framework for PowerApps - http://disq.us/url?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F1%2F4%2F3%2F1434ABAB-B8E9-412D-8C3A-187B5FCB7A2F%2FCompliance%2520Framework%2520document.pdf%3AIJ_9gCU-B-DBN0wVXFJkZc9TXgg&cuid=4248922
 * Connectors with Descriptions - https://docs.microsoft.com/en-us/connectors/
 * Connectors with Premium Identified - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Documentation > https://powerapps.microsoft.com/en-us/tutorials/connections-list/
@@ -13,6 +14,7 @@
 * System Status for Flow - https://flow.microsoft.com/support/
 * System Status for PowerApps - https://powerapps.microsoft.com/support/
 * VOTE for features - https://community.powerapps.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
+* Q3 2017 Updates for PowerApps - https://powerapps.microsoft.com/en-us/blog/q3-2017-update/
 
 # ADMIN
 * Deploying PowerApps - https://www.youtube.com/watch?v=QoL1SMaDZac&t=1533s

@@ -26,6 +26,7 @@
 * Certification - Collection of study guides for various exams - https://rmmartins.github.io/AzureCertification/
 * Certification - Exam 70-534 - Architecting Microsoft Azure Solutions > Labs - https://github.com/dstolts/70-534
 * Certification - Exam 70-534 - Architecting Microsoft Azure Solutions > Prep - https://blogs.msdn.microsoft.com/make_it_better/2017/05/06/exam-prep-for-architecting-microsoft-azure-solutions-70-534/
+* Certification - Exam 70-534 - Retirement in December 2017 - https://www.microsoft.com/en-us/learning/exam-70-534.aspx
 * Certification - Exam 70-535 - Architecting Microsoft Azure Solutions 355 - Study Guide - http://download.microsoft.com/download/B/9/1/B91A0CE0-9786-4B81-8937-315F63E13910/Architecting_Microsoft_Azure_Solutions_11302017.pdf
 * Certification - Microsoft Professional Program for Cloud Administration - https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/ 
 * Functions > Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/

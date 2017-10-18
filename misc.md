@@ -36,6 +36,7 @@ Held here until enough volume to be posted elsewhere....
 * Running 1000 Containers in Docker Swarm - https://blog.codeship.com/running-1000-containers-in-docker-swarm/
 
 # HTTPCLIENT
+* HttpClient v WebClient v HttpWebRequest - http://www.diogonunes.com/blog/webclient-vs-httpclient-vs-httpwebrequest/
 * InfoQ on httpclient - lots of links - https://www.infoq.com/news/2016/09/HttpClient - shows why "using" around a new httpclient is bad
 * Official http client doc vs.118 - 
 https://msdn.microsoft.com/en-us/library/system.net.http.httpclient(v=vs.118).aspxOfficial 

@@ -21,6 +21,7 @@
 * Controls > Forms > Grial - ton of controls but no UWP - $ - http://grialkit.com/download/
 * Controls > Syncfusion - free if revenue less than $1m/yr - https://www.syncfusion.com/?utm_source=devfish
 * Controls > TreeView - https://github.com/danvanderboom/Xamarin-Forms-TreeView.git
+* Design > Adaptive UI using Xamarin Forms ( Oct 2017 ) - https://blog.xamarin.com/adaptive-ui-xamarin-forms/
 * Design > Good Looking UI Samples - https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI 
 * Design > Recreating the spotify UI on XF - https://www.thewissen.io/xamarin-forms-ui-spotify/
 * Embedding Xamarin Forms in Native Applications - https://blog.xamarin.com/unleashed-embedding-xamarin-forms-in-xamarin-native/

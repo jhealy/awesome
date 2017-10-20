@@ -36,6 +36,7 @@
 * Samples - By tag - https://developer.xamarin.com/samples/tag/Xamarin.Forms/
 * Samples - Source - https://github.com/xamarin/xamarin-forms-samples
 * Source Code to Xamarin Forms - https://github.com/xamarin/Xamarin.Forms
+* Version 3.0 - https://visualstudiomagazine.com/articles/2017/08/01/xamarinforms3_0.aspx
 
 ## IOS
 * ARKit Sample - https://developer.xamarin.com/guides/ios/platform_features/introduction-to-ios11/arkit/urhosharp/

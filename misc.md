@@ -66,6 +66,7 @@ pooling, and socket exceptions
 * .NET > Diagnostics > Name of current method - https://stackoverflow.com/questions/2652460/how-to-get-the-name-of-the-current-method-from-code
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
 * .NET > Framework > Troubleshoot .NET Framework Installation Issues on Windows - http://www.thewindowsclub.com/troubleshoot-net-frameworks-4-0-install-issues-on-windows-7
+* .NET > Framework > 4.7 released - https://blogs.msdn.microsoft.com/dotnet/2017/10/17/announcing-the-net-framework-4-7-1/
 * API > NightScout - Diabetes blood sugar monitor - http://www.nightscout.info/
 * BTLE > Flic.io - https://flic.io/ - SDK for BTLE
 * Code Review > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx
@@ -73,7 +74,9 @@ pooling, and socket exceptions
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
 * C++ Blog - https://blogs.msdn.microsoft.com/vcblog/
 * Design > Data Viz Project - inspiration - http://datavizproject.com/
+* Entity Framework  Data - Reverse POCO Generator - https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator
 * Entity Framework > Tutorials - https://msdn.microsoft.com/en-us/library/aa937723(v=vs.113).aspx 
+* Entity Framework > PowerTools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
 * Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Office 365 > Add-in Model Labs - https://github.com/OfficeDev/TrainingContent/tree/master/O3652

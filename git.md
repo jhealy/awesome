@@ -1,5 +1,6 @@
 # GIT 
 * Cheat sheet for VSTS / VSOnline - https://msdn.microsoft.com/en-us/Library/vs/alm/Code/git/command-prompt
+* Cheat sheet from Harouny - https://harouny.com/2015/01/30/my-personal-git-cheat-sheet/
 * Continuous delivery to Azure using Visual Studio Online and Git - http://azure.microsoft.com/en-us/documentation/articles/cloud-services-continuous-delivery-use-vso-git/
 * GitIgnore - tons of base .gitignore files - https://github.com/github/gitignore
 * Undoing almost anything using Git - https://github.com/blog/2019-how-to-undo-almost-anything-with-git

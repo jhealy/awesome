@@ -89,6 +89,9 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Data - Sharing - Publisher Cache - https://blogs.windows.com/buildingapps/2016/05/24/sharing-your-local-app-data/#KeXxuCrZZtsu3Qph.97
 * DataSources - AppStudio Open Source Data Sources - WordPress and YouTube and others - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-creation-with-windows-app-studios-open-source-uwp-libraries-and-samples-app/
 * Debugging - Turning off the live visual tree debugger tool - http://stackoverflow.com/questions/36618494/disable-visual-studio-2015-extra-debug-option
+* Diagnostic APIs - https://blogs.windows.com/buildingapps/2017/06/28/uwp-app-diagnostics/
+* Diagnostic API - Task monitor built with API - https://www.microsoft.com/en-us/store/p/UWPTaskMonitor/
+* Diagnostic API - Task monitor built with API (source) - https://github.com/Microsoft/AppModelSamples/tree/master/Samples/UWPTaskMonitor
 * HockeyApp SDK for UWP - http://hockeyapp.net/blog/2016/02/15/hockeysdk-for-uwp-apps.html +keyword: hockey 
 * HockeyApp Transition - App Insights for Mobile no longer accepted, please use HockeyApp - April 2016 https://azure.microsoft.com/en-us/blog/transitioning-mobile-apps-from-application-insights-to-hockeyapp/
 * Hosted App > Chakra Bridge - Javascript inside UWP - http://blogs.msdn.com/b/eternalcoding/archive/2015/10/21/using-javascript-frameworks-from-your-c-uwp-application.aspx
@@ -104,6 +107,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Navigation > https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt187344.aspx
 * Navigation > Peer to Peer Navigation Between Two Pages - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt465735.aspx
 * NDEF / NFC Library - https://github.com/andijakl/ndef-nfc
+* Performance - Monitoring with Diagnostic API - https://blogs.windows.com/buildingapps/2017/06/28/uwp-app-diagnostics/
 * Performance - Working with Memory Limits and Task Priorities in the UWP - https://msdn.microsoft.com/en-us/magazine/mt742869.aspx
 * Performance - Reducing Memory when App Suspended - https://docs.microsoft.com/en-us/windows/uwp/launch-resume/reduce-memory-usage
 * Optical Character Recognition (OCR) for Windows 10 - https://blogs.windows.com/buildingapps/2016/02/08/optical-character-recognition-ocr-for-windows-10/

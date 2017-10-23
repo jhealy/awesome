@@ -39,7 +39,11 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 
 # MISC
 * Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
-* EF Core Powertools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/ 
+* EF Core > EF Core Powertools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/ 
+* EF Core > Generate from an existing db - https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/existing-db
+* EF Core > Stored Procedure Support (lacking) - https://github.com/aspnet/EntityFrameworkCore/issues/245
+* EF Core > Stored Procedure Support via EntitySet - https://stackoverflow.com/questions/43087350/asp-net-core-and-ef-core-1-1-diplay-data-using-stored-procedure/43088033#43088033
+* EF Core > View Support - https://github.com/aspnet/EntityFrameworkCore/issues/827
 * Libraries > Refit - Typesafe REST lib from Paul Betts - .NET Standard 1.4 and up - https://paulcbetts.github.io/refit/
 * Linux > Create a .NET Core 2 application on Linux with Visual Studio Code - https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/create-a-net-core-2-application-on-linux-with-visual-studio-code/
 * XProj depreciated - https://visualstudio.uservoice.com/forums/563332-visual-studio-for-mac/suggestions/17136148-support-for-visual-studio-xproj-format - https://stackoverflow.com/questions/43679083/how-to-open-xproj-file-in-vs2017-2015

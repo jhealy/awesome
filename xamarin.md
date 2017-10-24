@@ -55,4 +55,4 @@ cl-profile-notes/
 * Skia Sharp > Deep dive - https://blog.xamarin.com/deep-dive-skiasharp-xamarin-forms/
 * SQLite > Parallel actions using Async - https://github.com/brminnick/InvestmentDataSampleApp/blob/master/InvestmentDataSampleApp/Data/OpportunityModelDatabase.cs
 * UWP - MEF not supported in Xamarin - definitive - https://github.com/PrismLibrary/Prism
-
+* Xamarin University Labs - MIT open sourced - https://github.com/xamarinuniversity

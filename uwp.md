@@ -83,6 +83,8 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Roaming app data and the user experience - https://blogs.windows.com/buildingapps/2016/05/04/roaming-app-data-and-the-user-experience/
 
 # MISC
+* 1703 Fall Creators Update ->  App Installs from Web via App Installer -Sept 2017 - https://blogs.msdn.microsoft.com/appinstaller/2017/09/26/uwp-app-installs-from-web-via-app-installer/ 
+* 1703 Fall Creators Update -> Automated app updates with “.appinstaller” file - https://blogs.msdn.microsoft.com/appinstaller/2017/09/27/automated-app-updates-with-appinstaller-file/ 
 * Awesome UWP Resources Collection - https://github.com/igorkulman/awesome-uwp
 * Azure > DocumentDB and UWP - photo sharing - https://blogs.windows.com/buildingapps/2016/03/17/uwp-azure-app-services-and-documentdb-soup-a-photo-sharing-app/
 * Azure > IoT Hub > Connect your Windows app to Azure IoT Hub with Visual Studio - https://blogs.windows.com/buildingapps/2016/03/03/connect-your-windows-app-to-azure-iot-hub-with-visual-studio/

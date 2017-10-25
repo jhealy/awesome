@@ -16,6 +16,7 @@ ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile
 * Visual Studio Mobility Center Roadmap - https://docs.microsoft.com/en-us/mobile-center/general/roadmap
 * VSMC > Home - https://www.visualstudio.com/vs/mobile-center/
 * VSMC > Introducing Visual Studio Mobile Center - https://blogs.msdn.microsoft.com/visualstudio/2016/11/16/visual-studio-mobile-center/ 
+* vsmc > Slack App for VSMC - https://blogs.msdn.microsoft.com/mobilecenter/introducing-the-mobile-center-slack-app/
 * VSTS > Agile Planning and Portfolio Management with TFS 2017 (HOL) - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32135&lod=true
 * VSTS > Embracing Continuous Delivery with Release Management of Visual Studio 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32168&lod=true
 * VSTS > Features index - https://docs.microsoft.com/en-us/vsts/user-guide/alm-devops-features?toc=/vsts/user-guide/

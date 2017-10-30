@@ -54,5 +54,6 @@ cl-profile-notes/
 * PCL Profiles supported in Xamarin - https://www.danrigby.com/2014/04/16/xamarin-pcl-profile-notes/ and https://www.danrigby.com/2014/04/16/xamarin-p - recommended is p111 or p44
 * Skia Sharp > Deep dive - https://blog.xamarin.com/deep-dive-skiasharp-xamarin-forms/
 * SQLite > Parallel actions using Async - https://github.com/brminnick/InvestmentDataSampleApp/blob/master/InvestmentDataSampleApp/Data/OpportunityModelDatabase.cs
+* Troubleshooting > Build action 'EmbeddedResource' is not supported by one or more of the project's targets - https://stackoverflow.com/questions/37111423/build-action-embeddedresource-is-not-supported-by-one-or-more-of-the-projects
 * UWP - MEF not supported in Xamarin - definitive - https://github.com/PrismLibrary/Prism
 * Xamarin University Labs - MIT open sourced - https://github.com/xamarinuniversity

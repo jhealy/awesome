@@ -39,6 +39,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 
 # MISC
 * Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
+* EF Core > Home - https://docs.microsoft.com/en-us/ef/core/
 * EF Core > EF Core Powertools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/ 
 * EF Core > Generate from an existing db - https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/existing-db
 * EF Core > Stored Procedure Support (lacking) - https://github.com/aspnet/EntityFrameworkCore/issues/245

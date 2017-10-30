@@ -41,6 +41,7 @@
 * EdX - Developing Business Applications with PowerApps and Flow - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
 * Guided Learning - https://powerapps.microsoft.com/en-us/guided-learning/
 * Guided Tour for PowerApps - via PowerApps - http://aka.ms/kskkr9
+* How to upload images from the camera control to Azure blog storage - https://powerapps.microsoft.com/en-us/blog/custom-api-for-image-upload/
 * Introduction to PowerApps for Access Developers - https://www.microsoft.com/en-us/download/details.aspx?id=54942 
 * Lynda - What are powerapps? - https://www.lynda.com/PowerApps-tutorials/What-PowerApps/573387/615409-4.html
 

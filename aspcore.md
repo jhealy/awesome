@@ -2,6 +2,7 @@
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
 * Hosting > IIS - https://docs.microsoft.com/en-us/aspnet/core/publishing/iis
 * Migration - https://docs.microsoft.com/en-us/aspnet/core/migration/
+* Roadmap - https://github.com/aspnet/Home/wiki/Roadmap
 * Sql Server based distributed cache for ASP.NET Core - http://gunnarpeipman.com/2017/04/aspnet-core-sql-server-cache/
 * Using memory cache in ASP.NET Core - alternative to ObjectCache - local and distributed - http://gunnarpeipman.com/2017/04/aspnet-core-memory-cache/
 
@@ -22,6 +23,8 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 * Mocking in .NET Core > https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing
 * Node.js -> Calling Node.js from ASP.NET Core - https://blogs.msdn.microsoft.com/waws/2017/10/23/calling-node-js-from-asp-net-core/
 * Performance > .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
+* Performance > .NET Core vs Java - Performance Notes - http://anthonylloyd.github.io/blog/2017/08/15/dotnetcore-performance
+* Performance > Iris go versus .NET Core Kestrel in terms of performance (August 2017) - https://hackernoon.com/iris-go-vs-net-core-kestrel-in-terms-of-http-performance-806195dc93d5
 * Porting > Configuration - https://docs.microsoft.com/en-us/aspnet/core/migration/configuration
 * Porting > MVC - https://docs.microsoft.com/en-us/aspnet/core/migration/mvc
 * Porting > Third party dependencies - https://docs.microsoft.com/en-us/dotnet/articles/core/porting/third-party-deps

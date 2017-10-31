@@ -12,6 +12,7 @@
 * Prebuilt - Xamarin Prebuilt starter apps - https://www.xamarin.com/prebuilt
 
 ## ANDROID
+* Android Tools CLI Tooling Notes - https://gist.github.com/JonDouglas/9eed5704d4601196435bf169620d3186
 * ARKit - https://twitter.com/dotMorten/status/902783082314342402 - https://www.youtube.com/watch?v=dIrYNiBqYsE
 * Material Design for your Xamarin Forms Android Apps - montemagno - https://blog.xamarin.com/material-design-for-your-xamarin-forms-android-apps/
 * Remote your Android device to your desktop - Montemagno recommends -http://www.vysor.io/

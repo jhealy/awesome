@@ -74,9 +74,11 @@ pooling, and socket exceptions
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
 * C++ Blog - https://blogs.msdn.microsoft.com/vcblog/
 * Design > Data Viz Project - inspiration - http://datavizproject.com/
+* Design > What the font - Shazam for fonts - http://www.myfonts.com/WhatTheFont/mobile/
 * Entity Framework  Data - Reverse POCO Generator - https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator
 * Entity Framework > Tutorials - https://msdn.microsoft.com/en-us/library/aa937723(v=vs.113).aspx 
 * Entity Framework > PowerTools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/
+* IoT > NetPi - hardened docker linux broadcom enabled Raspberry Pi - https://blogs.msdn.microsoft.com/holgerkenn/2017/10/30/hilscher-netpi-raspberry-pi-3-for-industrial-automation-part-1/
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
 * Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Office 365 > Add-in Model Labs - https://github.com/OfficeDev/TrainingContent/tree/master/O3652

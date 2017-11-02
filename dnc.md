@@ -42,8 +42,10 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * EF Core > Home - https://docs.microsoft.com/en-us/ef/core/
 * EF Core > EF Core Powertools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/ 
 * EF Core > Generate from an existing db - https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/existing-db
+* EF Core > Migrations > Troubleshooting the dotnet ef command for EF Core Migrations - http://thedatafarm.com/data-access/no-executable-found-matching-command-dotnet-ef/
 * EF Core > Stored Procedure Support (lacking) - https://github.com/aspnet/EntityFrameworkCore/issues/245
 * EF Core > Stored Procedure Support via EntitySet - https://stackoverflow.com/questions/43087350/asp-net-core-and-ef-core-1-1-diplay-data-using-stored-procedure/43088033#43088033
+* EF Core > Supporting .NET Implementations - https://docs.microsoft.com/en-us/ef/core/platforms/
 * EF Core > View Support - https://github.com/aspnet/EntityFrameworkCore/issues/827
 * Libraries > Refit - Typesafe REST lib from Paul Betts - .NET Standard 1.4 and up - https://paulcbetts.github.io/refit/
 * Linux > Create a .NET Core 2 application on Linux with Visual Studio Code - https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/create-a-net-core-2-application-on-linux-with-visual-studio-code/

@@ -1,3 +1,6 @@
+# General
+* Roadmap - https://github.com/dotnet/csharplang/tree/master/proposals
+
 # Design
 * https://github.com/dotnet/csharplang
 * https://blogs.msdn.microsoft.com/dotnet/2017/03/09/new-features-in-c-7-0/

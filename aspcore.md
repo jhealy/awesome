@@ -1,4 +1,5 @@
 # GENERAL
+* API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - try webhook v dbdataadapter on .NET Standard 2.0
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
 * DodyG - Awesome .NET Core - https://github.com/dodyg/awesome-dotnet-core
 * Hosting > IIS - https://docs.microsoft.com/en-us/aspnet/core/publishing/iis
@@ -8,7 +9,7 @@
 * Using memory cache in ASP.NET Core - alternative to ObjectCache - local and distributed - http://gunnarpeipman.com/2017/04/aspnet-core-memory-cache/
 
 # BLOGS AND WEBSITES
-Gunnar Peipman - http://gunnarpeipman.com/aspnet/
+* Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 
 # LEARN
 * MVA - ASP.NET CORE Learning Path - https://mva.microsoft.com/learning-path/asp-net-core-6
@@ -37,6 +38,7 @@ Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 * SignalR for ASP.NET Core 2.0 Announced - Sept 2017 - https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/
 * SignalR Roadmap - part of ASP .NET Core - https://github.com/aspnet/Home/wiki/Roadmap
 * SPA - templates - https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
+* Windows Service > Hosting an ASP.NET Core app in a Windows Service - https://docs.microsoft.com/en-us/aspnet/core/hosting/windows-service
 * .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
 
 SEE ALSO - .NET Core section in this doc - databases included here - https://github.com/jhealy/awesome/blob/master/dnc.md

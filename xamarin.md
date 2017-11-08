@@ -19,6 +19,7 @@
 
 ## FORMS
 * .NET Standard > Upgrading Xam Forms Projec to .NET Standard - https://channel9.msdn.com/Shows/XamarinShow/Snack-Pack-15-Upgrading-to-XamarinForms-to-NET-Standard
+* Controls > ContentView - https://visualstudiomagazine.com/articles/2017/10/01/add-custom-controls.aspx?mkt_tok=devfish
 * Controls > Forms > Grial - ton of controls but no UWP - $ - http://grialkit.com/download/
 * Controls > Syncfusion - free if revenue less than $1m/yr - https://www.syncfusion.com/?utm_source=devfish
 * Controls > TreeView - https://github.com/danvanderboom/Xamarin-Forms-TreeView.git

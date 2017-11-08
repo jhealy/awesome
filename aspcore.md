@@ -24,6 +24,8 @@
 * Auth - Google Auth with ASP.NET Core - http://ruimourato.com/2016/02/12/using-google-auth-middleware-aspnetcore.html
 * Choosing between Core and .NET - https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
 * Configuring Session Providers - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session
+* HtmlHelpers listing - https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewfeatures.htmlhelper?view=aspnetcore-2.0
+* HtmlHelpers - https://www.mikesdotnetting.com/article/184/html-helpers-for-forms-in-razor-web-pages
 * Loggings > Introduction to Logging in ASP.NET Core - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging
 * Middleware > Great overview (1.1) - https://www.jeffogata.com/asp-net-core-middleware/
 * Mocking in .NET Core > https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing

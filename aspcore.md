@@ -1,6 +1,7 @@
 # GENERAL
 * API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - try webhook v dbdataadapter on .NET Standard 2.0
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
+* Docs - samples - https://github.com/aspnet/Docs/tree/master/aspnetcore 
 * DodyG - Awesome .NET Core - https://github.com/dodyg/awesome-dotnet-core
 * Hosting > IIS - https://docs.microsoft.com/en-us/aspnet/core/publishing/iis
 * Migration - https://docs.microsoft.com/en-us/aspnet/core/migration/

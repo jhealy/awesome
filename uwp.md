@@ -9,6 +9,7 @@
 * Windows Samples - beyond SDK Samples - http://microsoft.github.io/windows/
 * What's new via UWP over Win8.1 store model - https://blogs.msdn.microsoft.com/dotnet/2015/07/30/universal-windows-apps-in-net/
 * What's new in Windows for Developers - breakout by version - https://msdn.microsoft.com/en-us/windows/uwp/whats-new/
+** Fall Creators Update 1709 update developers - https://docs.microsoft.com/en-us/windows/uwp/whats-new/windows-10-build-16299
 * Windows Developer Platform Backlog - Features implemented, bugs and feature requests - https://developer.microsoft.com/en-us/windows/platform
 
 # BARCODE SCANNING

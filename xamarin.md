@@ -4,6 +4,7 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 
 * Bugs and such?  Is it a bug or some other kind of knightmare? http://bugzilla.xamarin.com
 * Latest release notes - https://releases.xamarin.com/
+* Suggestions for the Xamarin Team - https://xamarin.uservoice.com/forums/144858-xamarin-platform-suggestions
 
 ## LEARN
 * Mobile Applications with Xamarin Architecture Guide (free ebook) - https://www.microsoft.com/net/learn/architecture

@@ -24,7 +24,8 @@ Dedicated to XF only.  See Xamarin page ( https://github.com/jhealy/awesome/blob
 * Performance > Boost Startup Time - https://blog.xamarin.com/5-ways-boost-xamarin-forms-app-startup-time/
 
 # MISC
-* .NET Standard > Upgrading Xam Forms Projec to .NET Standard - https://channel9.msdn.com/Shows/XamarinShow/Snack-Pack-15-Upgrading-to-XamarinForms-to-NET-Standard
+* .NET Standard > .NET Standard 2.0 Support in Xamarin.Forms - https://developer.xamarin.com/guides/xamarin-forms/under-the-hood/net-standard/
+* .NET Standard > .NET Standard comes to XF Forms Templates ( VS2017 15.5 Preview 3 ) - https://blog.xamarin.com/net-standard-comes-xamarin-forms-project-templates/
 * Embedding Xamarin Forms in Native Applications - https://blog.xamarin.com/unleashed-embedding-xamarin-forms-in-xamarin-native/
 * Localizing Xamarin Forms using RESX files - https://developer.xamarin.com/guides/xamarin-forms/advanced/localization/
 * Maps - Xamarin Maps Component Sample - https://github.com/xamarin/Xamarin.Forms

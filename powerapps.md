@@ -48,6 +48,7 @@
 # TEMPLATES
 * Calendar App from SharePoint Data - https://powerapps.microsoft.com/en-us/blog/building-an-internal-event-calendar-app-in-flight/
 * Out of Office Template (o365 connector) - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
+* Shout outs / kudos template - https://powerapps.microsoft.com/en-us/blog/next-in-the-office-template-series-shoutouts/
 
 # SHAREPOINT
 * Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153

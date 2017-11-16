@@ -75,6 +75,7 @@ pooling, and socket exceptions
 * C++ Blog - https://blogs.msdn.microsoft.com/vcblog/
 * Design > Data Viz Project - inspiration - http://datavizproject.com/
 * Design > What the font - Shazam for fonts - http://www.myfonts.com/WhatTheFont/mobile/
+* Edge developer Guide - https://docs.microsoft.com/en-us/microsoft-edge/dev-guide
 * Entity Framework  Data - Reverse POCO Generator - https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator
 * Entity Framework > Tutorials - https://msdn.microsoft.com/en-us/library/aa937723(v=vs.113).aspx 
 * Entity Framework > PowerTools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/

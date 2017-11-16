@@ -19,9 +19,11 @@ Dedicated to XF only.  See Xamarin page ( https://github.com/jhealy/awesome/blob
 * Recreating the spotify UI on XF - https://www.thewissen.io/xamarin-forms-ui-spotify/
 
 # PERFORMANCE
-* Performance Discussion - http://aka.ms/xfperformance
-* Performance > Guide - https://developer.xamarin.com/guides/xamarin-forms/deployment-testing/performance/
-* Performance > Boost Startup Time - https://blog.xamarin.com/5-ways-boost-xamarin-forms-app-startup-time/
+* Boost Startup Time - https://blog.xamarin.com/5-ways-boost-xamarin-forms-app-startup-time/
+* Discussion - http://aka.ms/xfperformance
+* Guide - https://developer.xamarin.com/guides/xamarin-forms/deployment-testing/performance/
+* Optimizing Xamarin Forms - https://blog.xamarin.com/optimizing-xamarin-forms-apps-for-maximum-performance/
+* Profiler for finding bottlenecks - https://developer.xamarin.com/guides/xamarin-forms/deployment-testing/performance/
 
 # MISC
 * .NET Standard > .NET Standard 2.0 Support in Xamarin.Forms - https://developer.xamarin.com/guides/xamarin-forms/under-the-hood/net-standard/

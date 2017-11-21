@@ -64,4 +64,5 @@ https://www.visualstudio.com/subscriptions/support/
 * Windows 10 End User - https://news.yahoo.com/free-help-microsoft-windows-10-130326359.html 
 * Windows 10 UWP - https://wpdev.uservoice.com/forums/110705-universal-windows-platform 
 * WPF - Bugs - https://devdiv.visualstudio.com/DevDiv 
+* Xamarin Suggestions - https://xamarin.uservoice.com/forums/144858-xamarin-platform-suggestions
 * XAML Designer - xamldesignerfeedback@microsoft.com 

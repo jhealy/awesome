@@ -77,6 +77,10 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Projection discussion - https://msdn.microsoft.com/en-us/library/windows/apps/dn495078.aspx
 * Projection sample - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/Projection
 
+# .NET NATIVE
+* Getting Started with .NET Native - https://docs.microsoft.com/en-us/dotnet/framework/net-native/getting-started-with-net-native
+* Github - https://github.com/Microsoft/dotnet/tree/master/releases/UWP/net-native2.0
+
 # STORAGE
 * Data Access in UWP Apps - https://blogs.windows.com/buildingapps/2016/05/03/data-access-in-universal-windows-platform-uwp-apps/
 * Data - Offline from Azure using SQLLite - https://shellmonger.com/2016/05/04/30-days-of-zumo-v2-azure-mobile-apps-day-16-offline-sync-net-edition/

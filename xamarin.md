@@ -6,22 +6,23 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 * Latest release notes - https://releases.xamarin.com/
 * Suggestions for the Xamarin Team - https://xamarin.uservoice.com/forums/144858-xamarin-platform-suggestions
 
-## LEARN
+# LEARN
 * Mobile Applications with Xamarin Architecture Guide (free ebook) - https://www.microsoft.com/net/learn/architecture
 
-## SOURCE CODE REPOS
+# SOURCE CODE REPOS
 * Case Studies - https://www.xamarin.com/resources/case-studies
 * Mobile Applications with Xamarin Architecture Guide (free ebook) - https://www.microsoft.com/net/learn/architecture - source code sample available
 * Mobile Samples from Xamarin - https://github.com/xamarin/mobile-samples - home of Tasky and LivePreviewer demos and other such stuff
 * Prebuilt - Xamarin Prebuilt starter apps - https://www.xamarin.com/prebuilt
 
-## ANDROID
+# ANDROID
+* Android Forums - https://androidforums.com/
 * Android Tools CLI Tooling Notes - https://gist.github.com/JonDouglas/9eed5704d4601196435bf169620d3186
 * ARKit - https://twitter.com/dotMorten/status/902783082314342402 - https://www.youtube.com/watch?v=dIrYNiBqYsE
 * Material Design for your Xamarin Forms Android Apps - montemagno - https://blog.xamarin.com/material-design-for-your-xamarin-forms-android-apps/
 * Remote your Android device to your desktop - Montemagno recommends -http://www.vysor.io/
 
-## IOS
+# IOS
 * ARKit Sample - https://developer.xamarin.com/guides/ios/platform_features/introduction-to-ios11/arkit/urhosharp/
 * Provisioning up a physical iOS device for developer.  Not for the wimpy or weak.  Requires Apple developer account - https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/
 * Remote your iPhone to your desktop - Montemagno recommends AirPlay, but it only works on Fruit.  Some alternative for PC users listed here - https://www.lifewire.com/where-to-get-airplay-for-windows-2000736

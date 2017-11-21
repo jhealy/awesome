@@ -3,6 +3,7 @@
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
 * Docs - samples - https://github.com/aspnet/Docs/tree/master/aspnetcore 
 * DodyG - Awesome .NET Core - https://github.com/dodyg/awesome-dotnet-core
+* Features of ASP.NET Core 2.0 - https://blogs.msdn.microsoft.com/webdev/2017/08/25/asp-net-core-2-0-features-1/
 * Hosting > IIS - https://docs.microsoft.com/en-us/aspnet/core/publishing/iis
 * Migration - https://docs.microsoft.com/en-us/aspnet/core/migration/
 * Roadmap - https://github.com/aspnet/Home/wiki/Roadmap
@@ -24,6 +25,7 @@
 * Auth - Google Auth with ASP.NET Core - http://ruimourato.com/2016/02/12/using-google-auth-middleware-aspnetcore.html
 * Choosing between Core and .NET - https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
 * Configuring Session Providers - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session
+* HostedService Sample - https://www.stevejgordon.co.uk/asp-net-core-2-ihostedservice
 * HtmlHelpers listing - https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewfeatures.htmlhelper?view=aspnetcore-2.0
 * HtmlHelpers - https://www.mikesdotnetting.com/article/184/html-helpers-for-forms-in-razor-web-pages
 * Loggings > Introduction to Logging in ASP.NET Core - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging

@@ -10,8 +10,11 @@ Dedicated to XF only.  See Xamarin page ( https://github.com/jhealy/awesome/blob
 # CONTROLS
 * ContentView - https://visualstudiomagazine.com/articles/2017/10/01/add-custom-controls.aspx?mkt_tok=devfish
 * Grial - ton of controls but no UWP - $ - http://grialkit.com/download/
+* Plugins - Collection of Xamarin recommended plugins - https://github.com/xamarin/XamarinComponents
 * Syncfusion - free if revenue less than $1m/yr - https://www.syncfusion.com/?utm_source=devfish
 * TreeView - https://github.com/danvanderboom/Xamarin-Forms-TreeView.git
+* Zebra EMDK for Xamarin - do not use Zxying with Zebra deviced like TC55 - Xam component - https://components.xamarin.com/view/emdk-component
+* Zebra EMDK for Xamarin - Sample - https://github.com/pfmaggi/Xam_BarcodeForms
 
 # DESIGN
 * Adaptive UI using Xamarin Forms ( Oct 2017 ) - https://blog.xamarin.com/adaptive-ui-xamarin-forms/
@@ -24,6 +27,11 @@ Dedicated to XF only.  See Xamarin page ( https://github.com/jhealy/awesome/blob
 * Guide - https://developer.xamarin.com/guides/xamarin-forms/deployment-testing/performance/
 * Optimizing Xamarin Forms - https://blog.xamarin.com/optimizing-xamarin-forms-apps-for-maximum-performance/
 * Profiler for finding bottlenecks - https://developer.xamarin.com/guides/xamarin-forms/deployment-testing/performance/
+
+# THEMES 
+* How to use theming - https://developer.xamarin.com/guides/xamarin-forms/user-interface/themes/ 
+* Guide to theming - https://developer.xamarin.com/guides/xamarin-forms/user-interface/themes/custom/
+* Samples for themes - https://github.com/xamarin/xamarin-forms-samples/tree/master/Themes/ThemesDemo
 
 # MISC
 * .NET Standard > .NET Standard 2.0 Support in Xamarin.Forms - https://developer.xamarin.com/guides/xamarin-forms/under-the-hood/net-standard/

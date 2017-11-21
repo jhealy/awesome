@@ -1,4 +1,5 @@
 # Universal Windows Platform ( UWP )
+* Blog - https://blogs.msdn.microsoft.com/universal-windows-app-model/
 * Guide to UWP Apps - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn894631.aspx
 * How-to guides for Windows 10 apps - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt244352.aspxSDK 
 * Samples for UWP - https://github.com/Microsoft/Windows-universal-samples/
@@ -11,6 +12,7 @@
 * What's new in Windows for Developers - breakout by version - https://msdn.microsoft.com/en-us/windows/uwp/whats-new/
 ** Fall Creators Update 1709 update developers - https://docs.microsoft.com/en-us/windows/uwp/whats-new/windows-10-build-16299
 * Windows Developer Platform Backlog - Features implemented, bugs and feature requests - https://developer.microsoft.com/en-us/windows/platform
+* Windows 10 Editions, so you can tell what build is what version, et cetera - https://technet.microsoft.com/en-us/windows/release-info.aspx
 
 # BARCODE SCANNING
 * Camera scanner - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/CameraBarcodeScanner
@@ -88,9 +90,14 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Offline Apps: what to do when your user disconnects (July 2016) - https://blogs.windows.com/buildingapps/2016/07/25/offline-apps-what-to-do-when-your-user-disconnects/
 * Roaming app data and the user experience - https://blogs.windows.com/buildingapps/2016/05/04/roaming-app-data-and-the-user-experience/
 
+# VERSION SPECIFIC FEATURES WORTH NOTING
+## 1703 FALL CREATORS UPDATE BUILD 15063.72
+* 15063 - What's new for developers - https://docs.microsoft.com/en-us/windows/uwp/whats-new/windows-10-build-15063
+* App Installs from Web via App Installer -Sept 2017 - https://blogs.msdn.microsoft.com/appinstaller/2017/09/26/uwp-app-installs-from-web-via-app-installer/ 
+*  Automated app updates with “.appinstaller” file - https://blogs.msdn.microsoft.com/appinstaller/2017/09/27/automated-app-updates-with-appinstaller-file/ 
+* CompactOverlay ViewMode -https://technet.microsoft.com/en-us/windows/release-info.aspx
+
 # MISC
-* 1703 Fall Creators Update ->  App Installs from Web via App Installer -Sept 2017 - https://blogs.msdn.microsoft.com/appinstaller/2017/09/26/uwp-app-installs-from-web-via-app-installer/ 
-* 1703 Fall Creators Update -> Automated app updates with “.appinstaller” file - https://blogs.msdn.microsoft.com/appinstaller/2017/09/27/automated-app-updates-with-appinstaller-file/ 
 * Awesome UWP Resources Collection - https://github.com/igorkulman/awesome-uwp
 * Azure > DocumentDB and UWP - photo sharing - https://blogs.windows.com/buildingapps/2016/03/17/uwp-azure-app-services-and-documentdb-soup-a-photo-sharing-app/
 * Azure > IoT Hub > Connect your Windows app to Azure IoT Hub with Visual Studio - https://blogs.windows.com/buildingapps/2016/03/03/connect-your-windows-app-to-azure-iot-hub-with-visual-studio/

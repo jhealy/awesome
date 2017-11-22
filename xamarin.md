@@ -1,3 +1,4 @@
+
 ## GENERAL
 
 Xamarin resources in general except for thos related to Xamarin Forms.  See https://github.com/jhealy/awesome/blob/master/xamarin-forms.md for Xamarin Forms.
@@ -21,6 +22,7 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 * ARKit - https://twitter.com/dotMorten/status/902783082314342402 - https://www.youtube.com/watch?v=dIrYNiBqYsE
 * Material Design for your Xamarin Forms Android Apps - montemagno - https://blog.xamarin.com/material-design-for-your-xamarin-forms-android-apps/
 * Remote your Android device to your desktop - Montemagno recommends -http://www.vysor.io/
+* Samsung Andriod USB Drivers - http://developer.samsung.com/galaxy/others/android-usb-driver-for-windows
 
 # IOS
 * ARKit Sample - https://developer.xamarin.com/guides/ios/platform_features/introduction-to-ios11/arkit/urhosharp/

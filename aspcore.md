@@ -41,6 +41,7 @@
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
 * Razor - https://msdn.microsoft.com/en-us/magazine/mt842512
 * Razor - Creating Razor Pages on Windows - https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/
+* Razor - Intro to Razor Pages in .NET Core - https://docs.microsoft.com/en-us/aspnet/core/mvc/razor-pages/index?tabs=visual-studio
 * SignalR for ASP.NET Core 2.0 Announced - Sept 2017 - https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/
 * SignalR Roadmap - part of ASP .NET Core - https://github.com/aspnet/Home/wiki/Roadmap
 * SPA - templates - https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/

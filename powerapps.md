@@ -28,6 +28,7 @@
 
 # COMMON DATA SERVICE
 * Overview - https://docs.microsoft.com/en-us/common-data-service/entity-reference/security-model
+* Licensing - https://docs.microsoft.com/en-us/powerapps/pricing-billing-skus
 * Pricing - https://powerapps.microsoft.com/en-us/pricing/
 
 # DELEGATION

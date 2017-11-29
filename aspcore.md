@@ -1,3 +1,4 @@
+
 # ASP.NET CORE
 * API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - try webhook v dbdataadapter on .NET Standard 2.0
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
@@ -28,6 +29,7 @@
 * HostedService Sample - https://www.stevejgordon.co.uk/asp-net-core-2-ihostedservice
 * HtmlHelpers listing - https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewfeatures.htmlhelper?view=aspnetcore-2.0
 * HtmlHelpers - https://www.mikesdotnetting.com/article/184/html-helpers-for-forms-in-razor-web-pages
+* HtmlHelpers - tutorials - http://www.tutorialsteacher.com/mvc/html-helpers
 * Loggings > Introduction to Logging in ASP.NET Core - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging
 * Middleware > Great overview (1.1) - https://www.jeffogata.com/asp-net-core-middleware/
 * Mocking in .NET Core > https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing

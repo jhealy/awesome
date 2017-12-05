@@ -13,3 +13,4 @@
 
 # MISC
 * Convert xml/json to other types like c#/java/et al - https://quicktype.io/
+* setTimeout - https://www.sitepoint.com/jquery-settimeout-function-examples/

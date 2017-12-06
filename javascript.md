@@ -15,6 +15,7 @@
 * Edge Developer Guide - WebSocket call - https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/networking-and-connectivity/websocket
 * Server side socket in core - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets
 * Server side socket sample - https://github.com/aspnet/Docs/tree/master/aspnetcore/fundamentals/websockets/sample
+* Tutorial - https://www.tutorialspoint.com/websockets/websockets_api.htm
 
 # MISC
 * Convert xml/json to other types like c#/java/et al - https://quicktype.io/

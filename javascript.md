@@ -12,6 +12,7 @@
 * Ten Javascript concepts Node.js programmers should master - https://www.infoworld.com/article/3196070/node-js/10-javascript-concepts-nodejs-programmers-must-master.html#tk.ifw-infsb
 
 # WebSocket
+* Close status enumeration - https://msdn.microsoft.com/en-us/library/windows/desktop/hh449350(v=vs.85).aspx
 * Edge Developer Guide - WebSocket call - https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/networking-and-connectivity/websocket
 * Server side socket in core - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets
 * Server side socket sample - https://github.com/aspnet/Docs/tree/master/aspnetcore/fundamentals/websockets/sample

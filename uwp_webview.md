@@ -1,6 +1,7 @@
 # WEBVIEW IN UWP
 * Bypassing HTTPS Certification Validation in UWP WebView - https://www.suchan.cz/2016/11/hacking-uwp-webview-part-3-bypassing-https-certificate-validation-in-uwp-webview/
 * Debugging a webview control - https://docs.microsoft.com/en-us/visualstudio/debugger/debug-a-webview-control
+* Documentation - https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Controls.WebView
 * Invalid Certificate Handling in WebView - https://www.suchan.cz/2015/10/displaying-https-page-with-invalid-certificate-in-uwp-webview/
 * KeyHandler add-in using c# - https://www.suchan.cz/2016/01/hacking-uwp-webview-part-2-bypassing-window-external-notify-whitelist/ - watch out, if  you have Script debugging on for the webview this does not work.  VS2017->Debug->Application Process->Change from 'Managed Only' to 'Script'
 * KeyHandler add-in using c++ inside a javascript uwp browser shell - https://github.com/MicrosoftEdge/JSBrowser

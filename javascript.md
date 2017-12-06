@@ -11,6 +11,11 @@
 * Seven keys to structuring your Node.js apps - https://www.infoworld.com/article/3204205/node-js/7-keys-to-structuring-your-nodejs-app.html#tk.ifw-infsb
 * Ten Javascript concepts Node.js programmers should master - https://www.infoworld.com/article/3196070/node-js/10-javascript-concepts-nodejs-programmers-must-master.html#tk.ifw-infsb
 
+# WebSocket
+* Edge Developer Guide - WebSocket call - https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/networking-and-connectivity/websocket
+* Server side socket in core - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets
+* Server side socket sample - https://github.com/aspnet/Docs/tree/master/aspnetcore/fundamentals/websockets/sample
+
 # MISC
 * Convert xml/json to other types like c#/java/et al - https://quicktype.io/
 * setTimeout - https://www.sitepoint.com/jquery-settimeout-function-examples/

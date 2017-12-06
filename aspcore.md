@@ -1,4 +1,3 @@
-
 # ASP.NET CORE
 * API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - try webhook v dbdataadapter on .NET Standard 2.0
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
@@ -21,6 +20,11 @@
 * ASP .NET Doc Samples - must have! - https://github.com/aspnet/Docs
 * DodyG - 100+ samples for aspcore fundamentals - https://github.com/dodyg/practical-aspnetcore/
 * Music Store - https://github.com/aspnet/MusicStore
+
+# WebSocket
+* Edge Developer Guide - WebSocket call (javascript client side) - https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/networking-and-connectivity/websocket
+* Server side socket in core - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets
+* Server side socket sample - https://github.com/aspnet/Docs/tree/master/aspnetcore/fundamentals/websockets/sample
 
 # MISC
 * Auth - Google Auth with ASP.NET Core - http://ruimourato.com/2016/02/12/using-google-auth-middleware-aspnetcore.html

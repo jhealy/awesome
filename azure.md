@@ -1,3 +1,10 @@
+# ACTIVE DIRECTORY
+Also known as Azure AD...
+* AzAD Graph from PowerShell - https://blogs.technet.microsoft.com/paulomarques/2016/03/21/working-with-azure-active-directory-graph-api-from-powershell/
+* AzAD Graph from PowerShell - https://github.com/Azure/azure-docs-powershell-azuread/blob/master/azureadps-2.0-preview/AzureAD/Connect-AzureAD.md
+* Documentation - https://docs.microsoft.com/en-us/azure/active-directory/index
+* Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app/
+
 # APP SERVICES
 * Remote Debugging Azure App Services including .NET Core - https://blogs.msdn.microsoft.com/benjaminperkins/2017/06/06/remote-debug-your-azure-app-service-2017-including-asp-net-core/
 
@@ -17,8 +24,7 @@
 * Source Code > eShopOnContainers reference architecture - download and ebook links - https://github.com/dotnet-architecture/eShopOnContainers
 
 # MISC
-* AD - Documentation - https://docs.microsoft.com/en-us/azure/active-directory/index
-* AD - Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app/
+
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Cloud Design Patterns (pnp) - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 * Cognitive Services - Speech to Text WebSockets Sample (js) - https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript

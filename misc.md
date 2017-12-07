@@ -84,6 +84,7 @@ pooling, and socket exceptions
 * Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Office 365 > Add-in Model Labs - https://github.com/OfficeDev/TrainingContent/tree/master/O3652
 * Office 365 > Office Graph Home - https://developer.microsoft.com/en-us/graph/docs/concepts/overview
+* R Server Course - https://smott.gitbooks.io/introduction-to-microsoft-r-server/content/
 * Surface - Wifi driver forced install - https://www.microsoft.com/surface/en-us/support/networking-and-connectivity/install-wireless-drivers?os=windows-10&=undefined
 * Storage > SQlite > IDE - Navigate - https://www.navicat.com/en/products/navicat-for-sqlite
 * Storage > SQLite > IDE - SqliteBrowser - http://sqlitebrowser.org 

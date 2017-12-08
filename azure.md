@@ -2,6 +2,7 @@
 Also known as Azure AD...
 * AD API Reference - https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory/
 * ADAL with Powershell https://github.com/shawntabrizi/Azure-AD-Authentication-with-PowerShell-and-ADAL
+* App Service to use Azure AD - https://docs.microsoft.com/en-us/azure/app-service/app-service-mobile-how-to-configure-active-directory-authentication
 * AzAD Graph from PowerShell - https://blogs.technet.microsoft.com/paulomarques/2016/03/21/working-with-azure-active-directory-graph-api-from-powershell/
 * AzAD Graph from PowerShell - https://github.com/Azure/azure-docs-powershell-azuread/blob/master/azureadps-2.0-preview/AzureAD/Connect-AzureAD.md
 * Documentation - https://docs.microsoft.com/en-us/azure/active-directory/index

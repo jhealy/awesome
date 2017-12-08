@@ -7,6 +7,7 @@
 * Hosting > IIS - https://docs.microsoft.com/en-us/aspnet/core/publishing/iis
 * Migration - https://docs.microsoft.com/en-us/aspnet/core/migration/
 * Roadmap - https://github.com/aspnet/Home/wiki/Roadmap
+* Session state - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state?tabs=aspnetcore2x
 * Sql Server based distributed cache for ASP.NET Core - http://gunnarpeipman.com/2017/04/aspnet-core-sql-server-cache/
 * Using memory cache in ASP.NET Core - alternative to ObjectCache - local and distributed - http://gunnarpeipman.com/2017/04/aspnet-core-memory-cache/
 

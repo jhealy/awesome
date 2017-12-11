@@ -4,6 +4,7 @@
 Xamarin resources in general except for thos related to Xamarin Forms.  See https://github.com/jhealy/awesome/blob/master/xamarin-forms.md for Xamarin Forms.
 
 * Bugs and such?  Is it a bug or some other kind of knightmare? http://bugzilla.xamarin.com
+* Firewall requirements - https://developer.xamarin.com/guides/cross-platform/getting_started/installation/firewall/
 * Latest release notes - https://releases.xamarin.com/
 * Suggestions for the Xamarin Team - https://xamarin.uservoice.com/forums/144858-xamarin-platform-suggestions
 

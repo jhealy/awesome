@@ -1,6 +1,7 @@
 AZURE ACTIVE DIRECTORY
 Also known as Azure AD...
 
+# GENERAL
 * AD API Reference - https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory/
 * ADAL with Powershell https://github.com/shawntabrizi/Azure-AD-Authentication-with-PowerShell-and-ADAL
 * App Service to use Azure AD - https://docs.microsoft.com/en-us/azure/app-service/app-service-mobile-how-to-configure-active-directory-authentication
@@ -9,3 +10,8 @@ Also known as Azure AD...
 * Documentation - https://docs.microsoft.com/en-us/azure/active-directory/index
 * PowerShell for graph - https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0
 * Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app/
+
+# XAMARIN FORMS
+* Put some Azure Active Directory in your Xamarin Forms - https://blog.xamarin.com/put-adal-xamarin-forms/
+
+

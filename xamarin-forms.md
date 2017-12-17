@@ -10,6 +10,7 @@ Dedicated to XF only.  See Xamarin page ( https://github.com/jhealy/awesome/blob
 # CONTROLS
 * ContentView - https://visualstudiomagazine.com/articles/2017/10/01/add-custom-controls.aspx?mkt_tok=devfish
 * Grial - ton of controls but no UWP - $ - http://grialkit.com/download/
+* Picker - how to bind to a observable collection using ItemDisplayBinding - https://codemilltech.com/xamarin-forms-bindable-picker/
 * Plugins - Collection of Xamarin recommended plugins - https://github.com/xamarin/XamarinComponents
 * Syncfusion - free if revenue less than $1m/yr - https://www.syncfusion.com/?utm_source=devfish
 * TreeView - https://github.com/danvanderboom/Xamarin-Forms-TreeView.git

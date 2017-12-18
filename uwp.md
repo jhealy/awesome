@@ -99,6 +99,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 
 # MISC
 * Awesome UWP Resources Collection - https://github.com/igorkulman/awesome-uwp
+* Azure > ActiveDirectory - WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
 * Azure > DocumentDB and UWP - photo sharing - https://blogs.windows.com/buildingapps/2016/03/17/uwp-azure-app-services-and-documentdb-soup-a-photo-sharing-app/
 * Azure > IoT Hub > Connect your Windows app to Azure IoT Hub with Visual Studio - https://blogs.windows.com/buildingapps/2016/03/03/connect-your-windows-app-to-azure-iot-hub-with-visual-studio/
 * Data - Sharing - Publisher Cache - https://blogs.windows.com/buildingapps/2016/05/24/sharing-your-local-app-data/#KeXxuCrZZtsu3Qph.97

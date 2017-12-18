@@ -9,7 +9,13 @@ Also known as Azure AD...
 * AzAD Graph from PowerShell - https://github.com/Azure/azure-docs-powershell-azuread/blob/master/azureadps-2.0-preview/AzureAD/Connect-AzureAD.md
 * Documentation - https://docs.microsoft.com/en-us/azure/active-directory/index
 * PowerShell for graph - https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0
-* Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app/
+* Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app* WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
+
+# UWP
+* WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
+
+# WEBAPI
+* WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
 
 # XAMARIN FORMS
 * Put some Azure Active Directory in your Xamarin Forms - https://blog.xamarin.com/put-adal-xamarin-forms/

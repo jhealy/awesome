@@ -12,7 +12,7 @@ Also known as Azure AD...
 * Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app* WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
 
 # UWP
-* Get started with Microsoft Graph in a universal Windows 10 app - https://developer.microsoft.com/en-us/graph/docs/concepts/uwp
+* Get started with Microsoft Graph in a universal Windows 10 app - https://developer.microsoft.com/en-us/graph/docs/concepts/uwp (MSAL and Microsoft.Graph)
 * WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
 
 # WEBAPI

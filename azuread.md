@@ -25,9 +25,11 @@ Also known as Azure AD...
 * Code Samples Collection Across almost everything - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-code-samples
 * WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
 
-# XAMARIN FORMS
+# XAMARIN
+* Accessing the Graph API using Xamarin - https://developer.xamarin.com/guides/cross-platform/azure/active-directory/graph/
 * Code Samples Collection Across almost everything - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-code-samples
 * Put some Azure Active Directory in your Xamarin Forms - https://blog.xamarin.com/put-adal-xamarin-forms/
 * Azure AD for Forms Sample - https://github.com/mayur-tendulkar/ADALForForms
+* Director Searcher - Native - MSAL - https://github.com/Azure-Samples/active-directory-dotnet-native-multitarget/tree/master/DirSearchClient-Universal
 
 

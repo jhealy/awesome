@@ -11,6 +11,9 @@ Also known as Azure AD...
 * PowerShell for graph - https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0
 * Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app* WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
 
+# CONSOLE
+* Calling the Azure AD Graph from a Native Client - ADAL and Microsoft.Azure.ActiveDirectory.GraphClient - https://github.com/Azure-Samples/active-directory-dotnet-graphapi-console
+
 # UWP
 * Get started with Microsoft Graph in a universal Windows 10 app - https://developer.microsoft.com/en-us/graph/docs/concepts/uwp (MSAL and Microsoft.Graph)
 * WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store

@@ -10,6 +10,7 @@ Also known as Azure AD...
 * Code Samples Collection Across almost everything - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-code-samples
 * Documentation - https://docs.microsoft.com/en-us/azure/active-directory/index
 * PowerShell for graph - https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0
+* Roadmap - https://aadroadmap.azurewebsites.net/
 * Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app* WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
 
 # CONSOLE

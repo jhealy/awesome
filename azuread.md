@@ -9,6 +9,7 @@ Also known as Azure AD...
 * AzAD Graph from PowerShell - https://github.com/Azure/azure-docs-powershell-azuread/blob/master/azureadps-2.0-preview/AzureAD/Connect-AzureAD.md
 * Code Samples Collection Across almost everything - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-code-samples
 * Documentation - https://docs.microsoft.com/en-us/azure/active-directory/index
+* Intro to the Microsoft Graph .NET Client Library ( ADAL + Microsoft.Graph ) - http://blog.jonathanhuss.com/intro-to-the-microsoft-graph-net-client-library/
 * PowerShell for graph - https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0
 * Roadmap - https://aadroadmap.azurewebsites.net/
 * Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app* WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store

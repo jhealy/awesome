@@ -14,7 +14,7 @@ Also known as Azure AD...
 * Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app* WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
 
 # CONSOLE
-* Calling the Azure AD Graph from a Native Client - ADAL and Microsoft.Azure.ActiveDirectory.GraphClient - https://github.com/Azure-Samples/active-directory-dotnet-graphapi-console
+* Calling the Azure AD Graph from a Native Client - ADAL and Microsoft.Azure.ActiveDirectory.GraphClient - Nuget is not .net core compat in 2016 version (v.latest) and doesn't work for xamarin either - punt - https://github.com/Azure-Samples/active-directory-dotnet-graphapi-console
 * Code Samples Collection Across almost everything - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-code-samples
 
 # UWP

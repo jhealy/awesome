@@ -11,6 +11,7 @@ Also known as Azure AD...
 * Documentation - https://docs.microsoft.com/en-us/azure/active-directory/index
 * Intro to the Microsoft Graph .NET Client Library ( ADAL + Microsoft.Graph ) - http://blog.jonathanhuss.com/intro-to-the-microsoft-graph-net-client-library/
 * PowerShell for graph - https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0
+* JSON Web Token inspector - decodes token, lets you see whats in it - http://jwt.ms/
 * Roadmap - https://aadroadmap.azurewebsites.net/
 * Using Azure AD to land users on their custom login page from within your app - https://blogs.technet.microsoft.com/enterprisemobility/2015/02/11/using-azure-ad-to-land-users-on-their-custom-login-page-from-within-your-app* WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
 

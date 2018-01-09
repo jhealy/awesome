@@ -10,6 +10,7 @@ Also known as Azure AD...
 * Code Samples Collection Across almost everything - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-code-samples
 * Documentation - https://docs.microsoft.com/en-us/azure/active-directory/index
 * Intro to the Microsoft Graph .NET Client Library ( ADAL + Microsoft.Graph ) - http://blog.jonathanhuss.com/intro-to-the-microsoft-graph-net-client-library/
+* Graph QuickStart - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-graph-api-quickstart
 * PowerShell for graph - https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0
 * JSON Web Token inspector - decodes token, lets you see whats in it - http://jwt.ms/ - Sara Ford on jwt.ms - https://saraford.net/2017/08/31/how-to-use-httpsjwt-ms-to-decode-json-web-tokens/
 * Roadmap - https://aadroadmap.azurewebsites.net/

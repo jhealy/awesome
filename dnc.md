@@ -44,6 +44,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * Multi-framework targeting - https://blogs.msdn.microsoft.com/cesardelatorre/2016/06/28/running-net-core-apps-on-multiple-frameworks-and-what-the-target-framework-monikers-tfms-are-about/
 * XProj depreciated - https://visualstudio.uservoice.com/forums/563332-visual-studio-for-mac/suggestions/17136148-support-for-visual-studio-xproj-format - https://stackoverflow.com/questions/43679083/how-to-open-xproj-file-in-vs2017-2015
 * .NET API Browser - awesome - filter to core - https://docs.microsoft.com/en-us/dotnet/api/
+* Windows Compatibility pack - lots of classes to make porting from Windows to other platforms easier - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack
 
 
 SEE ALSO - ASP.Net Core section in this doc - https://github.com/jhealy/awesome/blob/master/aspcore.md

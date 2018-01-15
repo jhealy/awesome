@@ -31,7 +31,14 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 * Unable to boot device in current state: Booted.  Simulator won't start and just hangs.  Switch to remote run from pc to mac and get this error.  See https://stackoverflow.com/questions/24135067/unable-to-boot-device-in-current-state-booted for discussions.
 
 # TIZEN
-* Tizen .NET Forum - https://developer.tizen.org/forums/tizen-.net/active
+* **API Documentation** - https://developer.tizen.org/dev-guide/csapi/index.html
+* **Blog** - https://developer.tizen.org/blog
+* **Forum** - https://developer.tizen.org/forums/tizen-.net/active
+* .NET Preview 4 - https://developer.tizen.org/development/tizen-.net-preview/introduction
+* Creating your first Tizen .NET Application - wearable in emu only - https://developer.tizen.org/development/training/.net-application/creating-your-first-tizen-.net-application
+* SSDC 2017 on Wearables - https://www.youtube.com/watch?v=24dy32CL0ok&feature=youtu.be
+* Tizen Studio release notes (not .net / xamarin) - https://developer.tizen.org/development/tizen-studio/download/release-notes
+* VS for Tizen - First Experiences - http://gunnarpeipman.com/2017/07/tizen/
 * Wearables not available until Sept 2018, pending Tizen OS 4.0 - https://developer.tizen.org/forums/tizen-.net/deploy-emulator-or-device-not-working
 
 # MISC

@@ -10,5 +10,8 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 
 # TOOLS
 * BotAuth - Node.js and C# framework for  bot authentication.  Any OAuth2 provider.  https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2017/05/15/bot-authentication-in-the-bot-framework/
+* Microsoft Bot Framework Emulator - https://aka.ms/bf-bc-emulator 
+
+# MISC
 * J.Marsman's favorite bot samples - https://blogs.msdn.microsoft.com/jennifer/2017/05/09/the-bot-framework-my-favorite-samples/ - chop me up
 

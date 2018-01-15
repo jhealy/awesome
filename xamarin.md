@@ -1,4 +1,3 @@
-
 ## GENERAL
 
 Xamarin resources in general except for thos related to Xamarin Forms.  See https://github.com/jhealy/awesome/blob/master/xamarin-forms.md for Xamarin Forms.
@@ -30,6 +29,10 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 * Provisioning up a physical iOS device for developer.  Not for the wimpy or weak.  Requires Apple developer account - https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/
 * Remote your iPhone to your desktop - Montemagno recommends AirPlay, but it only works on Fruit.  Some alternative for PC users listed here - https://www.lifewire.com/where-to-get-airplay-for-windows-2000736
 * Unable to boot device in current state: Booted.  Simulator won't start and just hangs.  Switch to remote run from pc to mac and get this error.  See https://stackoverflow.com/questions/24135067/unable-to-boot-device-in-current-state-booted for discussions.
+
+# TIZEN
+* Tizen .NET Forum - https://developer.tizen.org/forums/tizen-.net/active
+* Wearables not available until Sept 2018, pending Tizen OS 4.0 - https://developer.tizen.org/forums/tizen-.net/deploy-emulator-or-device-not-working
 
 # MISC
 * Design > Images - Cross Platform Images in Xamarin Forms Using SVG - http://www.patridgedev.com/2016/03/17/cross-platform-images-in-xamarin-forms-using-svgs/

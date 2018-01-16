@@ -8,6 +8,11 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Daniel Egan's Bot Leearning Lab - https://github.com/DanielEgan/BotWorkshop 
 * The Intelligent AGent Assistant: Bots in the AGent Desktop - Part 1 - https://blogs.msdn.microsoft.com/geoffreyinnis/2017/06/28/the-intelligent-agent-assistant-bots-in-the-agent-desktop-part-1/
 
+# LUIS
+Language Understanding Cognitive Service
+* Home - https://www.luis.ai/home
+* Pricing - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-understanding-intelligent-services/
+
 # TOOLS
 * BotAuth - Node.js and C# framework for  bot authentication.  Any OAuth2 provider.  https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2017/05/15/bot-authentication-in-the-bot-framework/
 * Microsoft Bot Framework Emulator - https://aka.ms/bf-bc-emulator 

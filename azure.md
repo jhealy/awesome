@@ -4,6 +4,7 @@
 # LEARN
 * Application Architecture Guide (pdf available too) = https://docs.microsoft.com/en-us/azure/architecture/guide/
 * Architecture Guide for MicroServices, Web Apps, Cloud Deployment - https://www.microsoft.com/net/learn/architecture
+* ARM errors on deploy - https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures
 * DocumentDB MVA - https://mva.microsoft.com/en-US/training-courses/azure-documentdb-planetscale-nosql-16847
 
 # MICROSERVICES

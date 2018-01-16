@@ -11,6 +11,7 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 # LUIS
 Language Understanding Cognitive Service
 * Home - https://www.luis.ai/home
+* Apps home - https://www.luis.ai/applications
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-understanding-intelligent-services/
 
 # TOOLS

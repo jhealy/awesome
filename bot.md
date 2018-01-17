@@ -2,6 +2,7 @@
 Things relevant to Bot framework from Microsoft.  No, I dont care about any other kinds of bots right now.
 * Documentation - https://docs.microsoft.com/en-us/bot-framework/
 * Publishing endpoint - https://dev.botframework.com/
+* Samples - Node.js or C# - https://github.com/Microsoft/BotBuilder-Samples
 * Support - StackOverflow for Cognitive Services and Bot - https://stackoverflow.com/questions/tagged/microsoft-cognitive
 
 # LEARN

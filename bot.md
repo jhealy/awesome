@@ -6,7 +6,7 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Support - StackOverflow for Cognitive Services and Bot - https://stackoverflow.com/questions/tagged/microsoft-cognitive
 
 # LEARN
-** 5 Minute QuickStarts from Bots doc - https://docs.microsoft.com/en-us/bot-framework/ **
+_5 Minute QuickStarts from Bots doc - https://docs.microsoft.com/en-us/bot-framework/_
 * Bot-Factory - http://mybotfactory.azurewebsites.net/
 * Daniel Egan's Bot Leearning Lab - https://github.com/DanielEgan/BotWorkshop 
 * The Intelligent AGent Assistant: Bots in the AGent Desktop - Part 1 - https://blogs.msdn.microsoft.com/geoffreyinnis/2017/06/28/the-intelligent-agent-assistant-bots-in-the-agent-desktop-part-1/

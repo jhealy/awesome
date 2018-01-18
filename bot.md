@@ -21,6 +21,8 @@ Language Understanding Cognitive Service
 
 # TOOLS
 * BotAuth - Node.js and C# framework for  bot authentication.  Any OAuth2 provider.  https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2017/05/15/bot-authentication-in-the-bot-framework/
+* Channel Inspector - Overview - https://docs.microsoft.com/en-us/bot-framework/bot-service-channel-inspector 
+* Channel Inspector - link - https://docs.botframework.com/en-us/channel-inspector/channels/WebChat
 * Microsoft Bot Framework Emulator - https://aka.ms/bf-bc-emulator 
 
 # MISC

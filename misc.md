@@ -46,8 +46,7 @@ pooling, and socket exceptions
 * PNP Good/Bad HttpClient Sample - https://github.com/mspnp/performance-optimization/tree/465514674354c8f833c73882f7405ac22c4fd437/ImproperInstantiation
 * You're using HttpClient wrong and it is destabilizing your software - http://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
 
-# IIS
-* Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
+# IIS* Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
 * Docs on microsoft.com - https://docs.microsoft.com/en-us/iis/
 * Install Failed Request Tracing Tool (8.5) - https://blogs.msdn.microsoft.com/benjaminperkins/2015/11/02/install-failed-request-tracing-on-iis-8-5-server-core/
 * LogParser for IIS Logs ( w3c ext log format ) - https://docs.microsoft.com/en-us/iis/troubleshoot/performance-issues/troubleshooting-iis-performance-issues-or-application-errors-using-logparser
@@ -73,6 +72,7 @@ pooling, and socket exceptions
 * Code Review > Globalization best practices - https://msdn.microsoft.com/en-us/library/w7x1y988(v=vs.110).aspx
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
 * C++ Blog - https://blogs.msdn.microsoft.com/vcblog/
+* Data Science - Microsoft Professional Program for Data Science - https://academy.microsoft.com/en-us/professional-program/tracks/data-science/
 * Design > Data Viz Project - inspiration - http://datavizproject.com/
 * Design > What the font - Shazam for fonts - http://www.myfonts.com/WhatTheFont/mobile/
 * Edge developer Guide - https://docs.microsoft.com/en-us/microsoft-edge/dev-guide

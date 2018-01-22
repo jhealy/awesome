@@ -28,5 +28,6 @@ Language Understanding Cognitive Service
 * Microsoft Bot Framework Emulator - https://aka.ms/bf-bc-emulator 
 
 # MISC
+* Bot State Service retired on March 31 2018 - migration resources here - https://blog.botframework.com/2017/12/19/bot-state-service-will-soon-retired-march-31st-2018/
 * J.Marsman's favorite bot samples - https://blogs.msdn.microsoft.com/jennifer/2017/05/09/the-bot-framework-my-favorite-samples/ - chop me up
 

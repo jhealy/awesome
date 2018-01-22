@@ -1,5 +1,6 @@
 # ASP.NET CORE
 * API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - try webhook v dbdataadapter on .NET Standard 2.0
+* Benchmarks v node and others - https://github.com/aspnet/benchmarks
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
 * Docs - samples - https://github.com/aspnet/Docs/tree/master/aspnetcore 
 * DodyG - Awesome .NET Core - https://github.com/dodyg/awesome-dotnet-core
@@ -41,6 +42,7 @@
 * Node.js -> Calling Node.js from ASP.NET Core - https://blogs.msdn.microsoft.com/waws/2017/10/23/calling-node-js-from-asp-net-core/
 * Performance > .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 * Performance > .NET Core vs Java - Performance Notes - http://anthonylloyd.github.io/blog/2017/08/15/dotnetcore-performance
+* Performance > Benchmarks v node and others - https://github.com/aspnet/benchmarks
 * Performance > Iris go versus .NET Core Kestrel in terms of performance (August 2017) - https://hackernoon.com/iris-go-vs-net-core-kestrel-in-terms-of-http-performance-806195dc93d5
 * Porting > Configuration - https://docs.microsoft.com/en-us/aspnet/core/migration/configuration
 * Porting > MVC - https://docs.microsoft.com/en-us/aspnet/core/migration/mvc

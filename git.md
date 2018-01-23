@@ -4,6 +4,7 @@
 * Continuous delivery to Azure using Visual Studio Online and Git - http://azure.microsoft.com/en-us/documentation/articles/cloud-services-continuous-delivery-use-vso-git/
 * GitIgnore - tons of base .gitignore files - https://github.com/github/gitignore
 * Undoing almost anything using Git - https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+* Workflow chart - http://blog.osteele.com/2008/05/my-git-workflow/
 
 # LEARN
 * Git HowTo - http://githowto.com/

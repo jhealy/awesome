@@ -18,7 +18,6 @@
 * Source Code > eShopOnContainers reference architecture - download and ebook links - https://github.com/dotnet-architecture/eShopOnContainers
 
 # MISC
-
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Cloud Design Patterns (pnp) - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 * Cognitive Services - Speech to Text WebSockets Sample (js) - https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript
@@ -29,6 +28,7 @@
 * Certification - Exam 70-534 - Retirement in December 2017 - https://www.microsoft.com/en-us/learning/exam-70-534.aspx
 * Certification - Exam 70-535 - Architecting Microsoft Azure Solutions 355 - Study Guide - http://download.microsoft.com/download/B/9/1/B91A0CE0-9786-4B81-8937-315F63E13910/Architecting_Microsoft_Azure_Solutions_11302017.pdf
 * Certification - Microsoft Professional Program for Cloud Administration - https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/ 
+* Functions > Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Functions > Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
 * IoT > Article Collection - https://buildazure.com/category/internet-of-things/
 * IoT > Starter Kits > Docs for Starter Kits - free - https://azure.microsoft.com/en-us/resources/samples/?service=iot-hub&term=starter+kit

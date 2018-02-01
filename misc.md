@@ -25,7 +25,6 @@ Held here until enough volume to be posted elsewhere....
 * Coursera - Deep Learning Specialization - https://www.coursera.org/specializations/deep-learning
 * Deep Learning Explained - https://www.edx.org/course/deep-learning-explained-microsoft-dat236x
 * Practical Deep Learning For Coders - http://course.fast.ai/
-
 # DEVOPS
 * Team Foundation Server to Visual Studio Team Services Migration Guide and Database Import Tooling - https://www.microsoft.com/en-us/download/details.aspx?id=54274
 
@@ -83,7 +82,7 @@ pooling, and socket exceptions
 * IoT > NetPi - hardened docker linux broadcom enabled Raspberry Pi - https://blogs.msdn.microsoft.com/holgerkenn/2017/10/30/hilscher-netpi-raspberry-pi-3-for-industrial-automation-part-1/
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
 * Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
-
+* PDF from Web Pages - C# base - https://github.com/leekelleher/Fo.Net
 * R Server Course - https://smott.gitbooks.io/introduction-to-microsoft-r-server/content/
 * Surface - Wifi driver forced install - https://www.microsoft.com/surface/en-us/support/networking-and-connectivity/install-wireless-drivers?os=windows-10&=undefined
 * Storage > SQlite > IDE - Navigate - https://www.navicat.com/en/products/navicat-for-sqlite

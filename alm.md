@@ -35,5 +35,6 @@ See App Center above....
 * VSTS > Introduction to TFS Build 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32179&lod=true
 * VSTS > Docs - https://docs.microsoft.com/en-us/vsts/
 * VSTS > Getting Started with Git using TFS 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32170&lod=true
+* VSTS > Labs on integration with Jenkins, Sonar, Octopus, and more - https://almvm.azurewebsites.net/labs/vstsextend/
 * VSTS > Package Management in TFS 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32188&lod=true
 

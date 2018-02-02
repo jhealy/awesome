@@ -8,5 +8,6 @@
 * Azure wiki samples - https://github.com/Azure/Azure-Functions/wiki/Samples-and-content
 
 # MISC
+* A Day in the life of an Azure serverless developer [video] - https://www.youtube.com/watch?v=jdiKoWdrIn4
 * Blog - Kloud - good general dev blog for cloud - https://blog.kloud.com.au - rss: https://blog.kloud.com.au/feed/
  

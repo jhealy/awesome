@@ -3,6 +3,7 @@
 * Github - https://github.com/Azure/Azure-Functions
 * Home page - https://functions.azure.com
 * Twitter - https://twitter.com/azurefunctions
+* Stack Overflow - [azure-functions] tag - https://stackoverflow.com/questions/tagged/azure-functions
 * Support Forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions
 * YouTube - https://www.youtube.com/AzureFunctions
 

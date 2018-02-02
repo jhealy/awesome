@@ -9,6 +9,8 @@ Even as a Microsoft employee is hard even for me to figure out the public routes
 * ASP.NET - http://aspnet.uservoice.com 
 * ASP.NET Dynamic Data - about 1/2 way down look for feedback section - http://aspnet.codeplex.com/wikipage?title=Dynamic%20Data 
 * Azure 
+** Functions feedback - https://feedback.azure.com/forums/355860-azure-functions/filters/top
+** Functions forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions
 ** Support Home - http://azure.microsoft.com/en-us/support/options/ 
 ** Stack Overflow - http://www.stackoverflow.com 
 ** '''UserVoice - http://feedback.azure.com''' 

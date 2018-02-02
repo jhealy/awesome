@@ -12,6 +12,7 @@
 * Blog - Azure App Service Team - https://blogs.msdn.microsoft.com/appserviceteam/
 * Blog - Kloud - good general dev blog for cloud - https://blog.kloud.com.au - rss: https://blog.kloud.com.au/feed/
 * CosmosDB and Azure Function Integration - https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/
+* CosmosDB Graph via Gremlin - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 
  

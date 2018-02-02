@@ -1,6 +1,8 @@
 # GENERAL
 * Doc home - https://azure.microsoft.com/en-us/services/functions/
+* Feedback - https://feedback.azure.com/forums/355860-azure-functions/filters/top
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
+* Support Forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
 * Wiki - has variety of topics including samples and content - https://github.com/Azure/Azure-Functions/wiki
 

@@ -16,5 +16,6 @@
 * CosmosDB and Azure Function Integration - https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/
 * CosmosDB Graph via Gremlin - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
+* VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions 
 
  

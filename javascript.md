@@ -22,4 +22,5 @@
 
 # MISC
 * Convert xml/json to other types like c#/java/et al - https://quicktype.io/
+* Gulp -> Automate deplyoment tasks with Gulp APIs - https://blog.kloud.com.au/2018/02/01/automate-deployment-pipeline-tasks-using-gulpjs-apis/
 * setTimeout - https://www.sitepoint.com/jquery-settimeout-function-examples/

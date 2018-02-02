@@ -26,5 +26,6 @@
 * Code Samples Collection Across almost everything - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-code-samples
 
 # MISC
+* Azure Functions Bindings for Graph - https://azure.microsoft.com/en-us/blog/serverless-for-all-developers-bringing-azure-functions-to-linux-mac-planet-scale-nosql-real-time-analytics-and-productivity-apps/
 * Teams via Graph with SSO - https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Authentication-SSO-and-Microsoft-Graph-in-Microsoft-Teams-Tabs/ba-p/125366
 

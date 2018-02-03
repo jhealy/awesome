@@ -2,6 +2,7 @@
 * Blog - PowerApps Team - https://powerapps.microsoft.com/en-us/blog/
 * Blog - Office Team - https://blogs.office.com/en-us/feed/
 * Case Studies - http://aka.ms/Powerapps/casestudies
+* Coding Guidelines - http://toddbaginski.com/blog/powerapps-coding-guidelines/
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Forum
 * Get help - Community Forms and App Gallery - https://powerapps.microsoft.com/en-us/blog/new-best-practices-community-forums-and-app-gallery/

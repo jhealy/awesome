@@ -1,7 +1,7 @@
 # CONTACT
+* Docs - https://docs.microsoft.com/en-us/azure/azure-functions/
 * Feedback - https://feedback.azure.com/forums/355860-azure-functions/filters/top
 * Github - https://github.com/Azure/Azure-Functions
-* Home page - https://functions.azure.com
 * Twitter - https://twitter.com/azurefunctions
 * Stack Overflow - [azure-functions] tag - https://stackoverflow.com/questions/tagged/azure-functions
 * Support Forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions

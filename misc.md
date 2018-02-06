@@ -4,6 +4,7 @@ Held here until enough volume to be posted elsewhere....
 # .NET GENERAL
 * .NET API Browser - https://docs.microsoft.com/en-us/dotnet/api/
 * .NET Verification Tool - https://blogs.msdn.microsoft.com/astebner/2017/05/26/net-framework-setup-verification-tool-cleanup-tool-and-detection-sample-code-now-support-net-framework-4-7/
+* Early Access Builds - https://github.com/Microsoft/dotnet-framework-early-access
 * Memory > Analyzing Issues - https://msdn.microsoft.com/en-us/library/dn342825.aspx 
 * Performance > .NET Performance Tuning Guide circa 2004 - an oldie but goodie - https://msdn.microsoft.com/en-us/library/ff649152.aspx
 * Performance > .NET 4.7 v .NET Core 2.0 - Performance Improvements - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/

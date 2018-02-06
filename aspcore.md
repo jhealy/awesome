@@ -1,3 +1,4 @@
+
 # ASP.NET CORE
 * API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - try webhook v dbdataadapter on .NET Standard 2.0
 * Benchmarks v node and others - https://github.com/aspnet/benchmarks
@@ -17,6 +18,7 @@
 
 # LEARN
 * MVA - ASP.NET CORE Learning Path - https://mva.microsoft.com/learning-path/asp-net-core-6
+* Workshop - from Shayne Boyer and krew - teach you ASP.NET Core by building a complete conference management website from scratch - https://github.com/dotnet-presentations/aspnetcore-app-workshop - updates: https://tattoocoder.com/aspnetcore-workshop-update/
 
 # SAMPLES
 * ASP .NET Doc Samples - must have! - https://github.com/aspnet/Docs

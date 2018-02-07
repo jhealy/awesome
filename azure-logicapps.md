@@ -1,4 +1,5 @@
 # GENERAL
+* Connectors List - https://docs.microsoft.com/en-us/azure/connectors/apis-list
 * Microsoft Samples - https://github.com/logicappsio
 * Workflow definition language - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
 

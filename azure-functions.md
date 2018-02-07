@@ -32,5 +32,4 @@
 * Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions 
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhealy-20&marketplace=amazon&region=US&placement=1788390822&asins=1788390822&linkId=e5710b9fe0de01fe5bb385b94caa291f&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe> 
+<a target="_blank"  href="https://www.amazon.com/gp/product/1788390822/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788390822&linkCode=as2&tag=jhealy-20&linkId=67c8a2d8bdc4d2512603442a83bfc775"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1788390822&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=jhealy-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jhealy-20&l=am2&o=1&a=1788390822" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

@@ -1,7 +1,6 @@
 # GENERAL
 * Case studies - https://customers.microsoft.com/en-us/search?sq=%22Azure%20Logic%20Apps%20%22&ff=&p=1&so=story_publish_date%20desc
 * Connectors List - https://docs.microsoft.com/en-us/azure/connectors/apis-list
-* Microsoft Samples - https://github.com/logicappsio
 * Workflow definition language - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
 
 # HELP
@@ -10,6 +9,10 @@
 
 # LEARN
 * Build your first logic app - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-a-logic-app/
+
+# SAMPLES
+* Microsoft Samples - https://github.com/logicappsio
+* Pre-built templates - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-logic-apps-from-templates
 
 # MISC
 * B2B via Enterprise Integration Pack - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-overview

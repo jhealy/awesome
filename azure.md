@@ -33,7 +33,6 @@
 * IoT > Starter Kits > March 2016 Blog - https://blogs.microsoft.com/iot/2016/03/31/azure-iot-starter-kits-open-the-door-to-developer-innovation/
 * Keeping secrets in the cloud with Azure - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 * Linux - Course - Linux Foundation - Administering Linux on Azure - https://training.linuxfoundation.org/linux-courses/system-administration-training/administering-linux-on-azure
-* Logic Apps > Samples - https://github.com/logicappsio
 * Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
 * Python in Azure PaaS for batch services - https://azure.microsoft.com/en-us/resources/samples/batch-python-paas-cloud-service-pool/
 * Service Fabric > Linux and Windows differences - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-linux-windows-differences

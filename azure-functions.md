@@ -32,4 +32,5 @@
 * Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/
+* Serverless Architecture with Azure Functions [Feb 2017 MSDN Mag] - https://msdn.microsoft.com/en-us/magazine/mt793269.aspx
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions 

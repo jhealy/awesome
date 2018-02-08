@@ -11,6 +11,7 @@
 
 # LEARN
 * Build your first logic app - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-a-logic-app/
+* Go from Zero to Hero with Logic Apps [June 2017] - https://channel9.msdn.com/Events/Build/2017/C9R17
 
 # SAMPLES
 * Microsoft Samples - https://github.com/logicappsio

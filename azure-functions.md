@@ -22,6 +22,7 @@
 
 # MISC
 * A Day in the life of an Azure serverless developer [video] - https://www.youtube.com/watch?v=jdiKoWdrIn4
+* AWS Lambda versus Functions - https://serifandsemaphore.io/azure-cloud-functions-vs-aws-lambda-caf8a90605dd
 * Blog - Azure App Service Team - https://blogs.msdn.microsoft.com/appserviceteam/
 * Blog - Kloud - good general dev blog for cloud - https://blog.kloud.com.au - rss: https://blog.kloud.com.au/feed/
 * Build Apps Faster with Serverless - https://channel9.msdn.com/Blogs/Azure/Build-apps-faster-with-Azure-Serverless
@@ -29,9 +30,9 @@
 * CosmosDB Graph via Gremlin - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
 * Cross Platform Tooling for Az Functions - Mac, Linux via NPM.  VS Code. VS Mac. Javascript, c#.  https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
-* Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
-* Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
-* Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/
+* PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
+* PowerApps -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
+* PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Serverless Architecture with Azure Functions [Feb 2017 MSDN Mag] - https://msdn.microsoft.com/en-us/magazine/mt793269.aspx
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions 

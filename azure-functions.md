@@ -1,18 +1,17 @@
-# CONTACT
-* Docs - https://docs.microsoft.com/en-us/azure/azure-functions/
-* Feedback - https://feedback.azure.com/forums/355860-azure-functions/filters/top
-* Github - https://github.com/Azure/Azure-Functions
-* Twitter - https://twitter.com/azurefunctions
-* Stack Overflow - [azure-functions] tag - https://stackoverflow.com/questions/tagged/azure-functions
-* Support Forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions
-* YouTube - https://www.youtube.com/AzureFunctions
-
 # GENERAL
 * **Doc** home - https://azure.microsoft.com/en-us/services/functions/
 * Bindings and triggers - https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
 * Wiki - has variety of topics including samples and content - https://github.com/Azure/Azure-Functions/wiki
+
+# CONTACT
+* Feedback - https://feedback.azure.com/forums/355860-azure-functions/filters/top
+* Github - https://github.com/Azure/Azure-Functions
+* Twitter - https://twitter.com/azurefunctions
+* Stack Overflow - [azure-functions] tag - https://stackoverflow.com/questions/tagged/azure-functions
+* Support Forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions
+* YouTube - https://www.youtube.com/AzureFunctions
 
 # LEARN
 * Book - <a target="_blank" href="https://www.amazon.com/gp/product/1788390822/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788390822&linkCode=as2&tag=jhealy-20&linkId=9a9dd2c286874f47f28a007a30542368">Azure Serverless Computing Cookbook: Build applications hosted on serverless architecture using Azure Functions</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jhealy-20&l=am2&o=1&a=1788390822" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

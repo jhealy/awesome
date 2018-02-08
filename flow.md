@@ -21,6 +21,7 @@ fs
 * Warehouse delivery notification - flick physical button - SharePoint - Twilio - https://flow.microsoft.com/en-us/blog/flow-of-the-week-warehouse-delivery-notification/ 
 
 # MISC
+* Choose between Logic Apps, Flow, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
 * HttpTrigger for custom applications - http://techcarpenter.blogspot.no/2017/10/microsoft-flow-as-a-service-for-custom-applications.html
 
 

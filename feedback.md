@@ -57,7 +57,6 @@ http://www.devfish.net/fullblogitemview.aspx?blogid=734|Web Application Toolkit 
 * Visual Studio Cordova - see TACO entry here 
 * Visual Studio and .NET Framework Feedback - http://connect.microsoft.com/VisualStudio 
 * Visual Studio Forums - https://social.msdn.microsoft.com/Forums/vstudio/en-US/home?forum=vsdebug 
-* Visual Studio 2017 - https://docs.microsoft.com/en-us/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017|How to report a problem 
 * Visual Studio Mac - https://visualstudio.uservoice.com/forums/563332-visual-studio-for-mac 
 * Visual Studio Subscriptions (MSDN Subs) - Service Centers (1-800-759-5474) -
 https://www.visualstudio.com/subscriptions/support/

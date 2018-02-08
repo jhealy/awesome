@@ -6,6 +6,7 @@
 * Architecture Guide for MicroServices, Web Apps, Cloud Deployment - https://www.microsoft.com/net/learn/architecture
 * ARM errors on deploy - https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures
 * DocumentDB MVA - https://mva.microsoft.com/en-US/training-courses/azure-documentdb-planetscale-nosql-16847
+* Microsoft Mechanics Video Series - https://www.youtube.com/c/MicrosoftMechanicsSeries
 
 # MICROSERVICES
 * Service Fabric > team blog - https://blogs.msdn.microsoft.com/azureservicefabric/

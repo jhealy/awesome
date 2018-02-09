@@ -1,6 +1,7 @@
 # GENERAL
 * **Doc** home - https://azure.microsoft.com/en-us/services/functions/
 * Bindings and triggers - https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
+* Choose between Flow, Logic Apps, Functions, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
 * Wiki - has variety of topics including samples and content - https://github.com/Azure/Azure-Functions/wiki

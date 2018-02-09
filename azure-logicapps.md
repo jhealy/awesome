@@ -13,6 +13,7 @@
 # LEARN
 * Build advaned business logic apps using Azure Logic Apps [Ignite Oct 2017] - https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3179
 * Build your first logic app - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-a-logic-app/
+* Introducing Azure Logic Apps - https://www.youtube.com/watch?v=ksU5OCf3cn0
 * Go from Zero to Hero with Logic Apps [June 2017] - https://channel9.msdn.com/Events/Build/2017/C9R17
 
 # SAMPLES

@@ -1,4 +1,4 @@
- GENERAL
+# GENERAL
 * Case studies - https://customers.microsoft.com/en-us/search?sq=%22Azure%20Logic%20Apps%20%22&ff=&p=1&so=story_publish_date%20desc
 * Connectors List - https://docs.microsoft.com/en-us/azure/connectors/apis-list
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/logic-apps/

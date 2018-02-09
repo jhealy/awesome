@@ -40,8 +40,7 @@
 * 500 Record Limit, Delegation, and How to Work Around It - via Collections - https://blog.coeo.com/davidmorrison/2017/06/21/powerapps-500-record-limit-delegation-and-how-to-work-around-it
 
 # LEARN
-[comment]: <> (This is a comment, it will not be included)
-[//]: <> (* App-in-a-day - https://aka.ms/appinaday)
+<!-- * App-in-a-day - https://aka.ms/appinaday -->
 * Create an app using the browser tool - works on a Mac - https://powerapps.microsoft.com/en-us/tutorials/create-app-browser/ 
 * Developing Busines Applications with Power Apps and Microsoft Flow - edx - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
 * EdX - Developing Business Applications with PowerApps and Flow - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x

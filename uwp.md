@@ -86,8 +86,8 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 
 # PERFORMANCE
 * Monitoring with Diagnostic API - https://blogs.windows.com/buildingapps/2017/06/28/uwp-app-diagnostics/
-
-* Performance > Performance Tips from the UWP Publishing Docs - https://docs.microsoft.com/en-us/windows/uwp/debug-test-perf/performance-and-xaml-ui
+* Performance Tips from the UWP Publishing Docs - https://docs.microsoft.com/en-us/windows/uwp/debug-test-perf/performance-and-xaml-ui
+* Reducing Memory when App Suspended - https://docs.microsoft.com/en-us/windows/uwp/launch-resume/reduce-memory-usage
 * Working with Memory Limits and Task Priorities in the UWP - https://msdn.microsoft.com/en-us/magazine/mt742869.aspx
 
 # STORAGE

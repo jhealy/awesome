@@ -100,7 +100,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 # VERSION SPECIFIC FEATURES WORTH NOTING
 ## 1703 FALL CREATORS UPDATE BUILD 15063.72
 * 15063 - What's new for developers - https://docs.microsoft.com/en-us/windows/uwp/whats-new/windows-10-build-15063
-* App Installs from Web via App Installer -Sept 2017 - https://blogs.msdn.microsoft.com/appinstaller/2017/09/26/uwp-app-installs-from-web-via-app-installer/ 
+ App Installs from Web via App Installer -Sept 2017 - https://blogs.msdn.microsoft.com/appinstaller/2017/09/26/uwp-app-installs-from-web-via-app-installer/ 
 *  Automated app updates with “.appinstaller” file - https://blogs.msdn.microsoft.com/appinstaller/2017/09/27/automated-app-updates-with-appinstaller-file/ 
 * CompactOverlay ViewMode -https://technet.microsoft.com/en-us/windows/release-info.aspx
 
@@ -130,7 +130,6 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Navigation > https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt187344.aspx
 * Navigation > Peer to Peer Navigation Between Two Pages - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt465735.aspx
 * NDEF / NFC Library - https://github.com/andijakl/ndef-nfc
-
 * Optical Character Recognition (OCR) for Windows 10 - https://blogs.windows.com/buildingapps/2016/02/08/optical-character-recognition-ocr-for-windows-10/
 * Polishing Your Apps with Animation and Audio Queues - https://blogs.windows.com/buildingapps/2016/08/09/polishing-your-app-with-animations-and-audio-cues/
 * Publishing Apps for 3rd Parties - https://blogs.windows.com/buildingapps/2015/12/15/building-an-app-for-a-3rd-party-how-to-package-their-store-app/

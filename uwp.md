@@ -78,10 +78,17 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Multiview sample - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/MultipleViews
 * Projection discussion - https://msdn.microsoft.com/en-us/library/windows/apps/dn495078.aspx
 * Projection sample - https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/Projection
+* Reducing Memory when App Suspended - https://docs.microsoft.com/en-us/windows/uwp/launch-resume/reduce-memory-usage
 
 # .NET NATIVE
 * Getting Started with .NET Native - https://docs.microsoft.com/en-us/dotnet/framework/net-native/getting-started-with-net-native
 * Github - https://github.com/Microsoft/dotnet/tree/master/releases/UWP/net-native2.0
+
+# PERFORMANCE
+* Monitoring with Diagnostic API - https://blogs.windows.com/buildingapps/2017/06/28/uwp-app-diagnostics/
+
+* Performance > Performance Tips from the UWP Publishing Docs - https://docs.microsoft.com/en-us/windows/uwp/debug-test-perf/performance-and-xaml-ui
+* Working with Memory Limits and Task Priorities in the UWP - https://msdn.microsoft.com/en-us/magazine/mt742869.aspx
 
 # STORAGE
 * Data Access in UWP Apps - https://blogs.windows.com/buildingapps/2016/05/03/data-access-in-universal-windows-platform-uwp-apps/
@@ -123,9 +130,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Navigation > https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt187344.aspx
 * Navigation > Peer to Peer Navigation Between Two Pages - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/mt465735.aspx
 * NDEF / NFC Library - https://github.com/andijakl/ndef-nfc
-* Performance - Monitoring with Diagnostic API - https://blogs.windows.com/buildingapps/2017/06/28/uwp-app-diagnostics/
-* Performance - Working with Memory Limits and Task Priorities in the UWP - https://msdn.microsoft.com/en-us/magazine/mt742869.aspx
-* Performance - Reducing Memory when App Suspended - https://docs.microsoft.com/en-us/windows/uwp/launch-resume/reduce-memory-usage
+
 * Optical Character Recognition (OCR) for Windows 10 - https://blogs.windows.com/buildingapps/2016/02/08/optical-character-recognition-ocr-for-windows-10/
 * Polishing Your Apps with Animation and Audio Queues - https://blogs.windows.com/buildingapps/2016/08/09/polishing-your-app-with-animations-and-audio-cues/
 * Publishing Apps for 3rd Parties - https://blogs.windows.com/buildingapps/2015/12/15/building-an-app-for-a-3rd-party-how-to-package-their-store-app/

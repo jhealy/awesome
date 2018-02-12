@@ -1,5 +1,6 @@
 # NODE
 * ASP.NET Core - Calling Node.js from ASP.NET Core - https://blogs.msdn.microsoft.com/waws/2017/10/23/calling-node-js-from-asp-net-core/
+* dotenv to secure secrets - https://www.youtube.com/watch?v=zDup0I2VGmk
 * Napa.js - multithreaded JS to bring C++ power to server side JS - https://www.infoworld.com/article/3234744/node-js/microsoft-adds-multithreading-to-nodejs-for-compute-heavy-apps.html
 
 # ANGULAR

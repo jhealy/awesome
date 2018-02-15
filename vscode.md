@@ -11,6 +11,7 @@
 * vscode-database > mysql and posgres - https://marketplace.visualstudio.com/items?itemName=bajdzis.vscode-database
 
 # MISC
+* Command line options - https://code.visualstudio.com/docs/editor/command-line
 * Linux > Create a .NET Core 2 application on Linux with Visual Studio Code - https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/create-a-net-core-2-application-on-linux-with-visual-studio-code/
 * Linux > Install Nuget Package in VS Code on Linux -https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/how-to-install-nuget-package-in-visual-studio-code-linux-ubuntu/
 * Linux > Unable to run on Ubuntu using RDP - https://github.com/Microsoft/vscode/issues/3451

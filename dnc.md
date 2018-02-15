@@ -44,6 +44,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 
 # MISC
 * Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
+* Developing for multiple versions of .NET Core - https://dotnetcoretutorials.com/2017/02/17/developing-two-versions-net-core-sdk-side-side/
 * Libraries > Refit - Typesafe REST lib from Paul Betts - .NET Standard 1.4 and up - https://paulcbetts.github.io/refit/
 * Linux > Create a .NET Core 2 application on Linux with Visual Studio Code - https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/create-a-net-core-2-application-on-linux-with-visual-studio-code/
 * Multi-framework targeting - https://blogs.msdn.microsoft.com/cesardelatorre/2016/06/28/running-net-core-apps-on-multiple-frameworks-and-what-the-target-framework-monikers-tfms-are-about/

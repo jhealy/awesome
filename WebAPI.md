@@ -6,5 +6,6 @@
 * WCF v WebAPI - Guidelines on when to use each - https://docs.microsoft.com/en-us/dotnet/framework/wcf/wcf-and-aspnet-web-api
 
 # SECURITY
+* Implementing and securing an API with ASP.NET Core ( plural$ight ) - https://www.pluralsight.com/courses/aspdotnetcore-implementing-securing-api
 * Login and Authentication for your ASP.NET Core Web API - https://jonhilton.net/2017/05/03/login-authentication-asp-net-core-web-api-big-picture/
 * Secure a Web Api in ASP.NET Core - http://www.blinkingcaret.com/2017/09/06/secure-web-api-in-asp-net-core/

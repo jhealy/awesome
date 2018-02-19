@@ -21,6 +21,10 @@ Language Understanding Cognitive Service
 * Documentation - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/home
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-understanding-intelligent-services/
 
+# SAMPLES
+• Alexa integration -	https://github.com/suneetnangia/Alexa/tree/master/Microsoft.Demos.Alexa.Luis
+•	Samples - https://github.com/Microsoft/BotBuilder-Samples
+
 # TOOLS
 * BotAuth - Node.js and C# framework for  bot authentication.  Any OAuth2 provider.  https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2017/05/15/bot-authentication-in-the-bot-framework/
 * Channel Inspector - Overview - https://docs.microsoft.com/en-us/bot-framework/bot-service-channel-inspector 

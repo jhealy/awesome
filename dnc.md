@@ -6,10 +6,10 @@
 * Build > CI with .NET Core - https://docs.microsoft.com/en-us/dotnet/core/tools/using-ci-with-cli
 * Command line tools > https://docs.microsoft.com/en-us/dotnet/core/tools/
 * Compared with .NET Framework > https://stackoverflow.com/questions/42939454/what-is-the-difference-between-net-core-and-net-standard-class-library-project
-
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
 * Runtime - Book of the Runtime - https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
 * System Requirements - https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements
+* Telemetry Reports -  https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/
 * Windows Pre-Requisites - https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites
 
 #  .NET CORE 2.0

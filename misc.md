@@ -26,12 +26,14 @@ Held here until enough volume to be posted elsewhere....
 * Coursera - Deep Learning Specialization - https://www.coursera.org/specializations/deep-learning
 * Deep Learning Explained - https://www.edx.org/course/deep-learning-explained-microsoft-dat236x
 * Practical Deep Learning For Coders - http://course.fast.ai/
+
 # DEVOPS
 * Team Foundation Server to Visual Studio Team Services Migration Guide and Database Import Tooling - https://www.microsoft.com/en-us/download/details.aspx?id=54274
 
 # DOCKER
 * Azure Batch and Docker Containers Lab - https://github.com/AdamPaternostro/Azure-Docker-Shipyard 
 * Docker and .NET > https://www.hanselman.com/blog/NETAndDocker.aspx
+* IIS - Convert ASP.NET Web Servers to Docker with Image2Docker - https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/
 * IIS Docker Image - https://hub.docker.com/r/microsoft/iis/
 * IIS Docker Image and https - https://github.com/Microsoft/iis-docker/issues/30
 * Linux containers on Windows using HyperV - https://tutorials.ubuntu.com/tutorial/tutorial-windows-ubuntu-hyperv-containers?backURL=/#0

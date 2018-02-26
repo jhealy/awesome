@@ -53,6 +53,7 @@ pooling, and socket exceptions
 
 # IIS
 * Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
+* Debugging and tuning HTTP.SYS output cache on W2k8r2/ iis7.5 (relevant to all!) - https://blogs.msdn.microsoft.com/friis/2011/01/12/debugging-and-tuning-http-sys-output-cache-on-w2k8r2-iis-7-5/
 * Docs on microsoft.com - https://docs.microsoft.com/en-us/iis/
 * Install Failed Request Tracing Tool (8.5) - https://blogs.msdn.microsoft.com/benjaminperkins/2015/11/02/install-failed-request-tracing-on-iis-8-5-server-core/
 * LogParser for IIS Logs ( w3c ext log format ) - https://docs.microsoft.com/en-us/iis/troubleshoot/performance-issues/troubleshooting-iis-performance-issues-or-application-errors-using-logparser

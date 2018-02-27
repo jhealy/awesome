@@ -55,7 +55,8 @@ pooling, and socket exceptions
 * Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
 * Debugging and tuning HTTP.SYS output cache on W2k8r2/ iis7.5 (relevant to all!) - https://blogs.msdn.microsoft.com/friis/2011/01/12/debugging-and-tuning-http-sys-output-cache-on-w2k8r2-iis-7-5/
 * Docs on microsoft.com - https://docs.microsoft.com/en-us/iis/
-* Install Failed Request Tracing Tool (8.5) - https://blogs.msdn.microsoft.com/benjaminperkins/2015/11/02/install-failed-request-tracing-on-iis-8-5-server-core/
+* Install Failed Request Tracing Tool (8.5) - https://blogs.msdn.microsoft.com/benjaminperkins/2015/11/02/install-failed-request-tracing-on-iis-8-5-server-core/ 
+* Instances in which http.sys does not cache content - https://support.microsoft.com/en-us/help/817445/instances-in-which-http-sys-does-not-cache-content
 * LogParser for IIS Logs ( w3c ext log format ) - https://docs.microsoft.com/en-us/iis/troubleshoot/performance-issues/troubleshooting-iis-performance-issues-or-application-errors-using-logparser
 * Troubleshooting Failed Requests Using Tracing (8.5) - https://docs.microsoft.com/en-us/iis/troubleshoot/using-failed-request-tracing/troubleshooting-failed-requests-using-tracing-in-iis-85
 * Troubleshooting IIS - https://docs.microsoft.com/en-us/iis/troubleshoot/

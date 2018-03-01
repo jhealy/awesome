@@ -7,3 +7,8 @@
 * Stored Procedure Support via EntitySet - https://stackoverflow.com/questions/43087350/asp-net-core-and-ef-core-1-1-diplay-data-using-stored-procedure/43088033#43088033
 * Supporting .NET Implementations - https://docs.microsoft.com/en-us/ef/core/platforms/
 * View Support - https://github.com/aspnet/EntityFrameworkCore/issues/827
+
+# ORACLE
+* .NET Core and Entity Framework Statement of Direction - March 2018 - www.oracle.com/technetwork/topics/dotnet/tech-info/odpnet-dotnet-ef-core-sod-4395108.pdf
+* ODP.NET Core Beta Download - http://www.oracle.com/technetwork/topics/dotnet/downloads/odpnetcorebeta-4077982.html
+* ODP.NET Discussion Forum - https://community.oracle.com/community/database/developer-tools/windows_and_.net/odp.net

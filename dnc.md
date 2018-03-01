@@ -23,14 +23,16 @@
 * .NET Standard FAQ - https://github.com/dotnet/standard/blob/master/docs/faq.md
 
 # DATA ACCESS
-Very much an FAQ...
 * Data Access by Bertrand LeRoy - https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/
-* Oracle > .NET Core and Entity Framework Statement of Direction - March 2018 - www.oracle.com/technetwork/topics/dotnet/tech-info/odpnet-dotnet-ef-core-sod-4395108.pdf
-* Oracle > ODP.NET Core Intro (video) - https://www.youtube.com/watch?v=tGXs3VmflQU&feature=youtu.be
-* Oracle > ODP.NET Core Beta Download - http://www.oracle.com/technetwork/topics/dotnet/downloads/odpnetcorebeta-4077982.html
-* Oracle > ODP.NET Discussion Forum - https://community.oracle.com/community/database/developer-tools/windows_and_.net/odp.net
-* Oracle > via dbConnect from devart as of June 2017 - https://www.devart.com/dotconnect/oracle/history.html
 * Providers - https://docs.microsoft.com/en-us/ef/core/providers/index
+
+# DATA ACCESS - ORACLE
+* Quick Start: Deploy .NET Core on Oracle Cloud - https://medium.com/oracledevs/quick-start-develop-deploy-a-net-core-app-on-oracle-cloud-aca69158c592
+* .NET Core and Entity Framework Statement of Direction - March 2018 - www.oracle.com/technetwork/topics/dotnet/tech-info/odpnet-dotnet-ef-core-sod-4395108.pdf
+* ODP.NET Core Intro (video) - https://www.youtube.com/watch?v=tGXs3VmflQU&feature=youtu.be
+* ODP.NET Core Beta Download - http://www.oracle.com/technetwork/topics/dotnet/downloads/odpnetcorebeta-4077982.html
+* ODP.NET Discussion Forum - https://community.oracle.com/community/database/developer-tools/windows_and_.net/odp.net
+* via dbConnect from devart as of June 2017 - https://www.devart.com/dotconnect/oracle/history.html
 
 # LEARN
 * Get Started - https://www.microsoft.com/net/core#windowsvs2017

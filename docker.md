@@ -1,0 +1,8 @@
+* Azure Batch and Docker Containers Lab - https://github.com/AdamPaternostro/Azure-Docker-Shipyard 
+* Docker and .NET > https://www.hanselman.com/blog/NETAndDocker.aspx
+* IIS - Convert ASP.NET Web Servers to Docker with Image2Docker - https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/
+* IIS Docker Image - https://hub.docker.com/r/microsoft/iis/
+* IIS Docker Image and https - https://github.com/Microsoft/iis-docker/issues/30
+* Linux containers on Windows using HyperV - https://tutorials.ubuntu.com/tutorial/tutorial-windows-ubuntu-hyperv-containers?backURL=/#0
+* Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
+* Running 1000 Containers in Docker Swarm - https://blog.codeship.com/running-1000-containers-in-docker-swarm/

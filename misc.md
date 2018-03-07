@@ -80,6 +80,7 @@ pooling, and socket exceptions
 * Entity Framework > PowerTools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/
 * IoT > NetPi - hardened docker linux broadcom enabled Raspberry Pi - https://blogs.msdn.microsoft.com/holgerkenn/2017/10/30/hilscher-netpi-raspberry-pi-3-for-industrial-automation-part-1/
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
+* Linux > Kali Linux for WSL - https://blogs.msdn.microsoft.com/commandline/2018/03/05/kali-linux-for-wsl/
 * Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * PDF from Web Pages - C# base - https://github.com/leekelleher/Fo.Net
 * R Server Course - https://smott.gitbooks.io/introduction-to-microsoft-r-server/content/

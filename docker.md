@@ -7,3 +7,4 @@
 * Linux containers on Windows using HyperV - https://tutorials.ubuntu.com/tutorial/tutorial-windows-ubuntu-hyperv-containers?backURL=/#0
 * Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Running 1000 Containers in Docker Swarm - https://blog.codeship.com/running-1000-containers-in-docker-swarm/
+* Using Windows Auth in ASP.NET Core via http.sys in containers - https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/

@@ -7,3 +7,6 @@
 * Connect Sample - UWP/C# - https://dev.office.com/code-samples-detail/8759
 * Graph Code Samples and SDKs - https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 * Snippets for UWP/C# - https://dev.office.com/code-samples-detail/10941
+
+# MISC
+* Fabric ui components for office style dev - angular and react - https://developer.microsoft.com/en-us/fabric

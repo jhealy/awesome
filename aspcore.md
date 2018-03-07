@@ -1,4 +1,3 @@
-
 # ASP.NET CORE
 * API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - try webhook v dbdataadapter on .NET Standard 2.0
 * Benchmarks v node and others - https://github.com/aspnet/benchmarks
@@ -57,6 +56,7 @@
 * SignalR for ASP.NET Core 2.0 Announced - Sept 2017 - https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/
 * SignalR Roadmap - part of ASP .NET Core - https://github.com/aspnet/Home/wiki/Roadmap
 * SPA - templates - https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
+* Using Windows Auth in ASP.NET Core via http.sys in containers - https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/
 * Windows Service > Hosting an ASP.NET Core app in a Windows Service - https://docs.microsoft.com/en-us/aspnet/core/hosting/windows-service
 * .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
 

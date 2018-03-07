@@ -1,3 +1,4 @@
+* Active Directory service accounts with Containers - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/manage-serviceaccounts
 * Azure Batch and Docker Containers Lab - https://github.com/AdamPaternostro/Azure-Docker-Shipyard 
 * Docker and .NET > https://www.hanselman.com/blog/NETAndDocker.aspx
 * Enabling Integrated Windows Authentication in Windows Docker Container - https://artisticcheese.wordpress.com/2017/09/09/enabling-integrated-windows-authentication-in-windows-docker-container/

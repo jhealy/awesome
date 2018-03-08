@@ -23,6 +23,8 @@
 
 # MISC
 * AWS Lambda versus Functions - https://serifandsemaphore.io/azure-cloud-functions-vs-aws-lambda-caf8a90605dd
+* Azure Functions vs AWS Lambda Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-scaling-face-off/
+* Azure Functions vs AWS Lambda vs Google Cloud Functions - Javascript Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-vs-google-cloud-functions-javascript-scaling-face-off/
 * Blog - Azure App Service Team - https://blogs.msdn.microsoft.com/appserviceteam/
 * Blog - Kloud - good general dev blog for cloud - https://blog.kloud.com.au - rss: https://blog.kloud.com.au/feed/
 * Build Apps Faster with Serverless - https://channel9.msdn.com/Blogs/Azure/Build-apps-faster-with-Azure-Serverless

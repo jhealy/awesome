@@ -73,6 +73,7 @@ pooling, and socket exceptions
 * C++ Blog - https://blogs.msdn.microsoft.com/vcblog/
 * Data Science - Microsoft Professional Program for Data Science - https://academy.microsoft.com/en-us/professional-program/tracks/data-science/
 * Design > Data Viz Project - inspiration - http://datavizproject.com/
+* Design > Top Ten Usability Heuristics - https://www.nngroup.com/articles/ten-usability-heuristics/
 * Design > What the font - Shazam for fonts - http://www.myfonts.com/WhatTheFont/mobile/
 * Edge developer Guide - https://docs.microsoft.com/en-us/microsoft-edge/dev-guide
 * Entity Framework  Data - Reverse POCO Generator - https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator

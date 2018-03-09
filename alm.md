@@ -25,6 +25,7 @@ See App Center above....
 * DevOps > Introduction to DevOps - https://www.edx.org/course/introduction-devops-microsoft-dev212x-0
 * DevOps > DevOps at Microsoft Showcase - https://www.visualstudio.com/learn/devops-at-microsoft/
 * DevOps > Microsoft Professional Program for DevOps - https://academy.microsoft.com/en-us/professional-program/tracks/devops/ 
+* Parts Unlimited DevOps Demo - https://microsoft.github.io/PartsUnlimitedMRP/
 * Team Explorer Everywhere - Eclipse and command line plugin - https://github.com/Microsoft/team-explorer-everywhere
 * TechNet Virtual Labs - https://almvm.azurewebsites.net/labs/tfs/technet/
 * Visual Studio Mobility Center Roadmap - https://docs.microsoft.com/en-us/mobile-center/general/roadmap

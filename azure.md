@@ -31,6 +31,7 @@
 * Certification - Exam 70-535 - Architecting Microsoft Azure Solutions 355 - Study Guide - http://download.microsoft.com/download/B/9/1/B91A0CE0-9786-4B81-8937-315F63E13910/Architecting_Microsoft_Azure_Solutions_11302017.pdf
 * Certification - Exam 70-535 - Dan Stolts 70-535 Courseware - https://github.com/guruskill/70-535
 * Certification - Microsoft Professional Program for Cloud Administration - https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/ 
+* Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
 * IoT > Article Collection - https://buildazure.com/category/internet-of-things/
 * IoT > Starter Kits > Docs for Starter Kits - free - https://azure.microsoft.com/en-us/resources/samples/?service=iot-hub&term=starter+kit
 * IoT > Starter Kits > March 2016 Blog - https://blogs.microsoft.com/iot/2016/03/31/azure-iot-starter-kits-open-the-door-to-developer-innovation/

@@ -20,6 +20,7 @@
 
 # SAMPLES
 * Azure wiki samples - https://github.com/Azure/Azure-Functions/wiki/Samples-and-content
+* License plate reader using functions and OpenALPR - https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr
 
 # MISC
 * AWS Lambda versus Functions - https://serifandsemaphore.io/azure-cloud-functions-vs-aws-lambda-caf8a90605dd

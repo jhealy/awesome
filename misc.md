@@ -65,6 +65,9 @@ pooling, and socket exceptions
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
 * .NET > Framework > Troubleshoot .NET Framework Installation Issues on Windows - http://www.thewindowsclub.com/troubleshoot-net-frameworks-4-0-install-issues-on-windows-7
 * .NET > Framework > 4.7 released - https://blogs.msdn.microsoft.com/dotnet/2017/10/17/announcing-the-net-framework-4-7-1/
+* .NET > Framework Installation > .NET Framework deployment guide for developers - https://docs.microsoft.com/en-us/dotnet/framework/deployment/deployment-guide-for-developers
+* .NET > Framework Installation > Install the .NET Framework for developers - https://docs.microsoft.com/en-us/dotnet/framework/install/guide-for-developers
+.NET > System Requirements - http://msdn.microsoft.com/en-us/library/8z6watww(v=vs.110).aspx
 * API > NightScout - Diabetes blood sugar monitor - http://www.nightscout.info/
 * BTLE > Flic.io - https://flic.io/ - SDK for BTLE
 * Code Review > Exception best practices - https://msdn.microsoft.com/en-us/library/seyhszts(v=vs.110).aspx

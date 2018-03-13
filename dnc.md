@@ -48,6 +48,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * Dustin Metzgar repos for porting pieces of WWF to .NET Core - https://github.com/dmetzgar/corewf - https://github.com/dmetzgar
 
 # MISC
+* Background processing - Hangfire - batch processing with pro license - combine with TPL for true background proc w .net core on local machine - https://www.hangfire.io/
 * Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
 * Developing for multiple versions of .NET Core - https://dotnetcoretutorials.com/2017/02/17/developing-two-versions-net-core-sdk-side-side/
 * global.json refernce https://docs.microsoft.com/en-us/dotnet/core/tools/global-json

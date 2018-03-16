@@ -48,6 +48,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * Dustin Metzgar repos for porting pieces of WWF to .NET Core - https://github.com/dmetzgar/corewf - https://github.com/dmetzgar
 
 # MISC
+* AWS Lambda .NET Core 2.0 Support Released - https://aws.amazon.com/blogs/developer/aws-lambda-net-core-2-0-support-released/
 * Azure Service Stack Supported - https://blogs.msdn.microsoft.com/appserviceteam/2018/03/12/azure-app-service-on-azure-stack-update-one-released/
 * Background processing - Hangfire - batch processing with pro license - combine with TPL for true background proc w .net core on local machine - https://www.hangfire.io/
 * Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017

@@ -11,6 +11,11 @@ Formerly known as Visual Studio Mobile Center
 * Roadmap - https://docs.microsoft.com/en-us/appcenter/general/roadmap
 * Slack App for VSMC - https://blogs.msdn.microsoft.com/mobilecenter/introducing-the-mobile-center-slack-app/
 
+# DEVTEST LABS IN AZURE
+* BikeShare Demo - AKS, ACR, Jenkins - https://github.com/xiangyan99/bikesharing360node 
+* DevOps and Jenkins - https://almvm.azurewebsites.net/labs/vstsextend/jenkins/ will get you the Devops+Jenkins pieces.  
+* VSTS extension for DevTest labs -https://docs.microsoft.com/en-us/azure/devtest-lab/devtest-lab-integrate-ci-cd-vsts 
+
 # HOCKEYAPP
 * Azure Active Directory Integration - https://support.hockeyapp.net/kb/general-account-management-2/azure-active-directory-integration 
 * How to sideload UWP Apps in HockeyApp - https://support.hockeyapp.net/kb/client-integration-windows-and-windows-phone/how-to-sideload-uwp-applications 

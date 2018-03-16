@@ -19,16 +19,16 @@ Formerly known as Visual Studio Mobile Center
 See App Center above....
 
 # VSTS
-* VSTS > Agile Planning and Portfolio Management with TFS 2017 (HOL) - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32135&lod=true
-* VSTS > Embracing Continuous Delivery with Release Management of Visual Studio 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32168&lod=true
-* VSTS > Features index - https://docs.microsoft.com/en-us/vsts/user-guide/alm-devops-features?toc=/vsts/user-guide/
-* VSTS > Features timeline - https://www.visualstudio.com/en-us/articles/news/features-timeline
+* Agile Planning and Portfolio Management with TFS 2017 (HOL) - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32135&lod=true
+* Embracing Continuous Delivery with Release Management of Visual Studio 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32168&lod=true
+* Features index - https://docs.microsoft.com/en-us/vsts/user-guide/alm-devops-features?toc=/vsts/user-guide/
+* Features timeline - https://www.visualstudio.com/en-us/articles/news/features-timeline
 * How VSTS is accelerating the engineering group behind windows (March 2018) - https://blogs.msdn.microsoft.com/devops/2018/03/12/how-vsts-is-accelerating-the-engineering-group-behind-windows/
-* VSTS > Introduction to TFS Build 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32179&lod=true
-* VSTS > Docs - https://docs.microsoft.com/en-us/vsts/
-* VSTS > Getting Started with Git using TFS 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32170&lod=true
-* VSTS > Labs on integration with Jenkins, Sonar, Octopus, and more - https://almvm.azurewebsites.net/labs/vstsextend/
-* VSTS > Package Management in TFS 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32188&lod=true
+* Introduction to TFS Build 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32179&lod=true
+* Docs - https://docs.microsoft.com/en-us/vsts/
+* Getting Started with Git using TFS 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32170&lod=true
+* Labs on integration with Jenkins, Sonar, Octopus, and more - https://almvm.azurewebsites.net/labs/vstsextend/
+* Package Management in TFS 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32188&lod=true
 
 # MISC
 * CI/CD - Edx - Continuous Integration and Continuous Deployment - https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T2/info

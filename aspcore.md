@@ -19,6 +19,13 @@
 * MVA - ASP.NET CORE Learning Path - https://mva.microsoft.com/learning-path/asp-net-core-6
 * Workshop - from Shayne Boyer and krew - teach you ASP.NET Core by building a complete conference management website from scratch - https://github.com/dotnet-presentations/aspnetcore-app-workshop - updates: https://tattoocoder.com/aspnetcore-workshop-update/
 
+# PERFORMANCE
+* .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
+* .NET Core vs Java - Performance Notes - http://anthonylloyd.github.io/blog/2017/08/15/dotnetcore-performance
+* AWS Lambda perf of Node.js, Python, Java, C# .NET Core, and GO - https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581
+* Benchmarks v node and others - https://github.com/aspnet/benchmarks
+*  Iris go versus .NET Core Kestrel in terms of performance (August 2017) - https://hackernoon.com/iris-go-vs-net-core-kestrel-in-terms-of-http-performance-806195dc93d5
+
 # SAMPLES
 * ASP .NET Doc Samples - must have! - https://github.com/aspnet/Docs
 * DodyG - 100+ samples for aspcore fundamentals - https://github.com/dodyg/practical-aspnetcore/
@@ -41,10 +48,6 @@
 * Middleware > Great overview (1.1) - https://www.jeffogata.com/asp-net-core-middleware/
 * Mocking in .NET Core > https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing
 * Node.js -> Calling Node.js from ASP.NET Core - https://blogs.msdn.microsoft.com/waws/2017/10/23/calling-node-js-from-asp-net-core/
-* Performance > .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
-* Performance > .NET Core vs Java - Performance Notes - http://anthonylloyd.github.io/blog/2017/08/15/dotnetcore-performance
-* Performance > Benchmarks v node and others - https://github.com/aspnet/benchmarks
-* Performance > Iris go versus .NET Core Kestrel in terms of performance (August 2017) - https://hackernoon.com/iris-go-vs-net-core-kestrel-in-terms-of-http-performance-806195dc93d5
 * Porting > Configuration - https://docs.microsoft.com/en-us/aspnet/core/migration/configuration
 * Porting > MVC - https://docs.microsoft.com/en-us/aspnet/core/migration/mvc
 * Porting > Third party dependencies - https://docs.microsoft.com/en-us/dotnet/articles/core/porting/third-party-deps

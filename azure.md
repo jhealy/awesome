@@ -45,6 +45,7 @@
 * Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
 * Python in Azure PaaS for batch services - https://azure.microsoft.com/en-us/resources/samples/batch-python-paas-cloud-service-pool/
 * Service Fabric > Linux and Windows differences - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-linux-windows-differences
+* Storage > BlobPorter - Highly concurrent data transfer tool for Azure Blob Storage - friendlier than AzCopy -  https://github.com/Azure/blobporter
 * SQL - IaaS v PaaS - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas
 
 

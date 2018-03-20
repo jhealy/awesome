@@ -82,6 +82,7 @@ pooling, and socket exceptions
 * Entity Framework  Data - Reverse POCO Generator - https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator
 * Entity Framework > Tutorials - https://msdn.microsoft.com/en-us/library/aa937723(v=vs.113).aspx 
 * Entity Framework > PowerTools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/
+* Internet General > Suffix list for domains - https://publicsuffix.org/
 * IoT > NetPi - hardened docker linux broadcom enabled Raspberry Pi - https://blogs.msdn.microsoft.com/holgerkenn/2017/10/30/hilscher-netpi-raspberry-pi-3-for-industrial-automation-part-1/
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
 * Linux > Kali Linux for WSL - https://blogs.msdn.microsoft.com/commandline/2018/03/05/kali-linux-for-wsl/

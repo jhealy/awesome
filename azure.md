@@ -1,6 +1,6 @@
 # GENERAL
-Services by region, including FED - https://azure.microsoft.com/en-us/status/
-Az v AWS Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
+* Services by region, including FED - https://azure.microsoft.com/en-us/status/
+* Az v AWS Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
 
 # APP SERVICES
 * Remote Debugging Azure App Services including .NET Core - https://blogs.msdn.microsoft.com/benjaminperkins/2017/06/06/remote-debug-your-azure-app-service-2017-including-asp-net-core/

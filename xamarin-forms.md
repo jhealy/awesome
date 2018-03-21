@@ -41,6 +41,7 @@ Dedicated to XF only.  See Xamarin page ( https://github.com/jhealy/awesome/blob
 * Localizing Xamarin Forms using RESX files - https://developer.xamarin.com/guides/xamarin-forms/advanced/localization/
 * Maps - Xamarin Maps Component Sample - https://github.com/xamarin/Xamarin.Forms
 * Maps - Using Google Maps Across all app types - https://github.com/amay077/Xamarin.Forms.GoogleMaps [thanks AG!]
+* Mobile Apps Using Xamarin and Azure - Good extensions around existing apps with Azure - https://developer.xamarin.com/guides/cross-platform/azure/Resources/poster.pdf
 * MVVM / PRISM with Xamarin Forms - http://www.jonbachelor.com/blog/an-introduction-to-xamarinforms-with-prism
 * Samples - By tag - https://developer.xamarin.com/samples/tag/Xamarin.Forms/
 * Samples - Source - https://github.com/xamarin/xamarin-forms-samples

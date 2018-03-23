@@ -36,4 +36,7 @@ Also known as Azure AD...
 * Azure AD for Forms Sample - https://github.com/mayur-tendulkar/ADALForForms
 * Director Searcher - Native - MSAL - https://github.com/Azure-Samples/active-directory-dotnet-native-multitarget/tree/master/DirSearchClient-Universal
 
+# MISC
+* Configure and manage Azure Active Directory authentication with SQL Database, Managed Instance, or SQL Data Warehouse - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure#azure-ad-token
+
 

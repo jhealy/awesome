@@ -11,6 +11,7 @@
 * Runtime - Book of the Runtime - https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
 * System Requirements - https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements
 * Telemetry Reports -  https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/
+* Windows Compatibility Pack - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack
 * Windows Pre-Requisites - https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites
 
 #  .NET CORE 2.0

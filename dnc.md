@@ -8,12 +8,12 @@
 * Compared with .NET Framework > https://stackoverflow.com/questions/42939454/what-is-the-difference-between-net-core-and-net-standard-class-library-project
 * OData Lib for .NET Core - https://www.nuget.org/packages/Microsoft.AspNetCore.OData/
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
+* Pre-requisites - Linux - https://github.com/dotnet/docs/blob/master/docs/core/linux-prerequisites.md
+* Pre-requisities - Windows - https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites
 * Runtime - Book of the Runtime - https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
 * System Requirements - https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements
 * Telemetry Reports -  https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/
 * Windows Compatibility Pack - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack
-* Pre-requisites - Linux - https://github.com/dotnet/docs/blob/master/docs/core/linux-prerequisites.md
-* Pre-requisities - Windows - https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites
 
 #  .NET CORE 2.0
 * .NET Core 2.0 Announced - https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/

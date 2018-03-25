@@ -1,6 +1,6 @@
 # GENERAL
 * https://devdocs.io - all the javascripty interface in one nice search place.
-
+* Mozilla dev network - dont bank of stuff working 100% for chrome or edge - https://developer.mozilla.org/en-US/
 # NODE
 * ASP.NET Core - Calling Node.js from ASP.NET Core - https://blogs.msdn.microsoft.com/waws/2017/10/23/calling-node-js-from-asp-net-core/
 * dotenv to secure secrets - https://www.youtube.com/watch?v=zDup0I2VGmk

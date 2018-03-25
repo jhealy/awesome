@@ -1,3 +1,6 @@
+# GENERAL
+* https://devdocs.io - all the javascripty interface in one nice search place.
+
 # NODE
 * ASP.NET Core - Calling Node.js from ASP.NET Core - https://blogs.msdn.microsoft.com/waws/2017/10/23/calling-node-js-from-asp-net-core/
 * dotenv to secure secrets - https://www.youtube.com/watch?v=zDup0I2VGmk

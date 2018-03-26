@@ -17,6 +17,7 @@ fs
 * Copy files automatically - https://flow.microsoft.com/en-us/guided-learning/learning-copy-files/
 * Data collection - https://flow.microsoft.com/en-us/guided-learning/learning-collect-data/
 * Email - Post when emailed - https://ms.flow.microsoft.com/en-us/documentation/get-started-logic-template/
+* Email - Send form responses for approval - Forms, approvals and sharepoint - https://us.flow.microsoft.com/en-us/galleries/public/templates/4071c6b040c611e7ad68c1c80e905297/send-form-responses-for-approval/
 * Email - Send working from home email to manager - shows how to lookup manager - https://emea.flow.microsoft.com/en-us/galleries/public/templates/2971f500d14d4882bba3acaafceccc5f/send-a-working-from-home-today-email-to-your-manager/
 * Notifications for emails, text - https://flow.microsoft.com/en-us/guided-learning/learning-get-notifications/
 * Twitter - notify me when twittered about - https://ms.flow.microsoft.com/en-us/documentation/get-started-logic-flow/

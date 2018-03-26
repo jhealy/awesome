@@ -6,6 +6,7 @@
 fs
 # LEARN
 * Guided Learning - https://flow.microsoft.com/en-us/guided-learning/
+* Learning Resources collection - https://flow.microsoft.com/en-us/blog/microsoft-flow-learning-resources-materials/
 
 # SAMPLES
 * Approval requests using SharePoint - https://flow.microsoft.com/en-us/guided-learning/learning-approvals/

@@ -71,6 +71,7 @@
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
 * Connectors > Office 365 > RelevantPeople() - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
 * Connectors > Office 365 > Out of Office Template - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
+* Flow > Add a Flow to a PowerApp - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/using-logic-flows
 * Gateway > Firewall and FAQ - https://powerapps.microsoft.com/en-us/tutorials/gateway-reference/
 * InfoPath > Convert InfoPath/Designer workflow processes to PowerApps - https://www.youtube.com/watch?v=l69E7q79y6w
 * InfoPath > Rebuilding an InfoPath Designer form in PowerApps - https://www.youtube.com/watch?v=ohQcxcVZSK4

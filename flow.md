@@ -9,6 +9,7 @@ fs
 * Learning Resources collection - https://flow.microsoft.com/en-us/blog/microsoft-flow-learning-resources-materials/
 
 # SAMPLES
+* Aprovals in Flow - collection of goodies - https://us.flow.microsoft.com/en-us/connectors/shared_approvals/approvals/
 * Approval requests using SharePoint - https://flow.microsoft.com/en-us/guided-learning/learning-approvals/
 * Approval - single - using CDS - https://ms.flow.microsoft.com/en-us/documentation/common-data-model-approve/
 * Approval - single - using SharePoint - https://ms.flow.microsoft.com/en-us/documentation/modern-approvals/

@@ -28,6 +28,7 @@
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Blog role - https://anthonychu.ca/
 * CLI > Bash Shell - Powershell or Linux - https://shell.azure.com
+* CLI > IoT Hub Extension - "az extension add --name azure-cli-iot-ext"
 * CLI > Locally run Azure CLI - https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
 * Cloud Design Patterns (pnp) - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 * Cognitive Services - Speech to Text WebSockets Sample (js) - https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript

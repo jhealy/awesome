@@ -27,6 +27,8 @@
 * API Management - Pricing - <https://azure.microsoft.com/en-us/pricing/details/api-management/>
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Blog role - https://anthonychu.ca/
+* CLI > Bash Shell - Powershell or Linux - https://shell.azure.com
+* CLI > Locally run Azure CLI - https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
 * Cloud Design Patterns (pnp) - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 * Cognitive Services - Speech to Text WebSockets Sample (js) - https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript
 * Cognitive Services - PRedicting Expenses Types from Receipts with COGS and ML - https://www.microsoft.com/developerblog/2017/01/01/predicting-expense-type-from-receipts-with-microsoft-cognitive-services/

@@ -43,6 +43,8 @@
 * IoT > Starter Kits > Docs for Starter Kits - free - https://azure.microsoft.com/en-us/resources/samples/?service=iot-hub&term=starter+kit
 * IoT > Starter Kits > March 2016 Blog - https://blogs.microsoft.com/iot/2016/03/31/azure-iot-starter-kits-open-the-door-to-developer-innovation/
 * Keeping secrets in the cloud with Azure - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
+* Location Based Services > Add a Line - https://codepen.io/azuremaps/pen/qomaKv
+* Location Based Services
 * Linux - Course - Linux Foundation - Administering Linux on Azure - https://training.linuxfoundation.org/linux-courses/system-administration-training/administering-linux-on-azure
 * Mobile Apps Using Xamarin and Azure - Good extensions around existing apps with Azure - https://developer.xamarin.com/guides/cross-platform/azure/Resources/poster.pdf
 * Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions

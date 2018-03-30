@@ -23,10 +23,11 @@ Language Understanding Cognitive Service
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-understanding-intelligent-services/
 
 # SAMPLES
-• Alexa integration -	https://github.com/suneetnangia/Alexa/tree/master/Microsoft.Demos.Alexa.Luis
+* Alexa integration -	https://github.com/suneetnangia/Alexa/tree/master/Microsoft.Demos.Alexa.Luis
 * AzureBot - https://github.com/Microsoft/AzureBot
 * Stack Overflow Bot - https://github.com/Microsoft/BotFramework-Samples/tree/master/StackOverflow-Bot
-•	Samples - https://github.com/Microsoft/BotBuilder-Samples
+* Stackoverflow Bot - krishnaji - https://github.com/krishnaji/StackOverflow-Bot
+*	Samples - https://github.com/Microsoft/BotBuilder-Samples
 
 # TOOLS
 * BotAuth - Node.js and C# framework for  bot authentication.  Any OAuth2 provider.  https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2017/05/15/bot-authentication-in-the-bot-framework/

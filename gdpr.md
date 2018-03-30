@@ -1,6 +1,8 @@
 # GENERAL
 
 * GDPR Overview with section breakouts - <https://en.m.wikipedia.org/wiki/General_Data_Protection_Regulation>
+* Manufacturing - https://enterprise.microsoft.com/en-us/articles/blog/caglayan-blog/achieving-gdpr-compliance-in-manufacturing/ - 
+	http://www.bluesource.net/2017/05/30/new-eu-data-protection-laws-mean-for-the-manufacturing-industry/ - https://ec.europa.eu/growth/sectors/chemicals_en
 
 # MICROSOFT AND GDPR
 

@@ -24,6 +24,8 @@ Language Understanding Cognitive Service
 
 # SAMPLES
 • Alexa integration -	https://github.com/suneetnangia/Alexa/tree/master/Microsoft.Demos.Alexa.Luis
+* AzureBot - https://github.com/Microsoft/AzureBot
+* Stack Overflow Bot - https://github.com/Microsoft/BotFramework-Samples/tree/master/StackOverflow-Bot
 •	Samples - https://github.com/Microsoft/BotBuilder-Samples
 
 # TOOLS

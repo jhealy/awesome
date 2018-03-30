@@ -13,3 +13,4 @@
 # TOOLS
 
 * Assess your GDPR compliance - 10 question survey to help - https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx
+* Compliance Manager - real time risk assessment, insights for data protection, and built-in control managemetn and audit-ready reporting - https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Manage-Your-Compliance-from-One-Place-Announcing-Compliance/ba-p/106493

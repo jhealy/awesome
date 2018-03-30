@@ -4,6 +4,7 @@
 
 # MICROSOFT AND GDPR
 
+* Azure and GDPR - https://www.microsoft.com/en-us/TrustCenter/CloudServices/Azure/GDPR
 * CosmosDB ad Azure (whitepaper) - https://gallery.technet.microsoft.com/Azure-Cosmos-DB-and-GDPR-697c6b2d/file/187219/1/Azure%20Cosmos%20DB%20and%20GDPR.pdf
 * How Microsoft Azure Can Help Organizations Become Compliant with the EU GDPR (whitepaper) - https://gallery.technet.microsoft.com/How-Azure-Can-Help-788a4979
 * Microsoft on GDPR - <http://microsoft.com/gdpr>

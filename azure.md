@@ -1,4 +1,6 @@
 # GENERAL
+* Pricing calculator - all items - https://azure.microsoft.com/en-us/pricing/calculator/
+* Pricing - Appservices breakout - https://azure.microsoft.com/en-us/pricing/details/app-service/ 
 * Services by region, including FED - https://azure.microsoft.com/en-us/status/
 * Az v AWS Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
 

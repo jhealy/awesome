@@ -32,7 +32,8 @@ See App Center above....
 * Introduction to TFS Build 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32179&lod=true
 * Docs - https://docs.microsoft.com/en-us/vsts/
 * Getting Started with Git using TFS 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32170&lod=true
-* Hosted build agent specs via powershell - https://sabin.io/blog/vsts-hosted-build-agent-specs/
+* Hosted agents - https://docs.microsoft.com/en-us/vsts/build-release/concepts/agents/hosted?view=vsts
+* Hosted agent specs via powershell - https://sabin.io/blog/vsts-hosted-build-agent-specs/
 * Labs on integration with Jenkins, Sonar, Octopus, and more - https://almvm.azurewebsites.net/labs/vstsextend/
 * Package Management in TFS 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32188&lod=true
 

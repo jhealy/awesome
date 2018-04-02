@@ -1,6 +1,5 @@
 # ASP.NET CORE
 * API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - try webhook v dbdataadapter on .NET Standard 2.0
-* Benchmarks v node and others - https://github.com/aspnet/benchmarks
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
 * Docs - samples - https://github.com/aspnet/Docs/tree/master/aspnetcore 
 * DodyG - Awesome .NET Core - https://github.com/dodyg/awesome-dotnet-core
@@ -11,6 +10,7 @@
 * Session state - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state?tabs=aspnetcore2x
 * Sql Server based distributed cache for ASP.NET Core - http://gunnarpeipman.com/2017/04/aspnet-core-sql-server-cache/
 * Using memory cache in ASP.NET Core - alternative to ObjectCache - local and distributed - http://gunnarpeipman.com/2017/04/aspnet-core-memory-cache/
+* .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
 
 # BLOGS AND WEBSITES
 * Gunnar Peipman - http://gunnarpeipman.com/aspnet/
@@ -61,7 +61,7 @@
 * SPA - templates - https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
 * Using Windows Auth in ASP.NET Core via http.sys in containers - https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/
 * Windows Service > Hosting an ASP.NET Core app in a Windows Service - https://docs.microsoft.com/en-us/aspnet/core/hosting/windows-service
-* .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
+
 
 SEE ALSO - .NET Core section in this doc - databases included here - https://github.com/jhealy/awesome/blob/master/dnc.md
 

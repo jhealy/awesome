@@ -21,7 +21,7 @@
 
 # PERFORMANCE
 * .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
-* .NET Core vs Java - Performance Notes - http://anthonylloyd.github.io/blog/2017/08/15/dotnetcore-performance
+* Managed runtime performance comparisons - http://anthonylloyd.github.io/blog/2017/12/30/dotnetcore-performance-part2
 * AWS Lambda perf of Node.js, Python, Java, C# .NET Core, and GO - https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581
 * Benchmarks v node and others - https://github.com/aspnet/benchmarks
 *  Iris go versus .NET Core Kestrel in terms of performance (August 2017) - https://hackernoon.com/iris-go-vs-net-core-kestrel-in-terms-of-http-performance-806195dc93d5

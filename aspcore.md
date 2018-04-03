@@ -25,6 +25,7 @@
 * AWS Lambda perf of Node.js, Python, Java, C# .NET Core, and GO - https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581
 * Benchmarks v node and others - https://github.com/aspnet/benchmarks
 *  Iris go versus .NET Core Kestrel in terms of performance (August 2017) - https://hackernoon.com/iris-go-vs-net-core-kestrel-in-terms-of-http-performance-806195dc93d5
+* TechEmpower Plaintext benchmark - https://www.techempower.com/benchmarks/#section=data-r15&hw=ph&test=plaintext
 
 # SAMPLES
 * ASP .NET Doc Samples - must have! - https://github.com/aspnet/Docs

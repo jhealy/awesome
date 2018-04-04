@@ -56,6 +56,7 @@
 * Linux - Course - Linux Foundation - Administering Linux on Azure - https://training.linuxfoundation.org/linux-courses/system-administration-training/administering-linux-on-azure
 * Mobile Apps Using Xamarin and Azure - Good extensions around existing apps with Azure - https://developer.xamarin.com/guides/cross-platform/azure/Resources/poster.pdf
 * Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
+* Networking > Measuring latency and throughput between azure regions - https://blogs.msdn.microsoft.com/mioteg/2017/11/20/measuring-latency-and-throughput-between-azure-regions/
 * Python in Azure PaaS for batch services - https://azure.microsoft.com/en-us/resources/samples/batch-python-paas-cloud-service-pool/
 * Service Fabric > Linux and Windows differences - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-linux-windows-differences
 * Storage > BlobPorter - Highly concurrent data transfer tool for Azure Blob Storage - friendlier than AzCopy -  https://github.com/Azure/blobporter

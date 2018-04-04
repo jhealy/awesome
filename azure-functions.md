@@ -29,6 +29,7 @@
 * Blog - Azure App Service Team - https://blogs.msdn.microsoft.com/appserviceteam/
 * Blog - Kloud - good general dev blog for cloud - https://blog.kloud.com.au - rss: https://blog.kloud.com.au/feed/
 * Build Apps Faster with Serverless - https://channel9.msdn.com/Blogs/Azure/Build-apps-faster-with-Azure-Serverless
+* Core - .NET Core 2.0 with Azure Functions Preview - https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * CosmosDB and Azure Function Integration - https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/
 * CosmosDB Graph via Gremlin - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
 * Cross Platform Tooling for Az Functions - Mac, Linux via NPM.  VS Code. VS Mac. Javascript, c#.  https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/

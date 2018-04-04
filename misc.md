@@ -35,7 +35,7 @@ Held here until enough volume to be posted elsewhere....
 * HttpClient v WebClient v HttpWebRequest - http://www.diogonunes.com/blog/webclient-vs-httpclient-vs-httpwebrequest/
 * InfoQ on httpclient - lots of links - https://www.infoq.com/news/2016/09/HttpClient - shows why "using" around a new httpclient is bad
 * Official http client doc vs.118 - 
-https://msdn.microsoft.com/en-us/library/system.net.http.httpclient(v=vs.118).aspxOfficial 
+https://msdn.microsoft.com/en-us/library/system.net.http.httpclient(v=vs.118).aspx
 * http client doc vs.110 - https://msdn.microsoft.com/en-us/library/system.net.http.httpclient(v=vs.110).aspx - discusses proper usage, 
 pooling, and socket exceptions 
 * PNP Guide to HttpClient - https://github.com/mspnp/performance-optimization/blob/465514674354c8f833c73882f7405ac22c4fd437/ImproperInstantiation/docs/ImproperInstantiation.md

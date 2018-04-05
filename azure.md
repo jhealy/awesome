@@ -7,6 +7,7 @@
 
 # APP SERVICES
 * Remote Debugging Azure App Services including .NET Core - https://blogs.msdn.microsoft.com/benjaminperkins/2017/06/06/remote-debug-your-azure-app-service-2017-including-asp-net-core/
+* TLS - Disable in app service - https://blogs.msdn.microsoft.com/benjaminperkins/2018/01/25/tls-on-azure-app-services/
 
 # LEARN
 * Application Architecture Guide (pdf available too) = https://docs.microsoft.com/en-us/azure/architecture/guide/

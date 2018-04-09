@@ -31,7 +31,8 @@
 * API Management > Manage Web Service Endpoints using API Management - <https://docs.microsoft.com/en-us/azure/machine-learning/studio/manage-web-service-endpoints-using-api-management>
 * API Management - Pricing - <https://azure.microsoft.com/en-us/pricing/details/api-management/>
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
-* Blog role - https://anthonychu.ca/
+* Blog - https://anthonychu.ca/
+* Blog - https://www.appliedi.net/feed/
 * CLI > Bash Shell - Powershell or Linux - https://shell.azure.com
 * CLI > IoT Hub Extension - "az extension add --name azure-cli-iot-ext"
 * CLI > Locally run Azure CLI - https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest

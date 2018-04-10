@@ -7,6 +7,7 @@
 * Az v AWS Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
 
 # APP SERVICES
+* App Service Environments - tighten up security - https://docs.microsoft.com/en-us/azure/app-service/environment/intro
 * Remote Debugging Azure App Services including .NET Core - https://blogs.msdn.microsoft.com/benjaminperkins/2017/06/06/remote-debug-your-azure-app-service-2017-including-asp-net-core/
 * TLS - Disable in app service - https://blogs.msdn.microsoft.com/benjaminperkins/2018/01/25/tls-on-azure-app-services/
 

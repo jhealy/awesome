@@ -1,4 +1,5 @@
 # GENERAL
+* Cloud Services comparison - <http://comparecloud.in/>
 * East versus East2 - What's the difference? - https://www.appliedi.net/blog/azure-east-us-vs-east-us-2-whats-the-difference/
 * Pricing calculator - all items - https://azure.microsoft.com/en-us/pricing/calculator/
 * Pricing - Appservices breakout - https://azure.microsoft.com/en-us/pricing/details/app-service/ 

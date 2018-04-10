@@ -4,6 +4,7 @@
 * Global Data Protection Requirements - https://globalappcasting.com/gdpr/
 * Manufacturing - https://enterprise.microsoft.com/en-us/articles/blog/caglayan-blog/achieving-gdpr-compliance-in-manufacturing/ - 
 	http://www.bluesource.net/2017/05/30/new-eu-data-protection-laws-mean-for-the-manufacturing-industry/ - https://ec.europa.eu/growth/sectors/chemicals_en
+* What the heck is GDPR and how will it affect me - https://www.rte.ie/eile/brainstorm/2018/0409/953114-what-the-heck-is-gdpr-and-how-will-it-affect-me/
 
 # MICROSOFT AND GDPR
 

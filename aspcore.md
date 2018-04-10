@@ -16,6 +16,7 @@
 * Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 
 # LEARN
+* Build and deploy a multi-container application in Azure Container Service - ASP.NET Core / K8S / Docker / (ebook)(march 2018) https://azure.microsoft.com/en-us/resources/build-and-deploy-a-multi-container-application-in-azure-container-service/en-us/
 * MVA - ASP.NET CORE Learning Path - https://mva.microsoft.com/learning-path/asp-net-core-6
 * Workshop - from Shayne Boyer and krew - teach you ASP.NET Core by building a complete conference management website from scratch - https://github.com/dotnet-presentations/aspnetcore-app-workshop - updates: https://tattoocoder.com/aspnetcore-workshop-update/
 

@@ -35,6 +35,7 @@
 # MISC
 * AI/ML > What to use and when ( march 2018, buck woody ) - <https://blogs.msdn.microsoft.com/buckwoody/2018/02/22/the-microsoft-artificial-intelligence-landscape-and-what-to-use-when/>
 * API Management > Manage Web Service Endpoints using API Management - <https://docs.microsoft.com/en-us/azure/machine-learning/studio/manage-web-service-endpoints-using-api-management>
+* API Management - Documentation - <https://docs.microsoft.com/en-us/azure/api-management/>
 * API Management - Pricing - <https://azure.microsoft.com/en-us/pricing/details/api-management/>
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Blog - https://anthonychu.ca/

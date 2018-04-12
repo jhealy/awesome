@@ -4,6 +4,7 @@
 * Blog - SF Team - https://blogs.msdn.microsoft.com/azureservicefabric/
 * Blog - BrentDA - <https://brentdacodemonkey.wordpress.com/category/microsoft-azure-platform/service-bus/>
 * Placement Constraints - https://brentdacodemonkey.wordpress.com/2016/09/11/placement-constraints-with-service-fabric/
+* Scaling applications in service fabric -  https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-concepts-scalability
 * Security in SF - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-application-and-service-security
 * Cluster security - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-cluster-security
 * Reverse proxy config - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reverseproxy-configure-secure-communication

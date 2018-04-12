@@ -18,4 +18,4 @@
 * ODP.NET Discussion Forum - https://community.oracle.com/community/database/developer-tools/windows_and_.net/odp.net
 
 # MISC
-* How to dump a db script - __dotnet ef migrations script | out-file ../dbscript.sql__
+* How to dump a db script: __dotnet ef migrations script | out-file ../dbscript.sql__

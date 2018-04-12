@@ -20,4 +20,5 @@
 * Deploying Node to Docker on Azure - https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-Node-to-Docker-on-Azure
 * Nano + Node docker image - https://github.com/a11smiles/docker-nano-nodejs/blob/master/README.md
 * OFFICIAL node.js docker image - https://github.com/nodejs/docker-node/blob/master/README.md
+* OFFICIAL node.js docker image for Windows - https://github.com/nodejs/docker-node/pull/362
 * Stefan Scherer's Windows node containers - Server Core and NanoServer - https://hub.docker.com/r/stefanscherer/node-windows/

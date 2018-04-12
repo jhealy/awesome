@@ -14,3 +14,6 @@
 * .NET Core and Entity Framework Statement of Direction - March 2018 - www.oracle.com/technetwork/topics/dotnet/tech-info/odpnet-dotnet-ef-core-sod-4395108.pdf
 * ODP.NET Core Beta Download - http://www.oracle.com/technetwork/topics/dotnet/downloads/odpnetcorebeta-4077982.html
 * ODP.NET Discussion Forum - https://community.oracle.com/community/database/developer-tools/windows_and_.net/odp.net
+
+# MISC
+* How to dump a db script - __dotnet ef migrations script | out-file ../dbscript.sql"__

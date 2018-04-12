@@ -34,6 +34,7 @@
 * Secure cluster using x509 - windows - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-windows-cluster-x509-security
 
 # TEMPLATES - ARM
+* Azure Samples - Service Fabric Templates - <https://github.com/Azure-Samples?utf8=%E2%9C%93&q=service+fabric&type=&language=>
 * .NET Core - Getting Started - ARM - https://github.com/Azure-Samples/service-fabric-dotnet-core-getting-started
 * SF Cluster Templates - ARM - https://github.com/Azure-Samples/service-fabric-cluster-templates
 * 5 VM Windows 1 Node Type Secured via NSG - <https://github.com/Azure-Samples/service-fabric-cluster-templates/tree/master/5-VM-Windows-1-NodeTypes-Secure-NSG>

@@ -23,7 +23,7 @@
 * Microsoft Mechanics Video Series - https://www.youtube.com/c/MicrosoftMechanicsSeries
 
 # MICROSERVICES
-* Service Fabric > team blog - https://blogs.msdn.microsoft.com/azureservicefabric/
+* Also see service Fabric topic in this wiki
 * ISV > Microservice applications - https://azure.microsoft.com/en-us/solutions/microservice-applications/
 * Patterns for Microservices - http://microservices.io/patterns/index.html
 * Learn > Book > Building Microservices by Sam Newman - http://amzn.to/2tEh5Uw
@@ -68,7 +68,7 @@
 * Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
 * Networking > Measuring latency and throughput between azure regions - https://blogs.msdn.microsoft.com/mioteg/2017/11/20/measuring-latency-and-throughput-between-azure-regions/
 * Python in Azure PaaS for batch services - https://azure.microsoft.com/en-us/resources/samples/batch-python-paas-cloud-service-pool/
-* Service Fabric > Linux and Windows differences - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-linux-windows-differences
+
 * Stack > What it is and isn't - https://virtualizationreview.com/articles/2018/04/09/what-microsoft-azure-stack-is-and-is-not.aspx
 * Storage > BlobPorter - Highly concurrent data transfer tool for Azure Blob Storage - friendlier than AzCopy -  https://github.com/Azure/blobporter
 

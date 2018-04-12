@@ -33,6 +33,7 @@
 * Source Code > eShopOnContainers reference architecture - download and ebook links - https://github.com/dotnet-architecture/eShopOnContainers
 
 # MISC
+
 * AI/ML > What to use and when ( march 2018, buck woody ) - <https://blogs.msdn.microsoft.com/buckwoody/2018/02/22/the-microsoft-artificial-intelligence-landscape-and-what-to-use-when/>
 * API Management > Manage Web Service Endpoints using API Management - <https://docs.microsoft.com/en-us/azure/machine-learning/studio/manage-web-service-endpoints-using-api-management>
 * API Management - Documentation - <https://docs.microsoft.com/en-us/azure/api-management/>
@@ -54,6 +55,7 @@
 * Certification - Exam 70-535 - Architecting Microsoft Azure Solutions 355 - Study Guide - http://download.microsoft.com/download/B/9/1/B91A0CE0-9786-4B81-8937-315F63E13910/Architecting_Microsoft_Azure_Solutions_11302017.pdf
 * Certification - Exam 70-535 - Dan Stolts 70-535 Courseware - https://github.com/guruskill/70-535
 * Certification - Microsoft Professional Program for Cloud Administration - https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/ 
+* Dockit - Azure Documentation Generator ($) - https://www.azuredockit.com/pricing-buy/
 * Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
 * IoT > Article Collection - https://buildazure.com/category/internet-of-things/
 * Iot > CLI IoT Hub Extension - "az extension add --name azure-cli-iot-ext"

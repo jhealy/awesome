@@ -5,9 +5,13 @@
 * Placement Constraints - https://brentdacodemonkey.wordpress.com/2016/09/11/placement-constraints-with-service-fabric/
 * Security in SF - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-application-and-service-security
 * Cluster security - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-cluster-security
+* Reverse proxy config - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reverseproxy-configure-secure-communication
+* Templates - SF Cluster Templates - ARM - https://github.com/Azure-Samples/service-fabric-cluster-templates
+
+# HARDENING SF
 * Hardening - Configure SF security hardened cluster (alb and ilb) - https://blogs.msdn.microsoft.com/azuredev/2017/02/15/configuring-service-fabric-security-hardened-cluster-alb-and-ilb/
 * Hardening - Network isolation with Azure Security Fabric - https://brentdacodemonkey.wordpress.com/2016/08/01/network-isolationsecurity-with-azure-service-fabric/
-* Revers proxy config - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reverseproxy-configure-secure-communication
+* Template - 5 VM Windows 1 Node Type Secured via NSG - https://github.com/Azure-Samples/service-fabric-cluster-templates/tree/master/5-VM-Windows-1-NodeTypes-Secure-NSG
 
 # SECURING THE HOSTING ENVIRON
 * https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-run-script-at-service-startup

@@ -1,3 +1,5 @@
+# EF CORE 
+
 * Home - https://docs.microsoft.com/en-us/ef/core/
 * EF Core Powertools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/ 
 * Generate from an existing db - https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/existing-db
@@ -16,4 +18,4 @@
 * ODP.NET Discussion Forum - https://community.oracle.com/community/database/developer-tools/windows_and_.net/odp.net
 
 # MISC
-* How to dump a db script - __dotnet ef migrations script | out-file ../dbscript.sql"__
+* How to dump a db script - __dotnet ef migrations script | out-file ../dbscript.sql__

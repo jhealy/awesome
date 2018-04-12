@@ -1,4 +1,5 @@
 # SERVICE FABRIC
+* Architecture of Service Fabric - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-architecture
 * Documentation - https://docs.microsoft.com/en-us/azure/service-fabric/
 * Linux and Windows differences - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-linux-windows-differences
 * Blog - SF Team - https://blogs.msdn.microsoft.com/azureservicefabric/

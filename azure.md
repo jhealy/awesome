@@ -5,6 +5,7 @@
 * Pricing - Appservices breakout - https://azure.microsoft.com/en-us/pricing/details/app-service/ 
 * Pricing - Virtual Machines - Windows breakout - https://azure.microsoft.com/en-us/pricing/details/virtual-machines/windows/
 * Services by region, including FED - https://azure.microsoft.com/en-us/status/
+* Trust Center - https://www.microsoft.com/en-us/trustcenter/privacy/you-own-your-data
 * AWS > Mapping to Azure Services - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 * AWS > versus Azure Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
 

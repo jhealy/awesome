@@ -5,6 +5,7 @@
 * Linux and Windows differences - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-linux-windows-differences
 * Blog - SF Team - https://blogs.msdn.microsoft.com/azureservicefabric/
 * Blog - BrentDA - <https://brentdacodemonkey.wordpress.com/category/microsoft-azure-platform/service-bus/>
+* Connect remotely (rdp) to a Azure Cluster Node - <https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-cluster-remote-connect-to-azure-cluster-node>
 * Placement Constraints - https://brentdacodemonkey.wordpress.com/2016/09/11/placement-constraints-with-service-fabric/
 * Scaling applications in service fabric -  https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-concepts-scalability
 * Security in SF - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-application-and-service-security

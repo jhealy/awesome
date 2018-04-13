@@ -40,6 +40,7 @@ See App Center above....
 # MISC
 * CI/CD - Edx - Continuous Integration and Continuous Deployment - https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T2/info
 * CI/CD - Pluralsight - Implementing CD using TFS 2015 - https://app.pluralsight.com/library/courses/tfs-visual-studio-2015-implementing-continuous-delivery/table-of-contents
+* Containers > Installing Build tools into a docker container - https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container
 * DevOps > DevOps with VSTS and TFS - https://mva.microsoft.com/en-US/training-courses/devops-with-visual-studio-team-services-and-team-foundation-server-16779
 * DevOps > Introduction to DevOps - https://www.edx.org/course/introduction-devops-microsoft-dev212x-0
 * DevOps > DevOps at Microsoft Showcase - https://www.visualstudio.com/learn/devops-at-microsoft/

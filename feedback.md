@@ -9,15 +9,16 @@ Even as a Microsoft employee is hard even for me to figure out the public routes
 * ASP.NET - http://aspnet.uservoice.com 
 * ASP.NET Dynamic Data - about 1/2 way down look for feedback section - http://aspnet.codeplex.com/wikipage?title=Dynamic%20Data 
 * Azure 
-** Functions feedback - https://feedback.azure.com/forums/355860-azure-functions/filters/top
-** Functions forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions
-** Support Home - http://azure.microsoft.com/en-us/support/options/ 
-** Stack Overflow - http://www.stackoverflow.com 
-** '''UserVoice - http://feedback.azure.com''' 
-** MSDN Forums - search forum names for Azure - https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowsazureplatform%2Cazuremarketplace%2Cwindowsazureplatformctp 
-** Pay-For Support - http://azure.microsoft.com/en-us/support/plans/ 
-** WebApp (WebSite) Feedback - http://feedback.azure.com/forums/169385-web-sites/ 
-** Azure General - Vote for next features to be implemented - run by product team - http://www.mygreatwindowsazureidea.com 
+  * Functions feedback - https://feedback.azure.com/forums/355860-azure-functions/filters/top
+  * Functions forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions
+  * Support Home - http://azure.microsoft.com/en-us/support/options/ 
+  * Stack Overflow - http://www.stackoverflow.com 
+  * '''UserVoice - http://feedback.azure.com''' 
+  * MSDN Forums - search forum names for Azure - https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowsazureplatform%2Cazuremarketplace%2Cwindowsazureplatformctp 
+  * Pay-For Support - http://azure.microsoft.com/en-us/support/plans/ 
+  * Storage Feedback (partners) - <azurestoragefeedback@microsoft.com>
+  * WebApp (WebSite) Feedback - http://feedback.azure.com/forums/169385-web-sites/ 
+  * Azure General - Vote for next features to be implemented - run by product team - http://www.mygreatwindowsazureidea.com 
 * Band - http://microsofthealth.uservoice.com/forums/283636-microsoft-health-and-microsoft-band|user Voice
 ,mailto:healthms@microsoft.com
 ,http://stackoverflow.com/questions/tagged/microsoft-band?sort=newest|stackoverflow.com 

@@ -10,6 +10,9 @@
 * AWS > Mapping to Azure Services - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 * AWS > versus Azure Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
 
+# ARCHITECTURE
+* Azure Architecture Center - https://docs.microsoft.com/en-us/azure/architecture/
+
 # APP SERVICES
 * App Service Environments - tighten up security - https://docs.microsoft.com/en-us/azure/app-service/environment/intro
 * Limits - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits?toc=%2fazure%2fvpn-gateway%2ftoc.json#app-service-limits

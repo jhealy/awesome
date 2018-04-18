@@ -37,6 +37,7 @@ Dedicated to XF only.  See Xamarin page ( https://github.com/jhealy/awesome/blob
 # MISC
 * .NET Standard > .NET Standard 2.0 Support in Xamarin.Forms - https://developer.xamarin.com/guides/xamarin-forms/under-the-hood/net-standard/
 * .NET Standard > .NET Standard comes to XF Forms Templates ( VS2017 15.5 Preview 3 ) - https://blog.xamarin.com/net-standard-comes-xamarin-forms-project-templates/
+* AzAD B2c in a Xamarin forms App using MSAL - <Integrate Azure AD B2C into a Xamarin forms app using MSAL - <https://azure.microsoft.com/en-us/resources/samples/active-directory-b2c-xamarin-native>
 * Embedding Xamarin Forms in Native Applications - https://blog.xamarin.com/unleashed-embedding-xamarin-forms-in-xamarin-native/
 * Localizing Xamarin Forms using RESX files - https://developer.xamarin.com/guides/xamarin-forms/advanced/localization/
 * Maps - Xamarin Maps Component Sample - https://github.com/xamarin/Xamarin.Forms

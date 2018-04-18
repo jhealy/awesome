@@ -19,6 +19,7 @@
 * Develop and run Azure functions locally - https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local
 
 # SAMPLES
+* Approval Workflow with SendGrid - Durable Functions Pattern - <https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid>
 * Azure wiki samples - https://github.com/Azure/Azure-Functions/wiki/Samples-and-content
 * License plate reader using functions and OpenALPR - https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr
 

@@ -35,6 +35,7 @@ Also known as Azure AD...
 * Put some Azure Active Directory in your Xamarin Forms - https://blog.xamarin.com/put-adal-xamarin-forms/
 * Azure AD for Forms Sample - https://github.com/mayur-tendulkar/ADALForForms
 * Director Searcher - Native - MSAL - https://github.com/Azure-Samples/active-directory-dotnet-native-multitarget/tree/master/DirSearchClient-Universal
+* Integrate Azure AD B2C into a Xamarin forms app using MSAL - <https://azure.microsoft.com/en-us/resources/samples/active-directory-b2c-xamarin-native/>
 
 # MISC
 * Configure and manage Azure Active Directory authentication with SQL Database, Managed Instance, or SQL Data Warehouse - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure#azure-ad-token

@@ -2,7 +2,7 @@
 * .NET Core documentation - https://docs.microsoft.com/en-us/dotnet/core/get-started
 * Bugs and Issues - File here - https://github.com/dotnet/corefx
 * API check - https://apisof.net/ .  For instance, to see if DataSet is there - https://apisof.net/catalog/System.Data.DataSet
-* API check - https://msdn.microsoft.com/en-us/library/ms123401.aspx?f=255&MSPPError=-2147217396
+* API check - https://docs.microsoft.com/en-us/dotnet/api/?view=netstandard-2.0
 * Build > Build Tools - https://github.com/dotnet/buildtools
 * Build > CI with .NET Core - https://docs.microsoft.com/en-us/dotnet/core/tools/using-ci-with-cli
 * Command line tools > https://docs.microsoft.com/en-us/dotnet/core/tools/

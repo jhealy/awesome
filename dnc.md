@@ -19,6 +19,7 @@
 #  .NET CORE 2.0
 * .NET Core 2.0 Announced - https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/
 * .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
+* Performance Improvements in .NET Core 2.1 - <https://blogs.msdn.microsoft.com/dotnet/2018/04/18/performance-improvements-in-net-core-2-1/>
 
 # .NET STANDARD
 * .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 

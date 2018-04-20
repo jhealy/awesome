@@ -24,6 +24,14 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 * Remote your Android device to your desktop - Montemagno recommends -http://www.vysor.io/
 * Samsung Andriod USB Drivers - http://developer.samsung.com/galaxy/others/android-usb-driver-for-windows
 
+# ANDROID EMULATOR
+* Android Emulator Hardware Acceleration - <https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/android-emulator/hardware-acceleration?tabs=vswin>
+* Configuring your system to use HAXM - <https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/run-your-app/run-app-android?view=toolsforcordova-2017#HAXM>
+* HAXM Emulator issues with Credential Guard or Device Guard - <https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2146361>
+* HAXM Emulator - Manual Install - <https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager>
+* Resolve issues with the haxm driver - <https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/tips-workarounds/android-tips?view=toolsforcordova-2017#resolve-issues-with-the-haxm-driver>
+* REquest an exemption from  the Credential Guard Policy (msft only) - <https://gist.github.com/pierceboggan/b7870e6603bdf122d69aae1cfab583a7>
+
 # IOS
 * ARKit Sample - https://developer.xamarin.com/guides/ios/platform_features/introduction-to-ios11/arkit/urhosharp/
 * Provisioning up a physical iOS device for developer.  Not for the wimpy or weak.  Requires Apple developer account - https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/
@@ -43,8 +51,6 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 
 # MISC
 * Design > Images - Cross Platform Images in Xamarin Forms Using SVG - http://www.patridgedev.com/2016/03/17/cross-platform-images-in-xamarin-forms-using-svgs/
-* HAXM Emulator issues with Credential Guard or Device Guard - https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2146361
-* HAXM Emulator - Manual Install - https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
 * HTML Views Using Razor Templates - <https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/razor-html-templates/>
 * Live player limitations - https://developer.xamarin.com/guides/cross-platform/live/limitations/
 cl-profile-notes/ 

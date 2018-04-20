@@ -45,6 +45,7 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 * Design > Images - Cross Platform Images in Xamarin Forms Using SVG - http://www.patridgedev.com/2016/03/17/cross-platform-images-in-xamarin-forms-using-svgs/
 * HAXM Emulator issues with Credential Guard or Device Guard - https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2146361
 * HAXM Emulator - Manual Install - https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
+* HTML Views Using Razor Templates - <https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/razor-html-templates/>
 * Live player limitations - https://developer.xamarin.com/guides/cross-platform/live/limitations/
 cl-profile-notes/ 
 * Mobile Apps Using Xamarin and Azure - Good extensions around existing apps with Azure - https://developer.xamarin.com/guides/cross-platform/azure/Resources/poster.pdf

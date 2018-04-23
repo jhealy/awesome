@@ -57,6 +57,7 @@
 * Razor - https://msdn.microsoft.com/en-us/magazine/mt842512
 * Razor - Creating Razor Pages on Windows - https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/
 * Razor - Intro to Razor Pages in .NET Core - https://docs.microsoft.com/en-us/aspnet/core/mvc/razor-pages/index?tabs=visual-studio
+* MVC compared to Razor - <https://jonhilton.net/razor-pages-or-mvc-a-quick-comparison/>
 * React and ASP.NET Core - https://blogs.msdn.microsoft.com/whereismysolution/2018/01/23/some-cool-stuff-around-asp-net-core-2-0-and-reactjs/
 * SignalR for ASP.NET Core 2.0 Announced - Sept 2017 - https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/
 * SignalR Roadmap - part of ASP .NET Core - https://github.com/aspnet/Home/wiki/Roadmap

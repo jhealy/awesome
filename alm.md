@@ -45,6 +45,7 @@ See App Center above....
 * DevOps > Introduction to DevOps - https://www.edx.org/course/introduction-devops-microsoft-dev212x-0
 * DevOps > DevOps at Microsoft Showcase - https://www.visualstudio.com/learn/devops-at-microsoft/
 * DevOps > Microsoft Professional Program for DevOps - https://academy.microsoft.com/en-us/professional-program/tracks/devops/ 
+* Jenkins > Integrating VSTS with Jenkins - lab ( April 2018 ) - <https://almvm.azurewebsites.net/labs/vstsextend/jenkins/#approach-2-wrapping-jenkins-job-within-the-vsts-build>
 * Parts Unlimited DevOps Demo - https://microsoft.github.io/PartsUnlimitedMRP/
 * Team Explorer Everywhere - Eclipse and command line plugin - https://github.com/Microsoft/team-explorer-everywhere
 * TechNet Virtual Labs - https://almvm.azurewebsites.net/labs/tfs/technet/

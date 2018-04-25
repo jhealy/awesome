@@ -23,3 +23,6 @@
 # Leverage Tags to organize resources
 * https://azure.microsoft.com/en-us/updates/sept-4-update-azure-devtest-labs-set-tags-on-labs-for-improved-cost-tracking/
 * https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags 
+
+# MISC
+* Copy image between labs - <https://stackoverflow.com/questions/48429494/move-devtest-lab-vm-to-another-devtest-lab>

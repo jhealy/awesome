@@ -39,6 +39,7 @@ http://domains.Live.com|domains.live.com support - dsupport@microsoft.com
 * IE Compatibility Issues - ie10compat@microsoft.com 
 * IE Features Status - http://status.modern.ie/ 
 * IE on UserVoice - http://wpdev.uservoice.com/forums/257854-internet-explorer-platform 
+* Logic Apps Connector Request - <https://aka.ms/logicapps-wish>
 * Missing Platform APIs - http://wpdev.uservoice.com/forums/253374-missing-platform-apis 
 * MSDN Support - download issues, et al - http://msdn.microsoft.com/en-us/subscriptions/aa948874.aspx 
 * MS Press - How to Report Errors in Books - http://blogs.msdn.com/b/microsoft_press/archive/2011/04/11/how-to-report-errors-in-microsoft-press-books.aspx|microsoft_press 

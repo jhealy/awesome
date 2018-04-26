@@ -5,6 +5,7 @@
 * Serverless in the cloud: AWS vs. Google Cloud vs. Microsoft Azure (InfoWorld March 2018) - https://www.infoworld.com/article/3265750/paas/serverless-in-the-cloud-aws-vs-google-cloud-vs-microsoft-azure.html
 
 # LEARN
+* Building event-driven applications using serverless architectures - (webcast) <https://info.microsoft.com/ww-landing-build-event-driven-apps-with-serverless-ondemand.html>
 * eBook - <http://aka.ms/serverlessbook>
 
 SEE ALSO Azure Functions

@@ -52,6 +52,7 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 # MISC
 * Design > Images - Cross Platform Images in Xamarin Forms Using SVG - http://www.patridgedev.com/2016/03/17/cross-platform-images-in-xamarin-forms-using-svgs/
 * HTML Views Using Razor Templates - <https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/razor-html-templates/>
+* InTune App Bindings for Xamarin - <https://docs.microsoft.com/en-us/intune/app-sdk-xamarin>
 * Live player limitations - https://developer.xamarin.com/guides/cross-platform/live/limitations/
 cl-profile-notes/ 
 * Mobile Apps Using Xamarin and Azure - Good extensions around existing apps with Azure - https://developer.xamarin.com/guides/cross-platform/azure/Resources/poster.pdf

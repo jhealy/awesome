@@ -59,6 +59,7 @@ http://www.devfish.net/fullblogitemview.aspx?blogid=734|Web Application Toolkit 
 * Visual Studio Mac - https://visualstudio.uservoice.com/forums/563332-visual-studio-for-mac 
 * Visual Studio Subscriptions (MSDN Subs) - Service Centers (1-800-759-5474) -
 https://www.visualstudio.com/subscriptions/support/
+* Visual Studio Team Systems ( VSTS ) UserVoice - <https://visualstudio.uservoice.com/forums/330519-visual-studio-team-services/>
 * Visual Studio User Voice - https://visualstudio.uservoice.com
 * Windows 8 - http://answers.microsoft.com/en-us/windows/forum/windows_8?auth=1|forum 
 * Windows 8 Store Support - http://aka.ms/storesupport 

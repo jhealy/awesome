@@ -10,4 +10,5 @@
 * eBook - <http://aka.ms/serverlessbook>
 * Workshop - <http://aka.ms/serverlesscontent>
 
-SEE ALSO Azure Functions
+SEE ALSO:
+* Azure Functions - <https://github.com/jhealy/awesome/blob/master/azure-functions.md>

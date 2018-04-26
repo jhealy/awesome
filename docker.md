@@ -23,3 +23,26 @@
 * OFFICIAL node.js docker image - https://github.com/nodejs/docker-node/blob/master/README.md
 * OFFICIAL node.js docker image for Windows - https://github.com/nodejs/docker-node/pull/362
 * Stefan Scherer's Windows node containers - Server Core and NanoServer - https://hub.docker.com/r/stefanscherer/node-windows/
+
+# Docker cheat sheet (some basic commands)
+## List Docker CLI commands
+docker
+docker container --help
+
+## Display Docker version and info
+docker --version
+docker version
+docker info
+
+## Execute Docker image
+docker run hello-world
+
+## List Docker images
+docker image ls
+
+## List Docker containers (running, all, all in quiet mode)
+docker container ls
+
+docker container ls --all
+
+docker container ls -aq

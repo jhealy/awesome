@@ -9,3 +9,7 @@
 * Implementing and securing an API with ASP.NET Core ( plural$ight ) - https://www.pluralsight.com/courses/aspdotnetcore-implementing-securing-api
 * Login and Authentication for your ASP.NET Core Web API - https://jonhilton.net/2017/05/03/login-authentication-asp-net-core-web-api-big-picture/
 * Secure a Web Api in ASP.NET Core - http://www.blinkingcaret.com/2017/09/06/secure-web-api-in-asp-net-core/
+
+# MISC
+* AutoRest - Generate variety of clients against REST interface - <https://github.com/Azure/autorest>
+* AutoRest - swagger and autorest - <https://visualstudiomagazine.com/articles/2017/04/01/consuming-rest-services.aspx>

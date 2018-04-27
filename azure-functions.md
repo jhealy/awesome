@@ -24,6 +24,7 @@
 * License plate reader using functions and OpenALPR - https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr
 
 # MISC
+* Application insights - Add to existing function - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#enable-application-insights-integration>
 * AWS Lambda versus Functions - https://serifandsemaphore.io/azure-cloud-functions-vs-aws-lambda-caf8a90605dd
 * Azure Functions vs AWS Lambda Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-scaling-face-off/
 * Azure Functions vs AWS Lambda vs Google Cloud Functions - Javascript Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-vs-google-cloud-functions-javascript-scaling-face-off/

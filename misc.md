@@ -79,6 +79,7 @@ pooling, and socket exceptions
 * Design > Data Viz Project - inspiration - http://datavizproject.com/
 * Design > Top Ten Usability Heuristics - https://www.nngroup.com/articles/ten-usability-heuristics/
 * Design > What the font - Shazam for fonts - http://www.myfonts.com/WhatTheFont/mobile/
+* Design > Wireframing using PowerPoint - <https://docs.microsoft.com/en-us/vsts/work/backlogs/office/storyboard-your-ideas-using-powerpoint?view=vsts>
 * Edge developer Guide - https://docs.microsoft.com/en-us/microsoft-edge/dev-guide
 * Entity Framework  Data - Reverse POCO Generator - https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator
 * Entity Framework > Tutorials - https://msdn.microsoft.com/en-us/library/aa937723(v=vs.113).aspx 

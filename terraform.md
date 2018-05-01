@@ -6,3 +6,6 @@
 
 # VSTS INTEGRATION
 * Terraform VSTS Build Task - <https://marketplace.visualstudio.com/items?itemName=petergroenewegen.PeterGroenewegen-Xpirit-Vsts-Release-Terraform>
+
+# MISC
+* Azure to Terraform - <https://azure-in-action.blog/2018/04/24/azure-to-terraform-az2tf/>

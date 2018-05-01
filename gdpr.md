@@ -1,4 +1,5 @@
 # GENERAL
+* Events Based Retention now Generally Avaialble in Advanced Data Governance - 
 * GDPR Overview with section breakouts - <https://en.m.wikipedia.org/wiki/General_Data_Protection_Regulation>
 * GDPR and Microsoft365: Streamline your Path to Compliance e-book - <https://info.microsoft.com/ww-landing-GDPR-and-Microsoft-365-EBook-eBook.html>
 * Get Started: support for GDPR Accountability - <https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted>
@@ -22,6 +23,7 @@
 
 # DATA SUBJECT REQUESTS (DSR)
 * How Microsoft Enables You to Respond to Data Subject Requests - <https://servicetrust.microsoft.com/ViewPage/GDPRDSR>
+* Introducing Data Privacy in Security and Compliance Center including Data Subject Requests experience - <https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Data-Privacy-in-Security-amp-Compliance-Center/ba-p/183648>
 
 # TOOLS
 * Assess your GDPR compliance - 10 question survey to help - https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx

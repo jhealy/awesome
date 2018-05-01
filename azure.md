@@ -38,7 +38,8 @@
 
 # MISC
 * AI/ML > What to use and when ( march 2018, buck woody ) - <https://blogs.msdn.microsoft.com/buckwoody/2018/02/22/the-microsoft-artificial-intelligence-landscape-and-what-to-use-when/>
-* Service Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
+* API Management > Service Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
+* App Insights > Profile a live app using App Insights - <https://docs.microsoft.com/en-us/azure/application-insights/app-insights-profiler>
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Blog - https://anthonychu.ca/
 * Blog - https://www.appliedi.net/feed/

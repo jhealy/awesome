@@ -4,6 +4,7 @@
 * GDPR and Microsoft365: Streamline your Path to Compliance e-book - <https://info.microsoft.com/ww-landing-GDPR-and-Microsoft-365-EBook-eBook.html>
 * Get Started: support for GDPR Accountability - <https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted>
 * Global Data Protection Requirements - https://globalappcasting.com/gdpr/
+* Introducing Service Trust Portal and the new Privacy/GDPR resources - <https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Service-Trust-Portal-and-the-new-Privacy-GDPR/ba-p/183394>
 * Manufacturing - https://enterprise.microsoft.com/en-us/articles/blog/caglayan-blog/achieving-gdpr-compliance-in-manufacturing/ - 
 	http://www.bluesource.net/2017/05/30/new-eu-data-protection-laws-mean-for-the-manufacturing-industry/ - https://ec.europa.eu/growth/sectors/chemicals_en
 * Safeguard individual privacy with the Microsoft Cloud - <https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx>

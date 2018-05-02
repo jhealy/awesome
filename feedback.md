@@ -18,7 +18,6 @@ Even as a Microsoft employee is hard even for me to figure out the public routes
   * Pay-For Support - http://azure.microsoft.com/en-us/support/plans/ 
   * Storage Feedback (partners) - <azurestoragefeedback@microsoft.com>
   * WebApp (WebSite) Feedback - http://feedback.azure.com/forums/169385-web-sites/ 
-  * Azure General - Vote for next features to be implemented - run by product team - http://www.mygreatwindowsazureidea.com 
 * Band - http://microsofthealth.uservoice.com/forums/283636-microsoft-health-and-microsoft-band|user Voice
 ,mailto:healthms@microsoft.com
 ,http://stackoverflow.com/questions/tagged/microsoft-band?sort=newest|stackoverflow.com 

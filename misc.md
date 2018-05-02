@@ -80,6 +80,7 @@ pooling, and socket exceptions
 * Design > Top Ten Usability Heuristics - https://www.nngroup.com/articles/ten-usability-heuristics/
 * Design > What the font - Shazam for fonts - http://www.myfonts.com/WhatTheFont/mobile/
 * Design > Wireframing using PowerPoint - <https://docs.microsoft.com/en-us/vsts/work/backlogs/office/storyboard-your-ideas-using-powerpoint?view=vsts>
+* Design > Wireframing using Visio - <https://support.office.com/en-us/article/use-wireframe-templates-to-design-websites-and-mobile-apps-2d54dc55-f5c4-49a2-85da-d649eb7fc281>
 * Edge developer Guide - https://docs.microsoft.com/en-us/microsoft-edge/dev-guide
 * Entity Framework  Data - Reverse POCO Generator - https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator
 * Entity Framework > Tutorials - https://msdn.microsoft.com/en-us/library/aa937723(v=vs.113).aspx 

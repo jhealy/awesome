@@ -26,6 +26,7 @@ See App Center above....
 
 # VSTS
 * Agile Planning and Portfolio Management with TFS 2017 (HOL) - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32135&lod=true
+* DevOps Resource Center - <https://docs.microsoft.com/en-us/azure/devops/>
 * Embracing Continuous Delivery with Release Management of Visual Studio 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32168&lod=true
 * Features index - https://docs.microsoft.com/en-us/vsts/user-guide/alm-devops-features?toc=/vsts/user-guide/
 * Features timeline - https://www.visualstudio.com/en-us/articles/news/features-timeline

@@ -86,6 +86,7 @@ pooling, and socket exceptions
 * Entity Framework > PowerTools - https://blogs.msdn.microsoft.com/robertgreen/2017/10/19/visual-studio-toolbox-entity-framework-power-tools/
 * Internet General > Suffix list for domains - https://publicsuffix.org/
 * IoT > NetPi - hardened docker linux broadcom enabled Raspberry Pi - https://blogs.msdn.microsoft.com/holgerkenn/2017/10/30/hilscher-netpi-raspberry-pi-3-for-industrial-automation-part-1/
+* IoT > RPi - 12 Awesome Accessories - <https://www.zdnet.com/pictures/12-of-the-most-awesome-raspberry-pi-accessories/4/>
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
 * Linux > Kali Linux for WSL - https://blogs.msdn.microsoft.com/commandline/2018/03/05/kali-linux-for-wsl/
 * Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/

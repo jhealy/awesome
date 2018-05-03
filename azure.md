@@ -76,6 +76,7 @@
 * Service Bus > Move off AZAD to SAS - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-acs-sas
 * Stack > What it is and isn't - https://virtualizationreview.com/articles/2018/04/09/what-microsoft-azure-stack-is-and-is-not.aspx
 * Storage > BlobPorter - Highly concurrent data transfer tool for Azure Blob Storage - friendlier than AzCopy -  https://github.com/Azure/blobporter
+* Storage > Fast Data Transfer - high speed loader for Azure <https://www.microsoft.com/en-us/garage/profiles/fast-data-transfer/>
 * Virtual DataCenter - <https://aka.ms/VDC>
 
 

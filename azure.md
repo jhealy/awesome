@@ -50,7 +50,7 @@
 * Cognitive Services - Speech to Text WebSockets Sample (js) - https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript
 * Cognitive Services - PRedicting Expenses Types from Receipts with COGS and ML - https://www.microsoft.com/developerblog/2017/01/01/predicting-expense-type-from-receipts-with-microsoft-cognitive-services/
 * Certification - Collection of study guides for various exams - https://rmmartins.github.io/AzureCertification/
-* Certification Help - 70-533 and others - https://exam-hub.com/microsoft/70-533/
+* Certification > 70-533 <https://exam-hub.com/microsoft/70-533/>
 * Certification - Exam 70-534 - Architecting Microsoft Azure Solutions > Labs - https://github.com/dstolts/70-534
 * Certification - Exam 70-534 - Architecting Microsoft Azure Solutions > Prep - https://blogs.msdn.microsoft.com/make_it_better/2017/05/06/exam-prep-for-architecting-microsoft-azure-solutions-70-534/
 * Certification - Exam 70-534 - Retirement in December 2017 - https://www.microsoft.com/en-us/learning/exam-70-534.aspx

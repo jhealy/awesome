@@ -30,4 +30,11 @@
 * Assess your GDPR compliance - 10 question survey to help - https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx
 * Compliance Manager - real time risk assessment, insights for data protection, and built-in control managemetn and audit-ready reporting - https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Manage-Your-Compliance-from-One-Place-Announcing-Compliance/ba-p/106493
 
-
+# MISC
+* AI and GDPR <https://www.datanami.com/2018/02/27/gdpr-artificial-intelligence-killer/>
+* AI and GDPR - Impact Analysis by Center for Data Innovation <http://www2.datainnovation.org/2018-impact-gdpr-ai.pdf>
+* Article 22 - Automated Credit Decisions - <http://www.reubenbinns.com/blog/how-to-comply-with-gdpr-article-22-automated-credit-decisions/>
+* Blockchain and GDPR - <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3080322>
+* WP29 - Guidelines, opinions, and documents from WP29 <https://iapp.org/resources/article/all-of-the-article-29-working-party-guidelines-opinions-and-documents/>
+* WP29 - Profiling - WP29 Guidelines on Profiling <https://iapp.org/news/a/wp29-releases-guidelines-on-profiling-under-the-gdpr/>
+* WP29’s variance from the written GDPR laws : https://iapp.org/news/a/did-the-wp29-misinterpret-the-gdpr-on-automated-decision-making/

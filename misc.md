@@ -28,6 +28,7 @@ Held here until enough volume to be posted elsewhere....
 * Deep Learning Explained - https://www.edx.org/course/deep-learning-explained-microsoft-dat236x
 * Practical Deep Learning For Coders - http://course.fast.ai/
 
+
 # DEVOPS
 * Team Foundation Server to Visual Studio Team Services Migration Guide and Database Import Tooling - https://www.microsoft.com/en-us/download/details.aspx?id=54274
 
@@ -78,6 +79,7 @@ Held here until enough volume to be posted elsewhere....
 * Internet General > Suffix list for domains - https://publicsuffix.org/
 * IoT > NetPi - hardened docker linux broadcom enabled Raspberry Pi - https://blogs.msdn.microsoft.com/holgerkenn/2017/10/30/hilscher-netpi-raspberry-pi-3-for-industrial-automation-part-1/
 * IoT > RPi - 12 Awesome Accessories - <https://www.zdnet.com/pictures/12-of-the-most-awesome-raspberry-pi-accessories/4/>
+* IoT > Sensor Kit for RPi - 37 Sensors Starter Kit - <https://deals.geekdad.com/sales/37-sensors-starter-kit-for-raspberry-pi-not-included?utm_source=geekdad.com&utm_medium=referral&utm_campaign=37-sensors-starter-kit-for-raspberry-pi-not-included_050618>
 * Linux > Learn > Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
 * Linux > Kali Linux for WSL - https://blogs.msdn.microsoft.com/commandline/2018/03/05/kali-linux-for-wsl/
 * Linux > Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/

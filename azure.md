@@ -12,6 +12,7 @@
 
 # ARCHITECTURE
 * Azure Architecture Center - https://docs.microsoft.com/en-us/azure/architecture/
+* SmartHive Meeting Room with Service Bus - <https://github.com/Microsoft/MTC_SmartHive>
 
 # APP SERVICES
 * Let's Encrypt and Azure Web Apps <https://github.com/sjkp/letsencrypt-siteextension/wiki/How-to-install>

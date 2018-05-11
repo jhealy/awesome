@@ -14,13 +14,6 @@
 * Azure Architecture Center - https://docs.microsoft.com/en-us/azure/architecture/
 * SmartHive Meeting Room with Service Bus - <https://github.com/Microsoft/MTC_SmartHive>
 
-# APP SERVICES
-* Let's Encrypt and Azure Web Apps <https://github.com/sjkp/letsencrypt-siteextension/wiki/How-to-install>
-* Limits - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits?toc=%2fazure%2fvpn-gateway%2ftoc.json#app-service-limits
-* Limits - Ports - https://blogs.msdn.microsoft.com/benjaminperkins/2016/11/02/port-limit-for-an-azure-app-service/
-* Remote Debugging Azure App Services including .NET Core - https://blogs.msdn.microsoft.com/benjaminperkins/2017/06/06/remote-debug-your-azure-app-service-2017-including-asp-net-core/
-* TLS - Disable in app service - https://blogs.msdn.microsoft.com/benjaminperkins/2018/01/25/tls-on-azure-app-services/
-
 # COGNITIVE SERVICES ( COGS )
 * Cognitive Services - Predicting Expenses Types from Receipts with COGS and ML - https://www.microsoft.com/developerblog/2017/01/01/predicting-expense-type-from-receipts-with-microsoft-cognitive-services/
 * Cognitive Services - Project Conversation Learner -  build and teach conversational interfaces that learn from example interactions -  <https://labs.cognitive.microsoft.com/en-us/project-conversation-learner>

@@ -64,6 +64,7 @@
 
 # MISC
 * AddColumn not working - https://powerusers.microsoft.com/t5/PowerApps-Forum/AddColumns-not-working-with-collection/td-p/29072
+* Azure Blob Storage Connector - <https://powerapps.microsoft.com/en-us/blog/upload-files-from-powerapps-using-the-azure-blob-storage-connector/?utm_source=dlvr.it&utm_medium=twitter>
 * Azure Function -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
 * Azure Function -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * Azure Function -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow

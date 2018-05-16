@@ -1,5 +1,6 @@
 # GENERAL
 * Home - <https://www.terraform.io/>
+* Terraform and Azure <https://azure.microsoft.com/en-us/solutions/devops/terraform/>
 
 # LEARN
 * Get Started with Terraform on Windows Azure - <https://pgroene.wordpress.com/2016/06/14/getting-started-with-terraform-on-windows-and-azure/>

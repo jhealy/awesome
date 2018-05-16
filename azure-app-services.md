@@ -1,4 +1,5 @@
 # AZURE APP SERVICES
+* Case Study > Migrating an on-premise solution to Azure PaaS services with automated deployment (may 2017) <https://microsoft.github.io/techcasestudies/devops/2017/05/12/Somerset_CC_DevOps.html> - Azure App services, Docker, PostgreSQL
 * Let's Encrypt and Azure Web Apps <https://github.com/sjkp/letsencrypt-siteextension/wiki/How-to-install>
 * Limits - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits?toc=%2fazure%2fvpn-gateway%2ftoc.json#app-service-limits
 * Limits - Ports - https://blogs.msdn.microsoft.com/benjaminperkins/2016/11/02/port-limit-for-an-azure-app-service/

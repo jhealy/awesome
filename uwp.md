@@ -132,7 +132,8 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * NDEF / NFC Library - https://github.com/andijakl/ndef-nfc
 * Optical Character Recognition (OCR) for Windows 10 - https://blogs.windows.com/buildingapps/2016/02/08/optical-character-recognition-ocr-for-windows-10/
 * Polishing Your Apps with Animation and Audio Queues - https://blogs.windows.com/buildingapps/2016/08/09/polishing-your-app-with-animations-and-audio-cues/
-* Publishing Apps for 3rd Parties - https://blogs.windows.com/buildingapps/2015/12/15/building-an-app-for-a-3rd-party-how-to-package-their-store-app/
+* Publishing > Apps for 3rd Parties - https://blogs.windows.com/buildingapps/2015/12/15/building-an-app-for-a-3rd-party-how-to-package-their-store-app/
+* Publishing > App Packaging Script <https://github.com/Microsoft/Windows-AppConsult-Tools-DesktopBridgeRePack/blob/master/RepackageForWindows10S/MakeAPPXForWin10S.ps1>
 * Pull to Refresh - codeproject.com
 * ReactJS for UWP - https://github.com/ReactWindows
 * Samples - Windows Universal Samples - https://github.com/Microsoft/Windows-universal-samples

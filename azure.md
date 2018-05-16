@@ -1,6 +1,8 @@
 # GENERAL
+* Bash shell for Azure in cloud - <https://shell.azure.com/>
 * Cloud Services comparison - <http://comparecloud.in/>
 * Compute Decision Tree (awesome) - <https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree>
+* Compute Decision Tree - questions for big 4Rs - <https://azure.microsoft.com/en-us/migration/migrate/>
 * East versus East2 - What's the difference? - https://www.appliedi.net/blog/azure-east-us-vs-east-us-2-whats-the-difference/
 * Pricing calculator - all items - https://azure.microsoft.com/en-us/pricing/calculator/
 * Pricing - Appservices breakout - https://azure.microsoft.com/en-us/pricing/details/app-service/ 
@@ -66,13 +68,15 @@
 * Keeping secrets in the cloud with Azure - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 * Location Based Services > Add a Line - https://codepen.io/azuremaps/pen/qomaKv
 * Location Based Services
-* Linux - Course - Linux Foundation - Administering Linux on Azure - https://training.linuxfoundation.org/linux-courses/system-administration-training/administering-linux-on-azure
+* Linux > Bash shell in azure cloud <https://shell.azure.com/>
+* Linux > Course - Linux Foundation - Administering Linux on Azure - https://training.linuxfoundation.org/linux-courses/system-administration-training/administering-linux-on-azure
 * Mobile Apps Using Xamarin and Azure - Good extensions around existing apps with Azure - https://developer.xamarin.com/guides/cross-platform/azure/Resources/poster.>
 * Move resources from one RG or subscription to another - <https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources>
 * Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
 * Networking > Measuring latency and throughput between azure regions - https://blogs.msdn.microsoft.com/mioteg/2017/11/20/measuring-latency-and-throughput-between-azure-regions/
 * Python in Azure PaaS for batch services - https://azure.microsoft.com/en-us/resources/samples/batch-python-paas-cloud-service-pool/
 * Service Bus > Move off AZAD to SAS - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-acs-sas
+* Site Recovery > Case studies <https://azure.microsoft.com/en-us/case-studies/?service=site-recovery>
 * Stack > What it is and isn't - https://virtualizationreview.com/articles/2018/04/09/what-microsoft-azure-stack-is-and-is-not.aspx
 * Storage > BlobPorter - Highly concurrent data transfer tool for Azure Blob Storage - friendlier than AzCopy -  https://github.com/Azure/blobporter
 * Storage > Fast Data Transfer - high speed loader for Azure <https://www.microsoft.com/en-us/garage/profiles/fast-data-transfer/>

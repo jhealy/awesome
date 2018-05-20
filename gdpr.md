@@ -35,6 +35,8 @@
 * AI and GDPR - Impact Analysis by Center for Data Innovation <http://www2.datainnovation.org/2018-impact-gdpr-ai.pdf>
 * Article 22 - Automated Credit Decisions - <http://www.reubenbinns.com/blog/how-to-comply-with-gdpr-article-22-automated-credit-decisions/>
 * Blockchain and GDPR - <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3080322>
+* DNA > FamilyTreeDNA and GDPR <https://mailchi.mp/familytreedna.com/important-info-for-ysearch-and-mitosearch-members>
+* DNA > Irish Family History Center and GDPR <https://www.irishfamilyhistorycentre.com/privacy-policy>
 * WP29 - Guidelines, opinions, and documents from WP29 <https://iapp.org/resources/article/all-of-the-article-29-working-party-guidelines-opinions-and-documents/>
 * WP29 - Profiling - WP29 Guidelines on Profiling <https://iapp.org/news/a/wp29-releases-guidelines-on-profiling-under-the-gdpr/>
 * WP29’s variance from the written GDPR laws : https://iapp.org/news/a/did-the-wp29-misinterpret-the-gdpr-on-automated-decision-making/

@@ -43,3 +43,6 @@
 * .NET Core - Getting Started - ARM - https://github.com/Azure-Samples/service-fabric-dotnet-core-getting-started
 * SF Cluster Templates - ARM - https://github.com/Azure-Samples/service-fabric-cluster-templates
 * 5 VM Windows 1 Node Type Secured via NSG - <https://github.com/Azure-Samples/service-fabric-cluster-templates/tree/master/5-VM-Windows-1-NodeTypes-Secure-NSG>
+
+# MISC
+* Functions versus Microservice Platform (service fabric) <http://www.juharistolainen.com/post/2017-04-20-azure-functions/>

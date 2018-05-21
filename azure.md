@@ -28,6 +28,7 @@
 * ARM errors on deploy - https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures
 * DocumentDB MVA - https://mva.microsoft.com/en-US/training-courses/azure-documentdb-planetscale-nosql-16847
 * Microsoft Mechanics Video Series - https://www.youtube.com/c/MicrosoftMechanicsSeries
+* QuickStart Guide for .NET Developers <https://azure.microsoft.com/en-us/blog/get-the-azure-quick-start-guide-for-net-developers/>
 
 # MICROSERVICES
 * Also see service Fabric topic in this wiki

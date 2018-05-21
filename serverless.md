@@ -7,6 +7,7 @@
 
 # LEARN
 * Building event-driven applications using serverless architectures - (webcast) <https://info.microsoft.com/ww-landing-build-event-driven-apps-with-serverless-ondemand.html>
+* Cookbok for Azure Serverless Computing <https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook/>
 * eBook - <http://aka.ms/serverlessbook>
 * Workshop - <http://aka.ms/serverlesscontent>
 

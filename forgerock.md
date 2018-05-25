@@ -1,6 +1,7 @@
 # FORGEROCK
 Identity and access management.  Works with Azure.  Used in lieu of AzureAD.
 * Home <https://www.forgerock.com/>
+* Setting up an Azure Active Directory for evaluating the ForgeRock stack <https://forum.forgerock.com/2016/08/setting-active-directory-domain-evaluating-forgerock-stack/>
 
 # LEARN
 * OpenAM - An intro <https://www.youtube.com/watch?v=FriS8QUjfCI>

@@ -1,9 +1,10 @@
  # GENERAL
 * Case studies - https://customers.microsoft.com/en-us/search?sq=%22Azure%20Logic%20Apps%20%22&ff=&p=1&so=story_publish_date%20desc
 * Compare Flow, Logic Apps, Functions, and WebJobs <https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs>
+* Connectors List - <https://docs.microsoft.com/en-us/azure/connectors/apis-list>
 * Connector request - <https://aka.ms/logicapps-wish>
 * Docs - https://docs.microsoft.com/en-us/azure/logic-apps/
-* Connectors List - https://docs.microsoft.com/en-us/azure/connectors/apis-list
+* Edit with Visual Studio <https://docs.microsoft.com/en-us/azure/logic-apps/manage-logic-apps-with-visual-studio>
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/logic-apps/
 * Pricing Model - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing
 * Workflow definition language - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
@@ -22,6 +23,10 @@
 * Microsoft Samples - https://github.com/logicappsio
 * Pre-built templates - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-logic-apps-from-templates
 
+# SECURITY
+* Securing Access to Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app>
+* Securing Logic Apps via ASE and API Management (vnet equiv) <http://www.bizbert.com/bizbert/2016/01/07/AppServiceEnvironmentsHowToDeployAPIAppsToAVirtualNetwork.aspx>
+
 # MISC
 * ARM Template - Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
 * Build Apps Faster with Serverless - https://channel9.msdn.com/Blogs/Azure/Build-apps-faster-with-Azure-Serverless
@@ -31,4 +36,3 @@
 * Lessons Learned - http://blogs.technet.com/b/meamcs/archive/2015/04/09/azure-logic-app-lessons-learned-part-1.aspx
 * On-Premise Data Gateway - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-connection
 * XML Integration - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-eai-logic-app-using-vetr/
-

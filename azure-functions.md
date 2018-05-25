@@ -12,7 +12,11 @@
 * Twitter - https://twitter.com/azurefunctions
 * Stack Overflow - [azure-functions] tag - https://stackoverflow.com/questions/tagged/azure-functions
 * Support Forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions
-* YouTube - https://www.youtube.com/AzureFunctions
+* YouTube - <https://www.youtube.com/AzureFunctions>
+
+# DURABLE FUNCTIONS
+* Doc <https://github.com/Azure/azure-functions-durable-extension>
+* Durable functions making serverless last - durable functions as orchestrator <https://thenewstack.io/durable-functions-making-serverless-last/>
 
 # LEARN
 * Book - <a target="_blank" href="https://www.amazon.com/gp/product/1788390822/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788390822&linkCode=as2&tag=jhealy-20&linkId=9a9dd2c286874f47f28a007a30542368">Azure Serverless Computing Cookbook: Build applications hosted on serverless architecture using Azure Functions</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jhealy-20&l=am2&o=1&a=1788390822" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -22,6 +26,9 @@
 * Approval Workflow with SendGrid - Durable Functions Pattern - <https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid>
 * Azure wiki samples - https://github.com/Azure/Azure-Functions/wiki/Samples-and-content
 * License plate reader using functions and OpenALPR - https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr
+
+# SECURITY
+* Azure Function into a VNET <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
 
 # MISC
 * Application insights - Add to existing function - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#enable-application-insights-integration>

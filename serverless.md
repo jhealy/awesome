@@ -1,5 +1,5 @@
 # SERVERLESS COMPUTING
-* Home - <http://azure.com/serverless>
+* Home - <https://azure.microsoft.com/en-us/overview/serverless-computing/>
 * Serverless Architecture with Azure Functions [Feb 2017 MSDN Mag] - https://msdn.microsoft.com/en-us/magazine/mt793269.aspx
 * Serverless Comparison - Flow, Logic Apps, Functions, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
 * Serverless Microsoft team - <serverlessninjas@microsoft.com>

@@ -7,4 +7,8 @@
 * Remote Debugging Azure App Services including .NET Core - https://blogs.msdn.microsoft.com/benjaminperkins/2017/06/06/remote-debug-your-azure-app-service-2017-including-asp-net-core/
 * TLS - Disable in app service - https://blogs.msdn.microsoft.com/benjaminperkins/2018/01/25/tls-on-azure-app-services/
 
+# MIGRATION ASSISTANT
+* Azure App Service Migration Tool - <https://azure.microsoft.com/en-us/downloads/migration-assistant/>
+* Move me to the cloud - <https://www.movemetothecloud.net/>
+
 SEE ALSO Azure App Service Environments - <https://github.com/jhealy/awesome/blob/master/azure-ase.md>

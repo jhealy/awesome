@@ -45,6 +45,7 @@
 * API Management > Service Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
 * App Insights > Profile a live app using App Insights - <https://docs.microsoft.com/en-us/azure/application-insights/app-insights-profiler>
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
+* Batch Labs - monitor your azure batch jobs <https://azure.github.io/BatchLabs/>
 * Blog - https://anthonychu.ca/
 * Blog - https://www.appliedi.net/feed/
 * CLI > Bash Shell - Powershell or Linux - https://shell.azure.com

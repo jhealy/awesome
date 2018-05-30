@@ -9,6 +9,7 @@
 
 # MIGRATION ASSISTANT
 * Azure App Service Migration Tool - <https://azure.microsoft.com/en-us/downloads/migration-assistant/>
+* Migrate your websites to azure in just a few clicks - <https://azure.microsoft.com/en-us/blog/migrate-your-websites-to-azure-in-just-a-few-clicks/>
 * Move me to the cloud - <https://www.movemetothecloud.net/>
 
 SEE ALSO Azure App Service Environments - <https://github.com/jhealy/awesome/blob/master/azure-ase.md>

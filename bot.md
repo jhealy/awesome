@@ -13,6 +13,7 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Daniel Egan's Bot Leearning Lab - https://github.com/DanielEgan/BotWorkshop 
 * MVA - Creating Bots in the Microsoft Bot Framwork using Node.js - https://mva.microsoft.com/en-US/training-courses/creating-bots-in-the-microsoft-bot-framework-using-nodejs-16759
 * PluralSight - dated - https://app.pluralsight.com/library/courses/microsoft-bot-framework-getting-started/table-of-contents
+* QnA Maker tutorial <https://github.com/Microsoft/BotBuilder-CognitiveServices/tree/master/CSharp/Samples/QnAMaker>
 * The Intelligent AGent Assistant: Bots in the AGent Desktop - Part 1 - https://blogs.msdn.microsoft.com/geoffreyinnis/2017/06/28/the-intelligent-agent-assistant-bots-in-the-agent-desktop-part-1/
 
 # LUIS

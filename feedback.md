@@ -24,6 +24,7 @@ Even as a Microsoft employee is hard even for me to figure out the public routes
 * Bing API 2.0 Feedback - https://feedback.discoverbing.com/default.aspx?mkt=en-us&productkey=bingdevctr&brand=&&scrx=1|discoverbing 
 * Bing Maps Support - https://support.discoverbing.com/default.aspx?mkt=en-us&productkey=binglocal&brand=&&ct=eformts&scrx=1 
 * Bizspark Support - http://trainingsupport.microsoft.com/en-us/tcbizspark,bizsup@microsoft.com 
+* Cognitive Services - Vision API <https://cognitive.uservoice.com/forums/430309-computer-vision>
 * Cordova - see TACO entry on this page 
 * Crystal Reports (supported by SAP) - http://support.microsoft.com/kb/317789 
 * Download Center - http://support.microsoft.com/gp/ContactDownloads 

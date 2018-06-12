@@ -11,9 +11,10 @@
 * Your First Angular App : Events and Updating - https://visualstudiomagazine.com/articles/2017/08/01/first-angular-app.aspx?mkt_tok=devfish
 * Your First TypeScript Angular 2 App - https://visualstudiomagazine.com/articles/2017/07/06/typescript-angular-2-app-javascript.aspx?mkt_tok=devfish
 
-# LEARN - NODE
+# NODE
 * Seven keys to structuring your Node.js apps - https://www.infoworld.com/article/3204205/node-js/7-keys-to-structuring-your-nodejs-app.html#tk.ifw-infsb
 * Ten Javascript concepts Node.js programmers should master - https://www.infoworld.com/article/3196070/node-js/10-javascript-concepts-nodejs-programmers-must-master.html#tk.ifw-infsb
+* The Node guy on Node <https://thenewstack.io/node-js-creator-blasts-node-js-offers-a-secure-typescript-based-alternative/>
 
 # WebSocket
 * Close codes from RFC6455 - https://tools.ietf.org/html/rfc6455#section-11.7

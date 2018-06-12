@@ -18,9 +18,10 @@
 * SmartHive Meeting Room with Service Bus - <https://github.com/Microsoft/MTC_SmartHive>
 
 # COGNITIVE SERVICES ( COGS )
-* Cognitive Services - Predicting Expenses Types from Receipts with COGS and ML - https://www.microsoft.com/developerblog/2017/01/01/predicting-expense-type-from-receipts-with-microsoft-cognitive-services/
-* Cognitive Services - Project Conversation Learner -  build and teach conversational interfaces that learn from example interactions -  <https://labs.cognitive.microsoft.com/en-us/project-conversation-learner>
-* Cognitive Services - Speech to Text WebSockets Sample (js) - https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript
+* Predicting Expenses Types from Receipts with COGS and ML - https://www.microsoft.com/developerblog/2017/01/01/predicting-expense-type-from-receipts-with-microsoft-cognitive-services/
+* build and teach conversational interfaces that learn from example interactions -  <https://labs.cognitive.microsoft.com/en-us/project-conversation-learner>
+* OCR and Handwritten sections using Computer Vision and Azure COGS <https://www.microsoft.com/developerblog/2018/05/07/handwriting-detection-and-recognition-in-scanned-documents-using-azure-ml-package-computer-vision-azure-cognitive-services-ocr/>
+* Speech to Text WebSockets Sample (js) - https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript
 
 # LEARN
 * Application Architecture Guide (pdf available too) = https://docs.microsoft.com/en-us/azure/architecture/guide/
@@ -46,6 +47,7 @@
 * API Management > Service Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
 * App Insights > Profile a live app using App Insights - <https://docs.microsoft.com/en-us/azure/application-insights/app-insights-profiler>
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
+* Batch - Monitor .NET Azure Batch Using Application Insights <https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously>
 * Batch Labs - monitor your azure batch jobs <https://azure.github.io/BatchLabs/>
 * Blog - https://anthonychu.ca/
 * Blog - https://www.appliedi.net/feed/
@@ -61,6 +63,7 @@
 * Certification - Exam 70-535 - Architecting Microsoft Azure Solutions 355 - Study Guide - http://download.microsoft.com/download/B/9/1/B91A0CE0-9786-4B81-8937-315F63E13910/Architecting_Microsoft_Azure_Solutions_11302017.pdf
 * Certification - Exam 70-535 - Dan Stolts 70-535 Courseware - https://github.com/guruskill/70-535
 * Certification - Microsoft Professional Program for Cloud Administration - https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/ 
+* Data Center > Under the sea <https://motherboard.vice.com/en_us/article/pavq99/microsoft-project-natick-submarine-data-center> <https://www.theverge.com/2018/6/6/17433206/microsoft-underwater-data-center-project-natick> <https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/>
 * Dockit - Azure Documentation Generator ($) - https://www.azuredockit.com/pricing-buy/
 * Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
 * IoT > Article Collection - https://buildazure.com/category/internet-of-things/
@@ -79,10 +82,7 @@
 * Networking > Measuring latency and throughput between azure regions - https://blogs.msdn.microsoft.com/mioteg/2017/11/20/measuring-latency-and-throughput-between-azure-regions/
 * Python in Azure PaaS for batch services - https://azure.microsoft.com/en-us/resources/samples/batch-python-paas-cloud-service-pool/
 * Service Bus > Move off AZAD to SAS - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-acs-sas
+* Sphere SDK <https://www.seeedstudio.com/MT3620-Development-Board-for-Azure-Sphere-p-3052.html>
 * Site Recovery > Case studies <https://azure.microsoft.com/en-us/case-studies/?service=site-recovery>
 * Stack > What it is and isn't - https://virtualizationreview.com/articles/2018/04/09/what-microsoft-azure-stack-is-and-is-not.aspx
-* Storage > BlobPorter - Highly concurrent data transfer tool for Azure Blob Storage - friendlier than AzCopy -  https://github.com/Azure/blobporter
-* Storage > Fast Data Transfer - high speed loader for Azure <https://www.microsoft.com/en-us/garage/profiles/fast-data-transfer/>
 * Virtual DataCenter - <https://aka.ms/VDC>
-
-

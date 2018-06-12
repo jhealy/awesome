@@ -1,4 +1,5 @@
 # APP SERVICE ENVIRONMENTS
+* ASE Deployment Center Preview <https://blogs.msdn.microsoft.com/appserviceteam/2018/06/04/app-service-deployment-center-preview/>
 * Hardening - <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>
 * Staging ASE Environments - April 2017 - <https://docs.microsoft.com/en-us/azure/app-service/web-sites-staged-publishinghttps://msdn.microsoft.com/en-us/magazine/mt797651>
 * The New Azure App Service Environment - April 2017 - GREAT DIAGRAM - <https://msdn.microsoft.com/en-us/magazine/mt797651>

@@ -20,6 +20,10 @@ Also known as Azure AD...
 * Calling the Azure AD Graph from a Native Client - ADAL and Microsoft.Azure.ActiveDirectory.GraphClient - Nuget is not .net core compat in 2016 version (v.latest) and doesn't work for xamarin either - punt - https://github.com/Azure-Samples/active-directory-dotnet-graphapi-console
 * Code Samples Collection Across almost everything - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-code-samples
 
+# SERVICE PRINCIPALS
+* Application and service principal objects in Azure Active Directory (Azure AD) <https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-application-objects>
+* Use portal to create an Azure Active Directory application and service principal that can access resources - <https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal>
+
 # UWP
 * Code Samples Collection Across almost everything - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-code-samples
 * Get started with Microsoft Graph in a universal Windows 10 app - https://developer.microsoft.com/en-us/graph/docs/concepts/uwp (MSAL and Microsoft.Graph)

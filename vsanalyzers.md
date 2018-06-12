@@ -21,6 +21,10 @@
 * StyleCopAnalyzers - Wintellect - https://github.com/Wintellect/Wintellect.Analyzers
 * Writing a VB Analyzer - https://github.com/dotnet/roslyn/wiki/How-To-Write-a-Visual-Basic-Analyzer-and-Code-Fix
 
+# DOTNET CORE
+* Custom rulesets with .NET Core <https://curia.me/how-to-configure-code-analysis-in-net-core-projects>
+* Rigging Up Roslyln Analyzers in .NET Core <https://blogs.msdn.microsoft.com/devfish/2017/11/09/rigging-up-roslyn-analyzers-in-net-core/>
+
 # LEARN 
 * Power of Rosln: Improving Your Productivity with Live Code Analyzers - Xam Evolve 2016 - @kuhlenhuth - https://channel9.msdn.com/events/Xamarin-Evolve/2016/The-Power-of-Roslyn-Improving-Your-Productivity-with-Live-Code-Analyzers
 

@@ -1,4 +1,5 @@
 # APP SERVICE ENVIRONMENTS
+* DOCS - <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>
 * ASE Deployment Center Preview <https://blogs.msdn.microsoft.com/appserviceteam/2018/06/04/app-service-deployment-center-preview/>
 * Hardening - <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>
 * Management addresses <https://docs.microsoft.com/en-us/azure/app-service/environment/management-addresses>

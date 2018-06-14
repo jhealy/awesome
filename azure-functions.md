@@ -1,6 +1,7 @@
 # GENERAL
 * **Doc** home - https://azure.microsoft.com/en-us/services/functions/
 * Bindings and triggers - https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
+* Blog - Jeff Hollan - Program Manager (no rss) <https://medium.com/@jeffhollan>
 * Choose between Flow, Logic Apps, Functions, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
@@ -15,6 +16,7 @@
 * YouTube - <https://www.youtube.com/AzureFunctions>
 
 # DURABLE FUNCTIONS
+* Calling long running functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>
 * Doc <https://github.com/Azure/azure-functions-durable-extension>
 * Durable functions making serverless last - durable functions as orchestrator <https://thenewstack.io/durable-functions-making-serverless-last/>
 

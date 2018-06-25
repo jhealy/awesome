@@ -2,6 +2,7 @@
 ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile Center and more.
 
 * Azure DevOps Resources <https://docs.microsoft.com/en-us/azure/devops/>
+* Certification - not available yet <https://www.microsoft.com/en-us/learning/exam-70-538.aspx>
 * DevOps Hands-On-Labs <https://almvm.azurewebsites.net/>
 * VSTS Demo Generator <https://vstsdemogenerator.azurewebsites.net/>
 * Security - http://aka.ms/vsts-security

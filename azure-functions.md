@@ -1,5 +1,6 @@
 # GENERAL
 * **Doc** home - https://azure.microsoft.com/en-us/services/functions/
+* Availability of functions - watch out for Euro <https://azure.microsoft.com/en-us/global-infrastructure/services/>
 * Bindings and triggers - https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
 * Blog - Jeff Hollan - Program Manager (no rss) <https://medium.com/@jeffhollan>
 * Choose between Flow, Logic Apps, Functions, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
@@ -32,6 +33,11 @@
 # SECURITY
 * Azure Function into a VNET <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
 
+# UNIT TESTING
+* <https://github.com/jeffhollan/functions-test-helper>
+* <https://github.com/Azure/azure-functions-durable-extension/tree/master/test>
+* <https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-unit-testing>
+
 # MISC
 * Application insights - Add to existing function - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#enable-application-insights-integration>
 * ARM Template - Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
@@ -46,6 +52,7 @@
 * CosmosDB Graph via Gremlin - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
 * Cross Platform Tooling for Az Functions - Mac, Linux via NPM.  VS Code. VS Mac. Javascript, c#.  https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Debugging Azure Functions locally using Postman <https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function>
+* Event Hubs with Azure Functions - Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
 * Functions in a Container - http://tattoocoder.com/functions-runtime-kubernetes/
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 * Linux > https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 

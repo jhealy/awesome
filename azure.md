@@ -67,6 +67,7 @@
 * Data Center > Under the sea <https://motherboard.vice.com/en_us/article/pavq99/microsoft-project-natick-submarine-data-center> <https://www.theverge.com/2018/6/6/17433206/microsoft-underwater-data-center-project-natick> <https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/>
 * Dockit - Azure Documentation Generator ($) - https://www.azuredockit.com/pricing-buy/
 * Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
+* Event Hub > Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
 * IoT > Article Collection - https://buildazure.com/category/internet-of-things/
 * Iot > CLI IoT Hub Extension - "az extension add --name azure-cli-iot-ext"
 * IoT > Device Explorer - https://github.com/Azure/azure-iot-sdk-csharp/releases
@@ -74,7 +75,6 @@
 * IoT > Starter Kits > March 2016 Blog - https://blogs.microsoft.com/iot/2016/03/31/azure-iot-starter-kits-open-the-door-to-developer-innovation/
 * Keeping secrets in the cloud with Azure - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 * Location Based Services > Add a Line - https://codepen.io/azuremaps/pen/qomaKv
-* Location Based Services
 * Linux > Bash shell in azure cloud <https://shell.azure.com/>
 * Linux > Course - Linux Foundation - Administering Linux on Azure - https://training.linuxfoundation.org/linux-courses/system-administration-training/administering-linux-on-azure
 * Mobile Apps Using Xamarin and Azure - Good extensions around existing apps with Azure - https://developer.xamarin.com/guides/cross-platform/azure/Resources/poster.>

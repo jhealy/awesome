@@ -14,4 +14,5 @@
 # MISC
 * CDNJS - cdn for all kinds of js goodies - <https://cdnjs.com/#>
 * jsfiddle frowny face - http://jsfiddle.net/Y5rUH/23/ 
+* Metatag guide <https://searchenginewatch.com/2018/06/15/a-guide-to-html-meta-tags-in-2018/?utm_source=devfish>
  

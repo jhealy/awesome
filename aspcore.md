@@ -1,5 +1,6 @@
 # ASP.NET CORE
 * API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - try webhook v dbdataadapter on .NET Standard 2.0
+* Choosing between .NET Coe and .NET Framework for server apps <https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server>
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
 * Docs - samples - https://github.com/aspnet/Docs/tree/master/aspnetcore 
 * DodyG - Awesome .NET Core - https://github.com/dodyg/awesome-dotnet-core
@@ -14,6 +15,13 @@
 
 # BLOGS AND WEBSITES
 * Gunnar Peipman - http://gunnarpeipman.com/aspnet/
+
+# CONTAINERS
+* .NET Microservices for containerized .net applications <https://blogs.msdn.microsoft.com/cesardelatorre/2017/05/10/free-ebookguide-on-net-microservices-architecture-for-containerized-net-applications/>
+* github repo .NET Microservices for Containerized .NET Apps <https://github.com/dotnet-architecture/eShopOnContainers>
+* EBook - .NET Core Framework Containers <https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/net-core-net-framework-containers/>
+* Ebook - .NET Core Framework Containers - Container Scenarios Chapter <https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/net-core-net-framework-containers/net-core-container-scenarios>
+
 
 # LEARN
 * Build and deploy a multi-container application in Azure Container Service - ASP.NET Core / K8S / Docker / (ebook)(march 2018) https://azure.microsoft.com/en-us/resources/build-and-deploy-a-multi-container-application-in-azure-container-service/en-us/

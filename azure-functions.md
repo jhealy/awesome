@@ -16,6 +16,10 @@
 * Support Forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions
 * YouTube - <https://www.youtube.com/AzureFunctions>
 
+# COSMOSDB AND AZURE FUNCTIONS
+* CosmosDB and Azure Function Integration <https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/>
+* CosmosDB Graph via Gremlin - <https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction>
+
 # DURABLE FUNCTIONS
 * Calling long running functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>
 * Doc <https://github.com/Azure/azure-functions-durable-extension>
@@ -50,8 +54,6 @@
 * Blog - Kloud - good general dev blog for cloud - https://blog.kloud.com.au - rss: https://blog.kloud.com.au/feed/
 * Build Apps Faster with Serverless - https://channel9.msdn.com/Blogs/Azure/Build-apps-faster-with-Azure-Serverless
 * Core - .NET Core 2.0 with Azure Functions Preview - https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
-* CosmosDB and Azure Function Integration - https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/
-* CosmosDB Graph via Gremlin - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
 * Cross Platform Tooling for Az Functions - Mac, Linux via NPM.  VS Code. VS Mac. Javascript, c#.  https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Debugging Azure Functions locally using Postman <https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function>
 * Event Hubs with Azure Functions - Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>

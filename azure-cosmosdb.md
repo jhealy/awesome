@@ -1,3 +1,4 @@
+# COSMOSDB
 * Home - https://docs.microsoft.com/en-us/azure/cosmos-db/
 * Always encrypted - on by default - https://docs.microsoft.com/en-us/azure/cosmos-db/database-encryption-at-rest
 * Backup and restore - <https://docs.microsoft.com/en-us/azure/cosmos-db/online-backup-and-restore>

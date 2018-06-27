@@ -9,6 +9,9 @@
 * Pricing Model - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing
 * Workflow definition language - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
 
+# CI/CD
+* ARM templates are the preferred method for CI/CD with Logic Apps.  <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
+
 # HELP
 * Forums - http://feedback.azure.com/forums/287593-logic-apps
 * StackOverlow - http://stackoverflow.com/questions/tagged/azure-logic-apps

@@ -18,8 +18,11 @@
 
 # COSMOSDB AND AZURE FUNCTIONS
 * Azure Cosmos DB: Serverless database computing using Azure Functions <https://docs.microsoft.com/en-us/azure/cosmos-db/serverless-computing-database>
+* Bindings and Triggers for Functions 1.x <https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb>
+* Bindings and Triggers for Functions 2.x <https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2>
 * CosmosDB and Azure Function Integration Announce <https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/>
-* Create a function triggered by Azuer CosmosDB <https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function>
+* Cosmos DB Azure Functions and Visual Studio Integration (video) <https://www.youtube.com/watch?v=iprndNsUeeg>
+* Create a function triggered by Azure Cosmos DB <https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function>
 * Store unstructured data using Azure Functions and Azure Cosmos DB <https://docs.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb>
 SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.md>
 

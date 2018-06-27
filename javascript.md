@@ -15,6 +15,7 @@
 * Seven keys to structuring your Node.js apps - https://www.infoworld.com/article/3204205/node-js/7-keys-to-structuring-your-nodejs-app.html#tk.ifw-infsb
 * Ten Javascript concepts Node.js programmers should master - https://www.infoworld.com/article/3196070/node-js/10-javascript-concepts-nodejs-programmers-must-master.html#tk.ifw-infsb
 * The Node guy on Node <https://thenewstack.io/node-js-creator-blasts-node-js-offers-a-secure-typescript-based-alternative/>
+* Node.js best practices - by Yoni Goldberg <https://github.com/i0natan/nodebestpractices>
 
 # WebSocket
 * Close codes from RFC6455 - https://tools.ietf.org/html/rfc6455#section-11.7

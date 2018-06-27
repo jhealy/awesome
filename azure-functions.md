@@ -17,8 +17,11 @@
 * YouTube - <https://www.youtube.com/AzureFunctions>
 
 # COSMOSDB AND AZURE FUNCTIONS
-* CosmosDB and Azure Function Integration <https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/>
-* CosmosDB Graph via Gremlin - <https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction>
+* Azure Cosmos DB: Serverless database computing using Azure Functions <https://docs.microsoft.com/en-us/azure/cosmos-db/serverless-computing-database>
+* CosmosDB and Azure Function Integration Announce <https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/>
+* Create a function triggered by Azuer CosmosDB <https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function>
+* Store unstructured data using Azure Functions and Azure Cosmos DB <https://docs.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb>
+SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.md>
 
 # DURABLE FUNCTIONS
 * Calling long running functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>

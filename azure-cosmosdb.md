@@ -5,3 +5,5 @@
 * CosmosDB and Azure Function Integration - https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/
 * CosmosDB Graph via Gremlin - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
 * SQL v CosmosDB - https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server
+
+SEE ALSO - CosmosDB and Azure Functions <https://github.com/jhealy/awesome/blob/master/azure-functions.md#cosmosdb-and-azure-functions>

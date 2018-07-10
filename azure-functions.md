@@ -1,5 +1,6 @@
 # GENERAL
 * **Doc** home - https://azure.microsoft.com/en-us/services/functions/
+* Announcements <https://github.com/Azure/app-service-announcements/>
 * Availability of functions - watch out for Euro <https://azure.microsoft.com/en-us/global-infrastructure/services/>
 * Bindings and triggers - https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
 * Blog - Jeff Hollan - Program Manager (no rss) <https://medium.com/@jeffhollan>

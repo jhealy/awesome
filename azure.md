@@ -65,6 +65,7 @@
 * Certification - Exam 70-535 - Architecting Microsoft Azure Solutions 355 - Study Guide - http://download.microsoft.com/download/B/9/1/B91A0CE0-9786-4B81-8937-315F63E13910/Architecting_Microsoft_Azure_Solutions_11302017.pdf
 * Certification - Exam 70-535 - Dan Stolts 70-535 Courseware - https://github.com/guruskill/70-535
 * Certification - Microsoft Professional Program for Cloud Administration - https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/ 
+* Cloud App Security Broker <https://www.microsoft.com/en-us/cloud-platform/cloud-app-security>
 * Data Center > Under the sea <https://motherboard.vice.com/en_us/article/pavq99/microsoft-project-natick-submarine-data-center> <https://www.theverge.com/2018/6/6/17433206/microsoft-underwater-data-center-project-natick> <https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/>
 * Dockit - Azure Documentation Generator ($) - https://www.azuredockit.com/pricing-buy/
 * Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
@@ -83,8 +84,9 @@
 * Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
 * Networking > Measuring latency and throughput between azure regions - https://blogs.msdn.microsoft.com/mioteg/2017/11/20/measuring-latency-and-throughput-between-azure-regions/
 * Python in Azure PaaS for batch services - https://azure.microsoft.com/en-us/resources/samples/batch-python-paas-cloud-service-pool/
+* Redis available soon in Azure IoT Edge market place <https://redislabs.com/blog/ideal-iot-edge-database-redis-enterprise/>
 * Service Bus > Move off AZAD to SAS - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-acs-sas
 * Sphere SDK <https://www.seeedstudio.com/MT3620-Development-Board-for-Azure-Sphere-p-3052.html>
 * Site Recovery > Case studies <https://azure.microsoft.com/en-us/case-studies/?service=site-recovery>
 * Stack > What it is and isn't - https://virtualizationreview.com/articles/2018/04/09/what-microsoft-azure-stack-is-and-is-not.aspx
-* Virtual DataCenter - <https://aka.ms/VDC>
+* Virtual DataCenter <https://aka.ms/VDC>

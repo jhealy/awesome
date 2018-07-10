@@ -1,7 +1,7 @@
 # AZURE STORAGE
 * APIs for .NET - doc - <https://docs.microsoft.com/en-us/dotnet/api/overview/azure/storage?view=azure-dotnet>
 * Blog - <https://blogs.msdn.microsoft.com/windowsazurestorage/>
-* Immutable Storage for Blob Preview <https://azure.microsoft.com/en-us/blog/azure-immutable-blob-storage-now-in-public-preview/>
+* Immutable Storage for Blob <https://azure.microsoft.com/en-us/blog/microsoft-azure-launches-tamper-proof-azure-immutable-blob-storage-for-financial-services/>
 * SDK for .NET - <https://github.com/Azure/azure-storage-net/blob/master/README.md>, nuget: <https://www.nuget.org/packages/WindowsAzure.Storage>
 * Soft Delete (365 day retention) <https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-soft-delete>
 * Tutorials - <https://docs.microsoft.com/en-us/azure/storage/blobs/storage-encrypt-decrypt-blobs-key-vault>

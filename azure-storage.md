@@ -16,6 +16,10 @@
 * How to RBAC with Storage <https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-rbac>
 * Storage security Guide <https://docs.microsoft.com/en-us/azure/storage/common/storage-security-guide>
 
+# SECURITY
+* Compliance offerings <https://docs.microsoft.com/en-us/azure/storage/common/storage-compliance-offerings>
+* Securing Azure Storage <https://docs.microsoft.com/en-us/azure/storage/common/storage-security-guide>
+
 # TOOLS
 * Azure Explorer - RedGate's free azure storage management tool <https://www.red-gate.com/products/azure-development/azure-explorer/index>
 * BlobPorter - Highly concurrent data transfer tool for Azure Blob Storage - friendlier than AzCopy -  https://github.com/Azure/blobporter

@@ -23,6 +23,10 @@ Language Understanding Cognitive Service
 * Documentation - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/home
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-understanding-intelligent-services/
 
+# QNA MAKER
+The extraction process to get QNA-pairs out of a URL or file is something QNAMaker does. Once it has the QNA-pairs it will add them to the Azure Search index.
+* QNA Maker Architecture <https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/overview/overview#qna-maker-architecture>
+
 # SAMPLES
 * Alexa integration -	https://github.com/suneetnangia/Alexa/tree/master/Microsoft.Demos.Alexa.Luis
 * AzureBot - https://github.com/Microsoft/AzureBot

@@ -70,6 +70,7 @@
 * Dockit - Azure Documentation Generator ($) - https://www.azuredockit.com/pricing-buy/
 * Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
 * Event Hub > Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
+* File Sync <https://azure.microsoft.com/en-us/blog/score-one-for-the-it-pro-azure-file-sync-is-now-generally-available/>
 * IoT > Article Collection - https://buildazure.com/category/internet-of-things/
 * Iot > CLI IoT Hub Extension - "az extension add --name azure-cli-iot-ext"
 * IoT > Device Explorer - https://github.com/Azure/azure-iot-sdk-csharp/releases

@@ -10,8 +10,18 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Pricing - <https://azure.microsoft.com/en-us/pricing/details/api-management>
 * Roadmap - <https://aka.ms/apimroadmap>
 
+# DEVELOPER PORTAL
+* Auth - AAD <https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-aad>
+* Auth - Azure B2C <https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-aad-b2c>
+* Auth - Delegated <https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-setup-delegation>
+* Auth - OAuth2 <https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-oauth2>
+* Content <https://docs.microsoft.com/en-us/azure/api-management/api-management-modify-content-layout>
+* Lab on setting up developer portal - oauth and policies  <https://github.com/shanepeckham/api_management/blob/master/open.md>
+* Style <https://docs.microsoft.com/en-us/azure/api-management/api-management-customize-styles>
+
 # LEARN
 * Admin UI (new) and Mocks <https://www.youtube.com/watch?v=i9PjUAvw7DQ&t=1s>
+* Bootcamp <https://github.com/shanepeckham/api_management>
 * Manage Change in your APIs with Azure API Management (Nov 2017) <https://www.youtube.com/watch?v=kVM-5vQymIA&t=14s> 
 * RBAC in API Management ( Jan 2017 ) <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Hand on walkthroughs - <https://aka.ms/cadlabs>
@@ -22,5 +32,6 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 # MISC
 * Analytics - Power BI Solution Template for API Management <https://aka.ms/apimpbu>
 * Policies - Sample policies <https://aka.ms/apimpolicyexamples>
+* Security - RBAC <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Versioning - Revisions to APIs - <https://docs.microsoft.com/en-us/azure/api-management/api-management-get-started-revise-api>
 * Versioning - <https://docs.microsoft.com/en-us/azure/api-management/api-management-get-started-publish-versions>

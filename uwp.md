@@ -109,6 +109,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Azure > ActiveDirectory - WebAPI Service secured with O365 ADAL in UWP App - https://github.com/Azure-Samples/active-directory-dotnet-windows-store
 * Azure > DocumentDB and UWP - photo sharing - https://blogs.windows.com/buildingapps/2016/03/17/uwp-azure-app-services-and-documentdb-soup-a-photo-sharing-app/
 * Azure > IoT Hub > Connect your Windows app to Azure IoT Hub with Visual Studio - https://blogs.windows.com/buildingapps/2016/03/03/connect-your-windows-app-to-azure-iot-hub-with-visual-studio/
+* Bluetooth - BT Watcher sample <https://github.com/Microsoft/BluetoothLEExplorer>
 * Data - Sharing - Publisher Cache - https://blogs.windows.com/buildingapps/2016/05/24/sharing-your-local-app-data/#KeXxuCrZZtsu3Qph.97
 * DataSources - AppStudio Open Source Data Sources - WordPress and YouTube and others - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-creation-with-windows-app-studios-open-source-uwp-libraries-and-samples-app/
 * Debugging - Turning off the live visual tree debugger tool - http://stackoverflow.com/questions/36618494/disable-visual-studio-2015-extra-debug-option

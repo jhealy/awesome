@@ -6,6 +6,7 @@
 * Blog - Jeff Hollan - Program Manager (no rss) <https://medium.com/@jeffhollan>
 * Choose between Flow, Logic Apps, Functions, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
+* Roadmap <https://azure.microsoft.com/en-us/roadmap/?query=functions>
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
 * Wiki - has variety of topics including samples and content - https://github.com/Azure/Azure-Functions/wiki
 
@@ -72,6 +73,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * PowerApps -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
+* Proxies - act like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * ServiceFabric (MicroServices) versus Functions <http://www.juharistolainen.com/post/2017-04-20-azure-functions/>
 * Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions 

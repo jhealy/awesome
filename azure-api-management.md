@@ -31,6 +31,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 # MISC
 * Analytics - Power BI Solution Template for API Management <https://aka.ms/apimpbu>
+* Azure Function Proxies - like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * httpbin - public, free http request and response service for testing <http://httpbin.org/>
 * Policies - Sample policies <https://aka.ms/apimpolicyexamples>
 * Security - RBAC <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>

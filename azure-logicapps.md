@@ -7,6 +7,7 @@
 * Edit with Visual Studio <https://docs.microsoft.com/en-us/azure/logic-apps/manage-logic-apps-with-visual-studio>
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/logic-apps/
 * Pricing Model - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing
+* Visual Studio Tools for Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-with-visual-studio#prerequisites>
 * Workflow definition language - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
 
 # CI/CD

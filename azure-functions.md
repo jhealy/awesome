@@ -37,6 +37,10 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Book - <a target="_blank" href="https://www.amazon.com/gp/product/1788390822/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788390822&linkCode=as2&tag=jhealy-20&linkId=9a9dd2c286874f47f28a007a30542368">Azure Serverless Computing Cookbook: Build applications hosted on serverless architecture using Azure Functions</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jhealy-20&l=am2&o=1&a=1788390822" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * Develop and run Azure functions locally - https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local
 
+# MONITORING
+* Application insights - Add to existing function - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#enable-application-insights-integration>
+* Monitor Azure Functions <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring>
+
 # SAMPLES
 * Approval Workflow with SendGrid - Durable Functions Pattern - <https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid>
 * Azure wiki samples - https://github.com/Azure/Azure-Functions/wiki/Samples-and-content
@@ -53,7 +57,6 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * <https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-unit-testing>
 
 # MISC
-* Application insights - Add to existing function - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#enable-application-insights-integration>
 * ARM Template - Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
 * AWS Lambda versus Functions - https://serifandsemaphore.io/azure-cloud-functions-vs-aws-lambda-caf8a90605dd
 * Azure Functions vs AWS Lambda Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-scaling-face-off/

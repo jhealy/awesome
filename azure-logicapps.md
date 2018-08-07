@@ -38,6 +38,7 @@
 * Calling long-running Functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>
 * Choose between Logic Apps, Flow, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
 * Connectors - How to create a custom connector for Logic Apps - https://docs.microsoft.com/en-us/connectors/custom-connectors/create-logic-apps-connector , https://azure.microsoft.com/en-us/updates/create-connectors-in-logic-apps-designer/
+* Functions v Logic Apps - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
 * Lessons Learned - http://blogs.technet.com/b/meamcs/archive/2015/04/09/azure-logic-app-lessons-learned-part-1.aspx
 * On-Premise Data Gateway - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-connection
 * XML Integration - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-eai-logic-app-using-vetr/

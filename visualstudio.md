@@ -1,6 +1,7 @@
 # VISUAL STUDIO
 * Analysis Tools > Code Metrics Power Tool (commmand line) - https://blogs.msdn.microsoft.com/camerons/2011/01/28/code-metrics-from-the-command-line/ 
 * Hands on Labs from PG - https://github.com/microsoft/vs4mac-labs
+* Installing an earlier release of VS2017 <https://docs.microsoft.com/en-us/visualstudio/productinfo/installing-an-earlier-release-of-vs2017>
 * MSBuild > Common MSBuild Commands - https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties
 * Network whitelist - https://msdn.microsoft.com/en-US/library/mt604698(VS.140).aspx 
 * Roadmap - https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap

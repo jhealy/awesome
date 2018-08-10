@@ -7,6 +7,7 @@
 * Build > CI with .NET Core - https://docs.microsoft.com/en-us/dotnet/core/tools/using-ci-with-cli
 * Command line tools > https://docs.microsoft.com/en-us/dotnet/core/tools/
 * Compared with .NET Framework > https://stackoverflow.com/questions/42939454/what-is-the-difference-between-net-core-and-net-standard-class-library-project
+* Logging in .NET Core <https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-2.1#tracesource-provider>
 * OData Lib for .NET Core - https://www.nuget.org/packages/Microsoft.AspNetCore.OData/
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
 * Pre-requisites - Linux - https://github.com/dotnet/docs/blob/master/docs/core/linux-prerequisites.md

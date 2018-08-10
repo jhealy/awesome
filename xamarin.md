@@ -20,6 +20,7 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 * Android Forums - https://androidforums.com/
 * Android Tools CLI Tooling Notes - https://gist.github.com/JonDouglas/9eed5704d4601196435bf169620d3186
 * ARKit - https://twitter.com/dotMorten/status/902783082314342402 - https://www.youtube.com/watch?v=dIrYNiBqYsE
+* Fix an installed Android app that isn't working <https://support.google.com/googleplay/answer/2668665?hl=en>
 * Material Design for your Xamarin Forms Android Apps - montemagno - https://blog.xamarin.com/material-design-for-your-xamarin-forms-android-apps/
 * Remote your Android device to your desktop - Montemagno recommends -http://www.vysor.io/
 * Samsung Andriod USB Drivers - http://developer.samsung.com/galaxy/others/android-usb-driver-for-windows

@@ -1,5 +1,5 @@
 # GENERAL
-* **Doc** home - https://azure.microsoft.com/en-us/services/functions/
+* **Doc** home <https://docs.microsoft.com/en-us/azure/azure-functions/>
 * Announcements <https://github.com/Azure/app-service-announcements/>
 * Availability of functions - watch out for Euro <https://azure.microsoft.com/en-us/global-infrastructure/services/>
 * Bindings and triggers - https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
@@ -40,11 +40,13 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 # MONITORING
 * Application insights - Add to existing function - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#enable-application-insights-integration>
+* Logging <https://docs.microsoft.com/en-us/sandbox/functions-recipes/functions-basics>
 * Monitor Azure Functions <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring>
 
 # SAMPLES
 * Approval Workflow with SendGrid - Durable Functions Pattern - <https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid>
-* Azure wiki samples - https://github.com/Azure/Azure-Functions/wiki/Samples-and-content
+* Azure Functions Recipes <https://docs.microsoft.com/en-us/sandbox/functions-recipes/>
+* Azure Functions Samples <https://github.com/Azure/Azure-Functions/>
 * License plate reader using functions and OpenALPR - https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr
 
 # SECURITY

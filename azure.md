@@ -27,9 +27,10 @@
 * Vision - Taxonomy Categories <https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/category-taxonomy>
 
 # LEARN
-* Application Architecture Guide (pdf available too) = https://docs.microsoft.com/en-us/azure/architecture/guide/
+* Application Architecture Guide (pdf available too) <https://docs.microsoft.com/en-us/azure/architecture/guide/>
 * Architecture Guide for MicroServices, Web Apps, Cloud Deployment - https://www.microsoft.com/net/learn/architecture
 * ARM errors on deploy - https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures
+* Azure Developer Guide (August 2018 v2) <https://azure.microsoft.com/en-us/campaigns/developer-guide/>
 * DocumentDB MVA - https://mva.microsoft.com/en-US/training-courses/azure-documentdb-planetscale-nosql-16847
 * Microsoft Mechanics Video Series - https://www.youtube.com/c/MicrosoftMechanicsSeries
 * QuickStart Guide for .NET Developers <https://azure.microsoft.com/en-us/blog/get-the-azure-quick-start-guide-for-net-developers/>

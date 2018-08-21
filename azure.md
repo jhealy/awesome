@@ -93,4 +93,5 @@
 * Sphere SDK <https://www.seeedstudio.com/MT3620-Development-Board-for-Azure-Sphere-p-3052.html>
 * Site Recovery > Case studies <https://azure.microsoft.com/en-us/case-studies/?service=site-recovery>
 * Stack > What it is and isn't - https://virtualizationreview.com/articles/2018/04/09/what-microsoft-azure-stack-is-and-is-not.aspx
+* Tool > Resource Explorer <https://resources.azure.com>
 * Virtual DataCenter <https://aka.ms/VDC>

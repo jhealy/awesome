@@ -51,7 +51,9 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 # SECURITY
 * Announcing General Availability and Sovereign Cloud Support of Managed Service Identity for App Service and Azure Functions <https://blogs.msdn.microsoft.com/appserviceteam/2018/06/26/announcing-general-availability-and-sovereign-cloud-support-of-managed-service-identity-for-app-service-and-azure-functions/>
+* Authenticate and authorize users end to end in Azure App Services <https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-auth-aad>
 * Azure Function into a VNET <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
+* Security in Azure App Service and Azure Functions <https://docs.microsoft.com/en-us/azure/app-service/app-service-security>
 
 
 # UNIT TESTING

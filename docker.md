@@ -16,10 +16,11 @@
 * Using Windows Auth in ASP.NET Core via http.sys in containers - https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/
 
 # DOCKERIZATION TOOLS
-
-Apps to docker
-
 * Image2Docker <https://github.com/docker/communitytools-image2docker-win>
+
+# DEVOPS
+* Azure Devops Projects - support for AKS and WEb Apps for Containers <https://azure.microsoft.com/en-in/features/devops-projects/>
+* Containers and DevOps workshop <https://github.com/Microsoft/MCW-Containers-and-DevOps>
 
 # NODE.JS AND DOCKER
 * Debugging Docker node.js on a mac - https://blog.docker.com/2016/07/live-debugging-docker/
@@ -47,7 +48,9 @@ docker image ls
 
 ## List Docker containers (running, all, all in quiet mode)
 docker container ls
-
 docker container ls --all
-
 docker container ls -aq
+
+# SECURITY
+* Endpoint security for Windows containers <https://success.docker.com/article/endpoint-security-for-windows-containers>
+* McAfee doesn't play well with docker <https://kc.mcafee.com/corporate/index?page=content&id=KB90041&actp=null&viewlocale=en_US&showDraft=false&platinum_status=false&locale=en_US>

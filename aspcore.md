@@ -29,6 +29,7 @@
 * Workshop - from Shayne Boyer and krew - teach you ASP.NET Core by building a complete conference management website from scratch - https://github.com/dotnet-presentations/aspnetcore-app-workshop - updates: https://tattoocoder.com/aspnetcore-workshop-update/
 
 # PERFORMANCE
+* Bing runs on .NET Core 2.1 / MVC Razor - performance gains noted <https://blogs.msdn.microsoft.com/dotnet/2018/08/20/bing-com-runs-on-net-core-2-1/>
 * .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 * Managed runtime performance comparisons - http://anthonylloyd.github.io/blog/2017/12/30/dotnetcore-performance-part2
 * AWS Lambda perf of Node.js, Python, Java, C# .NET Core, and GO - https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581
@@ -48,6 +49,8 @@
 
 # MISC
 * Auth - Google Auth with ASP.NET Core - http://ruimourato.com/2016/02/12/using-google-auth-middleware-aspnetcore.html
+* Case Study > Bing runs on .NET Core 2.1 / MVC Razor <https://blogs.msdn.microsoft.com/dotnet/2018/08/20/bing-com-runs-on-net-core-2-1/>
+* Case Study > Stack overflow moving to .NET Core <https://twitter.com/Nick_Craver/status/1031858480888639488>
 * Choosing between Core and .NET - https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
 * Configuring Session Providers - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session
 * HostedService Sample - https://www.stevejgordon.co.uk/asp-net-core-2-ihostedservice

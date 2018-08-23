@@ -83,6 +83,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * PowerApps -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
+* Powershell > <https://stackoverflow.com/questions/37724769/how-to-install-a-powershell-module-in-an-azure-function>
 * Proxies - act like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * ServiceFabric (MicroServices) versus Functions <http://www.juharistolainen.com/post/2017-04-20-azure-functions/>
 * Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition

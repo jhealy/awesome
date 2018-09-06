@@ -1,6 +1,6 @@
 # GENERAL
 * **Doc** home <https://docs.microsoft.com/en-us/azure/azure-functions/>
-* Announcements <https://github.com/Azure/app-service-announcements/>
+* Announcements aka broke things and how to fix.  Got issues check here <https://github.com/Azure/app-service-announcements/>
 * Availability of functions - watch out for Euro <https://azure.microsoft.com/en-us/global-infrastructure/services/>
 * Bindings and triggers - https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
 * Blog - Jeff Hollan - Program Manager (no rss) <https://medium.com/@jeffhollan>
@@ -31,8 +31,10 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 # DURABLE FUNCTIONS
 * Calling long running functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>
+* Container - Run a durable function in a container <https://carlos.mendible.com/2018/01/14/run-a-durable-azure-function-in-a-container/>
 * Doc <https://github.com/Azure/azure-functions-durable-extension>
 * Durable functions making serverless last - durable functions as orchestrator <https://thenewstack.io/durable-functions-making-serverless-last/>
+
 
 # LEARN
 * Book - <a target="_blank" href="https://www.amazon.com/gp/product/1788390822/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788390822&linkCode=as2&tag=jhealy-20&linkId=9a9dd2c286874f47f28a007a30542368">Azure Serverless Computing Cookbook: Build applications hosted on serverless architecture using Azure Functions</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jhealy-20&l=am2&o=1&a=1788390822" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -47,7 +49,8 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Approval Workflow with SendGrid - Durable Functions Pattern - <https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid>
 * Azure Functions Recipes <https://docs.microsoft.com/en-us/sandbox/functions-recipes/>
 * Azure Functions Samples <https://github.com/Azure/Azure-Functions/>
-* License plate reader using functions and OpenALPR - https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr
+* License plate reader using functions and OpenALPR - <https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr>
+* Reference Arch > ECommerce front end > <https://docs.microsoft.com/en-us/azure/architecture/example-scenario/apps/ecommerce-scenario>
 
 # SECURITY
 * Announcing General Availability and Sovereign Cloud Support of Managed Service Identity for App Service and Azure Functions <https://blogs.msdn.microsoft.com/appserviceteam/2018/06/26/announcing-general-availability-and-sovereign-cloud-support-of-managed-service-identity-for-app-service-and-azure-functions/>
@@ -85,7 +88,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Powershell > <https://stackoverflow.com/questions/37724769/how-to-install-a-powershell-module-in-an-azure-function>
 * Proxies - act like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
-* ServiceFabric (MicroServices) versus Functions <http://www.juharistolainen.com/post/2017-04-20-azure-functions/>
+* ServiceFabric (MicroServices) versus Functions (pro-functions)<http://www.juharistolainen.com/post/2017-04-20-azure-functions/>,(pro-service fabric)<https://social.msdn.microsoft.com/Forums/en-US/cca1d59c-d6b9-402f-92ba-e7a55d5834e6/service-fabric-vs-azure-functions>
 * Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions 
 

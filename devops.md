@@ -25,6 +25,10 @@ Formerly known as Visual Studio Mobile Center
 * Azure Active Directory Integration - https://support.hockeyapp.net/kb/general-account-management-2/azure-active-directory-integration 
 * How to sideload UWP Apps in HockeyApp - https://support.hockeyapp.net/kb/client-integration-windows-and-windows-phone/how-to-sideload-uwp-applications 
 
+# LEARN
+* Azure Citadel - all kinds of goodies <https://azurecitadel.github.io/>
+* Hands on labs <https://almvm.azurewebsites.net/>
+
 # VISUAL STUDIO MOBILE CENTER
 See App Center above....
 

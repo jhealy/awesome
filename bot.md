@@ -1,5 +1,6 @@
 # BOT
 Things relevant to Bot framework from Microsoft.  No, I dont care about any other kinds of bots right now.
+* AI training center <http://mcstestdesignerportal.azurewebsites.net/>
 * DirectLine - https://blog.botframework.com/2017/02/02/direct-line-performance-improvements/
 * Documentation - https://docs.microsoft.com/en-us/bot-framework/
 * Publishing endpoint - https://dev.botframework.com/

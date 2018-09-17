@@ -43,5 +43,6 @@ Also known as Azure AD...
 
 # MISC
 * Configure and manage Azure Active Directory authentication with SQL Database, Managed Instance, or SQL Data Warehouse - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure#azure-ad-token
+* Multi factor authentication (mfa) in Microsoft 365 <https://www.helloitsliam.com/2018/03/13/using-risk-based-multi-factor-authentication-in-microsoft-365/>
 
 

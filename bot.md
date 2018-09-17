@@ -10,6 +10,7 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 
 # LEARN
 **5 Minute QuickStarts from Bots doc - https://docs.microsoft.com/en-us/bot-framework/**
+* Authentication - Add <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0>
 * Bot-Factory - http://mybotfactory.azurewebsites.net/
 * Daniel Egan's Bot Leearning Lab - https://github.com/DanielEgan/BotWorkshop 
 * MVA - Creating Bots in the Microsoft Bot Framwork using Node.js - https://mva.microsoft.com/en-US/training-courses/creating-bots-in-the-microsoft-bot-framework-using-nodejs-16759

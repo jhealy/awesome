@@ -19,6 +19,11 @@
 * Support Forum - https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureFunctions
 * YouTube - <https://www.youtube.com/AzureFunctions>
 
+# ARM TEMPLATES
+* Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
+* Function and Web apps <https://github.com/davidebbo/AzureWebsitesSamples/tree/master/ARMTemplates>
+* Race condition due to param ordering <https://blogs.msdn.microsoft.com/hosamshobak/2016/05/26/arm-template-msdeploy-race-condition-issue/>
+
 # COSMOSDB AND AZURE FUNCTIONS
 * Azure Cosmos DB: Serverless database computing using Azure Functions <https://docs.microsoft.com/en-us/azure/cosmos-db/serverless-computing-database>
 * Bindings and Triggers for Functions 1.x <https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb>
@@ -58,6 +63,10 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Azure Function into a VNET <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
 * Security in Azure App Service and Azure Functions <https://docs.microsoft.com/en-us/azure/app-service/app-service-security>
 
+# SERVICE FABRIC V AZURE FUNCTIONS
+* (pro-functions)<http://www.juharistolainen.com/post/2017-04-20-azure-functions/>
+* (pro-service fabric)<https://social.msdn.microsoft.com/Forums/en-US/cca1d59c-d6b9-402f-92ba-e7a55d5834e6/service-fabric-vs-azure-functions>
+* so <https://stackoverflow.com/questions/46543519/service-fabric-actors-or-azure-functions/52206220#52206220>
 
 # UNIT TESTING
 * <https://github.com/jeffhollan/functions-test-helper>
@@ -65,7 +74,6 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * <https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-unit-testing>
 
 # MISC
-* ARM Template - Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
 * AWS Lambda versus Functions - https://serifandsemaphore.io/azure-cloud-functions-vs-aws-lambda-caf8a90605dd
 * Azure Functions vs AWS Lambda Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-scaling-face-off/
 * Azure Functions vs AWS Lambda vs Google Cloud Functions - Javascript Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-vs-google-cloud-functions-javascript-scaling-face-off/
@@ -77,7 +85,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Debugging Azure Functions locally using Postman <https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function>
 * Event Hubs with Azure Functions - Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
 * Event Processing in Azure Functions - challenges <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fcfs>
-* Functions in a Container - http://tattoocoder.com/functions-runtime-kubernetes/
+* Container - Functions in a container - http://tattoocoder.com/functions-runtime-kubernetes/
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 * Linux > https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 
 * Logic Apps v Functions - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
@@ -88,7 +96,6 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Powershell > <https://stackoverflow.com/questions/37724769/how-to-install-a-powershell-module-in-an-azure-function>
 * Proxies - act like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
-* ServiceFabric (MicroServices) versus Functions (pro-functions)<http://www.juharistolainen.com/post/2017-04-20-azure-functions/>,(pro-service fabric)<https://social.msdn.microsoft.com/Forums/en-US/cca1d59c-d6b9-402f-92ba-e7a55d5834e6/service-fabric-vs-azure-functions>
 * Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions 
 

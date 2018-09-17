@@ -54,3 +54,7 @@ docker container ls -aq
 # SECURITY
 * Endpoint security for Windows containers <https://success.docker.com/article/endpoint-security-for-windows-containers>
 * McAfee doesn't play well with docker <https://kc.mcafee.com/corporate/index?page=content&id=KB90041&actp=null&viewlocale=en_US&showDraft=false&platinum_status=false&locale=en_US>
+
+# WINDOWS CONTAINERS
+* New Windows Container Image 2018-June <https://www.thomasmaurer.ch/2018/06/new-windows-container-image/>
+* Docker container images for Windows 1709 and new tagging <https://www.thomasmaurer.ch/2017/10/docker-container-images-for-windows-server-1709-and-new-tagging/>

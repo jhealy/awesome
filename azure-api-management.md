@@ -19,6 +19,10 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Lab on setting up developer portal - oauth and policies  <https://github.com/shanepeckham/api_management/blob/master/open.md>
 * Style <https://docs.microsoft.com/en-us/azure/api-management/api-management-customize-styles>
 
+# DEVOPS
+* API DevOps with Azure API Management <https://azure.microsoft.com/en-us/updates/api-devops-with-azure-api-management/>
+* Example <https://github.com/Azure/azure-api-management-devops-example>
+
 # LEARN
 * Admin UI (new) and Mocks <https://www.youtube.com/watch?v=i9PjUAvw7DQ&t=1s>
 * Bootcamp <https://github.com/shanepeckham/api_management>

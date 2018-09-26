@@ -15,6 +15,7 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 * Mobile Applications with Xamarin Architecture Guide (free ebook) - https://www.microsoft.com/net/learn/architecture - source code sample available
 * Mobile Samples from Xamarin - https://github.com/xamarin/mobile-samples - home of Tasky and LivePreviewer demos and other such stuff
 * Prebuilt - Xamarin Prebuilt starter apps - https://www.xamarin.com/prebuilt
+* Snippets for Xam Forms dev <https://snppts.io/latest>
 
 # ANDROID
 * Android Forums - https://androidforums.com/
@@ -28,10 +29,11 @@ Xamarin resources in general except for thos related to Xamarin Forms.  See http
 # ANDROID EMULATOR
 * Android Emulator Hardware Acceleration - <https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/android-emulator/hardware-acceleration?tabs=vswin>
 * Configuring your system to use HAXM - <https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/run-your-app/run-app-android?view=toolsforcordova-2017#HAXM>
+* HAXM Emulator - Use in HyperV on Win10 with April 2018 update or later <https://blogs.msdn.microsoft.com/visualstudio/2018/05/08/hyper-v-android-emulator-support/>
 * HAXM Emulator issues with Credential Guard or Device Guard - <https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2146361>
 * HAXM Emulator - Manual Install - <https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager>
 * Resolve issues with the haxm driver - <https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/tips-workarounds/android-tips?view=toolsforcordova-2017#resolve-issues-with-the-haxm-driver>
-* REquest an exemption from  the Credential Guard Policy (msft only) - <https://gist.github.com/pierceboggan/b7870e6603bdf122d69aae1cfab583a7>
+* Request an exemption from  the Credential Guard Policy (msft only) - <https://gist.github.com/pierceboggan/b7870e6603bdf122d69aae1cfab583a7>
 
 # IOS
 * ARKit Sample - https://developer.xamarin.com/guides/ios/platform_features/introduction-to-ios11/arkit/urhosharp/

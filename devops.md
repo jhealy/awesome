@@ -48,6 +48,9 @@ See App Center above....
 * Package Management in TFS 2017 - https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=32188&lod=true
 
 # MISC
+
+* API Management > API DevOps with Azure API Management <https://azure.microsoft.com/en-us/updates/api-devops-with-azure-api-management>
+* API Management > <https://github.com/Azure/azure-api-management-devops-example>
 * CI/CD - Edx - Continuous Integration and Continuous Deployment - https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T2/info
 * CI/CD - Pluralsight - Implementing CD using TFS 2015 - https://app.pluralsight.com/library/courses/tfs-visual-studio-2015-implementing-continuous-delivery/table-of-contents
 * Containers > Installing Build tools into a docker container - https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container
@@ -60,4 +63,3 @@ See App Center above....
 * Team Explorer Everywhere - Eclipse and command line plugin - https://github.com/Microsoft/team-explorer-everywhere
 * TechNet Virtual Labs - https://almvm.azurewebsites.net/labs/tfs/technet/
 * Visual Studio Mobility Center Roadmap - https://docs.microsoft.com/en-us/mobile-center/general/roadmap
-

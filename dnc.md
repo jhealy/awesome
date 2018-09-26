@@ -32,10 +32,12 @@
 * .NET Standard FAQ - https://github.com/dotnet/standard/blob/master/docs/faq.md
 
 # DATA ACCESS
+
 * Data Access by Bertrand LeRoy - https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/
 * Providers - https://docs.microsoft.com/en-us/ef/core/providers/index
 
 # DATA ACCESS - ORACLE
+
 * Quick Start: Deploy .NET Core on Oracle Cloud - https://medium.com/oracledevs/quick-start-develop-deploy-a-net-core-app-on-oracle-cloud-aca69158c592
 * .NET Core and Entity Framework Statement of Direction - March 2018 - www.oracle.com/technetwork/topics/dotnet/tech-info/odpnet-dotnet-ef-core-sod-4395108.pdf
 * ODP.NET Core Intro (video) - https://www.youtube.com/watch?v=tGXs3VmflQU&feature=youtu.be
@@ -44,8 +46,16 @@
 * via dbConnect from devart as of June 2017 - https://www.devart.com/dotconnect/oracle/history.html
 
 # LEARN
+
 * Get Started - https://www.microsoft.com/net/core#windowsvs2017
-* EF > Entity Framework Core: Getting Started - pluralsight - https://www.pluralsight.com/courses/entity-framework-core-getting-started
+* EF > Entity Framework Core: Getting Started - pluralsight - <https://www.pluralsight.com/courses/entity-framework-core-getting-started>
+
+# MIGRATION
+
+* .NET to Core <https://docs.microsoft.com/en-us/aspnet/core/migration/proper-to-2x/?view=aspnetcore-2.1>
+* 1X TO 2X <https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/?view=aspnetcore-2.1>
+* 20 TO 2.1 <https://docs.microsoft.com/en-us/aspnet/core/migration/20_21?view=aspnetcore-2.1>
+
 
 # WINDOWS WORKFLOW
 While WWF is in VS2017 and available for Windows, WWF is not being ported 100% to .net core.  Dustin Metzgar, a Microsoft PM is running an open source port of workflow, but its not released nor will it be officially supported or 100% feature compat.

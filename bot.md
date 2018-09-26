@@ -34,7 +34,7 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 * AzureBot - https://github.com/Microsoft/AzureBot
 * Stack Overflow Bot - https://github.com/Microsoft/BotFramework-Samples/tree/master/StackOverflow-Bot
 * Stackoverflow Bot - krishnaji - https://github.com/krishnaji/StackOverflow-Bot
-*	Samples - https://github.com/Microsoft/BotBuilder-Samples
+* Samples - <https://github.com/Microsoft/BotBuilder-Samples>
 
 # TOOLS
 * BotAuth - Node.js and C# framework for  bot authentication.  Any OAuth2 provider.  https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2017/05/15/bot-authentication-in-the-bot-framework/

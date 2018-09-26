@@ -70,8 +70,9 @@
 * Razor - Intro to Razor Pages in .NET Core - https://docs.microsoft.com/en-us/aspnet/core/mvc/razor-pages/index?tabs=visual-studio
 * MVC compared to Razor - <https://jonhilton.net/razor-pages-or-mvc-a-quick-comparison/>
 * React and ASP.NET Core - https://blogs.msdn.microsoft.com/whereismysolution/2018/01/23/some-cool-stuff-around-asp-net-core-2-0-and-reactjs/
-* SignalR for ASP.NET Core 2.0 Announced - Sept 2017 - https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/
-* SignalR Roadmap - part of ASP .NET Core - https://github.com/aspnet/Home/wiki/Roadmap
+* SignalR > ASP.NET Core 2.0 Announced - Sept 2017 - https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/
+* SignalR > Roadmap - part of ASP .NET Core - https://github.com/aspnet/Home/wiki/Roadmap
+* SignalR > Future of (Sept 17 2018) - includes SignalR Service <https://blogs.msdn.microsoft.com/webdev/2018/09/17/the-future-of-asp-net-signalr/>
 * SPA - templates - https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
 * Using Windows Auth in ASP.NET Core via http.sys in containers - https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/
 * Windows Service > Hosting an ASP.NET Core app in a Windows Service - https://docs.microsoft.com/en-us/aspnet/core/hosting/windows-service

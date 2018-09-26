@@ -19,4 +19,5 @@
 * Conducting a risk assessment <https://www.microsoft.com/en-us/trustcenter/guidance/risk-assessment>
 * Encryption Overview <https://docs.microsoft.com/en-us/azure/security/security-azure-encryption-overview>
 
-
+# MISC
+* Hippa / HITRUST blueprint <https://azure.microsoft.com/en-us/blog/use-ai-to-streamline-healthcare-operations/?_lrsc=db9e9b8c-5b39-4419-b91c-e8c390bf718e>

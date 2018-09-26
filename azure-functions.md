@@ -5,7 +5,9 @@
 * Bindings and triggers - https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
 * Blog - Jeff Hollan - Program Manager (no rss) <https://medium.com/@jeffhollan>
 * Choose between Flow, Logic Apps, Functions, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
+* Feedback - UserVoice <https://feedback.azure.com/forums/355860-azure-functions>
 * Limits - buried in this pricing doc <https://azure.microsoft.com/en-us/pricing/details/functions/>
+* Limits in App Service Plan <https://docs.microsoft.com/en-us/azure/app-service/azure-web-sites-web-hosting-plans-in-depth-overview>
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Roadmap <https://azure.microsoft.com/en-us/roadmap/?query=functions>
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
@@ -49,6 +51,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Application insights - Add to existing function - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#enable-application-insights-integration>
 * Logging <https://docs.microsoft.com/en-us/sandbox/functions-recipes/functions-basics>
 * Monitor Azure Functions <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring>
+* Sampling configuration <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#configure-sampling>
 
 # SAMPLES
 * Approval Workflow with SendGrid - Durable Functions Pattern - <https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid>
@@ -97,6 +100,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Powershell > <https://stackoverflow.com/questions/37724769/how-to-install-a-powershell-module-in-an-azure-function>
 * Proxies - act like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition
+* SQL Binding <https://stackoverflow.com/questions/44983669/azure-function-vs2017-sql-table-binding>
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions 
 
 SEE ALSO

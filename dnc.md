@@ -17,7 +17,17 @@
 * Telemetry Reports -  https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/
 * Windows Compatibility Pack - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack
 
+# .NET CORE 3.0
+
+* Here's what's new and coming to .NET Core with ver 2.1, 2.2 and 3.0 <https://www.neowin.net/news/heres-whats-new-and-coming-to-net-core-with-versions-21-22-and-30/>
+
+# .NET CORE 2.2
+
+* Here's what's new and coming to .NET Core with ver 2.1, 2.2 and 3.0 <https://www.neowin.net/news/heres-whats-new-and-coming-to-net-core-with-versions-21-22-and-30/>
+
 # .NET CORE 2.1
+
+* Here's what's new and coming to .NET Core with ver 2.1, 2.2 and 3.0 <https://www.neowin.net/news/heres-whats-new-and-coming-to-net-core-with-versions-21-22-and-30/>
 * Bing runs on .NET Core 2.1 / MVC Razor <https://blogs.msdn.microsoft.com/dotnet/2018/08/20/bing-com-runs-on-net-core-2-1/>
 
 #  .NET CORE 2.0

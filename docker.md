@@ -2,6 +2,7 @@
 * Active Directory service accounts with Containers - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/manage-serviceaccounts
 * Azure Batch and Docker Containers Lab - vscode, ci builds, azure container registry hooks, and azure app service - https://github.com/AdamPaternostro/Azure-Docker-Shipyard 
 * Azure Cloud Service > Build and deploy node.js to Azure Cloud Service - <https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-nodejs-develop-deploy-app>
+* Azure Container Registry > Private repo for images <https://azure.microsoft.com/en-us/services/container-registry/>
 * Docker and .NET > https://www.hanselman.com/blog/NETAndDocker.aspx
 * Enabling Integrated Windows Authentication in Windows Docker Container - https://artisticcheese.wordpress.com/2017/09/09/enabling-integrated-windows-authentication-in-windows-docker-container/
 * IIS - Convert ASP.NET Web Servers to Docker with Image2Docker - https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/

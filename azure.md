@@ -47,9 +47,6 @@
 * Source Code > eShopOnContainers reference architecture - download and ebook links - https://github.com/dotnet-architecture/eShopOnContainers
 
 # MISC
-* AI/ML - IoT and AI Insider Labs <https://www.microsoftiotinsiderlabs.com/>
-* AI/ML > Developers Guide to Building AI Applications (Spring 2018) <https://info.microsoft.com/ww-landing-ai-developers-bot-ebook.html>
-* AI/ML > What to use and when ( march 2018, buck woody ) - <https://blogs.msdn.microsoft.com/buckwoody/2018/02/22/the-microsoft-artificial-intelligence-landscape-and-what-to-use-when/>
 * App Insights > Profile a live app using App Insights - <https://docs.microsoft.com/en-us/azure/application-insights/app-insights-profiler>
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Batch - Monitor .NET Azure Batch Using Application Insights <https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously>
@@ -74,12 +71,6 @@
 * Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
 * Event Hub > Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
 * File Sync <https://azure.microsoft.com/en-us/blog/score-one-for-the-it-pro-azure-file-sync-is-now-generally-available/>
-* IoT > Article Collection - https://buildazure.com/category/internet-of-things/
-* Iot > CLI IoT Hub Extension - "az extension add --name azure-cli-iot-ext"
-* IoT > Device Explorer - https://github.com/Azure/azure-iot-sdk-csharp/releases
-* IoT > IoT and AI Insider Labs <https://www.microsoftiotinsiderlabs.com/>
-* IoT > Starter Kits > Docs for Starter Kits - free - https://azure.microsoft.com/en-us/resources/samples/?service=iot-hub&term=starter+kit
-* IoT > Starter Kits > March 2016 Blog - https://blogs.microsoft.com/iot/2016/03/31/azure-iot-starter-kits-open-the-door-to-developer-innovation/
 * Keeping secrets in the cloud with Azure - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 * Location Based Services > Add a Line - https://codepen.io/azuremaps/pen/qomaKv
 * Linux > Bash shell in azure cloud <https://shell.azure.com/>

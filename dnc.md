@@ -19,6 +19,8 @@
 
 # .NET CORE 3.0
 
+* Update on .NET Core 3.0 and .NET FW 4.8 (oct 2018) <https://blogs.msdn.microsoft.com/dotnet/2018/10/04/update-on-net-core-3-0-and-net-framework-4-8/> - desktop apps including winforms, wpf, ef6.  embed .net directly in an app.  Framwork 4.8 has modern browser, touch and uwp controls and high dpi improvements
+
 * Here's what's new and coming to .NET Core with ver 2.1, 2.2 and 3.0 <https://www.neowin.net/news/heres-whats-new-and-coming-to-net-core-with-versions-21-22-and-30/>
 
 # .NET CORE 2.2
@@ -90,6 +92,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * Linux > Red Hat Container catalog - .NET Core image - https://access.redhat.com/containers/#/registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7
 * Logging > Using nLog with .NET Standard - https://github.com/NLog/NLog/wiki/platform-support
 * Polly - silience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner - <https://github.com/App-vNext/Polly>
+* Run a command in an external window with .net core <https://dev.to/deinsoftware/run-a-command-in-external-terminal-with-net-core-d4l?WT.mc_id=devfish>
 * Runtime > Multi-framework targeting - https://blogs.msdn.microsoft.com/cesardelatorre/2016/06/28/running-net-core-apps-on-multiple-frameworks-and-what-the-target-framework-monikers-tfms-are-about/
 * XProj depreciated - https://visualstudio.uservoice.com/forums/563332-visual-studio-for-mac/suggestions/17136148-support-for-visual-studio-xproj-format - https://stackoverflow.com/questions/43679083/how-to-open-xproj-file-in-vs2017-2015
 * .NET API Browser - awesome - filter to core - https://docs.microsoft.com/en-us/dotnet/api/

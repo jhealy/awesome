@@ -36,5 +36,7 @@
 
 # RUDE AND SILLY QNA
 
-* How to delete task output in bulk - not available in portal.  not available in batch explorer.  Have to go api?
+* How to delete task output in bulk - not available in portal.  not available in batch explorer.  Have to go api?  ANSWER: this is one reason its better to work with jobs than ad-hoc task submissions.
 * How to see how much memory a job in batch uses? (pending)
+* Image updates occur when?  The actual marketplace image is updated on a monthly basis ( and sooner in the case of critical security updates)
+* Scalesets versus batch - Batch spins up and eventually releases compute resources based on the jobs submitted, but scale sets persist indefinitely.  Batch has two core functions, provisioning and scheduling. Batch provisions VMs in ‘pools’ which is an abstraction over scale sets under the hood.  As a result Batch is more reliable for provisioning at scale and handles things like bad nodes and low priority pre-emption.  You can also scale far beyond the limits of individual scale sets. Batch will also schedule work on pools, this is done via jobs and tasks.  Task can define dependencies and Batch can also automatically scale pools via auto scale formula which can scale based on queue depth, as an example. Additionally Batch can optionally delete pools on job completion to reduce costs.

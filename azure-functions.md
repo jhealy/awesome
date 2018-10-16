@@ -45,6 +45,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 
 # LEARN
+
 * Book - <a target="_blank" href="https://www.amazon.com/gp/product/1788390822/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788390822&linkCode=as2&tag=jhealy-20&linkId=9a9dd2c286874f47f28a007a30542368">Azure Serverless Computing Cookbook: Build applications hosted on serverless architecture using Azure Functions</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jhealy-20&l=am2&o=1&a=1788390822" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * Develop and run Azure functions locally - https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local
 
@@ -84,6 +85,8 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Blog - Azure App Service Team - https://blogs.msdn.microsoft.com/appserviceteam/
 * Blog - Kloud - good general dev blog for cloud - https://blog.kloud.com.au - rss: https://blog.kloud.com.au/feed/
 * Build Apps Faster with Serverless - https://channel9.msdn.com/Blogs/Azure/Build-apps-faster-with-Azure-Serverless
+* Case Study - A fast, serverless, big data pipeline powered by a single Azure Function - Event Hub, Functions, ML Studio, SQL DB, Cosmos DB  <https://azure.microsoft.com/en-us/blog/a-fast-serverless-big-data-pipeline-powered-by-a-single-azure-function/>
+* Case Study - Mobile fraud detection architecture - Event Hub, Functions, ML Studio, SQL DB, Cosmos DB, Logic Apps <https://download.microsoft.com%2Fdownload%2F0%2F1%2F5%2F0150425C-14C7-41F4-97EA-3DE57B678C51%2FIndSG_FraudDetection.pdf>
 * Core - .NET Core 2.0 with Azure Functions Preview - https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Cross Platform Tooling for Az Functions - Mac, Linux via NPM.  VS Code. VS Mac. Javascript, c#.  https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Debugging Azure Functions locally using Postman <https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function>

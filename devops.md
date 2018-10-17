@@ -21,6 +21,11 @@ Formerly known as Visual Studio Mobile Center
 * DevOps and Jenkins - https://almvm.azurewebsites.net/labs/vstsextend/jenkins/ will get you the Devops+Jenkins pieces.  
 * VSTS extension for DevTest labs -https://docs.microsoft.com/en-us/azure/devtest-lab/devtest-lab-integrate-ci-cd-vsts 
 
+# FLUENT MANAGEMENT API
+* Azure Libraries for .NET <https://github.com/Azure/azure-libraries-for-net/graphs/contributors>
+* Overview (2016) <https://cmatskas.com/the-new-azure-management-fluent-api-is-has-landed/>
+* Simpler Azure Management Libraries for .NET <https://azure.microsoft.com/en-us/blog/simpler-azure-management-libraries-for-net/>
+
 # HOCKEYAPP
 * Azure Active Directory Integration - https://support.hockeyapp.net/kb/general-account-management-2/azure-active-directory-integration 
 * How to sideload UWP Apps in HockeyApp - https://support.hockeyapp.net/kb/client-integration-windows-and-windows-phone/how-to-sideload-uwp-applications 

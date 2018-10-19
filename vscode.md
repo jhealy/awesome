@@ -1,4 +1,5 @@
 # VSCODE
+* Awesome links collection <https://github.com/viatsko/awesome-vscode>
 
 # LEARN
 * Create a Database IDE with MSSQL Extension - msdnmag june 2017 - https://msdn.microsoft.com/en-us/magazine/mt809115

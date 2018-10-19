@@ -14,6 +14,12 @@
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
 * Wiki - has variety of topics including samples and content - https://github.com/Azure/Azure-Functions/wiki
 
+# CANCELLATION TOKENS
+* Correct use of cancellation token <https://stackoverflow.com/questions/36173674/correct-use-of-cancellationtoken>
+* Handling timeouts in Azure Functions <https://blogs.msdn.microsoft.com/benjaminperkins/2018/06/12/how-i-would-handle-a-timeout-in-azure-function/>
+* Recommended pattern for a cancellation token <https://blogs.msdn.microsoft.com/andrewarnottms/2014/03/19/recommended-patterns-for-cancellationtoken/>
+* Usage example <https://stackoverflow.com/questions/45746876/cancellationtoken-doesnt-get-triggered-in-the-azure-functions>
+
 # CONTACT
 * Feedback - https://feedback.azure.com/forums/355860-azure-functions/filters/top
 * Github - https://github.com/Azure/Azure-Functions

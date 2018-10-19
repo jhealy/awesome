@@ -14,3 +14,4 @@
 * AutoRest - Generate variety of clients against REST interface - <https://github.com/Azure/autorest>
 * AutoRest - swagger and autorest - <https://visualstudiomagazine.com/articles/2017/04/01/consuming-rest-services.aspx>
 * httpbin - public, free http request and response service for testing <http://httpbin.org/>
+* Swashbuckle - swagger / openapi generator, api explorer and ui <https://github.com/domaindrivendev/Swashbuckle/blob/master/README.md>

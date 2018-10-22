@@ -37,6 +37,13 @@
 *  Iris go versus .NET Core Kestrel in terms of performance (August 2017) - https://hackernoon.com/iris-go-vs-net-core-kestrel-in-terms-of-http-performance-806195dc93d5
 * TechEmpower Plaintext benchmark - https://www.techempower.com/benchmarks/#section=data-r15&hw=ph&test=plaintext
 
+# RAZOR
+* MSDN Mag - Quick intro to Razor (Sept 2017) <https://msdn.microsoft.com/en-us/magazine/mt842512>
+* Creating Razor Pages - https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/
+* Intro to Razor Pages - https://docs.microsoft.com/en-us/aspnet/core/mvc/razor-pages/index?tabs=visual-studio
+* Routing primer (tutorial missing layout pages, watchout) <https://tahirnaushad.com/2017/08/20/asp-net-core-mvc-routing/>, github <https://github.com/TahirNaushad/Fiver.Mvc.RazorPages/tree/master/Fiver.Mvc.RazorPages/Pages/Movies>
+* Quick Tutorial <https://tahirnaushad.com/2017/08/29/asp-net-core-2-0-razor-pages/>
+
 # SAMPLES
 * ASP .NET Doc Samples - must have! - https://github.com/aspnet/Docs
 * DodyG - 100+ samples for aspcore fundamentals - https://github.com/dodyg/practical-aspnetcore/
@@ -65,9 +72,6 @@
 * Porting > MVC - https://docs.microsoft.com/en-us/aspnet/core/migration/mvc
 * Porting > Third party dependencies - https://docs.microsoft.com/en-us/dotnet/articles/core/porting/third-party-deps
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
-* Razor - https://msdn.microsoft.com/en-us/magazine/mt842512
-* Razor - Creating Razor Pages on Windows - https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/
-* Razor - Intro to Razor Pages in .NET Core - https://docs.microsoft.com/en-us/aspnet/core/mvc/razor-pages/index?tabs=visual-studio
 * MVC compared to Razor - <https://jonhilton.net/razor-pages-or-mvc-a-quick-comparison/>
 * React and ASP.NET Core - https://blogs.msdn.microsoft.com/whereismysolution/2018/01/23/some-cool-stuff-around-asp-net-core-2-0-and-reactjs/
 * SignalR > ASP.NET Core 2.0 Announced - Sept 2017 - https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/

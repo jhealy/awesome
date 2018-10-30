@@ -1,4 +1,5 @@
  # HTTPCLIENT
+* DNS change danger with singleton pattern <http://byterot.blogspot.com/2016/07/singleton-httpclient-dns.html>
 * HttpClient v WebClient v HttpWebRequest - http://www.diogonunes.com/blog/webclient-vs-httpclient-vs-httpwebrequest/
 * InfoQ on httpclient - lots of links - https://www.infoq.com/news/2016/09/HttpClient - shows why "using" around a new httpclient is bad
 * Official http client doc vs.118 - 

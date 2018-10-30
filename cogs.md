@@ -5,6 +5,7 @@
 * JFK Files <https://github.com/Microsoft/AzureSearch_JFK_Files>
 * Learn <https://aischool.microsoft.com/en-us/home>
 * OCR and Handwritten sections using Computer Vision and Azure COGS <https://www.microsoft.com/developerblog/2018/05/07/handwriting-detection-and-recognition-in-scanned-documents-using-azure-ml-package-computer-vision-azure-cognitive-services-ocr/>
+* Search > <http://wolterskluwereap.azurewebsites.net/>
 * Speech > Custom language model <https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-customize-language-model>
 * Speech > Speech to Text WebSockets Sample (js) - <https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript>
 * Translate > github <https://github.com/MicrosoftTranslator/>

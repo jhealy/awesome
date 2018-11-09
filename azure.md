@@ -1,10 +1,12 @@
 # GENERAL
+* Azure Info Hub - news, drill ins by service, et al <https://azureinfohub.azurewebsites.net/>
 * Bash shell for Azure in cloud - <https://shell.azure.com/>
 * Cloud Services comparison - <http://comparecloud.in/>
 * Compute Decision Tree (awesome) - <https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree>
 * Compute Decision Tree - questions for big 4Rs - <https://azure.microsoft.com/en-us/migration/migrate/>
 * East versus East2 - What's the difference? - https://www.appliedi.net/blog/azure-east-us-vs-east-us-2-whats-the-difference/
 * Free levels in Azure - What's available <https://azure.microsoft.com/en-us/free/>
+* Practice Playbooks - resources for partners and organizations on developing a cloud practice <https://aka.ms/practiceplaybooks>
 * Pricing calculator - all items - https://azure.microsoft.com/en-us/pricing/calculator/
 * Pricing - Appservices breakout - https://azure.microsoft.com/en-us/pricing/details/app-service/ 
 * Pricing - Virtual Machines - Windows breakout - https://azure.microsoft.com/en-us/pricing/details/virtual-machines/windows/
@@ -15,10 +17,13 @@
 * AWS > versus Azure Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
 
 # ARCHITECTURE
-* Azure Architecture Center - https://docs.microsoft.com/en-us/azure/architecture/
+
+* Azure Architecture Center - <https://docs.microsoft.com/en-us/azure/architecture/>
+* Cloud Design Patterns <https://docs.microsoft.com/en-us/azure/architecture/patterns/>
 * SmartHive Meeting Room with Service Bus - <https://github.com/Microsoft/MTC_SmartHive>
 
 # LEARN
+
 * Application Architecture Guide (pdf available too) <https://docs.microsoft.com/en-us/azure/architecture/guide/>
 * Architecture Guide for MicroServices, Web Apps, Cloud Deployment - https://www.microsoft.com/net/learn/architecture
 * ARM errors on deploy - https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures

@@ -10,4 +10,7 @@
 * SQL v CosmosDB - https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server
 * Technical Overview of Cosmos DB <https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/>
 
+# LEARN
+* Implementing a Serverless Architecture - functions, storage, cogs, cosmosdb <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
+
 SEE ALSO - CosmosDB and Azure Functions <https://github.com/jhealy/awesome/blob/master/azure-functions.md#cosmosdb-and-azure-functions>

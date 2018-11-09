@@ -8,3 +8,4 @@
 
 * AI School <https://aischool.microsoft.com/en-us/home>
 * Microsoft Cloud Workshops <https://github.com/Microsoft/MCW>
+* ML HOL <https://github.com/Azure-Readiness/hol-azure-machine-learning>

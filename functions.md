@@ -66,6 +66,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Approval Workflow with SendGrid - Durable Functions Pattern - <https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid>
 * Azure Functions Recipes <https://docs.microsoft.com/en-us/sandbox/functions-recipes/>
 * Azure Functions Samples <https://github.com/Azure/Azure-Functions/>
+* Implementing a Serverless Architecture - functions, storage, cogs, cosmosdb <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
 * License plate reader using functions and OpenALPR - <https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr>
 * Reference Arch > ECommerce front end > <https://docs.microsoft.com/en-us/azure/architecture/example-scenario/apps/ecommerce-scenario>
 
@@ -110,6 +111,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Powershell > <https://stackoverflow.com/questions/37724769/how-to-install-a-powershell-module-in-an-azure-function>
 * Proxies - act like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
+* Python - v1 is experimental and not supporte.  v2 Preview is here <https://github.com/Azure/azure-functions-python-worker>
 * Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition
 * SQL Binding <https://stackoverflow.com/questions/44983669/azure-function-vs2017-sql-table-binding>
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions 

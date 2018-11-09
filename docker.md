@@ -8,6 +8,7 @@
 * IIS - Convert ASP.NET Web Servers to Docker with Image2Docker - https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/
 * IIS Docker Image - https://hub.docker.com/r/microsoft/iis/
 * IIS Docker Image and https - https://github.com/Microsoft/iis-docker/issues/30
+* Kubernetes versus docker <https://rancher.com/blog/2018/2018-10-09-kubernetes-versus-docker/>
 * Learn > Build and deploy a multi-container application in Azure Container Service - ASP.NET Core / K8S / Docker / (ebook)(march 2018) https://azure.microsoft.com/en-us/resources/build-and-deploy-a-multi-container-application-in-azure-container-service/en-us/
 * Linux containers on Windows using HyperV - https://tutorials.ubuntu.com/tutorial/tutorial-windows-ubuntu-hyperv-containers?backURL=/#0
 * Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/

@@ -2,6 +2,8 @@
 * APIs for .NET - doc - <https://docs.microsoft.com/en-us/dotnet/api/overview/azure/storage?view=azure-dotnet>
 * Blog - <https://blogs.msdn.microsoft.com/windowsazurestorage/>
 * Immutable Storage for Blob <https://azure.microsoft.com/en-us/blog/microsoft-azure-launches-tamper-proof-azure-immutable-blob-storage-for-financial-services/>
+* Implementing a Serverless Architecture - functions, storage, cogs, cosmos <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
+* Large File Share Announcement - up to 100TB <https://azure.microsoft.com/en-us/blog/a-new-era-for-azure-files-bigger-faster-better/>
 * SDK for .NET - <https://github.com/Azure/azure-storage-net/blob/master/README.md>, nuget: <https://www.nuget.org/packages/WindowsAzure.Storage>
 * Soft Delete (365 day retention) <https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-soft-delete>
 * Tutorials - <https://docs.microsoft.com/en-us/azure/storage/blobs/storage-encrypt-decrypt-blobs-key-vault>

@@ -3,7 +3,7 @@
 * ASE Deployment Center Preview <https://blogs.msdn.microsoft.com/appserviceteam/2018/06/04/app-service-deployment-center-preview/>
 * Management addresses <https://docs.microsoft.com/en-us/azure/app-service/environment/management-addresses>
 * Network Diagrams <https://docs.microsoft.com/en-us/azure/app-service/environment/network-info>
-* Staging ASE Environments - April 2017 - <https://docs.microsoft.com/en-us/azure/app-service/web-sites-staged-publishinghttps://msdn.microsoft.com/en-us/magazine/mt797651>
+* Staging ASE Environments - April 2017 - <https://docs.microsoft.com/en-us/azure/app-service/web-sites-staged-publishing>, <https://msdn.microsoft.com/en-us/magazine/mt797651>
 * The New Azure App Service Environment - April 2017 - GREAT DIAGRAM - <https://msdn.microsoft.com/en-us/magazine/mt797651>
 * VNET via ARM in an ASE <https://www.c-sharpcorner.com/article/overview-of-azure-app-service-environment-using-arm-vnet/>
 * When to use ASE (v1) - <https://blog.kloud.com.au/2016/04/05/when-to-use-an-azure-app-service-environment/>

@@ -10,3 +10,6 @@ pooling, and socket exceptions
 * PNP Good/Bad HttpClient Sample - https://github.com/mspnp/performance-optimization/tree/465514674354c8f833c73882f7405ac22c4fd437/ImproperInstantiation
 * Singleton with HttpClient - DNS changes not honored - dangerous in blue/green in Azure - <http://byterot.blogspot.co.uk/2016/07/singleton-httpclient-dns.html>
 * You're using HttpClient wrong and it is destabilizing your software - http://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
+
+# HTTPCLIENTFACTORIES
+* HttpClient Factories in .NET CORE 2.1 <https://dotnetcoretutorials.com/2018/05/03/httpclient-factories-in-net-core-2-1/>

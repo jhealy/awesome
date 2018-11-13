@@ -104,6 +104,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 * Linux > https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 
 * Logic Apps v Functions - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
+* Messaging for Azure Functions - Choosing between Azure Event Hubs, Queues, or Event Grid <https://hackernoon.com/azure-functions-choosing-between-queues-and-event-hubs-dac4157eee1c>
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/
 * Performance > https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices#configure-host-behaviors-to-better-handle-concurrency
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario

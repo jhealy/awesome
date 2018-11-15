@@ -56,6 +56,13 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Book - <a target="_blank" href="https://www.amazon.com/gp/product/1788390822/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788390822&linkCode=as2&tag=jhealy-20&linkId=9a9dd2c286874f47f28a007a30542368">Azure Serverless Computing Cookbook: Build applications hosted on serverless architecture using Azure Functions</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jhealy-20&l=am2&o=1&a=1788390822" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * Develop and run Azure functions locally - https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local
 
+# MESSAGING
+
+* Azure Functions: Choosing between queues and event hubs - <https://hackernoon.com/azure-functions-choosing-between-queues-and-event-hubs-dac4157eee1c>
+* Comparing messaging services <https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services>
+* Reliable Event Processing in Azure Functions - <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
+
+
 # MONITORING
 * Application insights - Add to existing function - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#enable-application-insights-integration>
 * Logging <https://docs.microsoft.com/en-us/sandbox/functions-recipes/functions-basics>
@@ -104,7 +111,6 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 * Linux > https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 
 * Logic Apps v Functions - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
-* Messaging for Azure Functions - Choosing between Azure Event Hubs, Queues, or Event Grid <https://hackernoon.com/azure-functions-choosing-between-queues-and-event-hubs-dac4157eee1c>
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/
 * Performance > https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices#configure-host-behaviors-to-better-handle-concurrency
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario

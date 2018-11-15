@@ -11,14 +11,14 @@
 * Environment variables - https://docs.microsoft.com/en-us/azure/batch/batch-compute-node-environment-variables
 * File Share - Mount an azure file share - https://docs.microsoft.com/en-us/azure/batch/pool-file-shares - can mount via "net use"
 * Installing Applications and staging data on Batch compute nodes - https://social.msdn.microsoft.com/Forums/en-US/87b19671-1bdf-427a-972c-2af7e5ba82d9/installing-applications-and-staging-data-on-batch-compute-nodes?forum=azurebatch - interesting with azure storage scalability (60mb/sec) for each blob.
-* Persist task output to azure storage - https://docs.microsoft.com/en-us/azure/batch/batch-task-output-files
-* Quotas and limits - https://docs.microsoft.com/en-us/azure/batch/batch-quota-limit
-* Shipyard for docker - https://github.com/Azure/batch-shipyard/
+* Persist task output to azure storage - <https://docs.microsoft.com/en-us/azure/batch/batch-task-output-files>
+* Testing - Guidance and framework for running HPC apps on Azure - Batch or CycleCloud <https://blogs.msdn.microsoft.com/azurecat/2018/11/12/running-hpc-applications-on-azure/>
+* Quotas and limits - <https://docs.microsoft.com/en-us/azure/batch/batch-quota-limit>
+* Shipyard for docker - <https://github.com/Azure/batch-shipyard/>
 
 # MONITOR
 * Metrics, alerts and logs for diagnostic evaluation and monitoring - <https://docs.microsoft.com/en-us/azure/batch/batch-diagnostics>
 * Monitor with Application Insights <https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights>
-
 
 # PACKAGES
 * **Deploy apps to compute nodes using packages** <https://docs.microsoft.com/en-us/azure/batch/batch-application-packages>

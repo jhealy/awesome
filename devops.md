@@ -34,6 +34,10 @@ Formerly known as Visual Studio Mobile Center
 * Azure Citadel - all kinds of goodies <https://azurecitadel.github.io/>
 * Hands on labs <https://almvm.azurewebsites.net/>
 
+# TESTING
+
+* Guidance and framework for running HPC apps on Azure - Batch or CycleCloud <https://blogs.msdn.microsoft.com/azurecat/2018/11/12/running-hpc-applications-on-azure/>
+
 # VISUAL STUDIO MOBILE CENTER
 See App Center above....
 

@@ -9,6 +9,10 @@
 * Tutorials - <https://docs.microsoft.com/en-us/azure/storage/blobs/storage-encrypt-decrypt-blobs-key-vault>
 * Zone redundant storage - <https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy-zrs?WT.mc_id=azurebg_email_Trans_33771_1742_Release_Internal_Tier2_April25>
 
+# FILESYNC
+
+* Limits <https://docs.microsoft.com/en-us/azure/storage/files/storage-files-scale-targets#azure-file-sync-scale-targets>
+
 # RBAC
 * Azure AD Auth for Storage now in Private Preview <https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-aad-authentication-for-storage/>
 * Authenticate access to Azure Storage using Azure Active Directory (Preview)<https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad>

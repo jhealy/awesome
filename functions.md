@@ -44,6 +44,10 @@
 * Store unstructured data using Azure Functions and Azure Cosmos DB <https://docs.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb>
 SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.md>
 
+# DEVOPS
+* Azure Functions Continuos deployment with Azure Pipelines - <http://dontcodetired.com/blog/?tag=funcpipeseries>
+* Serverless, DevOps, and CI/CD: Part1 -<https://medium.com/microsoftazure/serverless-devops-and-ci-cd-part-1-f76f0357cba4>, Part2 <https://medium.com/microsoftazure/serverless-devops-and-ci-cd-part-2-b6e0a6d05530>
+
 # DURABLE FUNCTIONS
 * Calling long running functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>
 * Container - Run a durable function in a container <https://carlos.mendible.com/2018/01/14/run-a-durable-azure-function-in-a-container/>

@@ -11,9 +11,3 @@
 * Translate > Limits <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>
 * Vision > Implementing a Serverless Architecture - functions, storage, cogs, cosmos <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
 * Vision > Taxonomy Categories <https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/category-taxonomy>
-
-# SEARCH
-* Deep dive circa 2014 <https://channel9.msdn.com/Events/TechEd/Europe/2014/DBI-B410>
-* JFK Files <https://github.com/Microsoft/AzureSearch_JFK_Files>
-* Support via StackOverflow <https://stackoverflow.com/questions/tagged/azure-search>
-* Wolters Kluwer <http://wolterskluwereap.azurewebsites.net/>

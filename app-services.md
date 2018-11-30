@@ -16,6 +16,11 @@
 * Tips - Migration Checklist <https://azure.microsoft.com/en-us/blog/migration-checklist-when-moving-to-azure-app-service/>
 * Tips - Top 10 Tips Migrating Existing Web Apps  <https://blogs.msdn.microsoft.com/wriju/2015/07/07/top-10-things-while-migrating-existing-web-applications-to-azure/>
 
+# LEARN
+
+* Getting Started with Azure App Service - Hightlights - <https://mva.microsoft.com/en-US/training-courses/getting-started-with-azure-app-service-highlights-18284>
+* Getting Started with Azure App Service (long version) < https://www.edx.org/course/getting-started-azure-app-service-web-apps-1>
+
 # MIGRATION ASSISTANT
 
 * Azure App Service Migration Tool - <https://azure.microsoft.com/en-us/downloads/migration-assistant/>

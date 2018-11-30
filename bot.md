@@ -21,9 +21,11 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 # LUIS
 Language Understanding Cognitive Service
 * Home - https://www.luis.ai/home
+* Adding Luis entities to a chat bot <https://blogs.msdn.microsoft.com/benjaminperkins/2017/02/01/adding-luis-entities-to-my-chatbot/>
 * Apps home - https://www.luis.ai/applications
 * Documentation - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/home
-* Pricing - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-understanding-intelligent-services/
+* Pricing - <https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-understanding-intelligent-services/>
+
 
 # QNA MAKER
 The extraction process to get QNA-pairs out of a URL or file is something QNAMaker does. Once it has the QNA-pairs it will add them to the Azure Search index.

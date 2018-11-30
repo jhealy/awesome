@@ -1,5 +1,5 @@
 # AZURE SEARCH / COGNITIVE SEARCH
-* '''Overview''' <https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search>
+* ***Overview*** <https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search>
 * Azure Search versus Full Text SQL Search - <https://docs.microsoft.com/en-us/azure/search/search-faq-frequently-asked-questions> 
 * Blog <https://azure.microsoft.com/blog/tag/azure-search>
 * Docs <http://Azure.microsoft.com/documentation/services/search>

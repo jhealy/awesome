@@ -31,7 +31,13 @@ Language Understanding Cognitive Service
 The extraction process to get QNA-pairs out of a URL or file is something QNAMaker does. Once it has the QNA-pairs it will add them to the Azure Search index.
 * QNA Maker Architecture <https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/overview/overview#qna-maker-architecture>
 
-# SAMPLES
+# SAMPLES V4
+
+* Bot builder samples - many <https://github.com/Microsoft/BotBuilder-Samples/blob/master/README.md>
+* Enterprise bot template <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-overview?view=azure-bot-service-4.0>
+* Virtual Assistant <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0>
+
+# SAMPLES V3
 * Alexa integration -	https://github.com/suneetnangia/Alexa/tree/master/Microsoft.Demos.Alexa.Luis
 * AzureBot - https://github.com/Microsoft/AzureBot
 * Commerce bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-commerce?view=azure-bot-service-3.0>

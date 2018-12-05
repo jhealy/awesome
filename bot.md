@@ -34,6 +34,11 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 # SAMPLES
 * Alexa integration -	https://github.com/suneetnangia/Alexa/tree/master/Microsoft.Demos.Alexa.Luis
 * AzureBot - https://github.com/Microsoft/AzureBot
+* Commerce bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-commerce?view=azure-bot-service-3.0>
+* Cortana skill bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-cortana-skill?view=azure-bot-service-3.0>
+* Enterprise productivity bot scenario <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-enterprise-productivity?view=azure-bot-service-3.0>
+* Information bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-informational?view=azure-bot-service-3.0>
+* IoT bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-internet-things?view=azure-bot-service-3.0>
 * Stack Overflow Bot - https://github.com/Microsoft/BotFramework-Samples/tree/master/StackOverflow-Bot
 * Stackoverflow Bot - krishnaji - https://github.com/krishnaji/StackOverflow-Bot
 * Samples - <https://github.com/Microsoft/BotBuilder-Samples>

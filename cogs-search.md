@@ -18,7 +18,10 @@
 
 # LEARN
 
+* Create a search service <https://docs.microsoft.com/en-us/azure/search/search-create-service-portal>
 * Deep dive circa 2014 <https://channel9.msdn.com/Events/TechEd/Europe/2014/DBI-B410>
+* Index Azure blobs <https://docs.microsoft.com/en-us/azure/search/search-semi-structured-data>
+* Search Tutorial (C#) <https://docs.microsoft.com/en-us/azure/search/search-query-dotnet>
 
 # SHOWCASE
 
@@ -41,3 +44,4 @@ Custom skill link <https://docs.microsoft.com/en-us/azure/search/cognitive-searc
 
 * CosmosDB - Connecting Azure Search to CosmosDb using indexers <https://docs.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb>
 * Cassandra - not supported yet - upvote the feature <https://feedback.azure.com/forums/263029-azure-search/suggestions/32857525-indexer-crawler-for-apache-cassandra-api-in-azur>
+* Number of docs in blob storage container <https://docs.microsoft.com/en-us/azure/storage/scripts/storage-blobs-container-calculate-size-powershell>

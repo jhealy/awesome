@@ -46,14 +46,15 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 # DEVOPS
 * Azure Functions Continuos deployment with Azure Pipelines - <http://dontcodetired.com/blog/?tag=funcpipeseries>
+* Deploying functions with ARM templates <https://blog.kloud.com.au/2018/08/16/deploying-azure-functions-with-arm-templates/>
 * Serverless, DevOps, and CI/CD: Part1 -<https://medium.com/microsoftazure/serverless-devops-and-ci-cd-part-1-f76f0357cba4>, Part2 <https://medium.com/microsoftazure/serverless-devops-and-ci-cd-part-2-b6e0a6d05530>
+* WebDeploy json <https://github.com/davidebbo/AzureWebsitesSamples/blob/master/ARMTemplates/FunctionsWebDeploy.json>
 
 # DURABLE FUNCTIONS
 * Calling long running functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>
 * Container - Run a durable function in a container <https://carlos.mendible.com/2018/01/14/run-a-durable-azure-function-in-a-container/>
 * Doc <https://github.com/Azure/azure-functions-durable-extension>
 * Durable functions making serverless last - durable functions as orchestrator <https://thenewstack.io/durable-functions-making-serverless-last/>
-
 
 # LEARN
 
@@ -97,6 +98,13 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * <https://github.com/Azure/azure-functions-durable-extension/tree/master/test>
 * <https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-unit-testing>
 
+# VERSUS WEBJOBS
+
+* <https://stackoverflow.com/questions/36610952/azure-webjobs-vs-azure-functions-how-to-choose>
+* <https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs>
+* <https://github.com/Azure/azure-functions-host>
+
+
 # MISC
 * AWS Lambda versus Functions - https://serifandsemaphore.io/azure-cloud-functions-vs-aws-lambda-caf8a90605dd
 * Azure Functions vs AWS Lambda Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-scaling-face-off/
@@ -122,7 +130,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Powershell > <https://stackoverflow.com/questions/37724769/how-to-install-a-powershell-module-in-an-azure-function>
 * Proxies - act like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
-* Python - v1 is experimental and not supporte.  v2 Preview is here <https://github.com/Azure/azure-functions-python-worker>
+* Python - v1 is experimental and not supporte.  v2 Preview is here <https://github.com/Azure/azure-functions-python-worker>. Python GA is not committed for H1 CY2019. 
 * Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition
 * SQL Binding <https://stackoverflow.com/questions/44983669/azure-function-vs2017-sql-table-binding>
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions 

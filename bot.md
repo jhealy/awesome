@@ -20,12 +20,18 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 
 # LUIS
 Language Understanding Cognitive Service
-* Home - https://www.luis.ai/home
+* Home - <https://www.luis.ai/home>
 * Adding Luis entities to a chat bot <https://blogs.msdn.microsoft.com/benjaminperkins/2017/02/01/adding-luis-entities-to-my-chatbot/>
-* Apps home - https://www.luis.ai/applications
-* Documentation - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/home
+* Apps home - <https://www.luis.ai/applications>
+* Documentation - <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/home>
+* Enable Natural Language Interaction with LUIS (MSDN Mag Jan 2017) <https://msdn.microsoft.com/magazine/mt745095>
+* Improving LUIS Intent Classifications (MSDN Mag July 2018) <https://msdn.microsoft.com/en-us/magazine/mt847187.aspx?f=255&MSPPError=-2147217396>
+* Luis tips (Anna Thomas) <https://blogs.msdn.microsoft.com/buckwoody/2018/10/30/luis-notes-from-the-field-of-natural-language-processing/>
+* Model explainer - R Lang <https://github.com/pbiecek/DALEX>
+* None intent <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-intent#none-intent-is-fallback-for-app>
 * Pricing - <https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-understanding-intelligent-services/>
-
+* QBox - visual luis ai $ <https://qbox.ai/>
+* Utterances - varied <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-utterance#how-to-choose-varied-utterances>
 
 # QNA MAKER
 The extraction process to get QNA-pairs out of a URL or file is something QNAMaker does. Once it has the QNA-pairs it will add them to the Azure Search index.
@@ -44,6 +50,7 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 * Cortana skill bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-cortana-skill?view=azure-bot-service-3.0>
 * Enterprise productivity bot scenario <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-enterprise-productivity?view=azure-bot-service-3.0>
 * Information bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-informational?view=azure-bot-service-3.0>
+* Intelligent Kiosk - qna bot maker samples embedded <https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84?activetab=pivot:overviewtab>
 * IoT bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-internet-things?view=azure-bot-service-3.0>
 * Stack Overflow Bot - https://github.com/Microsoft/BotFramework-Samples/tree/master/StackOverflow-Bot
 * Stackoverflow Bot - krishnaji - https://github.com/krishnaji/StackOverflow-Bot

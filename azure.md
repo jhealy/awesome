@@ -13,6 +13,7 @@
 * Services by region, including FED - https://azure.microsoft.com/en-us/status/
 * Security - Azure Trust Center - https://www.microsoft.com/en-us/trustcenter/privacy/you-own-your-data
 * Security - Network Security - https://docs.microsoft.com/en-us/azure/security/azure-network-security
+* Services - all up <https://azure.microsoft.com/en-us/services/>
 * AWS > Mapping to Azure Services - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 * AWS > versus Azure Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
 

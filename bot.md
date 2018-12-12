@@ -9,7 +9,8 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Team Blog - https://blog.botframework.com/
 
 # LEARN
-**5 Minute QuickStarts from Bots doc - https://docs.microsoft.com/en-us/bot-framework/**
+
+**5 Minute QuickStarts from Bots doc - <https://docs.microsoft.com/en-us/bot-framework/> **
 * Authentication - Add <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0>
 * Bot-Factory - http://mybotfactory.azurewebsites.net/
 * Daniel Egan's Bot Leearning Lab - https://github.com/DanielEgan/BotWorkshop 
@@ -18,20 +19,26 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * QnA Maker tutorial <https://github.com/Microsoft/BotBuilder-CognitiveServices/tree/master/CSharp/Samples/QnAMaker>
 * The Intelligent AGent Assistant: Bots in the AGent Desktop - Part 1 - https://blogs.msdn.microsoft.com/geoffreyinnis/2017/06/28/the-intelligent-agent-assistant-bots-in-the-agent-desktop-part-1/
 
-# LUIS
-Language Understanding Cognitive Service
+# LUIS - Language Understanding Cognitive Service
+
 * Home - <https://www.luis.ai/home>
 * Adding Luis entities to a chat bot <https://blogs.msdn.microsoft.com/benjaminperkins/2017/02/01/adding-luis-entities-to-my-chatbot/>
 * Apps home - <https://www.luis.ai/applications>
 * Documentation - <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/home>
 * Enable Natural Language Interaction with LUIS (MSDN Mag Jan 2017) <https://msdn.microsoft.com/magazine/mt745095>
-* Improving LUIS Intent Classifications (MSDN Mag July 2018) <https://msdn.microsoft.com/en-us/magazine/mt847187.aspx?f=255&MSPPError=-2147217396>
 * Luis tips (Anna Thomas) <https://blogs.msdn.microsoft.com/buckwoody/2018/10/30/luis-notes-from-the-field-of-natural-language-processing/>
-* Model explainer - R Lang <https://github.com/pbiecek/DALEX>
 * None intent <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-intent#none-intent-is-fallback-for-app>
 * Pricing - <https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-understanding-intelligent-services/>
 * QBox - visual luis ai $ <https://qbox.ai/>
 * Utterances - varied <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-utterance#how-to-choose-varied-utterances>
+
+## LUIS PERFORMANCE
+
+* Improving LUIS Intent Classifications (MSDN Mag July 2018) <https://msdn.microsoft.com/en-us/magazine/mt847187.aspx?f=255&MSPPError=-2147217396>
+* Model explainer - R Lang <https://github.com/pbiecek/DALEX>
+* Tool > ScatterText - PY tool - Source <https://github.com/JasonKessler/scattertext>, Overview - <https://arxiv.org/abs/1703.00565>
+* Tool > LIME - Local Interpretable Model Agnostic Explanation - Explains intent classification - Source - <https://github.com/marcotcr/lime>, 
+Why should I trust you?  Explaining the predictions of any classifier - <https://arxiv.org/abs/1602.04938>
 
 # QNA MAKER
 The extraction process to get QNA-pairs out of a URL or file is something QNAMaker does. Once it has the QNA-pairs it will add them to the Azure Search index.

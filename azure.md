@@ -24,13 +24,14 @@
 * SmartHive Meeting Room with Service Bus - <https://github.com/Microsoft/MTC_SmartHive>
 
 # LEARN
-
+* **Azure Learning Paths ** - free training, hands on labs, guided learning paths, certification links <https://docs.microsoft.com/en-us/learn/azure/>
 * Application Architecture Guide (pdf available too) <https://docs.microsoft.com/en-us/azure/architecture/guide/>
 * Architecture Guide for MicroServices, Web Apps, Cloud Deployment - https://www.microsoft.com/net/learn/architecture
-* ARM errors on deploy - https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures
+* ARM errors on deploy - <https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures>
 * Azure Tips and Tricks from Michael Crump <https://www.michaelcrump.net/azure-tips-and-tricks-complete-list/>
 * Azure Developer Guide (August 2018 v2) <https://azure.microsoft.com/en-us/campaigns/developer-guide/>
 * DocumentDB MVA - https://mva.microsoft.com/en-US/training-courses/azure-documentdb-planetscale-nosql-16847
+* Hands on labs <https://www.microsoft.com/handsonlabs>
 * Microsoft Mechanics Video Series - https://www.youtube.com/c/MicrosoftMechanicsSeries
 * QuickStart Guide for .NET Developers <https://azure.microsoft.com/en-us/blog/get-the-azure-quick-start-guide-for-net-developers/>
 

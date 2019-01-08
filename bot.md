@@ -5,14 +5,16 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Documentation - https://docs.microsoft.com/en-us/bot-framework/
 * Publishing endpoint - https://dev.botframework.com/
 * Samples - Node.js or C# - https://github.com/Microsoft/BotBuilder-Samples
-* Support - StackOverflow for Cognitive Services and Bot - https://stackoverflow.com/questions/tagged/microsoft-cognitive
-* Team Blog - https://blog.botframework.com/
+* Support - StackOverflow for Cognitive Services and Bot - <https://stackoverflow.com/questions/tagged/microsoft-cognitive>
+* Support - twitter @msbotframework <https://www.twitter.com/msbotframework>
+* Team Blog - <https://blog.botframework.com/>
 
 # LEARN
 
 **5 Minute QuickStarts from Bots doc - <https://docs.microsoft.com/en-us/bot-framework/> **
 * Authentication - Add <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0>
 * Bot-Factory - http://mybotfactory.azurewebsites.net/
+* Create a bot with Bot Builder SDK for .NET tutorial (v4) <https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0>
 * Daniel Egan's Bot Leearning Lab - https://github.com/DanielEgan/BotWorkshop 
 * MVA - Creating Bots in the Microsoft Bot Framwork using Node.js - https://mva.microsoft.com/en-US/training-courses/creating-bots-in-the-microsoft-bot-framework-using-nodejs-16759
 * PluralSight - dated - https://app.pluralsight.com/library/courses/microsoft-bot-framework-getting-started/table-of-contents
@@ -46,7 +48,8 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 
 # SAMPLES V4
 
-* Bot builder samples - many <https://github.com/Microsoft/BotBuilder-Samples/blob/master/README.md>
+* Bot Builder SDK - connect bots to text/sms, skype, slack, o365, et al <https://github.com/Microsoft/BotBuilder>
+* **Bot builder samples** - many <https://github.com/Microsoft/BotBuilder-Samples/blob/master/README.md>
 * Enterprise bot template <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-overview?view=azure-bot-service-4.0>
 * Virtual Assistant <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0>
 

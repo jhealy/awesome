@@ -25,6 +25,7 @@
 # DEVOPS
 * Azure Devops Projects - support for AKS and WEb Apps for Containers <https://azure.microsoft.com/en-in/features/devops-projects/>
 * Containers and DevOps workshop <https://github.com/Microsoft/MCW-Containers-and-DevOps>
+* DevOps > Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
 
 # NODE.JS AND DOCKER
 * Debugging Docker node.js on a mac - https://blog.docker.com/2016/07/live-debugging-docker/

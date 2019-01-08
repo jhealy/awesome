@@ -1,5 +1,6 @@
 # VSCODE
 * Awesome links collection <https://github.com/viatsko/awesome-vscode>
+* Keyboard shortcuts for Windows <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf>
 
 # LEARN
 * Create a Database IDE with MSSQL Extension - msdnmag june 2017 - https://msdn.microsoft.com/en-us/magazine/mt809115

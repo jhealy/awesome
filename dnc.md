@@ -86,6 +86,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
 * Developing for multiple versions of .NET Core - https://dotnetcoretutorials.com/2017/02/17/developing-two-versions-net-core-sdk-side-side/
 * DevOps > Create a build pipeline for Angular and ASP.NET Core apps with Visual Studio Team Services <https://offering.solutions/blog/articles/2018/03/08/create-build-pipeline-for-angular-and-aspnetcore-app-with-visual-studio-team-services/>
+* DevOps > Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
 * global.json refernce https://docs.microsoft.com/en-us/dotnet/core/tools/global-json
 * How to: Handl exceptions in parallel loops <https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-handle-exceptions-in-parallel-loops>
 * Libraries > Refit - Typesafe REST lib from Paul Betts - .NET Standard 1.4 and up - https://paulcbetts.github.io/refit/

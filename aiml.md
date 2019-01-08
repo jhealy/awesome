@@ -7,5 +7,6 @@
 # LEARN
 
 * AI School <https://aischool.microsoft.com/en-us/home>
+* Learn Analytics Materials <https://azure.github.io/learnAnalytics-public/>
 * Microsoft Cloud Workshops <https://github.com/Microsoft/MCW>
 * ML HOL <https://github.com/Azure-Readiness/hol-azure-machine-learning>

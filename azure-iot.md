@@ -1,5 +1,7 @@
 # AZURE IOT
+
 * Article Collection - https://buildazure.com/category/internet-of-things/
+* Azure IoT Professionals Program <https://academy.microsoft.com/en-us/professional-program/tracks/internet-of-things/>
 * CLI IoT Hub Extension - "az extension add --name azure-cli-iot-ext"
 * Device Explorer - https://github.com/Azure/azure-iot-sdk-csharp/releases
 * IoT and AI Insider Labs <https://www.microsoftiotinsiderlabs.com/>
@@ -12,3 +14,7 @@ Oddly enough device provisioning works with Azure CLI but not ARM
 
 * Discuss <https://stackoverflow.com/questions/49232398/arm-template-for-iot-hub-with-iot-edge-device>
 * Official doc <https://docs.microsoft.com/en-us/cli/azure/ext/azure-cli-iot-ext/iot/hub/device-identity?view=azure-cli-latest>
+
+# LEARN 
+
+* Azure IoT Professionals Program - Courses to get  a Microsoft Professional Program Certificate in IoT - <https://academy.microsoft.com/en-us/professional-program/tracks/internet-of-things/>

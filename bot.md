@@ -1,6 +1,7 @@
 # BOT
 Things relevant to Bot framework from Microsoft.  No, I dont care about any other kinds of bots right now.
 * AI training center <http://mcstestdesignerportal.azurewebsites.net/>
+* Design Principles <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-4.0>
 * DirectLine - https://blog.botframework.com/2017/02/02/direct-line-performance-improvements/
 * Documentation - https://docs.microsoft.com/en-us/bot-framework/
 * Publishing endpoint - https://dev.botframework.com/
@@ -9,21 +10,21 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Support - twitter @msbotframework <https://www.twitter.com/msbotframework>
 * Team Blog - <https://blog.botframework.com/>
 
-# LEARN
+# LEARN v.4
 
 **5 Minute QuickStarts from Bots doc - <https://docs.microsoft.com/en-us/bot-framework/> **
-* Authentication - Add <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0>
-* Bot-Factory - http://mybotfactory.azurewebsites.net/
 * Create a bot with Bot Builder SDK for .NET tutorial (v4) <https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0>
+
+
+# LEARN v.3
+
+* Authentication - Add <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0>
 * Daniel Egan's Bot Leearning Lab - https://github.com/DanielEgan/BotWorkshop 
-* MVA - Creating Bots in the Microsoft Bot Framwork using Node.js - https://mva.microsoft.com/en-US/training-courses/creating-bots-in-the-microsoft-bot-framework-using-nodejs-16759
-* PluralSight - dated - https://app.pluralsight.com/library/courses/microsoft-bot-framework-getting-started/table-of-contents
-* QnA Maker tutorial <https://github.com/Microsoft/BotBuilder-CognitiveServices/tree/master/CSharp/Samples/QnAMaker>
-* The Intelligent AGent Assistant: Bots in the AGent Desktop - Part 1 - https://blogs.msdn.microsoft.com/geoffreyinnis/2017/06/28/the-intelligent-agent-assistant-bots-in-the-agent-desktop-part-1/
 
 # LUIS - Language Understanding Cognitive Service
 
 * Home - <https://www.luis.ai/home>
+* Add natural lang understanding to your bot (v4) <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-v4-luis?view=azure-bot-service-4.0&tabs=cs>
 * Adding Luis entities to a chat bot <https://blogs.msdn.microsoft.com/benjaminperkins/2017/02/01/adding-luis-entities-to-my-chatbot/>
 * Apps home - <https://www.luis.ai/applications>
 * Documentation - <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/home>
@@ -45,12 +46,15 @@ Why should I trust you?  Explaining the predictions of any classifier - <https:/
 # QNA MAKER
 The extraction process to get QNA-pairs out of a URL or file is something QNAMaker does. Once it has the QNA-pairs it will add them to the Azure Search index.
 * QNA Maker Architecture <https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/overview/overview#qna-maker-architecture>
+* QnA Maker tutorial <https://github.com/Microsoft/BotBuilder-CognitiveServices/tree/master/CSharp/Samples/QnAMaker>
+* Use multiple LUIS and QnA models (v4) <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=csharp>
 
 # SAMPLES V4
 
 * Bot Builder SDK - connect bots to text/sms, skype, slack, o365, et al <https://github.com/Microsoft/BotBuilder>
 * **Bot builder samples** - many <https://github.com/Microsoft/BotBuilder-Samples/blob/master/README.md>
 * Enterprise bot template <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-overview?view=azure-bot-service-4.0>
+* Qna Maker and LUIS to distribute KBs (3.x) <https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/tutorials/integrate-qnamaker-luis>
 * Virtual Assistant <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0>
 
 # SAMPLES V3
@@ -76,4 +80,3 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 * Bot State Service retired on March 31 2018 - migration resources here - https://blog.botframework.com/2017/12/19/bot-state-service-will-soon-retired-march-31st-2018/
 * Enterprise Bot Arch / Master Child ( Feb 2018 ) - <https://blogs.msdn.microsoft.com/pragdev/2018/02/10/enterprise-bot-architecture/>
 * J.Marsman's favorite bot samples - https://blogs.msdn.microsoft.com/jennifer/2017/05/09/the-bot-framework-my-favorite-samples/ - chop me up
-

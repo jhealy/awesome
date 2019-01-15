@@ -32,7 +32,7 @@ Formerly known as Visual Studio Mobile Center
 * How to sideload UWP Apps in HockeyApp - https://support.hockeyapp.net/kb/client-integration-windows-and-windows-phone/how-to-sideload-uwp-applications 
 
 # LEARN
-* Azure Citadel - all kinds of goodies <https://azurecitadel.github.io/>
+* Azure Citadel - all kinds of goodies <https://azurecitadel.com/devops/>, <https://azurecitadel.github.io/>
 * Hands on labs <https://almvm.azurewebsites.net/>
 
 # TESTING

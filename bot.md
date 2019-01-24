@@ -55,7 +55,7 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 * **Bot builder samples** - many <https://github.com/Microsoft/BotBuilder-Samples/blob/master/README.md>
 * Enterprise bot template <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-overview?view=azure-bot-service-4.0>
 * Qna Maker and LUIS to distribute KBs (3.x) <https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/tutorials/integrate-qnamaker-luis>
-* Virtual Assistant <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0>
+* Virtual Assistant <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0>, github repo <https://github.com/Microsoft/AI>
 
 # SAMPLES V3
 * Alexa integration -	https://github.com/suneetnangia/Alexa/tree/master/Microsoft.Demos.Alexa.Luis

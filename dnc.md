@@ -62,6 +62,7 @@
 
 * Get Started - https://www.microsoft.com/net/core#windowsvs2017
 * EF > Entity Framework Core: Getting Started - pluralsight - <https://www.pluralsight.com/courses/entity-framework-core-getting-started>
+* Workshop <https://github.com/dotnet-presentations/dotnetcore-workshop>
 
 # MIGRATION
 
@@ -84,6 +85,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * Azure Service Stack Supported - https://blogs.msdn.microsoft.com/appserviceteam/2018/03/12/azure-app-service-on-azure-stack-update-one-released/
 * Background processing - Hangfire - batch processing with pro license - combine with TPL for true background proc w .net core on local machine - https://www.hangfire.io/
 * Code Analysis in .NET Core - https://stackoverflow.com/questions/44180829/code-analysis-for-dotnet-core-project-in-vs2017
+Convert other proj to vs2017 <https://github.com/hvanbakel/CsprojToVs2017>
 * Developing for multiple versions of .NET Core - https://dotnetcoretutorials.com/2017/02/17/developing-two-versions-net-core-sdk-side-side/
 * DevOps > Create a build pipeline for Angular and ASP.NET Core apps with Visual Studio Team Services <https://offering.solutions/blog/articles/2018/03/08/create-build-pipeline-for-angular-and-aspnetcore-app-with-visual-studio-team-services/>
 * DevOps > Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>

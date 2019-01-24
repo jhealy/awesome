@@ -2,6 +2,9 @@
 * Open XML SDK - https://github.com/OfficeDev/Open-XML-SDK
 * Add-in Model Labs - https://github.com/OfficeDev/TrainingContent/tree/master/O3652
 
+# LEARN
+* Add-in labs for Outlook, word, excel <https://github.com/OfficeDev/TrainingContent/tree/master/OfficeAddin>
+
 # MICROSOFT.GRAPH
 * Home - https://developer.microsoft.com/en-us/graph/docs/concepts/overview
 * Connect Sample - UWP/C# - https://dev.office.com/code-samples-detail/8759

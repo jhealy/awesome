@@ -27,6 +27,7 @@
 * RichTextBox > Custom Selection Color aka highlight search - https://stackoverflow.com/questions/3707120/how-to-select-text-from-the-richtextbox-and-then-color-it
 * StackPanel >Spacing property via Creator's Update - https://reflectionit.nl/blog/2017/new-spacing-property-in-stackpanel
 * WebView > Moved to its own page.  Yes, WebView is that evil.  See https://github.com/jhealy/awesome/blob/master/uwp_webview.md ....
+* WinUI - XAML controls open sourced <https://github.com/Microsoft/microsoft-ui-xaml>
 
 # CONTROLS - COLLECTIONS
 * Telerik controls for UWP - opensourced (free) - http://www.telerik.com/universal-windows-platform-ui

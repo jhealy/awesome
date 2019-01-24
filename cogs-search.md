@@ -7,6 +7,7 @@
 * Forum <https://ssocial.msdn.microsoft.com/Forums/azure/Home?forum=azuresearch>
 * Full text <https://docs.microsoft.com/en-us/azure/search/search-lucene-query-architecture >
 * Indexing > Blob <https://docs.microsoft.com/en-us/azure/search/search-howto-indexing-azure-blob-storage>
+* Indexing > SQL <https://docs.microsoft.com/en-us/azure/search/search-howto-connecting-azure-sql-database-to-azure-search-using-indexers>
 * Limits > Synonym map <https://docs.microsoft.com/en-us/rest/api/searchservice/create-synonym-map>
 * Limits > workloads by tier <https://docs.microsoft.com/en-us/azure/search/search-limits-quotas-capacity>
 * Preview Azure Blob PDF in Angular JS <http://www.dotnetfunda.com/articles/show/3494/preview-azure-blob-pdf-document-in-angularjs>

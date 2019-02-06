@@ -6,9 +6,12 @@
 * MSBuild > Common MSBuild Commands - https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties
 * Network whitelist - https://msdn.microsoft.com/en-US/library/mt604698(VS.140).aspx 
 * Roadmap - https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap
+* Time Travel Debugging <https://blogs.msdn.microsoft.com/dotnet/2019/01/25/debugging-net-apps-with-time-travel-debugging-ttd/>
 
 # VS2019 
 * Announce June 2018 <https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap>
+* Preview notes <https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes-preview>
+* Oh my! "Visual Studio 2019 will be the last version of Visual Studio with load test features. For customers requiring load testing tools, we recommend using alternate load testing tools such as Apache JMeter, Akamai CloudTest, Blazemeter."
 
 # VS2017
 * 15.8 Whats inside <https://www.infoq.com/news/2018/08/vs2017-158-released?utm_campaign=devfish>

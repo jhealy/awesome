@@ -50,6 +50,7 @@
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Batch - Monitor .NET Azure Batch Using Application Insights <https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously>
 * Batch Labs - monitor your azure batch jobs <https://azure.github.io/BatchLabs/>
+* Bizspark - where did it go - best you get is $200 azure free on startups <https://startups.microsoft.com/en-us/>
 * Blog - https://anthonychu.ca/
 * Blog - https://www.appliedi.net/feed/
 * CLI > Bash Shell - Powershell or Linux - https://shell.azure.com
@@ -70,6 +71,7 @@
 * Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
 * Event Hub > Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
 * File Sync <https://azure.microsoft.com/en-us/blog/score-one-for-the-it-pro-azure-file-sync-is-now-generally-available/>
+* IP Ranges for Azure DataCenter - Computer, SQL, Storage and more <https://www.microsoft.com/en-us/download/confirmation.aspx?id=41653>
 * Keeping secrets in the cloud with Azure - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 * Location Based Services > Add a Line - https://codepen.io/azuremaps/pen/qomaKv
 * Linux > Bash shell in azure cloud <https://shell.azure.com/>

@@ -39,5 +39,6 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * httpbin - public, free http request and response service for testing <http://httpbin.org/>
 * Policies - Sample policies <https://aka.ms/apimpolicyexamples>
 * Security - RBAC <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
+* Static IPs <https://feedback.azure.com/forums/248703-api-management/suggestions/32805958-ability-to-assign-public-static-ip-address-to-publ>
 * Versioning - Revisions to APIs - <https://docs.microsoft.com/en-us/azure/api-management/api-management-get-started-revise-api>
 * Versioning - <https://docs.microsoft.com/en-us/azure/api-management/api-management-get-started-publish-versions>

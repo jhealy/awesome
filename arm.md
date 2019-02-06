@@ -1,5 +1,6 @@
 # AZURE RESOURCE MANAGER ( ARM )
 
+* * Non-profits center for Azure - arm templates and contoso store  plus ppts <https://github.com/Microsoft/Nonprofits>
 * Quickstart templates for ARM <https://azure.microsoft.com/en-us/resources/templates/>
 * Quickstart templates for ARM github <https://github.com/singhkays/azure-quickstart-templates>
 * Template validator <https://github.com/singhkays/azure-arm-validator>
@@ -16,4 +17,5 @@
 * Azure Citadel <https://azurecitadel.com/automation/>
 
 # MISC
+
 * ARM errors on deploy - <https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures>

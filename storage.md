@@ -1,6 +1,8 @@
 # AZURE STORAGE
+
 * APIs for .NET - doc - <https://docs.microsoft.com/en-us/dotnet/api/overview/azure/storage?view=azure-dotnet>
 * Blog - <https://blogs.msdn.microsoft.com/windowsazurestorage/>
+* Geo redundant storage preview ( Feb 2019 ) <https://azure.microsoft.com/en-us/blog/account-failover-now-in-public-preview-for-azure-storage/>
 * Immutable Storage for Blob <https://azure.microsoft.com/en-us/blog/microsoft-azure-launches-tamper-proof-azure-immutable-blob-storage-for-financial-services/>
 * Implementing a Serverless Architecture - functions, storage, cogs, cosmos <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
 * Large File Share Announcement - up to 100TB <https://azure.microsoft.com/en-us/blog/a-new-era-for-azure-files-bigger-faster-better/>

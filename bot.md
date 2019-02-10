@@ -19,6 +19,7 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 
 **5 Minute QuickStarts from Bots doc - <https://docs.microsoft.com/en-us/bot-framework/> **
 * Create a bot with Bot Builder SDK for .NET tutorial (v4) <https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0>
+* LearnAI > Knowledge Mining Bootcamp <https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/>
 * Migrating from v3 to v4 <https://www.youtube.com/watch?v=lzUE4qi8O-A>
 
 # LEARN v.3

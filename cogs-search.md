@@ -22,6 +22,7 @@
 * Create a search service <https://docs.microsoft.com/en-us/azure/search/search-create-service-portal>
 * Deep dive circa 2014 <https://channel9.msdn.com/Events/TechEd/Europe/2014/DBI-B410>
 * Index Azure blobs <https://docs.microsoft.com/en-us/azure/search/search-semi-structured-data>
+* LearnAI > Knowledge Mining Bootcamp <https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/>
 * Search Tutorial (C#) <https://docs.microsoft.com/en-us/azure/search/search-query-dotnet>
 
 # SHOWCASE

@@ -10,6 +10,11 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Support - twitter @msbotframework <https://www.twitter.com/msbotframework>
 * Team Blog - <https://blog.botframework.com/>
 
+# HEALTHCARE BOT
+
+* Azure Marketplace link <https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-hcb.microsofthealthcarebot?tab=Overview>
+* Conversational AI for healthcare <https://www.microsoft.com/en-us/research/project/health-bot/>
+
 # LEARN v.4
 
 **5 Minute QuickStarts from Bots doc - <https://docs.microsoft.com/en-us/bot-framework/> **

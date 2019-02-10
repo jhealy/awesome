@@ -1,4 +1,5 @@
 # APP SERVICE ENVIRONMENTS
+* alt.ase - VNET Integration (preview) <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet#new-vnet-integration> :: (Oct 2018 article) <https://blogs.msdn.microsoft.com/appserviceteam/2018/10/17/new-app-service-vnet-integration-feature/>
 * DOCS - <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>
 * ASE Deployment Center Preview <https://blogs.msdn.microsoft.com/appserviceteam/2018/06/04/app-service-deployment-center-preview/>
 * Limits - look at Isolated Plan limits <https://azure.microsoft.com/en-us/pricing/details/app-service/plans/>

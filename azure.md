@@ -23,6 +23,12 @@
 * Cloud Design Patterns <https://docs.microsoft.com/en-us/azure/architecture/patterns/>
 * SmartHive Meeting Room with Service Bus - <https://github.com/Microsoft/MTC_SmartHive>
 
+# BLOCKCHAIN
+
+* Blockchain dev kit - article - Feb 2019 <https://blogs.msdn.microsoft.com/wriju/2019/02/07/azure-blockchain-development-kit/>
+* Blockchain dev kit - github <https://github.com/Azure-Samples/blockchain/tree/master/blockchain-development-kit>
+* Blockchain workbench <https://blogs.msdn.microsoft.com/wriju/2019/02/07/azure-blockchain-development-kit/>
+
 # LEARN
 * **Azure Learning Paths ** - free training, hands on labs, guided learning paths, certification links <https://docs.microsoft.com/en-us/learn/azure/>
 * Application Architecture Guide (pdf available too) <https://docs.microsoft.com/en-us/azure/architecture/guide/>
@@ -66,6 +72,7 @@
 * Certification - Exam 70-535 - Dan Stolts 70-535 Courseware - https://github.com/guruskill/70-535
 * Certification - Microsoft Professional Program for Cloud Administration - https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/ 
 * Cloud App Security Broker <https://www.microsoft.com/en-us/cloud-platform/cloud-app-security>
+* Compute > File Data Transfer project - high speed data loader for VMs <https://www.microsoft.com/en-us/garage/profiles/fast-data-transfer/>
 * Data Center > Under the sea <https://motherboard.vice.com/en_us/article/pavq99/microsoft-project-natick-submarine-data-center> <https://www.theverge.com/2018/6/6/17433206/microsoft-underwater-data-center-project-natick> <https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/>
 * Dockit - Azure Documentation Generator ($) - https://www.azuredockit.com/pricing-buy/
 * Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
@@ -73,6 +80,7 @@
 * File Sync <https://azure.microsoft.com/en-us/blog/score-one-for-the-it-pro-azure-file-sync-is-now-generally-available/>
 * IP Ranges for Azure DataCenter - Computer, SQL, Storage and more <https://www.microsoft.com/en-us/download/confirmation.aspx?id=41653>
 * Keeping secrets in the cloud with Azure - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
+* Latency test - your location to Azure <http://www.azurespeed.com/>
 * Location Based Services > Add a Line - https://codepen.io/azuremaps/pen/qomaKv
 * Linux > Bash shell in azure cloud <https://shell.azure.com/>
 * Linux > Course - Linux Foundation - Administering Linux on Azure - https://training.linuxfoundation.org/linux-courses/system-administration-training/administering-linux-on-azure

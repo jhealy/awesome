@@ -11,6 +11,7 @@
 * Remote Debugging Azure App Services including .NET Core - https://blogs.msdn.microsoft.com/benjaminperkins/2017/06/06/remote-debug-your-azure-app-service-2017-including-asp-net-core/
 * SKU Comparison Matrix for App Service (web, api, mobile, ase) <https://blogs.msdn.microsoft.com/appserviceteam/2017/03/23/azure-app-service-web-api-mobile-ase-azure-functions-sku-comparison-matrix-2/>
 * TLS - Disable in app service - https://blogs.msdn.microsoft.com/benjaminperkins/2018/01/25/tls-on-azure-app-services/
+* VNET Integration (preview) <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet#new-vnet-integration> :: (Oct 2018 article) <https://blogs.msdn.microsoft.com/appserviceteam/2018/10/17/new-app-service-vnet-integration-feature/>
 
 # MIGRATION FROM IIS
 

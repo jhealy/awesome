@@ -1,5 +1,6 @@
 # GENERAL
 * Home - <https://www.terraform.io/>
+* awesome repo from msft open source team <https://github.com/Azure/awesome-terraform/blob/master/README.md>
 * Microsoft and Hashi expand partnership (Oct 2019)<https://azure.microsoft.com/en-us/blog/expanding-the-hashicorp-partnership/>
 * Terraform and Azure <https://azure.microsoft.com/en-us/solutions/devops/terraform/>
 

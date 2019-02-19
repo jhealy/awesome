@@ -86,3 +86,4 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 * Bot State Service retired on March 31 2018 - migration resources here - https://blog.botframework.com/2017/12/19/bot-state-service-will-soon-retired-march-31st-2018/
 * Enterprise Bot Arch / Master Child ( Feb 2018 ) - <https://blogs.msdn.microsoft.com/pragdev/2018/02/10/enterprise-bot-architecture/>
 * J.Marsman's favorite bot samples - https://blogs.msdn.microsoft.com/jennifer/2017/05/09/the-bot-framework-my-favorite-samples/ - chop me up
+* Logs - currently possible to export them but can't view them online

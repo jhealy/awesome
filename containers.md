@@ -14,6 +14,7 @@
 * Learn > Build and deploy a multi-container application in Azure Container Service - ASP.NET Core / K8S / Docker / (ebook)(march 2018) https://azure.microsoft.com/en-us/resources/build-and-deploy-a-multi-container-application-in-azure-container-service/en-us/
 * Linux containers on Windows using HyperV - https://tutorials.ubuntu.com/tutorial/tutorial-windows-ubuntu-hyperv-containers?backURL=/#0
 * Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
+* Monitor > Az Monitor for Containers <https://www.youtube.com/watch?v=RjsNmapggPU&list=PLLasX02E8BPBDxOHaJGottZuYg5afNxp7&index=3&t=150s>
 * .NET Core 2.1 on Docker <https://blogs.msdn.microsoft.com/dotnet/2018/05/07/announcing-net-core-2-1-rc-1/>
 * Red Hat container catalog - https://access.redhat.com/containers/#/registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7
 * Running 1000 Containers in Docker Swarm - https://blog.codeship.com/running-1000-containers-in-docker-swarm/

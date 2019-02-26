@@ -30,6 +30,7 @@
 
 # SAMPLES
 * CLI basics https://docs.microsoft.com/en-us/azure/batch/quick-create-cli
+* HPC Apps - Guidance and framework for running HPC apps on Azure - Batch and CycleCloud clusters <https://github.com/az-cat/az-hpcapps>
 * Parallel workload walkthrough using .net  - <https://docs.microsoft.com/en-us/azure/batch/tutorial-parallel-dotnet>
 * Portal basics - <https://docs.microsoft.com/en-us/azure/batch/quick-create-portal>
 * Samples github - <https://github.com/Azure-Samples/azure-batch-samples>

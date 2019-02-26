@@ -3,7 +3,7 @@ ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile
 
 * Azure DevOps Resources <https://docs.microsoft.com/en-us/azure/devops/>
 * Certification - not available yet <https://www.microsoft.com/en-us/learning/exam-70-538.aspx>
-* DevOps Demo Generator <https://docs.microsoft.com/en-us/azure/devops/demo-gen/use-demo-generator-v2?view=vsts>
+* DevOps Demo Geerator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
 * DevOps Hands-On-Labs <https://almvm.azurewebsites.net/>
 * VSTS Demo Generator <https://vstsdemogenerator.azurewebsites.net/>
 * Security - http://aka.ms/vsts-security
@@ -33,6 +33,8 @@ Formerly known as Visual Studio Mobile Center
 
 # LEARN
 * Azure Citadel - all kinds of goodies <https://azurecitadel.com/devops/>, <https://azurecitadel.github.io/>
+* DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
+* DevOps hands on labs - tons of labs <https://www.azuredevopslabs.com/>
 * Hands on labs <https://almvm.azurewebsites.net/>
 
 # TESTING

@@ -1,9 +1,6 @@
 # AZURE RESOURCE MANAGER ( ARM )
 
-* Non-profits center for Azure - arm templates and contoso store  plus ppts <https://github.com/Microsoft/Nonprofits>
-* Quickstart templates for ARM <https://azure.microsoft.com/en-us/resources/templates/>
-* Quickstart templates for ARM github <https://github.com/singhkays/azure-quickstart-templates>
-* Template validator <https://github.com/singhkays/azure-arm-validator>
+All the goodness I've found on Azure Resource Manager and templates.  
 
 # KEY VAULT ( AKV )
 
@@ -16,9 +13,17 @@
 
 * Azure Citadel <https://azurecitadel.com/automation/>
 
+# TEMPLATE COLLECTIONS
+
+* Master template reference on Az Docs <https://docs.microsoft.com/en-us/azure/templates/>
+* Non-profits center for Azure - arm templates and contoso store  plus ppts <https://github.com/Microsoft/Nonprofits>
+* Quickstart templates for ARM <https://azure.microsoft.com/en-us/resources/templates/>
+* Quickstart templates for ARM github <https://github.com/singhkays/azure-quickstart-templates>
+
 # TOOLS 
 
 * ARMClient Command Tool <http://blog.davidebbo.com/2015/01/azure-resource-manager-client.html>
+* Template validator <https://github.com/singhkays/azure-arm-validator>
 
 # MISC
 

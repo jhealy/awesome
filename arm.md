@@ -16,6 +16,10 @@
 
 * Azure Citadel <https://azurecitadel.com/automation/>
 
+# TOOLS 
+
+* ARMClient Command Tool <http://blog.davidebbo.com/2015/01/azure-resource-manager-client.html>
+
 # MISC
 
 * ARM errors on deploy - <https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures>

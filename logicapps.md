@@ -12,13 +12,16 @@
 * Workflow definition language - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
 
 # DEPLOY
+
 * ARM templates are the preferred method for CI/CD with Logic Apps.  <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
+* ARM Template - Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
 * ARM templates for logic apps via Az Docs template ref <https://docs.microsoft.com/en-us/azure/templates/microsoft.logic/allversions>
 * ARM templates for logic apps via Azure QuickStarts <https://github.com/singhkays/azure-quickstart-templates>
 * Deploy using ARM templates <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
 * Preparing Azure Logic Apps for CI/CD using ARM templates <https://platform.deloitte.com.au/articles/preparing-azure-logic-apps-for-cicd>
 
 # HELP
+
 * Forums - http://feedback.azure.com/forums/287593-logic-apps
 * StackOverlow - http://stackoverflow.com/questions/tagged/azure-logic-apps
 
@@ -38,8 +41,11 @@
 * VNET Integration via ISE <https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment-overview>
 * VNET - Connect to Azure virtual networks from Azure Logic apps by using an integration service enviornment (ISE) <https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment>
 
+# TOOLS
+
+* LogAppConnectionAuth - get auth link and complete auth for an OAuth connector - <https://github.com/logicappsio/LogicAppConnectionAuth>
+
 # MISC
-* ARM Template - Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
 * Build Apps Faster with Serverless - https://channel9.msdn.com/Blogs/Azure/Build-apps-faster-with-Azure-Serverless
 * B2B via Enterprise Integration Pack - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-overview
 * Calling long-running Functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>

@@ -91,6 +91,10 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Reducing Memory when App Suspended - https://docs.microsoft.com/en-us/windows/uwp/launch-resume/reduce-memory-usage
 * Working with Memory Limits and Task Priorities in the UWP - https://msdn.microsoft.com/en-us/magazine/mt742869.aspx
 
+# SAMPLES
+
+* Win10 Calculator <https://blogs.windows.com/buildingapps/2019/03/06/announcing-the-open-sourcing-of-windows-calculator/#M3zy4iLOmMXAR6Si.97>
+
 # STORAGE
 * Data Access in UWP Apps - https://blogs.windows.com/buildingapps/2016/05/03/data-access-in-universal-windows-platform-uwp-apps/
 * Data - Offline from Azure using SQLLite - https://shellmonger.com/2016/05/04/30-days-of-zumo-v2-azure-mobile-apps-day-16-offline-sync-net-edition/

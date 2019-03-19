@@ -76,4 +76,5 @@ See App Center above....
 * Team Explorer Everywhere - Eclipse and command line plugin - https://github.com/Microsoft/team-explorer-everywhere
 * TechNet Virtual Labs - https://almvm.azurewebsites.net/labs/tfs/technet/
 * TerraForm > An Intro to TerraForm <https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/>
+* Using Logic Apps to assist with DevOps <https://azure.microsoft.com/en-us/resources/videos/extending-devops-with-serverless-logic-apps/>
 * Visual Studio Mobility Center Roadmap - https://docs.microsoft.com/en-us/mobile-center/general/roadmap

@@ -2,6 +2,10 @@
 
 I'm being asked alot about Azure limits.  Soft limits, hard limits, how to increase soft limits, endpoint thresholds, et cetera.  This doc is an attempt to aggregate the various pieces that document Azure limits.  Send me more if I dont have them listed.  Note this doc is just starting out.  Enjoy...
 
+* Increase your limits <https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits>
+
+# SERVICE LIMITS
+
 * Cognitive Services - Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>
 * File - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-files-scale-targets> max file share size, max file size, more
 * File Sync - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-file-sync-scale-targets> - region limits, sync group limits, max servers, cloud endpionts, more

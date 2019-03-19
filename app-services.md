@@ -13,6 +13,9 @@
 * TLS - Disable in app service - https://blogs.msdn.microsoft.com/benjaminperkins/2018/01/25/tls-on-azure-app-services/
 * VNET Integration (preview) <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet#new-vnet-integration> :: (Oct 2018 article) <https://blogs.msdn.microsoft.com/appserviceteam/2018/10/17/new-app-service-vnet-integration-feature/>
 
+# DEVOPS
+* Az Devops for Web Apps <https://azure.microsoft.com/en-us/solutions/architecture/azure-devops-continuous-integration-and-continuous-deployment-for-azure-web-apps/>
+
 # MIGRATION FROM IIS
 
 * Tips - Migration Checklist <https://azure.microsoft.com/en-us/blog/migration-checklist-when-moving-to-azure-app-service/>

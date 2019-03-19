@@ -11,12 +11,13 @@
 * Visual Studio Tools for Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-with-visual-studio#prerequisites>
 * Workflow definition language - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
 
-# DEPLOY
+# DEVOPS
 
 * ARM templates are the preferred method for CI/CD with Logic Apps.  <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
 * ARM Template - Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
 * ARM templates for logic apps via Az Docs template ref <https://docs.microsoft.com/en-us/azure/templates/microsoft.logic/allversions>
 * ARM templates for logic apps via Azure QuickStarts <https://github.com/singhkays/azure-quickstart-templates>
+* Callback URL for Logic App in ARM <https://stackoverflow.com/questions/47012601/getting-callback-url-for-logic-app-in-arm>
 * Deploy using ARM templates <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
 * Preparing Azure Logic Apps for CI/CD using ARM templates <https://platform.deloitte.com.au/articles/preparing-azure-logic-apps-for-cicd>
 
@@ -54,4 +55,5 @@
 * Functions v Logic Apps - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
 * Lessons Learned - http://blogs.technet.com/b/meamcs/archive/2015/04/09/azure-logic-app-lessons-learned-part-1.aspx
 * On-Premise Data Gateway - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-connection
+* Using Logic Apps to assist with DevOps <https://azure.microsoft.com/en-us/resources/videos/extending-devops-with-serverless-logic-apps/>
 * XML Integration - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-eai-logic-app-using-vetr/

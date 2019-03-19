@@ -26,6 +26,7 @@
 # DEVOPS
 * Azure Devops Projects - support for AKS and WEb Apps for Containers <https://azure.microsoft.com/en-in/features/devops-projects/>
 * Containers and DevOps workshop <https://github.com/Microsoft/MCW-Containers-and-DevOps>
+* Container registry using Devops <https://about-azure.com/2019/03/08/setup-azure-devops-yaml-pipeline-to-publish-a-net-core-angular-7-docker-container-to-azure-container-registry/>
 * DevOps > Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
 
 # NODE.JS AND DOCKER

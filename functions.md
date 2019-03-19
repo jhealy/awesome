@@ -81,6 +81,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Azure Functions Samples <https://github.com/Azure/Azure-Functions/>
 * Implementing a Serverless Architecture - functions, storage, cogs, cosmosdb <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
 * License plate reader using functions and OpenALPR - <https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr>
+* MS Graph with Az Functions <https://github.com/microsoftgraph/msgraph-training-building-apps/blob/master/Lab.md#exercise-3-build-an-azure-function-using-microsoft-graph>
 * Reference Arch > ECommerce front end > <https://docs.microsoft.com/en-us/azure/architecture/example-scenario/apps/ecommerce-scenario>
 
 # SECURITY

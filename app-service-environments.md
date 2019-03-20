@@ -18,5 +18,10 @@
 # DEVOPS
 * Create an ASE v2 using Powershell <https://azure.microsoft.com/en-us/resources/templates/201-web-app-asev2-create/>
 
+# LOGIC APPS
+
+* Logic Apps in an ASE <https://feedback.azure.com/forums/287593-logic-apps/suggestions/15105741-is-it-possible-to-deploy-logic-app-to-app-service>
+* How to provision logic apps in an ASE <http://www.bizbert.com/bizbert/2016/01/07/AppServiceEnvironmentsHowToDeployAPIAppsToAVirtualNetwork.aspx>
+
 # SECURITY
 * Securing Traffic to ASE using Network Security Groups <https://docs.microsoft.com/en-us/azure/app-service/environment/app-service-app-service-environment-web-application-firewall#securing-traffic-to-app-service-environment-using-network-security-groups-nsg>

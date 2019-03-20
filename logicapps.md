@@ -37,10 +37,12 @@
 * Pre-built templates - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-logic-apps-from-templates
 
 # SECURITY
+* Logic Apps in an ASE <https://feedback.azure.com/forums/287593-logic-apps/suggestions/15105741-is-it-possible-to-deploy-logic-app-to-app-service>
 * Securing Access to Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app>
 * Securing Logic Apps via ASE and API Management (vnet equiv) <http://www.bizbert.com/bizbert/2016/01/07/AppServiceEnvironmentsHowToDeployAPIAppsToAVirtualNetwork.aspx>
 * VNET Integration via ISE <https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment-overview>
 * VNET - Connect to Azure virtual networks from Azure Logic apps by using an integration service enviornment (ISE) <https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment>
+
 
 # TOOLS
 
@@ -57,3 +59,4 @@
 * On-Premise Data Gateway - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-connection
 * Using Logic Apps to assist with DevOps <https://azure.microsoft.com/en-us/resources/videos/extending-devops-with-serverless-logic-apps/>
 * XML Integration - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-eai-logic-app-using-vetr/
+

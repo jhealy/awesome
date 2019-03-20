@@ -38,8 +38,9 @@
 * App Services in VNET - includes functions <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
 * App Services in ASE - includes functions <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>
 
-# MISC
+# WEB APPS
 
+* Value points for Web Apps (v Pivotal) <https://seroter.wordpress.com/2019/02/08/eight-things-your-existing-asp-net-apps-should-get-for-free-from-a-good-platform>
 * Web apps and hybrid connections - best practices <https://blogs.msdn.microsoft.com/waws/2017/06/30/things-you-should-know-web-apps-and-hybrid-connections/>
 
 SEE ALSO Azure App Service Environments - <https://github.com/jhealy/awesome/blob/master/azure-ase.md>

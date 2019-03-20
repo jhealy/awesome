@@ -6,6 +6,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 
 # SERVICE LIMITS
 
+* App Insights <https://docs.microsoft.com/en-us/azure/azure-monitor/app/pricing#limits-summary>
 * Cognitive Services - Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>
 * File - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-files-scale-targets> max file share size, max file size, more
 * File Sync - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-file-sync-scale-targets> - region limits, sync group limits, max servers, cloud endpionts, more

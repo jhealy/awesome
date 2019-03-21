@@ -25,6 +25,10 @@
 * LearnAI > Knowledge Mining Bootcamp <https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/>
 * Search Tutorial (C#) <https://docs.microsoft.com/en-us/azure/search/search-query-dotnet>
 
+# DEVOPS
+
+* [deprecated - template tool gone] How to provision Azure Search service with PowerShell <https://dzimchuk.net/how-to-provision-azure-search-service-with-powershell/> 
+
 # SHOWCASE
 
 * JFK Files <https://github.com/Microsoft/AzureSearch_JFK_Files>

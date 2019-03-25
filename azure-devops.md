@@ -11,4 +11,5 @@ Sept 2018, the product formerly known as Visual Studio Team Services (VSTS) is n
 
 * Backup - DevOps can restore to any point in time in the past month
 * Container registry using Devops <https://about-azure.com/2019/03/08/setup-azure-devops-yaml-pipeline-to-publish-a-net-core-angular-7-docker-container-to-azure-container-registry/>
+* ExpressRoute and Az Devops <https://devblogs.microsoft.com/devops/expressroute-for-azure-devops/>
 * .NET CORE > Create a build pipeline for Angular and ASP.NET Core apps with Visual Studio Team Services <https://offering.solutions/blog/articles/2018/03/08/create-build-pipeline-for-angular-and-aspnetcore-app-with-visual-studio-team-services/>

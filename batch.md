@@ -17,6 +17,10 @@
 * Quotas and limits - <https://docs.microsoft.com/en-us/azure/batch/batch-quota-limit>
 * Shipyard for docker - <https://github.com/Azure/batch-shipyard/>
 
+# LEARN
+
+* Parallel with the Batch Explorer tool.  Also a good general intro to batch.  <https://github.com/tojozefi/azurebatch/tree/master/customcode>  
+
 # MONITOR
 * Metrics, alerts and logs for diagnostic evaluation and monitoring - <https://docs.microsoft.com/en-us/azure/batch/batch-diagnostics>
 * Monitor with Application Insights <https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights>

@@ -22,6 +22,7 @@ Formerly known as Visual Studio Mobile Center
 * DevOps and Jenkins - https://almvm.azurewebsites.net/labs/vstsextend/jenkins/ will get you the Devops+Jenkins pieces.  
 * VSTS extension for DevTest labs -https://docs.microsoft.com/en-us/azure/devtest-lab/devtest-lab-integrate-ci-cd-vsts 
 
+
 # FLUENT MANAGEMENT API
 * Azure Libraries for .NET <https://github.com/Azure/azure-libraries-for-net/graphs/contributors>
 * Overview (2016) <https://cmatskas.com/the-new-azure-management-fluent-api-is-has-landed/>

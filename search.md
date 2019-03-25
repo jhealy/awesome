@@ -1,4 +1,5 @@
 # AZURE SEARCH / COGNITIVE SEARCH
+
 * ***Overview*** <https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search>
 * Azure Search versus Full Text SQL Search - <https://docs.microsoft.com/en-us/azure/search/search-faq-frequently-asked-questions> 
 * Blog <https://azure.microsoft.com/blog/tag/azure-search>
@@ -19,6 +20,7 @@
 
 # LEARN
 
+* Building an Enterprise Cognitive Search Solution (outdated as of Jan 01 2019) <https://azure.github.io/LearnAI-Cognitive-Search/>, now recommend Knowledge Mining Bootcamp <https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp>
 * Create a search service <https://docs.microsoft.com/en-us/azure/search/search-create-service-portal>
 * Deep dive circa 2014 <https://channel9.msdn.com/Events/TechEd/Europe/2014/DBI-B410>
 * Index Azure blobs <https://docs.microsoft.com/en-us/azure/search/search-semi-structured-data>
@@ -31,7 +33,7 @@
 
 # SHOWCASE
 
-* JFK Files <https://github.com/Microsoft/AzureSearch_JFK_Files>
+* JFK Files - Source <https://github.com/Microsoft/AzureSearch_JFK_Files>
 * Wolters Kluwer <http://wolterskluwereap.azurewebsites.net/>
 
 # VOLUME

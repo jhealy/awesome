@@ -1,4 +1,5 @@
 # GENERAL
+
 * **Doc** home <https://docs.microsoft.com/en-us/azure/azure-functions/>
 * Announcements aka broke things and how to fix.  Got issues check here <https://github.com/Azure/app-service-announcements/>
 * Availability of functions - watch out for Euro <https://azure.microsoft.com/en-us/global-infrastructure/services/>
@@ -16,12 +17,14 @@
 * Wiki - has variety of topics including samples and content - https://github.com/Azure/Azure-Functions/wiki
 
 # CANCELLATION TOKENS
+
 * Correct use of cancellation token <https://stackoverflow.com/questions/36173674/correct-use-of-cancellationtoken>
 * Handling timeouts in Azure Functions <https://blogs.msdn.microsoft.com/benjaminperkins/2018/06/12/how-i-would-handle-a-timeout-in-azure-function/>
 * Recommended pattern for a cancellation token <https://blogs.msdn.microsoft.com/andrewarnottms/2014/03/19/recommended-patterns-for-cancellationtoken/>
 * Usage example <https://stackoverflow.com/questions/45746876/cancellationtoken-doesnt-get-triggered-in-the-azure-functions>
 
 # CONTACT
+
 * Feedback - https://feedback.azure.com/forums/355860-azure-functions/filters/top
 * Github - https://github.com/Azure/Azure-Functions
 * Twitter - https://twitter.com/azurefunctions
@@ -30,11 +33,13 @@
 * YouTube - <https://www.youtube.com/AzureFunctions>
 
 # ARM TEMPLATES
+
 * Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
 * Function and Web apps <https://github.com/davidebbo/AzureWebsitesSamples/tree/master/ARMTemplates>
 * Race condition due to param ordering <https://blogs.msdn.microsoft.com/hosamshobak/2016/05/26/arm-template-msdeploy-race-condition-issue/>
 
 # COSMOSDB AND AZURE FUNCTIONS
+
 * Azure Cosmos DB: Serverless database computing using Azure Functions <https://docs.microsoft.com/en-us/azure/cosmos-db/serverless-computing-database>
 * Bindings and Triggers for Functions 1.x <https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb>
 * Bindings and Triggers for Functions 2.x <https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2>
@@ -45,12 +50,14 @@
 SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.md>
 
 # DEVOPS
+
 * Azure Functions Continuos deployment with Azure Pipelines - <http://dontcodetired.com/blog/?tag=funcpipeseries>
 * Deploying functions with ARM templates <https://blog.kloud.com.au/2018/08/16/deploying-azure-functions-with-arm-templates/>
 * Serverless, DevOps, and CI/CD: Part1 -<https://medium.com/microsoftazure/serverless-devops-and-ci-cd-part-1-f76f0357cba4>, Part2 <https://medium.com/microsoftazure/serverless-devops-and-ci-cd-part-2-b6e0a6d05530>
 * WebDeploy json <https://github.com/davidebbo/AzureWebsitesSamples/blob/master/ARMTemplates/FunctionsWebDeploy.json>
 
 # DURABLE FUNCTIONS
+
 * Calling long running functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>
 * Container - Run a durable function in a container <https://carlos.mendible.com/2018/01/14/run-a-durable-azure-function-in-a-container/>
 * Doc <https://github.com/Azure/azure-functions-durable-extension>
@@ -68,14 +75,21 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Comparing messaging services <https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services>
 * Reliable Event Processing in Azure Functions - <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
 
+# POWERSHELL
+
+* Instal PS into Azure Function hack 1.x experimental <https://stackoverflow.com/questions/37724769/how-to-install-a-powershell-module-in-an-azure-function>
+* Powershell on v2 status <https://github.com/Azure/azure-functions-powershell-worker>
+* Status dialog <https://github.com/Azure/Azure-Functions/issues/585>
 
 # MONITORING
+
 * Application insights - Add to existing function - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#enable-application-insights-integration>
 * Logging <https://docs.microsoft.com/en-us/sandbox/functions-recipes/functions-basics>
 * Monitor Azure Functions <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring>
 * Sampling configuration <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#configure-sampling>
 
 # SAMPLES
+
 * Approval Workflow with SendGrid - Durable Functions Pattern - <https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid>
 * Azure Functions Recipes <https://docs.microsoft.com/en-us/sandbox/functions-recipes/>
 * Azure Functions Samples <https://github.com/Azure/Azure-Functions/>
@@ -85,17 +99,20 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Reference Arch > ECommerce front end > <https://docs.microsoft.com/en-us/azure/architecture/example-scenario/apps/ecommerce-scenario>
 
 # SECURITY
+
 * Announcing General Availability and Sovereign Cloud Support of Managed Service Identity for App Service and Azure Functions <https://blogs.msdn.microsoft.com/appserviceteam/2018/06/26/announcing-general-availability-and-sovereign-cloud-support-of-managed-service-identity-for-app-service-and-azure-functions/>
 * Authenticate and authorize users end to end in Azure App Services <https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-auth-aad>
 * Azure Function into a VNET <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
 * Security in Azure App Service and Azure Functions <https://docs.microsoft.com/en-us/azure/app-service/app-service-security>
 
 # SERVICE FABRIC V AZURE FUNCTIONS
+
 * (pro-functions)<http://www.juharistolainen.com/post/2017-04-20-azure-functions/>
 * (pro-service fabric)<https://social.msdn.microsoft.com/Forums/en-US/cca1d59c-d6b9-402f-92ba-e7a55d5834e6/service-fabric-vs-azure-functions>
 * so <https://stackoverflow.com/questions/46543519/service-fabric-actors-or-azure-functions/52206220#52206220>
 
 # UNIT TESTING
+
 * <https://github.com/jeffhollan/functions-test-helper>
 * <https://github.com/Azure/azure-functions-durable-extension/tree/master/test>
 * <https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-unit-testing>
@@ -108,6 +125,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 
 # MISC
+
 * AWS Lambda versus Functions - https://serifandsemaphore.io/azure-cloud-functions-vs-aws-lambda-caf8a90605dd
 * Azure Functions vs AWS Lambda Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-scaling-face-off/
 * Azure Functions vs AWS Lambda vs Google Cloud Functions - Javascript Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-vs-google-cloud-functions-javascript-scaling-face-off/
@@ -130,7 +148,6 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * PowerApps -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
-* Powershell > <https://stackoverflow.com/questions/37724769/how-to-install-a-powershell-module-in-an-azure-function>
 * Proxies - act like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * Python - v1 is experimental and not supporte.  v2 Preview is here <https://github.com/Azure/azure-functions-python-worker>. Python GA is not committed for H1 CY2019.
 * Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition

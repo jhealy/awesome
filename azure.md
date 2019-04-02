@@ -14,6 +14,7 @@
 * Security - Azure Trust Center - https://www.microsoft.com/en-us/trustcenter/privacy/you-own-your-data
 * Security - Network Security - https://docs.microsoft.com/en-us/azure/security/azure-network-security
 * Services - all up <https://azure.microsoft.com/en-us/services/>
+* Services - all up - map <https://nnmer.github.io/azure-services-map/dist/>
 * Updates - heat map across all updates <https://aka.ms/azheatmap >
 
 # ARCHITECTURE

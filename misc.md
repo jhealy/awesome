@@ -22,17 +22,13 @@ Held here until enough volume to be posted elsewhere....
 * NCache - commercially supported cache solution for Windows - http://www.alachisoft.com/ncache/
 * Redis on Windows oppen source - https://github.com/MicrosoftArchive/redis
 
-
 # DEEP LEARNING
 * Coursera - Deep Learning Specialization - https://www.coursera.org/specializations/deep-learning
 * Deep Learning Explained - https://www.edx.org/course/deep-learning-explained-microsoft-dat236x
 * Practical Deep Learning For Coders - http://course.fast.ai/
 
-
 # DEVOPS
 * Team Foundation Server to Visual Studio Team Services Migration Guide and Database Import Tooling - https://www.microsoft.com/en-us/download/details.aspx?id=54274
-
-
 
 # IIS
 * Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
@@ -52,6 +48,7 @@ Held here until enough volume to be posted elsewhere....
 * VS2015+ Test Tools - getting started - https://blogs.msdn.microsoft.com/visualstudioalm/2015/12/10/visual-studio-2015-test-tools-getting-started-content/
 
 # MISC
+
 * .NET > Diagnostics > How to enable debug tracing for System.Net.Mail API - https://blogs.msdn.microsoft.com/deva/2017/06/02/debugging-how-to-enable-debug-tracing-for-system-net-mail-api/
 * .NET > Diagnostics > Name of current method - https://stackoverflow.com/questions/2652460/how-to-get-the-name-of-the-current-method-from-code
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
@@ -68,6 +65,7 @@ Held here until enough volume to be posted elsewhere....
 * C++ Blog - https://blogs.msdn.microsoft.com/vcblog/
 * Data Science - Microsoft Professional Program for Data Science - https://academy.microsoft.com/en-us/professional-program/tracks/data-science/
 * Design > Data Viz Project - inspiration - http://datavizproject.com/
+* Design > SAP's UX Center <https://experience.sap.com/>
 * Design > Top Ten Usability Heuristics - https://www.nngroup.com/articles/ten-usability-heuristics/
 * Design > What the font - Shazam for fonts - http://www.myfonts.com/WhatTheFont/mobile/
 * Design > Wireframing using PowerPoint - <https://docs.microsoft.com/en-us/vsts/work/backlogs/office/storyboard-your-ideas-using-powerpoint?view=vsts>

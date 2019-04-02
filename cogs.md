@@ -1,4 +1,6 @@
 # COGNITIVE SERVICES ( COGS )
+
+* AI Reference Architectures - <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/>
 * AI Show on Ch9 <https://channel9.msdn.com/Shows/AI-Show/>
 * Predicting Expenses Types from Receipts with COGS and ML - https://www.microsoft.com/developerblog/2017/01/01/predicting-expense-type-from-receipts-with-microsoft-cognitive-services/
 * build and teach conversational interfaces that learn from example interactions -  <https://labs.cognitive.microsoft.com/en-us/project-conversation-learner>
@@ -8,3 +10,9 @@
 * Speech > Speech to Text WebSockets Sample (js) - <https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript>
 * Vision > Implementing a Serverless Architecture - functions, storage, cogs, cosmos <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
 * Vision > Taxonomy Categories <https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/category-taxonomy>
+
+## CONTENT MODERATION
+
+* <https://docs.microsoft.com/en-us/azure/cognitive-services/content-moderator/ecommerce-retail-catalog-moderation>
+* <https://docs.microsoft.com/en-us/azure/cognitive-services/content-moderator/video-transcript-moderation-review-tutorial-dotnet>
+* <https://github.com/Azure-Samples/customer-car-reviews>

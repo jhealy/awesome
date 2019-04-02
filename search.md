@@ -6,6 +6,7 @@
 * Docs <http://Azure.microsoft.com/documentation/services/search>
 * Doc buster details <https://docs.microsoft.com/en-us/azure/search/search-howto-indexing-azure-blob-storage>
 * Forum <https://ssocial.msdn.microsoft.com/Forums/azure/Home?forum=azuresearch>
+* ***Front End*** for search <https://github.com/LuisCabrer/CognitiveSearchFrontEnd>
 * Full text <https://docs.microsoft.com/en-us/azure/search/search-lucene-query-architecture >
 * Indexing > Blob <https://docs.microsoft.com/en-us/azure/search/search-howto-indexing-azure-blob-storage>
 * Indexing > SQL <https://docs.microsoft.com/en-us/azure/search/search-howto-connecting-azure-sql-database-to-azure-search-using-indexers>

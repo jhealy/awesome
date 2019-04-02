@@ -9,6 +9,7 @@
 * Use code analyzers in C# to improve code quality - https://codehollow.com/2016/08/use-code-analyzers-csharp-improve-code-quality/
 
 # ANALYZERS 
+* API Analyzer - checks for deprecated APIs in port to .NET Core <https://visualstudiomagazine.com/articles/2017/11/07/api-analyzer.aspx>
 * Built into Visual Studio - https://blogs.msdn.microsoft.com/secdevblog/2016/03/30/roslyn-diagnostics-security-analyzers-overview/
 * Roslyn Analyzer Essentials - libs to supplement the built in ones - core sets - https://github.com/dotnet/roslyn-analyzers
 * Top 20 Analyzers - http://nugetmusthaves.com/Tag/analyzers

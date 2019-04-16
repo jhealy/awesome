@@ -1,4 +1,5 @@
- # GENERAL
+# GENERAL
+
 * Case studies - https://customers.microsoft.com/en-us/search?sq=%22Azure%20Logic%20Apps%20%22&ff=&p=1&so=story_publish_date%20desc
 * Compare Flow, Logic Apps, Functions, and WebJobs <https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs>
 * Connectors List - <https://docs.microsoft.com/en-us/azure/connectors/apis-list>
@@ -11,7 +12,7 @@
 * Visual Studio Tools for Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-with-visual-studio#prerequisites>
 * Workflow definition language - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
 
-# DEVOPS
+## DEVOPS
 
 * ARM templates are the preferred method for CI/CD with Logic Apps.  <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
 * ARM Template - Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
@@ -21,34 +22,38 @@
 * Deploy using ARM templates <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
 * Preparing Azure Logic Apps for CI/CD using ARM templates <https://platform.deloitte.com.au/articles/preparing-azure-logic-apps-for-cicd>
 
-# HELP
+## HELP
 
 * Forums - http://feedback.azure.com/forums/287593-logic-apps
 * StackOverlow - http://stackoverflow.com/questions/tagged/azure-logic-apps
 
-# LEARN
+## LEARN
+
 * Build advaned business logic apps using Azure Logic Apps [Ignite Oct 2017] - https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3179
 * Build your first logic app - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-a-logic-app/
 * Introducing Azure Logic Apps - https://www.youtube.com/watch?v=ksU5OCf3cn0
 * Go from Zero to Hero with Logic Apps [June 2017] - https://channel9.msdn.com/Events/Build/2017/C9R17
 
-# SAMPLES
+## SAMPLES
+
 * Microsoft Samples - https://github.com/logicappsio
 * Pre-built templates - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-logic-apps-from-templates
 
-# SECURITY
-* Logic Apps in an ASE <https://feedback.azure.com/forums/287593-logic-apps/suggestions/15105741-is-it-possible-to-deploy-logic-app-to-app-service>
+## SECURITY
+
+* ASE and logic apps <https://feedback.azure.com/forums/287593-logic-apps/suggestions/15105741-is-it-possible-to-deploy-logic-app-to-app-service>
+* IP addresses - restricting inbound <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app#restrict-incoming-ip-addresses>
 * Securing Access to Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app>
 * Securing Logic Apps via ASE and API Management (vnet equiv) <http://www.bizbert.com/bizbert/2016/01/07/AppServiceEnvironmentsHowToDeployAPIAppsToAVirtualNetwork.aspx>
 * VNET Integration via ISE <https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment-overview>
 * VNET - Connect to Azure virtual networks from Azure Logic apps by using an integration service enviornment (ISE) <https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment>
 
-
-# TOOLS
+## TOOLS
 
 * LogAppConnectionAuth - get auth link and complete auth for an OAuth connector - <https://github.com/logicappsio/LogicAppConnectionAuth>
 
-# MISC
+## MISC
+
 * Build Apps Faster with Serverless - https://channel9.msdn.com/Blogs/Azure/Build-apps-faster-with-Azure-Serverless
 * B2B via Enterprise Integration Pack - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-overview
 * Calling long-running Functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>

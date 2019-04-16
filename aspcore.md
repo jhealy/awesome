@@ -1,4 +1,5 @@
 # ASP.NET CORE
+
 * API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - try webhook v dbdataadapter on .NET Standard 2.0
 * Choosing between .NET Coe and .NET Framework for server apps <https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server>
 * Docs - https://docs.microsoft.com/en-us/aspnet/core/
@@ -13,22 +14,26 @@
 * Using memory cache in ASP.NET Core - alternative to ObjectCache - local and distributed - http://gunnarpeipman.com/2017/04/aspnet-core-memory-cache/
 * .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
 
-# BLOGS AND WEBSITES
+## BLOGS AND WEBSITES
+
 * Gunnar Peipman - http://gunnarpeipman.com/aspnet/
 
-# CONTAINERS
+## CONTAINERS
+
 * .NET Microservices for containerized .net applications <https://blogs.msdn.microsoft.com/cesardelatorre/2017/05/10/free-ebookguide-on-net-microservices-architecture-for-containerized-net-applications/>
 * github repo .NET Microservices for Containerized .NET Apps <https://github.com/dotnet-architecture/eShopOnContainers>
 * EBook - .NET Core Framework Containers <https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/net-core-net-framework-containers/>
 * Ebook - .NET Core Framework Containers - Container Scenarios Chapter <https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/net-core-net-framework-containers/net-core-container-scenarios>
 
+## LEARN
 
-# LEARN
 * Build and deploy a multi-container application in Azure Container Service - ASP.NET Core / K8S / Docker / (ebook)(march 2018) https://azure.microsoft.com/en-us/resources/build-and-deploy-a-multi-container-application-in-azure-container-service/en-us/
+* LearnRazorPages - https://www.learnrazorpages.com
 * MVA - ASP.NET CORE Learning Path - https://mva.microsoft.com/learning-path/asp-net-core-6
 * Workshop - from Shayne Boyer and krew - teach you ASP.NET Core by building a complete conference management website from scratch - https://github.com/dotnet-presentations/aspnetcore-app-workshop - updates: https://tattoocoder.com/aspnetcore-workshop-update/
 
-# PERFORMANCE
+## PERFORMANCE
+
 * Bing runs on .NET Core 2.1 / MVC Razor - performance gains noted <https://blogs.msdn.microsoft.com/dotnet/2018/08/20/bing-com-runs-on-net-core-2-1/>
 * .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 * Managed runtime performance comparisons - http://anthonylloyd.github.io/blog/2017/12/30/dotnetcore-performance-part2
@@ -37,25 +42,30 @@
 *  Iris go versus .NET Core Kestrel in terms of performance (August 2017) - https://hackernoon.com/iris-go-vs-net-core-kestrel-in-terms-of-http-performance-806195dc93d5
 * TechEmpower Plaintext benchmark - https://www.techempower.com/benchmarks/#section=data-r15&hw=ph&test=plaintext
 
-# RAZOR
+## RAZOR
+
 * MSDN Mag - Quick intro to Razor (Sept 2017) <https://msdn.microsoft.com/en-us/magazine/mt842512>
 * Creating Razor Pages - https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/
 * Intro to Razor Pages - https://docs.microsoft.com/en-us/aspnet/core/mvc/razor-pages/index?tabs=visual-studio
 * MapPath equiv in Razor <https://stackoverflow.com/questions/47893477/how-do-you-map-path-in-razor-for-net-core-2-0-mvc>
 * Routing primer (tutorial missing layout pages, watchout) <https://tahirnaushad.com/2017/08/20/asp-net-core-mvc-routing/>, github <https://github.com/TahirNaushad/Fiver.Mvc.RazorPages/tree/master/Fiver.Mvc.RazorPages/Pages/Movies>
+* Startup class in Razor - https://www.learnrazorpages.com/startup
 * Quick Tutorial <https://tahirnaushad.com/2017/08/29/asp-net-core-2-0-razor-pages/>
 
-# SAMPLES
+## SAMPLES
+
 * ASP .NET Doc Samples - must have! - https://github.com/aspnet/Docs
 * DodyG - 100+ samples for aspcore fundamentals - https://github.com/dodyg/practical-aspnetcore/
 * Music Store - https://github.com/aspnet/MusicStore
 
-# WebSocket
+## WebSocket
+
 * Edge Developer Guide - WebSocket call (javascript client side) - https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/networking-and-connectivity/websocket
 * Server side socket in core - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets
 * Server side socket sample - https://github.com/aspnet/Docs/tree/master/aspnetcore/fundamentals/websockets/sample
 
-# MISC
+## MISC
+
 * Auth - Google Auth with ASP.NET Core - http://ruimourato.com/2016/02/12/using-google-auth-middleware-aspnetcore.html
 * Case Study > Bing runs on .NET Core 2.1 / MVC Razor <https://blogs.msdn.microsoft.com/dotnet/2018/08/20/bing-com-runs-on-net-core-2-1/>
 * Case Study > Stack overflow moving to .NET Core <https://twitter.com/Nick_Craver/status/1031858480888639488>
@@ -75,6 +85,7 @@
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
 * MVC compared to Razor - <https://jonhilton.net/razor-pages-or-mvc-a-quick-comparison/>
 * React and ASP.NET Core - https://blogs.msdn.microsoft.com/whereismysolution/2018/01/23/some-cool-stuff-around-asp-net-core-2-0-and-reactjs/
+* Secrets - Configuration by environment <https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/index?tabs=basicconfiguration&view=aspnetcore-2.2&viewFallbackFrom=aspnetcore-2.0>
 * SignalR > ASP.NET Core 2.0 Announced - Sept 2017 - https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/
 * SignalR > Roadmap - part of ASP .NET Core - https://github.com/aspnet/Home/wiki/Roadmap
 * SignalR > Future of (Sept 17 2018) - includes SignalR Service <https://blogs.msdn.microsoft.com/webdev/2018/09/17/the-future-of-asp-net-signalr/>

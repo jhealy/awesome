@@ -8,8 +8,13 @@
 * OCR and Handwritten sections using Computer Vision and Azure COGS <https://www.microsoft.com/developerblog/2018/05/07/handwriting-detection-and-recognition-in-scanned-documents-using-azure-ml-package-computer-vision-azure-cognitive-services-ocr/>
 * Speech > Custom language model <https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-customize-language-model>
 * Speech > Speech to Text WebSockets Sample (js) - <https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript>
+* Unified Key (jan 2019) https://azure.microsoft.com/en-us/blog/cognitive-services-certifications-and-availability/
 * Vision > Implementing a Serverless Architecture - functions, storage, cogs, cosmos <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
 * Vision > Taxonomy Categories <https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/category-taxonomy>
+
+## CONTAINERIZED COGNITIVE SERVICES
+
+* Translate - supposed to be coming circa Dec 2018 ( https://aka.ms/csrmap )
 
 ## CONTENT MODERATION
 

@@ -7,14 +7,21 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 ## SERVICE LIMITS
 
 * App Insights <https://docs.microsoft.com/en-us/azure/azure-monitor/app/pricing#limits-summary>
+* API Management Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
+*API Management Limits and known issues - <https://docs.microsoft.com/en-us/azure/api-management/api-management-api-import-restrictions>
 * Cognitive Services - Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>
 * File - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-files-scale-targets> max file share size, max file size, more
 * File Sync - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-file-sync-scale-targets> - region limits, sync group limits, max servers, cloud endpionts, more
 * Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config> actions pe rworkflow, workflows per region, runduration, storage retention, IP addresses
-* SignalR - Pricing doc - connections in free v standard, messages per day, max units <https://azure.microsoft.com/en-us/pricing/details/signalr-service/>
-* SignalR - service limits <https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#azure-signalr-service-limits>
 * Storage - see storage section below
 * Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>
+
+## SIGNALR
+
+* Connections <https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-concept-messages-and-connections#how-connections-are-counted>
+* Pricing doc - connections in free v standard, messages per day, max units <https://azure.microsoft.com/en-us/pricing/details/signalr-service/>
+* Service limits <https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#azure-signalr-service-limits>
+* Message Size <https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery>
 
 ## STORAGE
 

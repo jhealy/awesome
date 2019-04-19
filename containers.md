@@ -37,31 +37,39 @@
 * OFFICIAL node.js docker image for Windows - https://github.com/nodejs/docker-node/pull/362
 * Stefan Scherer's Windows node containers - Server Core and NanoServer - https://hub.docker.com/r/stefanscherer/node-windows/
 
-# Docker cheat sheet (some basic commands)
-## List Docker CLI commands
+## Docker cheat sheet (some basic commands)
+###List Docker CLI commands
 docker
 docker container --help
 
-## Display Docker version and info
+### Display Docker version and info
 docker --version
 docker version
 docker info
 
-## Execute Docker image
+### Execute Docker image
 docker run hello-world
 
-## List Docker images
+### List Docker images
 docker image ls
 
-## List Docker containers (running, all, all in quiet mode)
+### List Docker containers (running, all, all in quiet mode)
 docker container ls
 docker container ls --all
 docker container ls -aq
 
-# SECURITY
+## SECURITY
+
 * Endpoint security for Windows containers <https://success.docker.com/article/endpoint-security-for-windows-containers>
 * McAfee doesn't play well with docker <https://kc.mcafee.com/corporate/index?page=content&id=KB90041&actp=null&viewlocale=en_US&showDraft=false&platinum_status=false&locale=en_US>
 
-# WINDOWS CONTAINERS
+## WINDOWS CONTAINERS
+
 * New Windows Container Image 2018-June <https://www.thomasmaurer.ch/2018/06/new-windows-container-image/>
 * Docker container images for Windows 1709 and new tagging <https://www.thomasmaurer.ch/2017/10/docker-container-images-for-windows-server-1709-and-new-tagging/>
+
+## MISC
+
+* Selenium containers - https://robotninja.com/blog/introduction-using-selenium-docker-containers-end-end-testing/
+* Selenium inside a docker container - http://www.testautomationguru.com/selenium-webdriver-how-to-run-automated-tests-inside-a-docker-container/
+* Selenium on Windows Docker - https://medium.com/@aandryashin/selenium-on-windows-docker-revolution-f5a7eab205ad

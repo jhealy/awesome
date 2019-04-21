@@ -1,66 +1,23 @@
 # CONTAINERS 
 * Active Directory service accounts with Containers - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/manage-serviceaccounts
-* Azure Batch and Docker Containers Lab - vscode, ci builds, azure container registry hooks, and azure app service - https://github.com/AdamPaternostro/Azure-Docker-Shipyard 
 * Azure Cloud Service > Build and deploy node.js to Azure Cloud Service - <https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-nodejs-develop-deploy-app>
 * Azure Container Registry > Private repo for images <https://azure.microsoft.com/en-us/services/container-registry/>
 * Azure Container Registry > Container registry comparison <https://searchcloudcomputing.techtarget.com/tip/Compare-cloud-container-registries-from-AWS-Azure-and-Google?src=devfish>
 * Azure Container Registry > Steve Lasker's materials collection <https://github.com/SteveLasker/Presentations/tree/master/ACR>
-* Docker and .NET > https://www.hanselman.com/blog/NETAndDocker.aspx
-* Enabling Integrated Windows Authentication in Windows Docker Container - https://artisticcheese.wordpress.com/2017/09/09/enabling-integrated-windows-authentication-in-windows-docker-container/
-* IIS - Convert ASP.NET Web Servers to Docker with Image2Docker - https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/
-* IIS Docker Image - https://hub.docker.com/r/microsoft/iis/
-* IIS Docker Image and https - https://github.com/Microsoft/iis-docker/issues/30
-* Kubernetes versus docker <https://rancher.com/blog/2018/2018-10-09-kubernetes-versus-docker/>
 * Learn > Build and deploy a multi-container application in Azure Container Service - ASP.NET Core / K8S / Docker / (ebook)(march 2018) https://azure.microsoft.com/en-us/resources/build-and-deploy-a-multi-container-application-in-azure-container-service/en-us/
 * Linux containers on Windows using HyperV - https://tutorials.ubuntu.com/tutorial/tutorial-windows-ubuntu-hyperv-containers?backURL=/#0
-* Mashup : SQL Server on Linux in Docker on a Mac with VS Code - http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
+mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Monitor > Az Monitor for Containers <https://www.youtube.com/watch?v=RjsNmapggPU&list=PLLasX02E8BPBDxOHaJGottZuYg5afNxp7&index=3&t=150s>
 * .NET Core 2.1 on Docker <https://blogs.msdn.microsoft.com/dotnet/2018/05/07/announcing-net-core-2-1-rc-1/>
 * Red Hat container catalog - https://access.redhat.com/containers/#/registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7
-* Running 1000 Containers in Docker Swarm - https://blog.codeship.com/running-1000-containers-in-docker-swarm/
 * Using Windows Auth in ASP.NET Core via http.sys in containers - https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/
 
-# DOCKERIZATION TOOLS
-* Image2Docker <https://github.com/docker/communitytools-image2docker-win>
 
 # DEVOPS
 * Azure Devops Projects - support for AKS and WEb Apps for Containers <https://azure.microsoft.com/en-in/features/devops-projects/>
 * Containers and DevOps workshop <https://github.com/Microsoft/MCW-Containers-and-DevOps>
 * Container registry using Devops <https://about-azure.com/2019/03/08/setup-azure-devops-yaml-pipeline-to-publish-a-net-core-angular-7-docker-container-to-azure-container-registry/>
 * DevOps > Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
-
-## LEARN
-
-* Exploring Docker for Windows - Michael Crump - https://www.michaelcrump.net/part1-docker/
-
-# NODE.JS AND DOCKER
-* Debugging Docker node.js on a mac - https://blog.docker.com/2016/07/live-debugging-docker/
-* Deploying Node to Docker on Azure - https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-Node-to-Docker-on-Azure
-* Nano + Node docker image - https://github.com/a11smiles/docker-nano-nodejs/blob/master/README.md
-* OFFICIAL node.js docker image - https://github.com/nodejs/docker-node/blob/master/README.md
-* OFFICIAL node.js docker image for Windows - https://github.com/nodejs/docker-node/pull/362
-* Stefan Scherer's Windows node containers - Server Core and NanoServer - https://hub.docker.com/r/stefanscherer/node-windows/
-
-## Docker cheat sheet (some basic commands)
-###List Docker CLI commands
-docker
-docker container --help
-
-### Display Docker version and info
-docker --version
-docker version
-docker info
-
-### Execute Docker image
-docker run hello-world
-
-### List Docker images
-docker image ls
-
-### List Docker containers (running, all, all in quiet mode)
-docker container ls
-docker container ls --all
-docker container ls -aq
 
 ## SECURITY
 
@@ -70,10 +27,13 @@ docker container ls -aq
 ## WINDOWS CONTAINERS
 
 * New Windows Container Image 2018-June <https://www.thomasmaurer.ch/2018/06/new-windows-container-image/>
-* Docker container images for Windows 1709 and new tagging <https://www.thomasmaurer.ch/2017/10/docker-container-images-for-windows-server-1709-and-new-tagging/>
 
 ## MISC
 
 * Selenium containers - https://robotninja.com/blog/introduction-using-selenium-docker-containers-end-end-testing/
 * Selenium inside a docker container - http://www.testautomationguru.com/selenium-webdriver-how-to-run-automated-tests-inside-a-docker-container/
 * Selenium on Windows Docker - https://medium.com/@aandryashin/selenium-on-windows-docker-revolution-f5a7eab205ad
+
+## SEE ALSO
+
+* Docker - https://github.com/jhealy/awesome/blob/master/docker.md

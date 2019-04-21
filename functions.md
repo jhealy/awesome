@@ -86,7 +86,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 * Application insights - Add to existing function - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#enable-application-insights-integration>
 * Logging <https://docs.microsoft.com/en-us/sandbox/functions-recipes/functions-basics>
-* Monitor Azure Functions <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring>
+* Monitor Azure Functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
 * Sampling configuration <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#configure-sampling>
 
 ## SAMPLES

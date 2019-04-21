@@ -29,6 +29,10 @@
 * Container registry using Devops <https://about-azure.com/2019/03/08/setup-azure-devops-yaml-pipeline-to-publish-a-net-core-angular-7-docker-container-to-azure-container-registry/>
 * DevOps > Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
 
+## LEARN
+
+* Exploring Docker for Windows - Michael Crump - https://www.michaelcrump.net/part1-docker/
+
 # NODE.JS AND DOCKER
 * Debugging Docker node.js on a mac - https://blog.docker.com/2016/07/live-debugging-docker/
 * Deploying Node to Docker on Azure - https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-Node-to-Docker-on-Azure

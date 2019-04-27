@@ -3,17 +3,18 @@
 Exploration of things docker but not ACS/AKS/AppService container
 
 * **Docker on Windows doc** - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/configure-docker-daemon
-* Kubernetes versus docker <https://rancher.com/blog/2018/2018-10-09-kubernetes-versus-docker/>
+* **Docker Documentation** - https://docs.docker.com/
+* Kubernetes versus docker - https://rancher.com/blog/2018/2018-10-09-kubernetes-versus-docker
 
-## DOCKERIZATION TOOLS
+## CONTAINER SAMPLES
 
-* Image2Docker - old and kinda outdated - https://github.com/docker/communitytools-image2docker-win
-* Image2Docker - IIS - Convert ASP.NET Web Servers to Docker with Image2Docker - https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/
+* Windows Container Samples - https://docs.microsoft.com/en-us/virtualization/windowscontainers/samples
 
 ## LEARN
 
 * Azure Batch and Docker Containers Lab - vscode, ci builds, azure container registry hooks, and azure app service - https://github.com/AdamPaternostro/Azure-Docker-Shipyard 
 * Exploring Docker for Windows - Michael Crump - https://www.michaelcrump.net/part1-docker/
+* Michael Crump starter series - https://www.michaelcrump.net/part1-docker/
 
 ## .NET
 
@@ -28,12 +29,21 @@ Exploration of things docker but not ACS/AKS/AppService container
 * OFFICIAL node.js docker image for Windows - https://github.com/nodejs/docker-node/pull/362
 * Stefan Scherer's Windows node containers - Server Core and NanoServer - https://hub.docker.com/r/stefanscherer/node-windows/
 
+## TOOLS
+
+* Image2Docker - old and kinda outdated - https://github.com/docker/communitytools-image2docker-win
+* Image2Docker - IIS - Convert ASP.NET Web Servers to Docker with Image2Docker - https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/
+
 ## WINDOWS CONTAINER
 
 * Authentication - Enabling Integrated Windows Authentication in Windows Docker Container - https://artisticcheese.wordpress.com/2017/09/09/enabling-integrated-windows-authentication-in-windows-docker-container/
+* Config file - https://docs.docker.com/engine/reference/commandline/dockerd/#/windows-configuration-file
 * Docker container images for Windows 1709 and new tagging <https://www.thomasmaurer.ch/2017/10/docker-container-images-for-windows-server-1709-and-new-tagging/>
+* Docker engine on windows - configuration tips - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/configure-docker-daemon
 * IIS Docker Image - https://hub.docker.com/r/microsoft/iis/
 * IIS Docker Image and https - https://github.com/Microsoft/iis-docker/issues/30
+* Windows Containers on Windows 10 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10
+* Windows Containers on Windows Server 2019 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-server
 
 ## MISC
 
@@ -46,31 +56,17 @@ Exploration of things docker but not ACS/AKS/AppService container
 
 ## Docker cheat sheet (some basic commands)
 
-### List Docker CLI commands
-
-docker
-docker container --help
-
-### Display Docker version and info
-
-docker --version
-docker version
-docker info
-
-### Execute Docker image
-
-docker run hello-world
-
-### List Docker images
-
-docker image ls
-
-### LIst docker processes
-
-docker ps
-
-### List Docker containers (running, all, all in quiet mode)
-
-docker container ls
-docker container ls --all
-docker container ls -aq
+| Purpose                  | Command                         |
+|--------------------------|---------------------------------|
+| cli help | docker --help |
+| remove all images and containers| docker system prune --volumes --all |
+| version           | docker --version                |
+| info              | docker info                     |
+| image - execute          | docker run {imagename}          |
+| images - list            | docker image ls                 |
+| processes - list         | docker ps                       |
+| container - help | docker container --help |
+| containers - list        | docker container ls             |
+| containers - list        | docker container ls --all       |
+| containers - list        | docker container ls -aq         |
+| containers - stop all running | docker stop $(docker ps -a -q) |

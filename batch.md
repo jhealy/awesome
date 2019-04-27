@@ -17,22 +17,25 @@
 * Quotas and limits - <https://docs.microsoft.com/en-us/azure/batch/batch-quota-limit>
 * Shipyard for docker - <https://github.com/Azure/batch-shipyard/>
 
-# LEARN
+## LEARN
 
 * Parallel with the Batch Explorer tool.  Also a good general intro to batch.  <https://github.com/tojozefi/azurebatch/tree/master/customcode>  
 
-# MONITOR
+## MONITOR
+
 * Metrics, alerts and logs for diagnostic evaluation and monitoring - <https://docs.microsoft.com/en-us/azure/batch/batch-diagnostics>
 * Monitor with Application Insights <https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights>
 
-# PACKAGES
+## PACKAGES
+
 * **Deploy apps to compute nodes using packages** <https://docs.microsoft.com/en-us/azure/batch/batch-application-packages>
 * Guest OS released and SDK compatibility matrix - <https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix>
 * NET CORE into Linux node install <https://blogs.msdn.microsoft.com/pratyay/2018/05/30/install-net-core-in-linux-using-azure-batch-start-task/>
 * NET FW installs to compute node discussion <https://social.msdn.microsoft.com/Forums/en-US/060e1d9e-d95c-454b-b693-cdec46d66919/compute-node-install-net-461?forum=azurebatch>
 * NET FW installs into cloud - this is cloud services but adapt for batch <https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-dotnet-install-dotnet>
 
-# SAMPLES
+## SAMPLES
+
 * CLI basics https://docs.microsoft.com/en-us/azure/batch/quick-create-cli
 * HPC Apps - Guidance and framework for running HPC apps on Azure - Batch and CycleCloud clusters <https://github.com/az-cat/az-hpcapps>
 * Parallel workload walkthrough using .net  - <https://docs.microsoft.com/en-us/azure/batch/tutorial-parallel-dotnet>
@@ -40,9 +43,14 @@
 * Samples github - <https://github.com/Azure-Samples/azure-batch-samples>
 * Samples - batch explorer in action - <https://blogs.technet.microsoft.com/windowshpc/2015/01/20/azure-batch-explorer-sample-walkthrough/>
 
-# RUDE AND SILLY QNA
+## RUDE AND SILLY QNA
 
 * How to delete task output in bulk - not available in portal.  not available in batch explorer.  Have to go api?  ANSWER: this is one reason its better to work with jobs than ad-hoc task submissions.
 * How to see how much memory a job in batch uses? (pending)
 * Image updates occur when?  The actual marketplace image is updated on a monthly basis ( and sooner in the case of critical security updates)
 * Scalesets versus batch - Batch spins up and eventually releases compute resources based on the jobs submitted, but scale sets persist indefinitely.  Batch has two core functions, provisioning and scheduling. Batch provisions VMs in ‘pools’ which is an abstraction over scale sets under the hood.  As a result Batch is more reliable for provisioning at scale and handles things like bad nodes and low priority pre-emption.  You can also scale far beyond the limits of individual scale sets. Batch will also schedule work on pools, this is done via jobs and tasks.  Task can define dependencies and Batch can also automatically scale pools via auto scale formula which can scale based on queue depth, as an example. Additionally Batch can optionally delete pools on job completion to reduce costs.
+
+## MISC
+
+* Batch - Monitor .NET Azure Batch Using Application Insights - https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously
+* Batch Labs - monitor your azure batch jobs - https://azure.github.io/BatchLabs/

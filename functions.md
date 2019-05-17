@@ -74,6 +74,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 * Azure Functions: Choosing between queues and event hubs - <https://hackernoon.com/azure-functions-choosing-between-queues-and-event-hubs-dac4157eee1c>
 * Comparing messaging services <https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services>
+* Dependency management in functions ps - https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell#dependency-management
 * Reliable Event Processing in Azure Functions - <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
 
 ## POWERSHELL

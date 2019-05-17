@@ -33,12 +33,14 @@ Exploration of things docker but not ACS/AKS/AppService container
 
 ## TOOLS
 
+* DebugContainerhost.ps1 - script to help you figure out whats fried inside your container - https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/master/windows-server-container-tools/Debug-ContainerHost
 * Image2Docker - old and kinda outdated - https://github.com/docker/communitytools-image2docker-win
 * Image2Docker - IIS - Convert ASP.NET Web Servers to Docker with Image2Docker - https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/
 * Powershell to run commands in Windows docker container - https://docs.microsoft.com/en-us/dotnet/standard/containerized-lifecycle-architecture/design-develop-containerized-apps/set-up-windows-containers-with-powershell
 
 ## WINDOWS CONTAINER
 
+* AKS Windows Container Support Announce - May 17 2019 - https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-windows-server-containers-support-in-azure-kubernetes-service/
 * Authentication - Enabling Integrated Windows Authentication in Windows Docker Container - https://artisticcheese.wordpress.com/2017/09/09/enabling-integrated-windows-authentication-in-windows-docker-container/
 * Config file - https://docs.docker.com/engine/reference/commandline/dockerd/#/windows-configuration-file
 * Docker container images for Windows 1709 and new tagging <https://www.thomasmaurer.ch/2017/10/docker-container-images-for-windows-server-1709-and-new-tagging/>
@@ -46,6 +48,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 * IIS Docker Image - https://hub.docker.com/r/microsoft/iis/
 * IIS Docker Image and https - https://github.com/Microsoft/iis-docker/issues/30
 * Mounting drives into a Windows Container - https://blog.sixeyed.com/docker-volumes-on-windows-the-case-of-the-g-drive/
+* 'latest' tag removed from docker images - https://techcommunity.microsoft.com/t5/Containers/Removing-the-latest-Tag-An-Update-on-MCR/ba-p/393045
 * Windows Containers on Windows 10 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10
 * Windows Containers on Windows Server 2019 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-server
 

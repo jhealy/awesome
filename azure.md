@@ -83,6 +83,7 @@
 * Certification - Microsoft Professional Program for Cloud Administration - https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/ 
 * Cloud App Security Broker - <https://www.microsoft.com/en-us/cloud-platform/cloud-app-security>
 * Data Center > Under the sea <https://motherboard.vice.com/en_us/article/pavq99/microsoft-project-natick-submarine-data-center> <https://www.theverge.com/2018/6/6/17433206/microsoft-underwater-data-center-project-natick> <https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/>
+* High Availability -> HA -> Azure resiliency white paper - https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/
 * Dockit - Azure Documentation Generator ($) - https://www.azuredockit.com/pricing-buy/
 * Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
 * Event Hub > Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>

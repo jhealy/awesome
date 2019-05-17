@@ -69,7 +69,7 @@
 * .NET to Core <https://docs.microsoft.com/en-us/aspnet/core/migration/proper-to-2x/?view=aspnetcore-2.1>
 * 1X TO 2X <https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/?view=aspnetcore-2.1>
 * 20 TO 2.1 <https://docs.microsoft.com/en-us/aspnet/core/migration/20_21?view=aspnetcore-2.1>
-
+* Core v Framework 4.8 <https://devblogs.microsoft.com/dotnet/update-on-net-core-3-0-and-net-framework-4-8/>
 
 # WINDOWS WORKFLOW
 While WWF is in VS2017 and available for Windows, WWF is not being ported 100% to .net core.  Dustin Metzgar, a Microsoft PM is running an open source port of workflow, but its not released nor will it be officially supported or 100% feature compat.

@@ -2,7 +2,7 @@
 
 Dedicated to XF only.  See Xamarin page ( https://github.com/jhealy/awesome/blob/master/xamarin.md ) for Xamarin Native and other goodies...
 
-* Roadmap - https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap
+* Roadmap - https://github.com/xamarin/Xamarin.Forms/wiki/Feature-Roadmap
 * Source Code to Xamarin Forms - https://github.com/xamarin/Xamarin.Forms
 * Version 3.0 - https://visualstudiomagazine.com/articles/2017/08/01/xamarinforms3_0.aspx
 * Xamarin API Browser - https://docs.microsoft.com/en-us/dotnet/api/ - change Filter to match Xamarin target

@@ -10,6 +10,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * API Management Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
 *API Management Limits and known issues - <https://docs.microsoft.com/en-us/azure/api-management/api-management-api-import-restrictions>
 * Cognitive Services - Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>
+* DevOps - Git - https://docs.microsoft.com/en-us/azure/devops/repos/git/limits?view=azure-devops
 * File - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-files-scale-targets> max file share size, max file size, more
 * File Sync - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-file-sync-scale-targets> - region limits, sync group limits, max servers, cloud endpionts, more
 * Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config> actions pe rworkflow, workflows per region, runduration, storage retention, IP addresses

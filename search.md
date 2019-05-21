@@ -10,6 +10,7 @@
 * Full text <https://docs.microsoft.com/en-us/azure/search/search-lucene-query-architecture >
 * Indexing > Blob <https://docs.microsoft.com/en-us/azure/search/search-howto-indexing-azure-blob-storage>
 * Indexing > SQL <https://docs.microsoft.com/en-us/azure/search/search-howto-connecting-azure-sql-database-to-azure-search-using-indexers>
+* ***Knowledge mining solution accelerator*** - released May 2019 - https://github.com/Azure-Samples/azure-search-knowledge-mining
 * Limits > Synonym map <https://docs.microsoft.com/en-us/rest/api/searchservice/create-synonym-map>
 * Limits > workloads by tier <https://docs.microsoft.com/en-us/azure/search/search-limits-quotas-capacity>
 * Preview Azure Blob PDF in Angular JS <http://www.dotnetfunda.com/articles/show/3494/preview-azure-blob-pdf-document-in-angularjs>

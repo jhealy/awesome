@@ -7,6 +7,7 @@
 * Implementing a Serverless Architecture - functions, storage, cogs, cosmos <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
 * Large File Share Announcement - up to 100TB <https://azure.microsoft.com/en-us/blog/a-new-era-for-azure-files-bigger-faster-better/>
 * SDK for .NET - <https://github.com/Azure/azure-storage-net/blob/master/README.md>, nuget: <https://www.nuget.org/packages/WindowsAzure.Storage>
+* Security - https://docs.microsoft.com/en-us/azure/storage/common/storage-security-guide?toc=%2fazure%2fstorage%2fblobs%2ftoc.json
 * Soft Delete (365 day retention) <https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-soft-delete>
 * Tutorials - <https://docs.microsoft.com/en-us/azure/storage/blobs/storage-encrypt-decrypt-blobs-key-vault>
 * Zone redundant storage - <https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy-zrs?WT.mc_id=azurebg_email_Trans_33771_1742_Release_Internal_Tier2_April25>

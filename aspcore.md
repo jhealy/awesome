@@ -71,6 +71,7 @@
 * Case Study > Stack overflow moving to .NET Core <https://twitter.com/Nick_Craver/status/1031858480888639488>
 * Choosing between Core and .NET - https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
 * Configuring Session Providers - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state#configuring-session
+* ASP.NET Core Dockerized app using VS Code - by wally - https://medium.com/@waelkdouh/developing-a-dockerized-asp-net-core-application-using-visual-studio-code-6ccfc59d6f6
 * HostedService Sample - https://www.stevejgordon.co.uk/asp-net-core-2-ihostedservice
 * HtmlHelpers listing - https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewfeatures.htmlhelper?view=aspnetcore-2.0
 * HtmlHelpers - https://www.mikesdotnetting.com/article/184/html-helpers-for-forms-in-razor-web-pages

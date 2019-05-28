@@ -20,6 +20,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 
 ## .NET
 
+* ASP.NET Core Dockerized app using VS Code - by wally - https://medium.com/@waelkdouh/developing-a-dockerized-asp-net-core-application-using-visual-studio-code-6ccfc59d6f6
 * Docker and .NET - https://www.hanselman.com/blog/NETAndDocker.aspx
 
 ## NODE.JS

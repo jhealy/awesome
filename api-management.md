@@ -3,6 +3,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 * About API Management - <https://docs.microsoft.com/en-us/azure/machine-learning/studio/manage-web-service-endpoints-using-api-management>
 * Blog - <https://aka.ms/apimblog>
+* Consumption tier API management - use with serverless - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
 * Documentation - <https://docs.microsoft.com/en-us/azure/api-management/>
 * Feature req - <https://aka.ms/apimwish>
 * Pricing - <https://azure.microsoft.com/en-us/pricing/details/api-management>

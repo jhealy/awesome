@@ -9,6 +9,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * App Insights <https://docs.microsoft.com/en-us/azure/azure-monitor/app/pricing#limits-summary>
 * API Management Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
 *API Management Limits and known issues - <https://docs.microsoft.com/en-us/azure/api-management/api-management-api-import-restrictions>
+* Cogntive Services - Facial Recognition - 10 transactions per second.  Can be increased by a service request.
 * Cognitive Services - Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>
 * DevOps - Git - https://docs.microsoft.com/en-us/azure/devops/repos/git/limits?view=azure-devops
 * File - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-files-scale-targets> max file share size, max file size, more

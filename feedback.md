@@ -56,7 +56,7 @@ Office 365
 * Visual Studio - bugs and feedback - '''https://connect.microsoft.com/VisualStudio/''', http://blogs.msdn.com/b/visualstudio/archive/2015/07/30/visual-studio-customer-feedback-channels.aspx 
 http://www.devfish.net/fullblogitemview.aspx?blogid=734|Web Application Toolkit Feedback - webapp@microsoft.com 
 * Visual Studio Cordova - see TACO entry here 
-* Visual Studio and .NET Framework Feedback - http://connect.microsoft.com/VisualStudio 
+* Visual Studio and .NET Framework Feedback - https://developercommunity.visualstudio.com/spaces/21/index.html
 * Visual Studio Forums - https://social.msdn.microsoft.com/Forums/vstudio/en-US/home?forum=vsdebug 
 * Visual Studio Mac - https://visualstudio.uservoice.com/forums/563332-visual-studio-for-mac 
 * Visual Studio Subscriptions (MSDN Subs) - Service Centers (1-800-759-5474) -

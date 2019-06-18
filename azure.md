@@ -26,11 +26,11 @@
 * Icon / Glyph Collection <https://www.microsoft.com/en-us/download/details.aspx?id=41937>
 * Network diagrams off your Az Environ using Network Watcher <https://docs.microsoft.com/en-us/azure/network-watcher/view-network-topology>
 
-## AWS 
+## AWS
 
-* AWS > Mapping to Azure Services - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
-* AWS > versus Azure Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
-
+* Mapping to Azure Services - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
+* Versus Azure Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
+* Training - https://aws.amazon.com/training/
 
 ## BLOCKCHAIN
 
@@ -40,7 +40,7 @@
 
 ## LEARN
 
-* **Azure Learning Paths ** - free training, hands on labs, guided learning paths, certification links <https://docs.microsoft.com/en-us/learn/azure/>
+* **Azure Learning Paths** - free training, hands on labs, guided learning paths, certification links <https://docs.microsoft.com/en-us/learn/azure/>
 * Application Architecture Guide (pdf available too) <https://docs.microsoft.com/en-us/azure/architecture/guide/>
 * Architecture Guide for MicroServices, Web Apps, Cloud Deployment - https://www.microsoft.com/net/learn/architecture
 * ARM errors on deploy - <https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures>

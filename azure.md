@@ -20,6 +20,7 @@
 ## ARCHITECTURE
 
 * Azure Architecture Center - <https://docs.microsoft.com/en-us/azure/architecture/>
+* Azure Gaming Reference Architectures - https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/general-guidelines
 * Cloud Design Patterns <https://docs.microsoft.com/en-us/azure/architecture/patterns/>
 * SmartHive Meeting Room with Service Bus - <https://github.com/Microsoft/MTC_SmartHive>
 * Icon / Glyph collection - Azure Architecture Center - svg format <https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/>

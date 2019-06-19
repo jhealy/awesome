@@ -6,11 +6,13 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 
 ## SERVICE LIMITS
 
+* **Subcription Service Limits - All Up** - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
 * App Insights <https://docs.microsoft.com/en-us/azure/azure-monitor/app/pricing#limits-summary>
 * API Management Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
-*API Management Limits and known issues - <https://docs.microsoft.com/en-us/azure/api-management/api-management-api-import-restrictions>
-* Cogntive Services - Facial Recognition - 10 transactions per second.  Can be increased by a service request.
+* API Management Limits and known issues - <https://docs.microsoft.com/en-us/azure/api-management/api-management-api-import-restrictions>
+* Cognitive Services - Facial Recognition - 10 transactions per second.  Can be increased by a service request.
 * Cognitive Services - Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>
+* Cognitive Services - Vision - https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/limits-and-quotas
 * DevOps - Git - https://docs.microsoft.com/en-us/azure/devops/repos/git/limits?view=azure-devops
 * File - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-files-scale-targets> max file share size, max file size, more
 * File Sync - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-file-sync-scale-targets> - region limits, sync group limits, max servers, cloud endpionts, more

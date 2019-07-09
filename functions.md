@@ -54,8 +54,10 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 * Azure Functions Continuos deployment with Azure Pipelines - <http://dontcodetired.com/blog/?tag=funcpipeseries>
 * Deploying functions with ARM templates <https://blog.kloud.com.au/2018/08/16/deploying-azure-functions-with-arm-templates/>
+* Deployment tech in devops - https://docs.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies
 * Serverless, DevOps, and CI/CD: Part1 -<https://medium.com/microsoftazure/serverless-devops-and-ci-cd-part-1-f76f0357cba4>, Part2 <https://medium.com/microsoftazure/serverless-devops-and-ci-cd-part-2-b6e0a6d05530>
 * WebDeploy json <https://github.com/davidebbo/AzureWebsitesSamples/blob/master/ARMTemplates/FunctionsWebDeploy.json>
+* YML for devops - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
 
 ## DURABLE FUNCTIONS
 
@@ -151,6 +153,7 @@ http://www.mattruma.com/secure-an-azure-function-app-with-azure-active-directory
 * Logic Apps v Functions - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/
 * Performance > https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices#configure-host-behaviors-to-better-handle-concurrency
+* Performance > High throughput functions - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * PowerApps -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow

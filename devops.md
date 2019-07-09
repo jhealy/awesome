@@ -5,6 +5,9 @@ ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile
 * Azure DevOps Resources <https://docs.microsoft.com/en-us/azure/devops/>
 * DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
 * DevOps Hands-On-Labs <https://almvm.azurewebsites.net/>
+* Licensing - what users can and cannot do with the different levels  (StakeHolder, Basic, Basic+TestManagement)
+https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-levels?view=azure-devops
+
 
 ## APP CENTER
 
@@ -18,6 +21,7 @@ Formerly known as Visual Studio Mobile Center
 ## DEVSECOPS
 
 * Integrated toolset for security.  Credential scanner, linker scanner, linter, roslyn analyzers, security risk detection, anti-malware scanner -  https://secdevtools.azurewebsites.net/
+* OWASP Source Code Scanners - integration guidance for devops needed - https://www.owasp.org/index.php/Source_Code_Analysis_Tools
 
 ## LEARN
 
@@ -53,4 +57,4 @@ See App Center above....
 * TechNet Virtual Labs - https://almvm.azurewebsites.net/labs/tfs/technet/
 * TerraForm > An Intro to TerraForm <https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/>
 * Using Logic Apps to assist with DevOps <https://azure.microsoft.com/en-us/resources/videos/extending-devops-with-serverless-logic-apps/>
-
+* YML for functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops

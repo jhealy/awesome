@@ -1,5 +1,6 @@
 # APP INSIGHTS
 
+* Functions monitoring using App Insights - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
 * Monitoring Azure Batch .NET with App Insights <https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously>
 
 ## LEARN

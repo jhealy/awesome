@@ -21,6 +21,7 @@
 * Callback URL for Logic App in ARM <https://stackoverflow.com/questions/47012601/getting-callback-url-for-logic-app-in-arm>
 * Deploy using ARM templates <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
 * Preparing Azure Logic Apps for CI/CD using ARM templates <https://platform.deloitte.com.au/articles/preparing-azure-logic-apps-for-cicd>
+* REST interface for devops - https://docs.microsoft.com/en-us/rest/api/logic/
 
 ## HELP
 

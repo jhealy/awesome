@@ -30,6 +30,7 @@
 ## SECURITY
 
 * Compliance offerings <https://docs.microsoft.com/en-us/azure/storage/common/storage-compliance-offerings>
+* Scanning blobs using Symantec Cloud Workload Protection for Storage - https://azuremarketplace.microsoft.com/en-us/marketplace/apps/symanteccorporation.symccwps-app?tab=Overview
 * Scanning blobs using ClamAV and Az functions
   * Defensive functions - https://www.defenseagainstthedarkarts.com/defensive-functions/
   * S/O discussions - https://stackoverflow.com/questions/32567922/virus-scanning-uploaded-files-from-azure-web-worker-role

@@ -1,7 +1,9 @@
 # API MANAGEMENT
+
 Turkey solution for publishing APIs to external and internal customers.  Secure and protect from abuse and overuse.  Health and usage insights.  Automate and scale developer onboarding.
 
 * About API Management - <https://docs.microsoft.com/en-us/azure/machine-learning/studio/manage-web-service-endpoints-using-api-management>
+* Benefits of using Azure API Management with Microservices - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
 * Blog - <https://aka.ms/apimblog>
 * Consumption tier API management - use with serverless - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
 * Documentation - <https://docs.microsoft.com/en-us/azure/api-management/>
@@ -9,7 +11,8 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Pricing - <https://azure.microsoft.com/en-us/pricing/details/api-management>
 * Roadmap - <https://aka.ms/apimroadmap>
 
-# DEVELOPER PORTAL
+## DEVELOPER PORTAL
+
 * Auth - AAD <https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-aad>
 * Auth - Azure B2C <https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-aad-b2c>
 * Auth - Delegated <https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-setup-delegation>
@@ -20,8 +23,9 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 ## DEVOPS
 
-* API DevOps with Azure API Management <https://azure.microsoft.com/en-us/updates/api-devops-with-azure-api-management/>
-* Example <https://github.com/Azure/azure-api-management-devops-example>
+* API DevOps with Azure API Management https://azure.microsoft.com/en-us/updates/api-devops-with-azure-api-management/
+* Build a CI/CD pipeline for API Management - https://azure.microsoft.com/en-us/blog/build-a-ci-cd-pipeline-for-api-management/
+* Example of Az API Management Devops - https://github.com/Azure/azure-api-management-devops-example
 
 ## LEARN
 
@@ -43,4 +47,4 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Security - RBAC <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Static IPs <https://feedback.azure.com/forums/248703-api-management/suggestions/32805958-ability-to-assign-public-static-ip-address-to-publ>
 * Versioning - Revisions to APIs - <https://docs.microsoft.com/en-us/azure/api-management/api-management-get-started-revise-api>
-* Versioning - <https://docs.microsoft.com/en-us/azure/api-management/api-management-get-started-publish-versions>
+* Versioning - https://docs.microsoft.com/en-us/azure/api-management/api-management-get-started-publish-versions

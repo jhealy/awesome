@@ -46,10 +46,8 @@ See App Center above....
 * CI/CD - Pluralsight - Implementing CD using TFS 2015 - https://app.pluralsight.com/library/courses/tfs-visual-studio-2015-implementing-continuous-delivery/table-of-contents
 * Containers > Installing Build tools into a docker container - https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container
 * Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
-* DevOps > DevOps with VSTS and TFS - https://mva.microsoft.com/en-US/training-courses/devops-with-visual-studio-team-services-and-team-foundation-server-16779
-* DevOps > Introduction to DevOps - https://www.edx.org/course/introduction-devops-microsoft-dev212x-0
-* DevOps > DevOps at Microsoft Showcase - https://www.visualstudio.com/learn/devops-at-microsoft/
-* DevOps > Microsoft Professional Program for DevOps - https://academy.microsoft.com/en-us/professional-program/tracks/devops/ 
+* Git > GitLab > Devops with GitLab - https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/?view=azure-devops - 
+https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-for-git?view=azure-devops
 * Image generation - json for az pipelines image generation - https://github.com/Microsoft/azure-pipelines-image-generation/tree/master/images/win
 * Jenkins > Integrating VSTS with Jenkins - lab ( April 2018 ) - <https://almvm.azurewebsites.net/labs/vstsextend/jenkins/#approach-2-wrapping-jenkins-job-within-the-vsts-build>
 * Parts Unlimited DevOps Demo - https://microsoft.github.io/PartsUnlimitedMRP/

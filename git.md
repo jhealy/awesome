@@ -14,4 +14,8 @@
 * Team Services and git - multipart tutorial - excellent - https://www.visualstudio.com/en-us/docs/git/gitquickstart
 * Using Git with VS2013 Jump Start - http://www.microsoftvirtualacademy.com/training-courses/using-git-with-visual-studio-2013-jump-start
 
-test
+## MISC
+
+* Devops with GitLab - https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/?view=azure-devops - 
+https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-for-git?view=azure-devops
+

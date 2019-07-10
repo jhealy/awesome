@@ -23,6 +23,11 @@
 * <https://docs.microsoft.com/en-us/azure/cognitive-services/content-moderator/video-transcript-moderation-review-tutorial-dotnet>
 * <https://github.com/Azure-Samples/customer-car-reviews>
 
+## FORMS RECOGNIZER
+
+* Forms recognizers home - https://aka.ms/form-recognizer 
+* Documentation - Https://aka.ms/form-recognizer/docs
+
 ## MISC
 
 * Cameras - NYC public webcam list - https://webcams.nyctmc.org/multiview2.php

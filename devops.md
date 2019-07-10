@@ -8,7 +8,6 @@ ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile
 * Licensing - what users can and cannot do with the different levels  (StakeHolder, Basic, Basic+TestManagement)
 https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-levels?view=azure-devops
 
-
 ## APP CENTER
 
 Formerly known as Visual Studio Mobile Center
@@ -40,8 +39,6 @@ See App Center above....
 
 ## MISC
 
-* API Management > API DevOps with Azure API Management <https://azure.microsoft.com/en-us/updates/api-devops-with-azure-api-management>
-* API Management > <https://github.com/Azure/azure-api-management-devops-example>
 * CI/CD - Edx - Continuous Integration and Continuous Deployment - https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T2/info
 * CI/CD - Pluralsight - Implementing CD using TFS 2015 - https://app.pluralsight.com/library/courses/tfs-visual-studio-2015-implementing-continuous-delivery/table-of-contents
 * Containers > Installing Build tools into a docker container - https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container

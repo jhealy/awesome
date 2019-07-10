@@ -23,9 +23,11 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 ## DEVOPS
 
-* API DevOps with Azure API Management https://azure.microsoft.com/en-us/updates/api-devops-with-azure-api-management/
+* **API-M Devops Home - https://aka.ms/apimdevops**
+* Az API-M DevOps Resource Kit - https://aka.ms/apimdevops
 * Build a CI/CD pipeline for API Management - https://azure.microsoft.com/en-us/blog/build-a-ci-cd-pipeline-for-api-management/
 * Example of Az API Management Devops - https://github.com/Azure/azure-api-management-devops-example
+* Terraform provider in go - https://github.com/terraform-providers/terraform-provider-azurerm/blob/master/azurerm/data_source_api_management.go
 
 ## LEARN
 
@@ -33,7 +35,6 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Bootcamp <https://github.com/shanepeckham/api_management>
 * Manage Change in your APIs with Azure API Management (Nov 2017) <https://www.youtube.com/watch?v=kVM-5vQymIA&t=14s> 
 * RBAC in API Management ( Jan 2017 ) <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
-* Hand on walkthroughs - <https://aka.ms/cadlabs>
 * Quick starts here (2) - <https://docs.microsoft.com/en-us/azure/api-management/>
 * Tutorial, doc, and ref - <https://aka.ms/apidocs>
 * Why, what, how, and what's next (Sept 2017) <https://www.youtube.com/watch?v=HxhoAkhor-w>

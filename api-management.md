@@ -63,6 +63,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 ## MISC
 
+* Aggregation - https://www.c-sharpcorner.com/blogs/api-aggregation-using-azure-apim
 * Analytics - Power BI Solution Template for API Management <https://aka.ms/apimpbu>
 * Azure Function Proxies - like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * httpbin - simple http request and response service - free - http://httpbin.org/ - about httpbin - https://www.kennethreitz.org/essays/httpbin

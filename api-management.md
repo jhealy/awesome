@@ -4,9 +4,15 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 * Overview video - https://www.youtube.com/watch?v=0yf_xm5cPIo
 * Twitter - https://twitter.com/AzureApiMgmt
+* About API Management - <https://docs.microsoft.com/en-us/azure/machine-learning/studio/manage-web-service-endpoints-using-api-management>
+* Benefits of using Azure API Management with Microservices - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
+* Consumption tier API management - use with serverless - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
+* Documentation - <https://docs.microsoft.com/en-us/azure/api-management/>
+* Pricing - <https://azure.microsoft.com/en-us/pricing/details/api-management>
 
 ## Quick links
 
+* Blog - https://aka.ms/apimblog
 * Tutorials, docs, and refs - http://aka.ms/apimdocs
 * Public discussion form - http://aka.ms/apimso
 * Reusable policy examples - http://aka.ms/apimpolicyexamples
@@ -15,16 +21,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Public Roadmap - http://aka.ms/apimroadmap
 * Feedback and feature requests - http://aka.ms/apimwish
 * Customer stories - http://aka.ms/apimcustomers
-
-* **API-M Love - resource collection - Great! - https://azure.github.io/api-management-resources/**
-* About API Management - <https://docs.microsoft.com/en-us/azure/machine-learning/studio/manage-web-service-endpoints-using-api-management>
-* Benefits of using Azure API Management with Microservices - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
-* Blog - <https://aka.ms/apimblog>
-* Consumption tier API management - use with serverless - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
-* Documentation - <https://docs.microsoft.com/en-us/azure/api-management/>
-* Feature req - <https://aka.ms/apimwish>
-* Pricing - <https://azure.microsoft.com/en-us/pricing/details/api-management>
-* Roadmap - <https://aka.ms/apimroadmap>
+* **API-M Love - resource collection - Great! - http://aka.ms/apimlove**
 
 ## DEVELOPER PORTAL
 

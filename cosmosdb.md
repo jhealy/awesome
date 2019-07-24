@@ -1,6 +1,8 @@
 # COSMOSDB
 
-* Documentation <https://docs.microsoft.com/en-us/azure/cosmos-db/>
+* **Documentation - https://docs.microsoft.com/en-us/azure/cosmos-db/**
+* **Web - https://cosmosdb.com**
+* **Twitter htts://twitter.com/AzureCosmosDB or #cosmosdb**
 * Always encrypted - on by default - https://docs.microsoft.com/en-us/azure/cosmos-db/database-encryption-at-rest
 * Backup and restore - <https://docs.microsoft.com/en-us/azure/cosmos-db/online-backup-and-restore>
 * Change feed streams <https://docs.microsoft.com/en-us/azure/cosmos-db/change-feed>
@@ -11,8 +13,14 @@
 * SQL v CosmosDB - https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server
 * Technical Overview of Cosmos DB <https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/>
 
+## HELP
+
+* SO - https://stackoverflow.com/search?q=%23azure-cosmosdb
+
 ## LEARN
 
+* HOLs - go to https://www.microsoft.com/handsonlabs/selfpacedlabs and search CosmosDB 
 * Implementing a Serverless Architecture - functions, storage, cogs, cosmosdb <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
+* Tutorials - developer, migrate, query, replicate in sql, mongo, table, gremlin and cassandra - https://azure.microsoft.com/en-us/services/cosmos-db/
 
 SEE ALSO - CosmosDB and Azure Functions <https://github.com/jhealy/awesome/blob/master/azure-functions.md#cosmosdb-and-azure-functions>

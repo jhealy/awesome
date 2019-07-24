@@ -63,6 +63,7 @@ Held here until enough volume to be posted elsewhere....
 * Code Review > Globalization best practices - https://msdn.microsoft.com/en-us/library/w7x1y988(v=vs.110).aspx
 * Code Review > String best practices - https://msdn.microsoft.com/en-us/library/dd465121(v=vs.110).aspx
 * C++ Blog - https://blogs.msdn.microsoft.com/vcblog/
+* Data set - geolite ip to city - https://dev.maxmind.com/geoip/geoip2/geolite2/ , usage example with google big data - https://cloud.google.com/blog/products/data-analytics/geolocation-with-bigquery-de-identify-76-million-ip-addresses-in-20-seconds?linkId=71020629
 * Data Science - Microsoft Professional Program for Data Science - https://academy.microsoft.com/en-us/professional-program/tracks/data-science/
 * Design > Data Viz Project - inspiration - http://datavizproject.com/
 * Design > SAP's UX Center <https://experience.sap.com/>

@@ -146,6 +146,7 @@ http://www.mattruma.com/secure-an-azure-function-app-with-azure-active-directory
 * Core - .NET Core 2.0 with Azure Functions Preview - https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Cross Platform Tooling for Az Functions - Mac, Linux via NPM.  VS Code. VS Mac. Javascript, c#.  https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Debugging Azure Functions locally using Postman <https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function>
+* DevOps for functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
 * Event Hubs with Azure Functions - Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
 * Event Processing in Azure Functions - challenges <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fcfs>
 * Container - Functions in a container - http://tattoocoder.com/functions-runtime-kubernetes/
@@ -158,7 +159,7 @@ http://www.mattruma.com/secure-an-azure-function-app-with-azure-active-directory
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * PowerApps -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
-* Proxies - act like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
+* Proxies - act like baby api management - only available in functions v1 - use API-M instead <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * Python - v1 is experimental and not supporte.  v2 Preview is here <https://github.com/Azure/azure-functions-python-worker>. Python GA is not committed for H1 CY2019.
 * Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition
 * SQL Binding <https://stackoverflow.com/questions/44983669/azure-function-vs2017-sql-table-binding>

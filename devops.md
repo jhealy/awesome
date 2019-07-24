@@ -42,7 +42,9 @@ See App Center above....
 * CI/CD - Edx - Continuous Integration and Continuous Deployment - https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T2/info
 * CI/CD - Pluralsight - Implementing CD using TFS 2015 - https://app.pluralsight.com/library/courses/tfs-visual-studio-2015-implementing-continuous-delivery/table-of-contents
 * Containers > Installing Build tools into a docker container - https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container
+* DataBricks extension for az devops - https://aka.ms/devopsfordatabricks
 * Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
+* Functions and devops - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
 * Git > GitLab > Devops with GitLab - https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/?view=azure-devops - 
 https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-for-git?view=azure-devops
 * Image generation - json for az pipelines image generation - https://github.com/Microsoft/azure-pipelines-image-generation/tree/master/images/win

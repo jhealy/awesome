@@ -46,6 +46,7 @@
 * IP addresses - restricting inbound <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app#restrict-incoming-ip-addresses>
 * Securing Access to Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app>
 * Securing Logic Apps via ASE and API Management (vnet equiv) <http://www.bizbert.com/bizbert/2016/01/07/AppServiceEnvironmentsHowToDeployAPIAppsToAVirtualNetwork.aspx>
+* IP addresses - whitelisting - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config#outbound-ip-addresses---logic-apps-service--managed-connectors 
 * VNET Integration via ISE <https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment-overview>
 * VNET - Connect to Azure virtual networks from Azure Logic apps by using an integration service enviornment (ISE) <https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment>
 

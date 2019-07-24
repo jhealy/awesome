@@ -13,34 +13,39 @@
 * TLS - Disable in app service - https://blogs.msdn.microsoft.com/benjaminperkins/2018/01/25/tls-on-azure-app-services/
 * VNET Integration (preview) <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet#new-vnet-integration> :: (Oct 2018 article) <https://blogs.msdn.microsoft.com/appserviceteam/2018/10/17/new-app-service-vnet-integration-feature/>
 
-# DEVOPS
+## DEVOPS
+
 * Az Devops for Web Apps <https://azure.microsoft.com/en-us/solutions/architecture/azure-devops-continuous-integration-and-continuous-deployment-for-azure-web-apps/>
 
-# MIGRATION FROM IIS
+## MIGRATION FROM IIS
 
 * Tips - Migration Checklist <https://azure.microsoft.com/en-us/blog/migration-checklist-when-moving-to-azure-app-service/>
 * Tips - Top 10 Tips Migrating Existing Web Apps  <https://blogs.msdn.microsoft.com/wriju/2015/07/07/top-10-things-while-migrating-existing-web-applications-to-azure/>
 
-# LEARN
+## LEARN
 
 * Getting Started with Azure App Service - Hightlights - <https://mva.microsoft.com/en-US/training-courses/getting-started-with-azure-app-service-highlights-18284>
 * Getting Started with Azure App Service (long version) < https://www.edx.org/course/getting-started-azure-app-service-web-apps-1>
 
-# MIGRATION ASSISTANT
+## MIGRATION ASSISTANT
 
 * Azure App Service Migration Tool - <https://azure.microsoft.com/en-us/downloads/migration-assistant/>
 * Migrate your websites to azure in just a few clicks - <https://azure.microsoft.com/en-us/blog/migrate-your-websites-to-azure-in-just-a-few-clicks/>
 * Move me to the cloud - <https://www.movemetothecloud.net/>
 * Source code - <https://archive.codeplex.com/?p=websiteassist>
 
-# SECURITY
+## SECURITY
 
 * App Services in VNET - includes functions <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
 * App Services in ASE - includes functions <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>
 
-# WEB APPS
+## WEB APPS
 
 * Value points for Web Apps (v Pivotal) <https://seroter.wordpress.com/2019/02/08/eight-things-your-existing-asp-net-apps-should-get-for-free-from-a-good-platform>
 * Web apps and hybrid connections - best practices <https://blogs.msdn.microsoft.com/waws/2017/06/30/things-you-should-know-web-apps-and-hybrid-connections/>
 
-SEE ALSO Azure App Service Environments - <https://github.com/jhealy/awesome/blob/master/azure-ase.md>
+## WEB APPS FOR CONTAINERS
+
+* NOT available in gov cloud - https://azure.microsoft.com/en-us/global-infrastructure/services/?products=app-service-linux&regions=non-regional,us-east,us-east-2,us-central,us-north-central,us-south-central,us-west-central,us-west,us-west-2,canada-east,canada-central,usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia
+
+SEE ALSO Azure App Service Environments - https://github.com/jhealy/awesome/blob/master/azure-ase.md

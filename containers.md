@@ -1,4 +1,5 @@
 # CONTAINERS 
+
 * Active Directory service accounts with Containers - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/manage-serviceaccounts
 * Azure Cloud Service > Build and deploy node.js to Azure Cloud Service - <https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-nodejs-develop-deploy-app>
 * Azure Container Registry > Private repo for images <https://azure.microsoft.com/en-us/services/container-registry/>
@@ -12,8 +13,8 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Red Hat container catalog - https://access.redhat.com/containers/#/registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7
 * Using Windows Auth in ASP.NET Core via http.sys in containers - https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/
 
+## DEVOPS
 
-# DEVOPS
 * Azure Devops Projects - support for AKS and WEb Apps for Containers <https://azure.microsoft.com/en-in/features/devops-projects/>
 * Containers and DevOps workshop <https://github.com/Microsoft/MCW-Containers-and-DevOps>
 * Container registry using Devops <https://about-azure.com/2019/03/08/setup-azure-devops-yaml-pipeline-to-publish-a-net-core-angular-7-docker-container-to-azure-container-registry/>
@@ -30,6 +31,7 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 
 ## MISC
 
+* Cognitive Services Container Support - https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support
 * Selenium containers - https://robotninja.com/blog/introduction-using-selenium-docker-containers-end-end-testing/
 * Selenium inside a docker container - http://www.testautomationguru.com/selenium-webdriver-how-to-run-automated-tests-inside-a-docker-container/
 * Selenium on Windows Docker - https://medium.com/@aandryashin/selenium-on-windows-docker-revolution-f5a7eab205ad

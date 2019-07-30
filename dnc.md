@@ -1,4 +1,5 @@
 # .NET CORE
+
 * .NET Core documentation - https://docs.microsoft.com/en-us/dotnet/core/get-started
 * Awesome .NET Collection <https://github.com/quozd/awesome-dotnet>
 * Bugs and Issues - File here - https://github.com/dotnet/corefx
@@ -18,38 +19,40 @@
 * Telemetry Reports -  https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/
 * Windows Compatibility Pack - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack
 
-# .NET CORE 3.0
+## .NET CORE 3.0
 
 * Update on .NET Core 3.0 and .NET FW 4.8 (oct 2018) <https://blogs.msdn.microsoft.com/dotnet/2018/10/04/update-on-net-core-3-0-and-net-framework-4-8/> - desktop apps including winforms, wpf, ef6.  embed .net directly in an app.  Framwork 4.8 has modern browser, touch and uwp controls and high dpi improvements
 
 * Here's what's new and coming to .NET Core with ver 2.1, 2.2 and 3.0 <https://www.neowin.net/news/heres-whats-new-and-coming-to-net-core-with-versions-21-22-and-30/>
 
-# .NET CORE 2.2
+## .NET CORE 2.2
 
 * Here's what's new and coming to .NET Core with ver 2.1, 2.2 and 3.0 <https://www.neowin.net/news/heres-whats-new-and-coming-to-net-core-with-versions-21-22-and-30/>
 
-# .NET CORE 2.1
+## .NET CORE 2.1
 
 * Here's what's new and coming to .NET Core with ver 2.1, 2.2 and 3.0 <https://www.neowin.net/news/heres-whats-new-and-coming-to-net-core-with-versions-21-22-and-30/>
 * Bing runs on .NET Core 2.1 / MVC Razor <https://blogs.msdn.microsoft.com/dotnet/2018/08/20/bing-com-runs-on-net-core-2-1/>
 
-#  .NET CORE 2.0
+## .NET CORE 2.0
+
 * .NET Core 2.0 Announced - https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/
 * .NET Core 2.0 Improvements versus 4.7 - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 * Performance Improvements in .NET Core 2.1 - <https://blogs.msdn.microsoft.com/dotnet/2018/04/18/performance-improvements-in-net-core-2-1/>
 
-# .NET STANDARD
+## .NET STANDARD
+
 * .NET Standard - with version support chart- https://docs.microsoft.com/en-us/dotnet/standard/net-standard 
 * .NET Standard - github - https://github.com/dotnet/standard
 * .NET Standard API Reference - https://docs.microsoft.com/en-us/dotnet/api/?view=netstandard-2.0
 * .NET Standard FAQ - https://github.com/dotnet/standard/blob/master/docs/faq.md
 
-# DATA ACCESS
+## DATA ACCESS
 
 * Data Access by Bertrand LeRoy - https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/
 * Providers - https://docs.microsoft.com/en-us/ef/core/providers/index
 
-# DATA ACCESS - ORACLE
+## DATA ACCESS - ORACLE
 
 * Quick Start: Deploy .NET Core on Oracle Cloud - https://medium.com/oracledevs/quick-start-develop-deploy-a-net-core-app-on-oracle-cloud-aca69158c592
 * .NET Core and Entity Framework Statement of Direction - March 2018 - www.oracle.com/technetwork/topics/dotnet/tech-info/odpnet-dotnet-ef-core-sod-4395108.pdf
@@ -58,20 +61,21 @@
 * ODP.NET Discussion Forum - https://community.oracle.com/community/database/developer-tools/windows_and_.net/odp.net
 * via dbConnect from devart as of June 2017 - https://www.devart.com/dotconnect/oracle/history.html
 
-# LEARN
+## LEARN
 
 * Get Started - https://www.microsoft.com/net/core#windowsvs2017
 * EF > Entity Framework Core: Getting Started - pluralsight - <https://www.pluralsight.com/courses/entity-framework-core-getting-started>
 * Workshop <https://github.com/dotnet-presentations/dotnetcore-workshop>
 
-# MIGRATION
+## MIGRATION
 
 * .NET to Core <https://docs.microsoft.com/en-us/aspnet/core/migration/proper-to-2x/?view=aspnetcore-2.1>
 * 1X TO 2X <https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/?view=aspnetcore-2.1>
 * 20 TO 2.1 <https://docs.microsoft.com/en-us/aspnet/core/migration/20_21?view=aspnetcore-2.1>
 * Core v Framework 4.8 <https://devblogs.microsoft.com/dotnet/update-on-net-core-3-0-and-net-framework-4-8/>
 
-# WINDOWS WORKFLOW
+## WINDOWS WORKFLOW
+
 While WWF is in VS2017 and available for Windows, WWF is not being ported 100% to .net core.  Dustin Metzgar, a Microsoft PM is running an open source port of workflow, but its not released nor will it be officially supported or 100% feature compat.
 
 * Req to port WWF to .NET Core with great dialog - https://github.com/dotnet/corefx/issues/2394 
@@ -80,7 +84,8 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * 2016 article on .net core discontinued features - https://www.infoq.com/news/2016/02/Core-Discontinued 
 * Dustin Metzgar repos for porting pieces of WWF to .NET Core - https://github.com/dmetzgar/corewf - https://github.com/dmetzgar
 
-# MISC
+## MISC
+
 * AWS Lambda .NET Core 2.0 Support Released - https://aws.amazon.com/blogs/developer/aws-lambda-net-core-2-0-support-released/
 * Azure Service Stack Supported - https://blogs.msdn.microsoft.com/appserviceteam/2018/03/12/azure-app-service-on-azure-stack-update-one-released/
 * Background processing - Hangfire - batch processing with pro license - combine with TPL for true background proc w .net core on local machine - https://www.hangfire.io/
@@ -90,6 +95,7 @@ Convert other proj to vs2017 <https://github.com/hvanbakel/CsprojToVs2017>
 * DevOps > Create a build pipeline for Angular and ASP.NET Core apps with Visual Studio Team Services <https://offering.solutions/blog/articles/2018/03/08/create-build-pipeline-for-angular-and-aspnetcore-app-with-visual-studio-team-services/>
 * DevOps > Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
 * global.json refernce https://docs.microsoft.com/en-us/dotnet/core/tools/global-json
+* ILogger.net on .net core - https://github.com/aspnet/Announcements/issues/353
 * How to: Handl exceptions in parallel loops <https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-handle-exceptions-in-parallel-loops>
 * Libraries > Refit - Typesafe REST lib from Paul Betts - .NET Standard 1.4 and up - https://paulcbetts.github.io/refit/
 * Linux > Create a .NET Core 2 application on Linux with Visual Studio Code - https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/create-a-net-core-2-application-on-linux-with-visual-studio-code/

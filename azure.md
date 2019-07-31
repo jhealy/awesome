@@ -74,15 +74,9 @@
 * CLI > IoT Hub Extension - "az extension add --name azure-cli-iot-ext"
 * CLI > Locally run Azure CLI - https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
 * Cloud Design Patterns (pnp) - https://docs.microsoft.com/en-us/azure/architecture/patterns/
-* Certification - Collection of study guides for various exams - https://rmmartins.github.io/AzureCertification/
-* Certification > 70-533 <https://exam-hub.com/microsoft/70-533/>
-* Certification - Exam 70-534 - Architecting Microsoft Azure Solutions > Labs - https://github.com/dstolts/70-534
-* Certification - Exam 70-534 - Architecting Microsoft Azure Solutions > Prep - https://blogs.msdn.microsoft.com/make_it_better/2017/05/06/exam-prep-for-architecting-microsoft-azure-solutions-70-534/
-* Certification - Exam 70-534 - Retirement in December 2017 - https://www.microsoft.com/en-us/learning/exam-70-534.aspx
-* Certification - Exam 70-535 - Architecting Microsoft Azure Solutions 355 - Study Guide - http://download.microsoft.com/download/B/9/1/B91A0CE0-9786-4B81-8937-315F63E13910/Architecting_Microsoft_Azure_Solutions_11302017.pdf
-* Certification - Exam 70-535 - Dan Stolts 70-535 Courseware - https://github.com/guruskill/70-535
-* Certification - Microsoft Professional Program for Cloud Administration - https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/ 
+* Certification - Collection of study guides for various exams - https://rmmartins.github.io/AzureCertification//
 * Cloud App Security Broker - <https://www.microsoft.com/en-us/cloud-platform/cloud-app-security>
+* Code samples - all up code samples browser - https://docs.microsoft.com/en-us/teamblog/code-samples?WT.mc_id=docsmsft-twitter
 * Data Center > Under the sea <https://motherboard.vice.com/en_us/article/pavq99/microsoft-project-natick-submarine-data-center> <https://www.theverge.com/2018/6/6/17433206/microsoft-underwater-data-center-project-natick> <https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/>
 * High Availability -> HA -> Azure resiliency white paper - https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/
 * Dockit - Azure Documentation Generator ($) - https://www.azuredockit.com/pricing-buy/

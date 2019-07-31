@@ -65,5 +65,5 @@
 * Lessons Learned - http://blogs.technet.com/b/meamcs/archive/2015/04/09/azure-logic-app-lessons-learned-part-1.aspx
 * On-Premise Data Gateway - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-connection
 * Using Logic Apps to assist with DevOps <https://azure.microsoft.com/en-us/resources/videos/extending-devops-with-serverless-logic-apps/>
+* VS2019 Extension - https://marketplace.visualstudio.com/items?itemName=VinaySinghMSFT.AzureLogicAppsToolsForVS2019 
 * XML Integration - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-eai-logic-app-using-vetr/
-

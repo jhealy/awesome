@@ -1,4 +1,5 @@
 # POWERAPPS
+
 * Blog - PowerApps Team - https://powerapps.microsoft.com/en-us/blog/
 * Blog - Office Team - https://blogs.office.com/en-us/feed/
 * Case Studies - http://aka.ms/Powerapps/casestudies
@@ -18,7 +19,8 @@
 * VOTE for features - https://community.powerapps.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 * Q3 2017 Updates for PowerApps - https://powerapps.microsoft.com/en-us/blog/q3-2017-update/
 
-# ADMIN
+## ADMIN
+
 * Deploying PowerApps - https://www.youtube.com/watch?v=QoL1SMaDZac&t=1533s
 * Environments > Working with Environments - https://powerapps.microsoft.com/en-us/tutorials/working-with-environments
 
@@ -29,17 +31,20 @@
 * View and Manage Apps from Your Organization - https://powerapps.microsoft.com/en-us/blog/view-and-manage-apps-that-your-organization-is-building/
 * Web > Open PowerApp from HyperLink in Visio Online - https://blog.bvisual.net/2017/05/02/opening-powerapps-from-a-hyperlink-in-visio-online/
 
-# COMMON DATA SERVICE
+## COMMON DATA SERVICE
+
 * Overview - https://docs.microsoft.com/en-us/common-data-service/entity-reference/security-model
 * Licensing - https://docs.microsoft.com/en-us/powerapps/pricing-billing-skus
 * Pricing - https://powerapps.microsoft.com/en-us/pricing/
 
-# DELEGATION
+## DELEGATION
+
 * Understanding Delegation - https://powerapps.microsoft.com/en-us/tutorials/delegation-overview/
 * Data sources supported - https://powerapps.microsoft.com/en-us/tutorials/delegation-list/
 * 500 Record Limit, Delegation, and How to Work Around It - via Collections - https://blog.coeo.com/davidmorrison/2017/06/21/powerapps-500-record-limit-delegation-and-how-to-work-around-it
 
-# LEARN
+## LEARN
+
 <!-- * App-in-a-day - https://aka.ms/appinaday -->
 * Create an app using the browser tool - works on a Mac - https://powerapps.microsoft.com/en-us/tutorials/create-app-browser/ 
 * Developing Busines Applications with Power Apps and Microsoft Flow - edx - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
@@ -50,19 +55,22 @@
 * Introduction to PowerApps for Access Developers - https://www.microsoft.com/en-us/download/details.aspx?id=54942 
 * Lynda - What are powerapps? - https://www.lynda.com/PowerApps-tutorials/What-PowerApps/573387/615409-4.html
 
-# TEMPLATES
+## TEMPLATES
+
 * Calendar App from SharePoint Data - https://powerapps.microsoft.com/en-us/blog/building-an-internal-event-calendar-app-in-flight/
 * Out of Office Template (o365 connector) - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
 * Shout outs / kudos template - https://powerapps.microsoft.com/en-us/blog/next-in-the-office-template-series-shoutouts/
 
-# SHAREPOINT
+## SHAREPOINT
+
 * Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
 * Creating an app for Sharepoint Guided Learning - Generate an App - App Formulas - https://powerapps.microsoft.com/en-us/guided-learning/learning-spo-app-generate/
 * Forms for Sharepoint - inside lists and libs - https://blogs.office.com/en-us/2017/05/16/sharepoint-virtual-summit-showcases-growth-innovations-and-customer-success/ 
 * Image from a Sharepoint list - https://community.powerapps.com/t5/PowerApps-Forum/PowerApps-doesn-t-support-images-from-SharePoint-lists/td-p/3635/page/7 
 * Sharepoint Samples in Flow page - https://github.com/jhealy/awesome/blob/master/flow.md#samples
 
-# MISC
+## MISC
+
 * AddColumn not working - https://powerusers.microsoft.com/t5/PowerApps-Forum/AddColumns-not-working-with-collection/td-p/29072
 * Azure Blob Storage Connector - <https://powerapps.microsoft.com/en-us/blog/upload-files-from-powerapps-using-the-azure-blob-storage-connector/?utm_source=dlvr.it&utm_medium=twitter>
 * Azure Function -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
@@ -72,6 +80,7 @@
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
 * Connectors > Office 365 > RelevantPeople() - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
 * Connectors > Office 365 > Out of Office Template - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
+* Devops > Devops add in for Power BI - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools
 * Flow > Add a Flow to a PowerApp - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/using-logic-flows
 * Gateway > Firewall and FAQ - https://powerapps.microsoft.com/en-us/tutorials/gateway-reference/
 * InfoPath > Convert InfoPath/Designer workflow processes to PowerApps - https://www.youtube.com/watch?v=l69E7q79y6w

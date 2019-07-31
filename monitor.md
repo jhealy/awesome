@@ -1,4 +1,8 @@
-# APP INSIGHTS
+# MONITOR
+
+* **Docs** - https://docs.microsoft.com/en-us/azure/azure-monitor/
+
+## APPINSIGHTS
 
 * Best Practices - https://devblogs.microsoft.com/premier-developer/azure-application-insights-best-practices/
 * Functions monitoring using App Insights - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring

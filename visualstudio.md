@@ -13,6 +13,7 @@
 
 * Web and Azure Tool Updates - https://devblogs.microsoft.com/aspnet/web-and-azure-tool-updates-in-visual-studio-2019/
 * Azure with VS2019 - Launch Video https://www.youtube.com/watch?v=6QBiWY09k8g
+* Logic Apps Extension - https://marketplace.visualstudio.com/items?itemName=VinaySinghMSFT.AzureLogicAppsToolsForVS2019
 * Oh my! "Visual Studio 2019 will be the last version of Visual Studio with load test features. For customers requiring load testing tools, we recommend using alternate load testing tools such as Apache JMeter, Akamai CloudTest, Blazemeter."
 
 ## VS2017

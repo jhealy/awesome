@@ -5,6 +5,7 @@
 * Limits - look at Isolated Plan limits <https://azure.microsoft.com/en-us/pricing/details/app-service/plans/>
 * Management addresses <https://docs.microsoft.com/en-us/azure/app-service/environment/management-addresses>
 * Network Diagrams <https://docs.microsoft.com/en-us/azure/app-service/environment/network-info>
+* Pricing - https://azure.microsoft.com/en-us/pricing/details/app-service/windows/
 * SKU Comparison Matrix for App Service (web, api, mobile, ase) <https://blogs.msdn.microsoft.com/appserviceteam/2017/03/23/azure-app-service-web-api-mobile-ase-azure-functions-sku-comparison-matrix-2/>
 * Staging ASE Environments - April 2017 - <https://docs.microsoft.com/en-us/azure/app-service/web-sites-staged-publishing>, <https://msdn.microsoft.com/en-us/magazine/mt797651>
 * The New Azure App Service Environment - April 2017 - GREAT DIAGRAM - <https://msdn.microsoft.com/en-us/magazine/mt797651>

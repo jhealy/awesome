@@ -36,8 +36,9 @@
 
 ## SECURITY
 
-* App Services in VNET - includes functions <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
-* App Services in ASE - includes functions <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>
+* VNET - includes functions <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
+* VNET - linux preview for app services - https://github.com/Azure/app-service-linux-docs/blob/master/app_service_linux_vnet_integration.md 
+* ASE - includes functions <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>
 
 ## WEB APPS
 

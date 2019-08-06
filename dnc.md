@@ -86,6 +86,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 
 ## MISC
 
+* Auth -> Two factor auth in .net core - https://www.meziantou.net/implementing-two-factor-authentication-in-an-asp-net-core-application.htm
 * AWS Lambda .NET Core 2.0 Support Released - https://aws.amazon.com/blogs/developer/aws-lambda-net-core-2-0-support-released/
 * Azure Service Stack Supported - https://blogs.msdn.microsoft.com/appserviceteam/2018/03/12/azure-app-service-on-azure-stack-update-one-released/
 * Background processing - Hangfire - batch processing with pro license - combine with TPL for true background proc w .net core on local machine - https://www.hangfire.io/
@@ -101,6 +102,7 @@ Convert other proj to vs2017 <https://github.com/hvanbakel/CsprojToVs2017>
 * Linux > Create a .NET Core 2 application on Linux with Visual Studio Code - https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/create-a-net-core-2-application-on-linux-with-visual-studio-code/
 * Linux > Red Hat Container catalog - .NET Core image - https://access.redhat.com/containers/#/registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7
 * Logging > Using nLog with .NET Standard - https://github.com/NLog/NLog/wiki/platform-support
+* Performance - techempower benchmarks - linux v win, cloud v physical
 * Polly - silience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner - <https://github.com/App-vNext/Polly>
 * Run a command in an external window with .net core <https://dev.to/deinsoftware/run-a-command-in-external-terminal-with-net-core-d4l?WT.mc_id=devfish>
 * Runtime > Multi-framework targeting - https://blogs.msdn.microsoft.com/cesardelatorre/2016/06/28/running-net-core-apps-on-multiple-frameworks-and-what-the-target-framework-monikers-tfms-are-about/

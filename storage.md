@@ -16,6 +16,10 @@
 
 * Limits <https://docs.microsoft.com/en-us/azure/storage/files/storage-files-scale-targets#azure-file-sync-scale-targets>
 
+## HA/DR
+
+* Storage redundancy levels - https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy
+
 ## RBAC
 
 * Available for blobs and queues but not for tables.

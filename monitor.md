@@ -5,6 +5,7 @@
 ## APPINSIGHTS
 
 * Best Practices - https://devblogs.microsoft.com/premier-developer/azure-application-insights-best-practices/
+* Filtering telemetry - https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-filtering-sampling#filtering
 * Functions monitoring using App Insights - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
 * Monitoring Azure Batch .NET with App Insights <https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously>
 * Sampling - turn off random sample using hosts.json - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#configure-sampling

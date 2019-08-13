@@ -94,14 +94,14 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 ## SAMPLES
 
-* Approval Workflow with SendGrid - Durable Functions Pattern - <https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid>
-* Azure Functions Recipes <https://docs.microsoft.com/en-us/sandbox/functions-recipes/>
-* Azure Functions Samples <https://github.com/Azure/Azure-Functions/>
-* Implementing a Serverless Architecture - functions, storage, cogs, cosmosdb <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
+* Approval Workflow with SendGrid - Durable Functions Pattern - https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid
+* Azure Functions Recipes - https://docs.microsoft.com/en-us/sandbox/functions-recipes/
+* Azure Functions Samples - https://github.com/Azure/Azure-Functions/
+* Implementing a Serverless Architecture - functions, storage, cogs, cosmosdb - https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html
 * Json from Az Function - https://stackoverflow.com/questions/38943858/how-do-i-return-json-from-an-azure-function
-* License plate reader using functions and OpenALPR - <https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr>
-* MS Graph with Az Functions <https://github.com/microsoftgraph/msgraph-training-building-apps/blob/master/Lab.md#exercise-3-build-an-azure-function-using-microsoft-graph>
-* Reference Arch > ECommerce front end > <https://docs.microsoft.com/en-us/azure/architecture/example-scenario/apps/ecommerce-scenario>
+* License plate reader using functions and OpenALPR - https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr
+* MS Graph with Az Functions https://github.com/microsoftgraph/msgraph-training-building-apps/blob/master/Lab.md#exercise-3-build-an-azure-function-using-microsoft-graph
+* Reference Arch > ECommerce front end > - https://docs.microsoft.com/en-us/azure/architecture/example-scenario/apps/ecommerce-scenario
 
 ## SECURITY
 
@@ -151,8 +151,10 @@ http://www.mattruma.com/secure-an-azure-function-app-with-azure-active-directory
 * Event Processing in Azure Functions - challenges <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fcfs>
 * Container - Functions in a container - http://tattoocoder.com/functions-runtime-kubernetes/
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
+* HttpClient - Use a static client in an Az Function but do NOT dispose of the httpclient in an Az Function - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
 * Linux > https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 
 * Logic Apps v Functions - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
+* Managing connections in Az Functions - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/
 * Performance > https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices#configure-host-behaviors-to-better-handle-concurrency
 * Performance > High throughput functions - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/

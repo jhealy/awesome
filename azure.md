@@ -83,7 +83,6 @@
 * Event Grid > Getting Started with Az Event Grid - v Logic Apps and Azure Service Bus - https://www.azurebarry.com/getting-started-with-azure-event-grid/
 * Event Hub > Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
 * File Sync <https://azure.microsoft.com/en-us/blog/score-one-for-the-it-pro-azure-file-sync-is-now-generally-available/>
-* IP Ranges for Azure DataCenter - Computer, SQL, Storage and more <https://www.microsoft.com/en-us/download/confirmation.aspx?id=41653>
 * Keeping secrets in the cloud with Azure - https://blogs.msdn.microsoft.com/visualstudio/2017/11/17/managing-secrets-securely-in-the-cloud/
 * Latency test - your location to Azure <http://www.azurespeed.com/>
 * Location Based Services > Add a Line - https://codepen.io/azuremaps/pen/qomaKv

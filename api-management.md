@@ -45,6 +45,14 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Service Management REST API (2014 video) - https://channel9.msdn.com/Blogs/AzureApiMgmt/Getting-Started-with-Azure-API-Management-REST-API
 * Terraform provider in go - https://github.com/terraform-providers/terraform-provider-azurerm/blob/master/azurerm/data_source_api_management.go
 
+## IP ADDRESSES
+
+* Azure DataCenter - Computer, SQL, Storage and more https://www.microsoft.com/en-us/download/confirmation.aspx?id=41653
+* Public- https://www.microsoft.com/en-us/download/details.aspx?id=56519
+* US GOVT - Fairfax: http://www.microsoft.com/en-us/download/details.aspx?id=57063
+* GERMANY - Blackforest: http://www.microsoft.com/en-us/download/details.aspx?id=57064
+* China - Mooncake: http://www.microsoft.com/en-us/download/details.aspx?id=57062
+
 ## LEARN
 
 * Admin UI (new) and Mocks <https://www.youtube.com/watch?v=i9PjUAvw7DQ&t=1s>
@@ -60,6 +68,11 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * API Versioning with Azure API Management - best practices - https://azure.microsoft.com/en-us/blog/api-versioning-with-azure-api-management/?ref=devfish
 * Revisions to APIs (tutorial) - https://docs.microsoft.com/en-us/azure/api-management/api-management-get-started-revise-api
 * Publish multiple versions of your api - https://docs.microsoft.com/en-us/azure/api-management/api-management-get-started-publish-versions
+
+## SERVICE TAGS
+
+* Discovery API - https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#service-tags-in-on-premises
+* Disovery API - https://docs.microsoft.com/en-us/rest/api/virtualnetwork/servicetags/list
 
 ## MISC
 

@@ -1,4 +1,5 @@
- # HTTPCLIENT
+# HTTPCLIENT
+
 * DNS change danger with singleton pattern <http://byterot.blogspot.com/2016/07/singleton-httpclient-dns.html>
 * HttpClient v WebClient v HttpWebRequest - http://www.diogonunes.com/blog/webclient-vs-httpclient-vs-httpwebrequest/
 * InfoQ on httpclient - lots of links - https://www.infoq.com/news/2016/09/HttpClient - shows why "using" around a new httpclient is bad
@@ -11,5 +12,11 @@ pooling, and socket exceptions
 * Singleton with HttpClient - DNS changes not honored - dangerous in blue/green in Azure - <http://byterot.blogspot.co.uk/2016/07/singleton-httpclient-dns.html>
 * You're using HttpClient wrong and it is destabilizing your software - http://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
 
-# HTTPCLIENTFACTORIES
+## AZURE FUNCTION
+
+* Use a static client in an Az Function
+* But do NOT dispose of the httpclient in an Az Function - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
+
+## HTTPCLIENTFACTORIES
+
 * HttpClient Factories in .NET CORE 2.1 <https://dotnetcoretutorials.com/2018/05/03/httpclient-factories-in-net-core-2-1/>

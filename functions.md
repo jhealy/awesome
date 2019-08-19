@@ -152,7 +152,9 @@ http://www.mattruma.com/secure-an-azure-function-app-with-azure-active-directory
 * Container - Functions in a container - http://tattoocoder.com/functions-runtime-kubernetes/
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 * HttpClient - Use a static client in an Az Function but do NOT dispose of the httpclient in an Az Function - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
-* Linux > https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 
+* Limits - Functions - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#functions-limits
+* Limits - Functions in App Service Plan - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#app-service-limits
+* Linux - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 
 * Logic Apps v Functions - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
 * Managing connections in Az Functions - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/

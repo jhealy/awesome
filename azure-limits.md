@@ -10,16 +10,19 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * App Insights <https://docs.microsoft.com/en-us/azure/azure-monitor/app/pricing#limits-summary>
 * API Management Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
 * API Management Limits and known issues - <https://docs.microsoft.com/en-us/azure/api-management/api-management-api-import-restrictions>
+* App Service Plan - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#app-service-limits
 * DevOps - Git - https://docs.microsoft.com/en-us/azure/devops/repos/git/limits?view=azure-devops
 * File - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-files-scale-targets> max file share size, max file size, more
 * File Sync - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-file-sync-scale-targets> - region limits, sync group limits, max servers, cloud endpionts, more
 * Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config> actions pe rworkflow, workflows per region, runduration, storage retention, IP addresses
+* Functions - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#functions-limits
+* PowerBI Dataflow - Pro and Premium - https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview#dataflow-capabilities-on-power-bi-premium 
 * SQL Database (Azure) - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-limits-database-server
 * Storage limits dtu single db - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dtu-resource-limits-single-databases
 * SQL Database - VM - 32,767 user connections - https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/data-warehousing#key-selection-criteria
 * SQL Data Warehouse - 240 TB db size - lots of other goodies - https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-service-capacity-limits - 60 TB tables
 * Storage - see storage section below
-* Translate https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits
+* Translate - https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits
 
 ## COGNITIVE SERVICES
 

@@ -6,6 +6,7 @@
 * Connector request - <https://aka.ms/logicapps-wish>
 * Docs - https://docs.microsoft.com/en-us/azure/logic-apps/
 * Edit with Visual Studio <https://docs.microsoft.com/en-us/azure/logic-apps/manage-logic-apps-with-visual-studio>
+* IP Addresses - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config#firewall-configuration-ip-addresses
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/logic-apps/
 * Pricing Model - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing
 * Roadmap <https://trello.com/b/9GhzIReR/azure-logic-apps-product-roadmap>
@@ -47,12 +48,16 @@
 * Securing Access to Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app>
 * Securing Logic Apps via ASE and API Management (vnet equiv) <http://www.bizbert.com/bizbert/2016/01/07/AppServiceEnvironmentsHowToDeployAPIAppsToAVirtualNetwork.aspx>
 * IP addresses - whitelisting - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config#outbound-ip-addresses---logic-apps-service--managed-connectors 
-* VNET Integration via ISE <https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment-overview>
-* VNET - Connect to Azure virtual networks from Azure Logic apps by using an integration service enviornment (ISE) <https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment>
 
 ## TOOLS
 
 * LogAppConnectionAuth - get auth link and complete auth for an OAuth connector - <https://github.com/logicappsio/LogicAppConnectionAuth>
+
+## VNET / ISE
+
+* ISE - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment-overview
+* Connect to Azure virtual networks from Azure Logic apps by using an integration service enviornment (ISE) - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment
+* Network considerations - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment#check-network-ports
 
 ## MISC
 

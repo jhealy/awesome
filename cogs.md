@@ -28,6 +28,21 @@
 * Forms recognizers home - https://aka.ms/form-recognizer 
 * Documentation - Https://aka.ms/form-recognizer/docs
 
+## TEXT
+
+Computer Vision with either OCR or Read API.  Two modes, OCR and Read.
+
+### OCR
+
+* OCR API - syncronous api, not optmized for large docs. provides frame coordinates of each word.  jpg, png, gif, bmp.  4200x4200 pixels
+* API ref - https://westus.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e6355ad44/operations/56f91f2e778daf14a499e1fc
+
+### READ API
+
+* Asyncronous execution.  jpg, png, bmp, pdf, tiff.  less than 20mb per page.  In free only two pages, paid it process up to 200 pages.  Maximum of 300 lines per page. 10kx10k pixels, 17" by 17".  Other apis being deprecated for Read API.
+* Read API - https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text#recognize-text-api
+* Read API in a container - https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers
+
 ## MISC
 
 * Cameras - NYC public webcam list - https://webcams.nyctmc.org/multiview2.php

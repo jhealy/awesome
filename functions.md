@@ -165,6 +165,7 @@ http://www.mattruma.com/secure-an-azure-function-app-with-azure-active-directory
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Proxies - act like baby api management - only available in functions v1 - use API-M instead <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * Python - v1 is experimental and not supporte.  v2 Preview is here <https://github.com/Azure/azure-functions-python-worker>. Python GA is not committed for H1 CY2019.
+* Selenium not supported in Azure Functions - https://github.com/projectkudu/kudu/wiki/Azure-Web-App-sandbox#unsupported-frameworks
 * Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition
 * SQL Binding <https://stackoverflow.com/questions/44983669/azure-function-vs2017-sql-table-binding>
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions

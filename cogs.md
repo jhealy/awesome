@@ -6,6 +6,7 @@
 * build and teach conversational interfaces that learn from example interactions -  <https://labs.cognitive.microsoft.com/en-us/project-conversation-learner>
 * Learn <https://aischool.microsoft.com/en-us/home>
 * OCR and Handwritten sections using Computer Vision and Azure COGS <https://www.microsoft.com/developerblog/2018/05/07/handwriting-detection-and-recognition-in-scanned-documents-using-azure-ml-package-computer-vision-azure-cognitive-services-ocr/>
+* Privacy - your data and privacy - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
 * Speech > Custom language model <https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-customize-language-model>
 * Speech > Speech to Text WebSockets Sample (js) - <https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript>
 * Unified Key (jan 2019) https://azure.microsoft.com/en-us/blog/cognitive-services-certifications-and-availability/

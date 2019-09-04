@@ -1,4 +1,5 @@
 # GENERAL
+
 * Azure Info Hub - news, drill ins by service, et al <https://azureinfohub.azurewebsites.net/>
 * Bash shell for Azure in cloud - <https://shell.azure.com/>
 * Cloud Services comparison - <http://comparecloud.in/>
@@ -11,8 +12,6 @@
 * Pricing - Appservices breakout - https://azure.microsoft.com/en-us/pricing/details/app-service/ 
 * Pricing - Virtual Machines - Windows breakout - https://azure.microsoft.com/en-us/pricing/details/virtual-machines/windows/
 * Services by region, including FED - https://azure.microsoft.com/en-us/status/
-* Security - Azure Trust Center - https://www.microsoft.com/en-us/trustcenter/privacy/you-own-your-data
-* Security - Network Security - https://docs.microsoft.com/en-us/azure/security/azure-network-security
 * Services - all up <https://azure.microsoft.com/en-us/services/>
 * Services - all up - map <https://nnmer.github.io/azure-services-map/dist/>
 * Updates - heat map across all updates <https://aka.ms/azheatmap >
@@ -62,6 +61,13 @@
 * Learn > eBook > Microservices and Docker Containers Architecture Guide and Source Code - https://www.microsoft.com/net/learn/architecture
 * Learn > Video > Russinovich on Microservices - https://channel9.msdn.com/Blogs/Seth-Juarez/An-Introduction-to-Microservices-with-Mark-Russinovich
 * Source Code > eShopOnContainers reference architecture - download and ebook links - https://github.com/dotnet-architecture/eShopOnContainers
+
+## SECURITY
+
+* Azure Trust Center - https://www.microsoft.com/en-us/trustcenter/privacy/you-own-your-data
+* Network Security - https://docs.microsoft.com/en-us/azure/security/azure-network-security
+* Shared responsibility - https://aka.ms/sharedresponsibility
+* Shared responsibility model - download - https://gallery.technet.microsoft.com/Shared-Responsibilities-81d0ff91
 
 ## MISC
 

@@ -3,6 +3,7 @@
 ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile Center and more.
 
 * Azure DevOps Resources <https://docs.microsoft.com/en-us/azure/devops/>
+* DevOps at Microsoft - https://aka.ms/DevOpsAtMicrosoft
 * DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
 * DevOps Hands-On-Labs <https://almvm.azurewebsites.net/>
 * Licensing - what users can and cannot do with the different levels  (StakeHolder, Basic, Basic+TestManagement)

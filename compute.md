@@ -2,6 +2,7 @@
 
 VMs and such.
 
+* Decision tree for compute - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#flowchart
 * Bastion - managed PaaS service that provides seamless RDP and SSH connectivity to your virtual machines over the Secure Sockets Layer (SSL)- https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-microsoft-azure-bastion/
 
 ## MISC

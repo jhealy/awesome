@@ -7,7 +7,10 @@
 
 ## LEARN
 
+* DataOps Pipeline - https://github.com/tayganr/DataOps
+* Form Recognizer with Az Functions - https://github.com/tayganr/form-recognizer
 * Quickstart using curl - https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/quickstarts/curl-train-extract
+* Quickstart using postman - https://www.taygan.co/blog/2019/06/30/form-recognizer
 
 ## SDK
 

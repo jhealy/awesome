@@ -2,7 +2,6 @@
 
 * **Documentation - https://docs.microsoft.com/en-us/azure/cosmos-db/**
 * **Twitter https://twitter.com/AzureCosmosDB or #cosmosdb**
-
 * Always encrypted - on by default - https://docs.microsoft.com/en-us/azure/cosmos-db/database-encryption-at-rest
 * Backup and restore - <https://docs.microsoft.com/en-us/azure/cosmos-db/online-backup-and-restore>
 * Change feed streams <https://docs.microsoft.com/en-us/azure/cosmos-db/change-feed>

@@ -9,6 +9,7 @@
 
 ## LEARN
 
+* Blazor University - https://blazor-university.com/?fbclid=IwAR2mHqrohKAGn48N6CZwcQ2WB8TPIK7-4rnpB_JyRg00RGa8Ob1MMhckQjM
 * Learn to make Shopping Cart using ASP.NET Core Blazor using EF and Web API <https://social.technet.microsoft.com/wiki/contents/articles/51755.let-s-learn-to-make-shopping-cart-using-asp-net-core-blazor-using-ef-and-web-api.aspx>
 * Tutorial - RealWorld - <https://github.com/torhovland/blazor-realworld-example-app>
 * Tutorial - VocabDb - <https://github.com/riipah/vocadb-lyrics-blazor-proto>

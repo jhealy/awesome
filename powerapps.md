@@ -23,7 +23,6 @@
 
 * Deploying PowerApps - https://www.youtube.com/watch?v=QoL1SMaDZac&t=1533s
 * Environments > Working with Environments - https://powerapps.microsoft.com/en-us/tutorials/working-with-environments
-
 * Export and Import Apps Across Environments with Packaging - https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/
 * Moving a Flow between environments - or rather the inability to - https://powerusers.microsoft.com/t5/General-Flow-Discussion/How-to-move-a-flow-between-two-envirionments/td-p/10838
 * Moving a PowerApp between environments - https://powerapps.microsoft.com/en-us/tutorials/environment-and-tenant-migration/
@@ -45,7 +44,7 @@
 
 ## LEARN
 
-<!-- * App-in-a-day - https://aka.ms/appinaday -->
+* App-in-a-day - https://aka.ms/appinaday
 * Create an app using the browser tool - works on a Mac - https://powerapps.microsoft.com/en-us/tutorials/create-app-browser/ 
 * Developing Busines Applications with Power Apps and Microsoft Flow - edx - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
 * EdX - Developing Business Applications with PowerApps and Flow - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
@@ -78,6 +77,7 @@
 * Azure Function -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Case study - Microsoft onboarding application - https://www.microsoft.com/itshowcase/blog/solving-onboarding-dilemma-microsoft-powerapps/
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
+* Collaborative dev with powerapps canvas templates - https://powerapps.microsoft.com/en-us/blog/collaborative-development-for-powerapps-canvas-apps/
 * Connectors > Office 365 > RelevantPeople() - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
 * Connectors > Office 365 > Out of Office Template - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
 * Devops > Devops add in for Power BI - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools

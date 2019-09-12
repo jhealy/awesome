@@ -92,6 +92,13 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Monitor Azure Functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
 * Sampling configuration <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#configure-sampling>
 
+## PREMIUM FUNCTIONS
+
+Pre-warmed instances are shared by all apps in your plan. So, with 3 apps with low load and a minimal memory footprint you would be running on just your pre-warmed instances. You can only deploy Function Apps to this plan, no other resource, like Logic Apps can share that capacity.
+
+You are always billed for 24/7 usage of your minimum plan size with Premium Funcitons. So, multiply your min plan size by the number of seconds in your month and the CPU/memory size you’ve chosen to get that minimum cost. Once you scale beyond that you are charged at the same CPU/memory rate for the time you are running on a worker at the full CPU/memory size of that instance. There is no per-execution billing and multiple Function apps are loaded onto the same worker if there is capacity.
+
+
 ## SAMPLES
 
 * Approval Workflow with SendGrid - Durable Functions Pattern - https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid

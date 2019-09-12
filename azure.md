@@ -13,8 +13,12 @@
 * Pricing - Virtual Machines - Windows breakout - https://azure.microsoft.com/en-us/pricing/details/virtual-machines/windows/
 * Services by region, including FED - https://azure.microsoft.com/en-us/status/
 * Services - all up <https://azure.microsoft.com/en-us/services/>
-* Services - all up - map <https://nnmer.github.io/azure-services-map/dist/>
-* Updates - heat map across all updates <https://aka.ms/azheatmap >
+* Services - all up - map - https://nnmer.github.io/azure-services-map/dist/
+* Updates - heat map across all updates -https://aka.ms/azheatmap
+* Updates - InfoHub - https://azureinfohub.azurewebsites.net/
+* Updates - Last week in Azure - msft blog on latest - no updates since July 2019 - https://azure.microsoft.com/en-us/blog/topics/last-week-in-azure/
+* Updates - Notes - searchable text repo with links and details of az updates - https://azurenotes.tech/
+* Updates - Roadmap - https://azure.microsoft.com/en-us/updates/ 
 
 ## ARCHITECTURE
 

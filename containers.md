@@ -13,6 +13,10 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Red Hat container catalog - https://access.redhat.com/containers/#/registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7
 * Using Windows Auth in ASP.NET Core via http.sys in containers - https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/
 
+## AZURE SERVICES IN A CONTAINER
+
+* cogs - https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support#prerequisites
+
 ## DEVOPS
 
 * Azure Devops Projects - support for AKS and WEb Apps for Containers <https://azure.microsoft.com/en-in/features/devops-projects/>

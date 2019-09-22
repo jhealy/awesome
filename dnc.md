@@ -21,8 +21,8 @@
 
 ## .NET CORE 3.0
 
+* .NET Core 3.0 updates including blazor web assembly preview 9 - https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-release-candidate-1/
 * Update on .NET Core 3.0 and .NET FW 4.8 (oct 2018) <https://blogs.msdn.microsoft.com/dotnet/2018/10/04/update-on-net-core-3-0-and-net-framework-4-8/> - desktop apps including winforms, wpf, ef6.  embed .net directly in an app.  Framwork 4.8 has modern browser, touch and uwp controls and high dpi improvements
-
 * Here's what's new and coming to .NET Core with ver 2.1, 2.2 and 3.0 <https://www.neowin.net/news/heres-whats-new-and-coming-to-net-core-with-versions-21-22-and-30/>
 
 ## .NET CORE 2.2

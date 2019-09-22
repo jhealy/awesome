@@ -28,6 +28,8 @@
 
 Computer Vision with either OCR or Read API.  Two modes, OCR and Read.
 
+* Comparison v Amazon and Google - https://www.amplenote.com/blog/2019_examples_amazon_textract_rekognition_microsoft_cognitive_services_google_vision (2019)
+
 ### Text - OCR
 
 * API - syncronous api, not optmized for large docs. provides frame coordinates of each word.  jpg, png, gif, bmp.  4200x4200 pixels

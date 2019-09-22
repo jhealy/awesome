@@ -87,6 +87,7 @@
 * InfoPath > Rebuilding an InfoPath Designer form in PowerApps - https://www.youtube.com/watch?v=ohQcxcVZSK4
 * Launching a URL / Hyperlink - https://powerusers.microsoft.com/t5/PowerApps-Forum/Hyperlinks-in-Powerapps/td-p/1477
 * Offline Apps - https://powerapps.microsoft.com/en-us/blog/build-offline-apps-with-new-powerapps-capabilities/
+* Performance - otpimization tips - https://powerapps.microsoft.com/en-us/blog/app-checker-now-includes-performance-optimization-tips/
 * PowerBI > PowerBI, PowerApps and Flow - https://www.blue-granite.com/blog/self-service-bi-improving-data-quality-using-power-bi-flow-powerapps
 * PowerBI > Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
 * SortByColumns(), also Concat() - https://blogs.msdn.microsoft.com/briangre/2017/10/04/powerappspuzzle-sorting-selecteditems/

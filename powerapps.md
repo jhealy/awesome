@@ -9,7 +9,6 @@ Main sign-in : https://make.powerapps.com
 * Blog - PowerApps Team - https://powerapps.microsoft.com/en-us/blog/
 * Blog - Office Team - https://blogs.office.com/en-us/feed/
 * Case Studies - http://aka.ms/Powerapps/casestudies
-* Coding Guidelines - http://toddbaginski.com/blog/powerapps-coding-guidelines/
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Forum
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Community/ct-p/PowerApps1
@@ -41,6 +40,7 @@ Main sign-in : https://make.powerapps.com
 
 ## CANVAS APPS
 
+* Coding Guidelines - http://toddbaginski.com/blog/powerapps-coding-guidelines/
 * Coding standards for Canvas apps - https://aka.ms/powerappscanvasguidelines
 * Create a canvas app from scratch using CDS - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch
 * Get started from data - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-create-from-data

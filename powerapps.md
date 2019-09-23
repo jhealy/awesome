@@ -24,12 +24,10 @@ Main sign-in : https://make.powerapps.com
 * System Status for Flow - https://flow.microsoft.com/support/
 * System Status for PowerApps - https://powerapps.microsoft.com/support/
 * VOTE for features - https://community.powerapps.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
-* Q3 2017 Updates for PowerApps - https://powerapps.microsoft.com/en-us/blog/q3-2017-update/
 
 ## ADMIN
 
 * Admin center - must be admin - https://admin.microsoft.com/Support/Support.aspx
-* Deploying PowerApps - https://www.youtube.com/watch?v=QoL1SMaDZac&t=1533s
 * Environments > Working with Environments - https://powerapps.microsoft.com/en-us/tutorials/working-with-environments
 * Export and Import Apps Across Environments with Packaging - https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/
 * Moving a Flow between environments - or rather the inability to - https://powerusers.microsoft.com/t5/General-Flow-Discussion/How-to-move-a-flow-between-two-envirionments/td-p/10838
@@ -78,14 +76,10 @@ Main sign-in : https://make.powerapps.com
 
 Also see SOLUTIONS
 
-* PowerApps Build tools:
-http://aka.ms/buildtoolsdoc 
-* PowerApps Build Tools (Preview)
-https://aka.ms/pabuildtools 
-* CoreTools (including Solution Packager) of SDK:
-https://www.nuget.org/packages/Microsoft.CrmSdk.CoreTools
-* Powershell modules of the SDK:
-https://docs.microsoft.com/en-us/powershell/dynamics365/customer-engagement/overview?view=dynamics365ce-ps
+* PowerApps Build tools: http://aka.ms/buildtoolsdoc 
+* PowerApps Build Tools (Preview): https://aka.ms/pabuildtools 
+* CoreTools (including Solution Packager) of SDK: https://www.nuget.org/packages/Microsoft.CrmSdk.CoreTools
+* Powershell modules of the SDK: https://docs.microsoft.com/en-us/powershell/dynamics365/customer-engagement/overview?view=dynamics365ce-ps
 
 ## LEARN
 

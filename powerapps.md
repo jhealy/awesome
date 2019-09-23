@@ -74,6 +74,19 @@ Main sign-in : https://make.powerapps.com
 * Data sources supported - https://powerapps.microsoft.com/en-us/tutorials/delegation-list/
 * 500 Record Limit, Delegation, and How to Work Around It - via Collections - https://blog.coeo.com/davidmorrison/2017/06/21/powerapps-500-record-limit-delegation-and-how-to-work-around-it
 
+## DEVOPS
+
+Also see SOLUTIONS
+
+* PowerApps Build tools:
+http://aka.ms/buildtoolsdoc 
+* PowerApps Build Tools (Preview)
+https://aka.ms/pabuildtools 
+* CoreTools (including Solution Packager) of SDK:
+https://www.nuget.org/packages/Microsoft.CrmSdk.CoreTools
+* Powershell modules of the SDK:
+https://docs.microsoft.com/en-us/powershell/dynamics365/customer-engagement/overview?view=dynamics365ce-ps
+
 ## LEARN
 
 * App-in-a-day - https://aka.ms/appinaday
@@ -92,6 +105,17 @@ Main sign-in : https://make.powerapps.com
 * Forms for Sharepoint - inside lists and libs - https://blogs.office.com/en-us/2017/05/16/sharepoint-virtual-summit-showcases-growth-innovations-and-customer-success/ 
 * Image from a Sharepoint list - https://community.powerapps.com/t5/PowerApps-Forum/PowerApps-doesn-t-support-images-from-SharePoint-lists/td-p/3635/page/7 
 * Sharepoint Samples in Flow page - https://github.com/jhealy/awesome/blob/master/flow.md#samples
+
+## SOLUTIONS (DEVOPS)
+
+* Introduction to Solutions
+https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/introduction-solutions 
+* Solution Checker Documentation:
+https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/use-powerapps-checker
+* Solution Lifecycle Management Whitepaper (Phil Hand)
+https://www.microsoft.com/en-us/download/details.aspx?id=57777 
+* Working with Solutions in PowerApps
+https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/solutions-overview 
 
 ## MISC
 

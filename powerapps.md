@@ -1,19 +1,27 @@
 # POWERAPPS
 
+Admin sign-in : https://admin.powerapps.com
+Main sign-in : https://make.powerapps.com
+
+* **Documentation** - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
+* **PowerApps for Developers** - https://docs.microsoft.com/en-us/powerapps/#pivot=home&panel=developer
+
 * Blog - PowerApps Team - https://powerapps.microsoft.com/en-us/blog/
 * Blog - Office Team - https://blogs.office.com/en-us/feed/
 * Case Studies - http://aka.ms/Powerapps/casestudies
 * Coding Guidelines - http://toddbaginski.com/blog/powerapps-coding-guidelines/
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Forum
+* Get help - https://powerusers.microsoft.com/t5/PowerApps-Community/ct-p/PowerApps1
 * Get help - Community Forms and App Gallery - https://powerapps.microsoft.com/en-us/blog/new-best-practices-community-forums-and-app-gallery/
-* Compliance Framework for PowerApps - http://disq.us/url?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F1%2F4%2F3%2F1434ABAB-B8E9-412D-8C3A-187B5FCB7A2F%2FCompliance%2520Framework%2520document.pdf%3AIJ_9gCU-B-DBN0wVXFJkZc9TXgg&cuid=4248922
 * Connectors with Descriptions - https://docs.microsoft.com/en-us/connectors/
 * Connectors with Premium Identified - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
-* Documentation > https://powerapps.microsoft.com/en-us/tutorials/connections-list/
+* Licensing - https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus
 * Publishing Apps - https://powerapps.microsoft.com/en-us/tutorials/save-publish-app/
 * Release notes - https://powerapps.microsoft.com/en-us/tutorials/release-notes/
 * Service Status for O365 - https://portal.office.com/servicestatus
+* Support - submit a ticket - https://powerapps.microsoft.com/en-us/support/pro/
+* Suggestions - https://powerusers.microsoft.com/t5/PowerApps-Ideas/idb-p/PowerAppsIdeas
 * System Status for Flow - https://flow.microsoft.com/support/
 * System Status for PowerApps - https://powerapps.microsoft.com/support/
 * VOTE for features - https://community.powerapps.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
@@ -21,6 +29,7 @@
 
 ## ADMIN
 
+* Admin center - must be admin - https://admin.microsoft.com/Support/Support.aspx
 * Deploying PowerApps - https://www.youtube.com/watch?v=QoL1SMaDZac&t=1533s
 * Environments > Working with Environments - https://powerapps.microsoft.com/en-us/tutorials/working-with-environments
 * Export and Import Apps Across Environments with Packaging - https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/
@@ -30,11 +39,32 @@
 * View and Manage Apps from Your Organization - https://powerapps.microsoft.com/en-us/blog/view-and-manage-apps-that-your-organization-is-building/
 * Web > Open PowerApp from HyperLink in Visio Online - https://blog.bvisual.net/2017/05/02/opening-powerapps-from-a-hyperlink-in-visio-online/
 
+## CANVAS APPS
+
+* Coding standards for Canvas apps - https://aka.ms/powerappscanvasguidelines
+* Create a canvas app from scratch using CDS - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch
+
+## CDS AND POWERAPPS
+
+* Create a canvas app from scratch using CDS - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch
+* Create a custom entity that has components in powerapps - https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/create-custom-entity
+
 ## COMMON DATA SERVICE
 
 * Overview - https://docs.microsoft.com/en-us/common-data-service/entity-reference/security-model
 * Licensing - https://docs.microsoft.com/en-us/powerapps/pricing-billing-skus
 * Pricing - https://powerapps.microsoft.com/en-us/pricing/
+
+## COMPONENT FRAMEWORK
+
+* Announcing Component Framework for PA - https://powerapps.microsoft.com/en-us/blog/announcing-experimental-release-of-the-powerapps-component-framework-for-canvas-apps/
+* Community components/blogs/demos - https://aka.ms/PCFDemos
+* Getting started with PA component framework - https://aka.ms/PCFBlog
+* PA component framework community forum - https://aka.ms/PCFForum
+* ReactJS - Extend boundary of PowerApps CF - http://blog.dynamicscode.net/2019/06/26/react-extended-boundary-of-powerapps-component-framework/
+* ReactJS - Facepile - https://docs.microsoft.com/en-us/powerapps/developer/component-framework/sample-controls/react-facepile-control
+* Using PowerApp CF in ReactJS (video) - https://powerusers.microsoft.com/t5/Video-Gallery/PowerApps-Components-Parameters-and-React/td-p/234759
+* Vote for new CF ideas - https://aka.ms/PCFIdea
 
 ## DELEGATION
 
@@ -45,14 +75,7 @@
 ## LEARN
 
 * App-in-a-day - https://aka.ms/appinaday
-* Create an app using the browser tool - works on a Mac - https://powerapps.microsoft.com/en-us/tutorials/create-app-browser/ 
-* Developing Busines Applications with Power Apps and Microsoft Flow - edx - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
-* EdX - Developing Business Applications with PowerApps and Flow - https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x
-* Guided Learning - https://powerapps.microsoft.com/en-us/guided-learning/
-* Guided Tour for PowerApps - via PowerApps - http://aka.ms/kskkr9
-* How to upload images from the camera control to Azure blog storage - https://powerapps.microsoft.com/en-us/blog/custom-api-for-image-upload/
-* Introduction to PowerApps for Access Developers - https://www.microsoft.com/en-us/download/details.aspx?id=54942 
-* Lynda - What are powerapps? - https://www.lynda.com/PowerApps-tutorials/What-PowerApps/573387/615409-4.html
+* Webinar series - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/webinars-listing
 
 ## TEMPLATES
 

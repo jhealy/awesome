@@ -43,6 +43,8 @@ Main sign-in : https://make.powerapps.com
 
 * Coding standards for Canvas apps - https://aka.ms/powerappscanvasguidelines
 * Create a canvas app from scratch using CDS - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch
+* Get started from data - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-create-from-data
+* Get started from scratch -https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-create-from-blank
 
 ## CDS AND POWERAPPS
 
@@ -99,12 +101,14 @@ Main sign-in : https://make.powerapps.com
 * Azure Function -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * Azure Function -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Case study - Microsoft onboarding application - https://www.microsoft.com/itshowcase/blog/solving-onboarding-dilemma-microsoft-powerapps/
+* Center of Excellence (COE) Starter Kit - https://powerapps.microsoft.com/en-us/blog/introducing-the-powerapps-center-of-excellence-starter-kit/
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
 * Collaborative dev with powerapps canvas templates - https://powerapps.microsoft.com/en-us/blog/collaborative-development-for-powerapps-canvas-apps/
 * Connectors > Office 365 > RelevantPeople() - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
 * Connectors > Office 365 > Out of Office Template - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
 * Devops > Devops add in for Power BI - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools
 * Flow > Add a Flow to a PowerApp - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/using-logic-flows
+* Function from powerapp via rest/swagger - https://powerapps.microsoft.com/en-us/blog/using-azure-functions-in-powerapps/
 * Gateway > Firewall and FAQ - https://powerapps.microsoft.com/en-us/tutorials/gateway-reference/
 * InfoPath > Convert InfoPath/Designer workflow processes to PowerApps - https://www.youtube.com/watch?v=l69E7q79y6w
 * InfoPath > Rebuilding an InfoPath Designer form in PowerApps - https://www.youtube.com/watch?v=ohQcxcVZSK4
@@ -114,6 +118,7 @@ Main sign-in : https://make.powerapps.com
 * PowerBI > PowerBI, PowerApps and Flow - https://www.blue-granite.com/blog/self-service-bi-improving-data-quality-using-power-bi-flow-powerapps
 * PowerBI > Embed PowerBI tiles into PowerApps using SharePoint Data - https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Embed-Power-BI-tiles-into-PowerApps/ba-p/48153
 * SortByColumns(), also Concat() - https://blogs.msdn.microsoft.com/briangre/2017/10/04/powerappspuzzle-sorting-selecteditems/
+* Teams - Embed PowerApps in Teams - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/embed-teams-app
 * Using the Cognitive Services Text Analytics API in PowerApps - https://powerapps.microsoft.com/en-us/blog/custom-connectors-and-text-analytics-in-powerapps-part-one/
 
 SEE ALSO - Microsoft Flow - https://github.com/jhealy/awesome/blob/master/flow.md

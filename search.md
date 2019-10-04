@@ -15,6 +15,7 @@
 * Limits - see azure-limits.md
 * Performance optimization - https://docs.microsoft.com/en-us/azure/search/search-performance-optimization
 * Preview Azure Blob PDF in Angular JS <http://www.dotnetfunda.com/articles/show/3494/preview-azure-blob-pdf-document-in-angularjs>
+* Privacy - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
 * Pricing - Search - see azure pricing calculator
 * Pricing - Cognitive Services - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/
 * Samples <https://Github.com/azure-samples?utf8=%E2%9C%93&query=search>
@@ -24,6 +25,11 @@
 * Skills - create a custom (translator) <https://docs.microsoft.com/en-us/azure/search/cognitive-search-create-custom-skill-example>
 * Skills - Using Azure Search custom skills to create personalized job recommendations - https://azure.microsoft.com/en-us/blog/using-azure-search-custom-skills-to-create-personalized-job-recommendations/
 * Skills - reference - https://docs.microsoft.com/en-us/azure/search/cognitive-search-predefined-skills
+
+## CODE
+
+* .NET SDK Samples - https://github.com/Azure-Samples/azure-search-dotnet-samples/tree/master/index-backup-restore
+* Search samples on Az Code Samples - https://azure.microsoft.com/en-us/resources/samples/?service=search&sort=0
 
 ## LEARN
 

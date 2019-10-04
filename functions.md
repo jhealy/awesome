@@ -127,6 +127,15 @@ http://www.mattruma.com/secure-an-azure-function-app-with-azure-active-directory
 * (pro-service fabric)<https://social.msdn.microsoft.com/Forums/en-US/cca1d59c-d6b9-402f-92ba-e7a55d5834e6/service-fabric-vs-azure-functions>
 * so <https://stackoverflow.com/questions/46543519/service-fabric-actors-or-azure-functions/52206220#52206220>
 
+## SWAGGER
+
+Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal cannot.  need to augment with nswag or something like it.
+
+* AlienCube swagger generator - https://devkimchi.com/2019/02/02/introducing-swagger-ui-on-azure-functions/
+* NSwag - Swagger Generator for Azure Fucntions v2 - https://github.com/Jusas/NSwag.AzureFunctionsV2
+* NSwag - sample - https://functionsswagger.azurewebsites.net/api/swaggerui/index.html
+* Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition
+
 ## UNIT TESTING
 
 * <https://github.com/jeffhollan/functions-test-helper>
@@ -171,9 +180,8 @@ http://www.mattruma.com/secure-an-azure-function-app-with-azure-active-directory
 * PowerApps -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Proxies - act like baby api management - only available in functions v1 - use API-M instead <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
-* Python - v1 is experimental and not supporte.  v2 Preview is here <https://github.com/Azure/azure-functions-python-worker>. Python GA is not committed for H1 CY2019.
+* Python - First py function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python#deploy-the-function-app-project-to-azure
 * Selenium not supported in Azure Functions - https://github.com/projectkudu/kudu/wiki/Azure-Web-App-sandbox#unsupported-frameworks
-* Swagger / OpenAPI creation for Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition
 * SQL Binding <https://stackoverflow.com/questions/44983669/azure-function-vs2017-sql-table-binding>
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions
 

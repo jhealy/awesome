@@ -57,12 +57,15 @@ Main sign-in : https://make.powerapps.com
 
 ## COMPONENT FRAMEWORK
 
-* Announcing Component Framework for PA - https://powerapps.microsoft.com/en-us/blog/announcing-experimental-release-of-the-powerapps-component-framework-for-canvas-apps/
+* Announcing Component Framework for PA Canvas - https://powerapps.microsoft.com/en-us/blog/announcing-experimental-release-of-the-powerapps-component-framework-for-canvas-apps/
+* Announcing GA of PCF for Model Driven Apps - https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-powerapps-component-framework-for-model-driven-applications-and-powerapps-cli/
+* CLI - Announcing PowerApps CLI for PCF - https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-powerapps-component-framework-for-model-driven-applications-and-powerapps-cli/
 * Community components/blogs/demos - https://aka.ms/PCFDemos
 * Getting started with PA component framework - https://aka.ms/PCFBlog
 * PA component framework community forum - https://aka.ms/PCFForum
 * ReactJS - Extend boundary of PowerApps CF - http://blog.dynamicscode.net/2019/06/26/react-extended-boundary-of-powerapps-component-framework/
 * ReactJS - Facepile - https://docs.microsoft.com/en-us/powerapps/developer/component-framework/sample-controls/react-facepile-control
+* React in the PCF public preview - https://powerapps.microsoft.com/en-us/blog/use-of-react-and-office-ui-fabric-react-in-the-powerapps-component-framework-is-now-available-for-public-preview/
 * Using PowerApp CF in ReactJS (video) - https://powerusers.microsoft.com/t5/Video-Gallery/PowerApps-Components-Parameters-and-React/td-p/234759
 * Vote for new CF ideas - https://aka.ms/PCFIdea
 

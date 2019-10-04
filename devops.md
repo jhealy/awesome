@@ -5,6 +5,7 @@ ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile
 * Azure DevOps Resources <https://docs.microsoft.com/en-us/azure/devops/>
 * DevOps at Microsoft - https://aka.ms/DevOpsAtMicrosoft
 * DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
+* DevOps Demo Generator is now open sourced - https://devblogs.microsoft.com/devops/azure-devops-demo-generator-is-now-open-source/
 * DevOps Hands-On-Labs <https://almvm.azurewebsites.net/>
 * Licensing - what users can and cannot do with the different levels  (StakeHolder, Basic, Basic+TestManagement)
 https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-levels?view=azure-devops
@@ -47,6 +48,7 @@ See App Center above....
 * Containers > Installing Build tools into a docker container - https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container
 * Copy a project.  No way to do it directly (yet 08/2019).  Workaround: template extractor tool for Azure DevOps Demo Generator: https://azuredevopsdemogenerator.azurewebsites.net/?enableextractor=true . The tool extracst a template package from the source project that can then be used to create a new project(s).  Documentation: https://docs.microsoft.com/en-us/azure/devops/demo-gen/build-your-own-template
 * DataBricks extension for az devops - https://aka.ms/devopsfordatabricks
+* Data Factory DevOps - https://cloudarchitected.com/2019/04/devops-in-azure-with-databricks-and-data-factory/
 * Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
 * Functions and devops - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
 * Git > GitLab > Devops with GitLab - https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/?view=azure-devops - 

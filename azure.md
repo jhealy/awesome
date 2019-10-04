@@ -84,7 +84,9 @@
 * CLI > IoT Hub Extension - "az extension add --name azure-cli-iot-ext"
 * CLI > Locally run Azure CLI - https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
 * Cloud Design Patterns (pnp) - https://docs.microsoft.com/en-us/azure/architecture/patterns/
-* Certification - Collection of study guides for various exams - https://rmmartins.github.io/AzureCertification//
+* Certification - Collection of study guides for various exams - https://rmmartins.github.io/AzureCertification/
+* Certification - Az100 - https://stanislas.io/2019/08/23/preparation-guide-for-microsoft-ai-100-designing-and-implementing-an-azure-ai-solution-azure-ai-engineer-associate-certification/
+* Certification - Az100 - https://medium.com/deep-ai/study-guide-for-microsoft-azure-ai-100-designing-and-implementing-an-azure-ai-solution-beta-b0b01effd2c6
 * Cloud App Security Broker - <https://www.microsoft.com/en-us/cloud-platform/cloud-app-security>
 * Code samples - all up code samples browser - https://docs.microsoft.com/en-us/teamblog/code-samples?WT.mc_id=docsmsft-twitter
 * Data Center > Under the sea <https://motherboard.vice.com/en_us/article/pavq99/microsoft-project-natick-submarine-data-center> <https://www.theverge.com/2018/6/6/17433206/microsoft-underwater-data-center-project-natick> <https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/>

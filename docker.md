@@ -10,6 +10,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 ## CONTAINER SAMPLES
 
 * Windows Container Samples - https://docs.microsoft.com/en-us/virtualization/windowscontainers/samples
+* Windows dockerfiles - https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/master/windows-container-samples
 
 ## LEARN
 
@@ -52,6 +53,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 * 'latest' tag removed from docker images - https://techcommunity.microsoft.com/t5/Containers/Removing-the-latest-Tag-An-Update-on-MCR/ba-p/393045
 * Windows Containers on Windows 10 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10
 * Windows Containers on Windows Server 2019 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-server
+* Windows dockerfiles repo - https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/master/windows-container-samples
 * Windows Server - free docker EE licensing - https://docs.docker.com/install/windows/docker-ee/
 
 ## MISC

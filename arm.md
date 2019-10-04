@@ -23,6 +23,7 @@ All the goodness I've found on Azure Resource Manager and templates.
 # TOOLS 
 
 * ARMClient Command Tool <http://blog.davidebbo.com/2015/01/azure-resource-manager-client.html>
+* Deployment Manager - deploy arm templates across regions - https://docs.microsoft.com/en-us/azure/azure-resource-manager/deployment-manager-overview
 * Template validator <https://github.com/singhkays/azure-arm-validator>
 
 ## TOOLS - ARM CLIENT SAMPLES
@@ -47,3 +48,4 @@ armclient get https://management.azure.com/$subid/providers/Microsoft.Web/locati
 
 * ARM errors on deploy - <https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures>
 * Callback URL for Logic App in ARM <https://stackoverflow.com/questions/47012601/getting-callback-url-for-logic-app-in-arm>
+* Visualize ARM Templates in VS Code - https://marketplace.visualstudio.com/items?itemName=bencoleman.armview

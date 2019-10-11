@@ -2,13 +2,19 @@
 
 Turkey solution for publishing APIs to external and internal customers.  Secure and protect from abuse and overuse.  Health and usage insights.  Automate and scale developer onboarding.
 
+* Documentation - <https://docs.microsoft.com/en-us/azure/api-management/>
 * Overview video - https://www.youtube.com/watch?v=0yf_xm5cPIo
 * Twitter - https://twitter.com/AzureApiMgmt
 * About API Management - <https://docs.microsoft.com/en-us/azure/machine-learning/studio/manage-web-service-endpoints-using-api-management>
 * Benefits of using Azure API Management with Microservices - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
 * Consumption tier API management - use with serverless - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
-* Documentation - <https://docs.microsoft.com/en-us/azure/api-management/>
 * Pricing - <https://azure.microsoft.com/en-us/pricing/details/api-management>
+
+## CONTACT THE TEAM
+
+* Azure feedback forum - https://feedback.azure.com/forums/248703-api-management
+* Email - <mailto:apimgmt@microsoft.com>
+* MSDN forum for API-M - https://social.msdn.microsoft.com/forums/azure/home?forum=azureapimgmt
 
 ## QUICK LINKS
 
@@ -61,6 +67,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * RBAC in API Management ( Jan 2017 ) <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Quick starts here (2) - <https://docs.microsoft.com/en-us/azure/api-management/>
 * Tutorial, doc, and ref - <https://aka.ms/apidocs>
+* Videos - https://azure.microsoft.com/en-us/resources/videos/index/?services=api-management
 * Why, what, how, and what's next (Sept 2017) <https://www.youtube.com/watch?v=HxhoAkhor-w>
 
 ## REVISIONS / VERSIONING

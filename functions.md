@@ -52,6 +52,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 
 ## DEVOPS
 
+* **Devops collection from the functions team** - https://aka.ms/functions-azure-devops
 * Azure Functions Continuos deployment with Azure Pipelines - <http://dontcodetired.com/blog/?tag=funcpipeseries>
 * Deploying functions with ARM templates <https://blog.kloud.com.au/2018/08/16/deploying-azure-functions-with-arm-templates/>
 * Deployment tech in devops - https://docs.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies
@@ -97,7 +98,6 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 Pre-warmed instances are shared by all apps in your plan. So, with 3 apps with low load and a minimal memory footprint you would be running on just your pre-warmed instances. You can only deploy Function Apps to this plan, no other resource, like Logic Apps can share that capacity.
 
 You are always billed for 24/7 usage of your minimum plan size with Premium Funcitons. So, multiply your min plan size by the number of seconds in your month and the CPU/memory size you’ve chosen to get that minimum cost. Once you scale beyond that you are charged at the same CPU/memory rate for the time you are running on a worker at the full CPU/memory size of that instance. There is no per-execution billing and multiple Function apps are loaded onto the same worker if there is capacity.
-
 
 ## SAMPLES
 

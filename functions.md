@@ -100,6 +100,8 @@ Pre-warmed instances are shared by all apps in your plan. So, with 3 apps with l
 
 You are always billed for 24/7 usage of your minimum plan size with Premium Funcitons. So, multiply your min plan size by the number of seconds in your month and the CPU/memory size you’ve chosen to get that minimum cost. Once you scale beyond that you are charged at the same CPU/memory rate for the time you are running on a worker at the full CPU/memory size of that instance. There is no per-execution billing and multiple Function apps are loaded onto the same worker if there is capacity.
 
+Notes on moving functions across zones that include premium - https://github.com/Azure-Samples/functions-csharp-premium-scaler#setup .
+
 ## SAMPLES
 
 * Approval Workflow with SendGrid - Durable Functions Pattern - https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid

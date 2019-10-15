@@ -15,6 +15,7 @@
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Roadmap <https://azure.microsoft.com/en-us/roadmap/?query=functions>
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
+* V3.0 upcoming features discussion - https://github.com/Azure/app-service-announcements/issues/200
 * Wiki - has variety of topics including samples and content - https://github.com/Azure/Azure-Functions/wiki
 
 ## CANCELLATION TOKENS

@@ -1,4 +1,4 @@
-# CONTAINERS 
+# CONTAINERS
 
 * Active Directory service accounts with Containers - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/manage-serviceaccounts
 * Azure Cloud Service > Build and deploy node.js to Azure Cloud Service - <https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-nodejs-develop-deploy-app>
@@ -12,6 +12,11 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * .NET Core 2.1 on Docker <https://blogs.msdn.microsoft.com/dotnet/2018/05/07/announcing-net-core-2-1-rc-1/>
 * Red Hat container catalog - https://access.redhat.com/containers/#/registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7
 * Using Windows Auth in ASP.NET Core via http.sys in containers - https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/
+
+## APP SERVICE CONTAINERS
+
+* Announce - https://azure.microsoft.com/en-us/blog/announcing-the-public-preview-of-windows-container-support-in-azure-app-service/
+* Quickstart to run a Windows Container in App Service - https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-windows-container
 
 ## AZURE SERVICES IN A CONTAINER
 

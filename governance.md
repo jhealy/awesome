@@ -9,16 +9,23 @@
 * Templates for automating Azure Resource Manager policies <https://github.com/karlkuhnhausen/azure-scaffold>
 * VMs <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-govern-resources>
 
-# PRIVACY
+## LEARN
+
+* Governance workshop - https://github.com/faridabharmal/AzureGovernance
+
+## PRIVACY
+
 * **Where is your data located** - aggregate of links to various sources <https://www.microsoft.com/en-us/TrustCenter/Privacy/where-your-data-is-located>
 * COGS-Translator - Microsoft takes no record of the content submitted for translation <https://www.microsoft.com/en-us/translator/notrace.aspx>
 * COGS-Translator - If customer performs customization, the documents used for training will be stored by Microsoft in YOUR workspace - <https://cognitive.uservoice.com/knowledgebase/articles/1147537-api-and-customization-confidentiality>
 * Encryption at rest <https://docs.microsoft.com/en-us/azure/security/azure-security-encryption-atrest>
 
-# SECURITY
+## SECURITY
+
 * Conducting a risk assessment <https://www.microsoft.com/en-us/trustcenter/guidance/risk-assessment>
 * Encryption Overview <https://docs.microsoft.com/en-us/azure/security/security-azure-encryption-overview>
 
-# MISC
+## MISC
+
 * Alias request <https://github.com/Azure/azure-policy/blob/master/1-contribution-guide/request-alias.md>
 * Hippa / HITRUST blueprint <https://azure.microsoft.com/en-us/blog/use-ai-to-streamline-healthcare-operations/?_lrsc=db9e9b8c-5b39-4419-b91c-e8c390bf718e>

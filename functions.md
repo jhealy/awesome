@@ -15,6 +15,7 @@
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Roadmap <https://azure.microsoft.com/en-us/roadmap/?query=functions>
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/
+* V3.0 upcoming features discussion - https://github.com/Azure/app-service-announcements/issues/200
 * Wiki - has variety of topics including samples and content - https://github.com/Azure/Azure-Functions/wiki
 
 ## CANCELLATION TOKENS
@@ -99,6 +100,8 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 Pre-warmed instances are shared by all apps in your plan. So, with 3 apps with low load and a minimal memory footprint you would be running on just your pre-warmed instances. You can only deploy Function Apps to this plan, no other resource, like Logic Apps can share that capacity.
 
 You are always billed for 24/7 usage of your minimum plan size with Premium Funcitons. So, multiply your min plan size by the number of seconds in your month and the CPU/memory size you’ve chosen to get that minimum cost. Once you scale beyond that you are charged at the same CPU/memory rate for the time you are running on a worker at the full CPU/memory size of that instance. There is no per-execution billing and multiple Function apps are loaded onto the same worker if there is capacity.
+
+Notes on moving functions across zones that include premium - https://github.com/Azure-Samples/functions-csharp-premium-scaler#setup .
 
 ## SAMPLES
 

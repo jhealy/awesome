@@ -53,6 +53,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 ## DEVOPS
 
 * **Devops collection from the functions team** - https://aka.ms/functions-azure-devops
+* **DevOps for functions** - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
 * Azure Functions Continuos deployment with Azure Pipelines - <http://dontcodetired.com/blog/?tag=funcpipeseries>
 * Deploying functions with ARM templates <https://blog.kloud.com.au/2018/08/16/deploying-azure-functions-with-arm-templates/>
 * Deployment tech in devops - https://docs.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies
@@ -162,7 +163,7 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * Core - .NET Core 2.0 with Azure Functions Preview - https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Cross Platform Tooling for Az Functions - Mac, Linux via NPM.  VS Code. VS Mac. Javascript, c#.  https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Debugging Azure Functions locally using Postman <https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function>
-* DevOps for functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
+* Deployment slots - https://docs.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots
 * Event Hubs with Azure Functions - Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
 * Event Processing in Azure Functions - challenges <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fcfs>
 * Container - Functions in a container - http://tattoocoder.com/functions-runtime-kubernetes/

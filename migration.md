@@ -4,6 +4,10 @@ Migration amongst and to Azure as a general topic.  Content may be duplicated in
 
 Migration Journey - https://azure.microsoft.com/en-us/migration/migration-journey/
 
+## LEARN
+
+* Workshop - Migrate your apps (2019) - https://github.com/chadgms/2019AzureMigrateYourApps 
+
 ## DATA
 
 Non-database data, such as files.

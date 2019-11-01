@@ -8,4 +8,6 @@ VMs and such.
 ## MISC
 
 * Compute > File Data Transfer project - high speed data loader for VMs <https://www.microsoft.com/en-us/garage/profiles/fast-data-transfer/>
+* Image Builder for VMs - https://docs.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-overview
+* Image Builder for VMs using Packer - https://www.packer.io/docs/builders/azure.html
 * RDP file format - https://www.donkz.nl/overview-rdp-file-settings/

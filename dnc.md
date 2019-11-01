@@ -9,6 +9,7 @@
 * Build > CI with .NET Core - https://docs.microsoft.com/en-us/dotnet/core/tools/using-ci-with-cli
 * Command line tools > https://docs.microsoft.com/en-us/dotnet/core/tools/
 * Compared with .NET Framework > https://stackoverflow.com/questions/42939454/what-is-the-difference-between-net-core-and-net-standard-class-library-project
+* Diagnostics via EventFlow - https://github.com/Azure/diagnostics-eventflow
 * Logging in .NET Core <https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-2.1#tracesource-provider>
 * OData Lib for .NET Core - https://www.nuget.org/packages/Microsoft.AspNetCore.OData/
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
@@ -73,6 +74,7 @@
 * 1X TO 2X <https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/?view=aspnetcore-2.1>
 * 20 TO 2.1 <https://docs.microsoft.com/en-us/aspnet/core/migration/20_21?view=aspnetcore-2.1>
 * Core v Framework 4.8 <https://devblogs.microsoft.com/dotnet/update-on-net-core-3-0-and-net-framework-4-8/>
+* Try-convert automated migration tool - https://github.com/dotnet/try-convert/
 
 ## WINDOWS WORKFLOW
 

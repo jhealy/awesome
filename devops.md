@@ -33,6 +33,7 @@ Formerly known as Visual Studio Mobile Center
 
 ## TESTING
 
+* Collect screenshots and videos from tests - https://docs.microsoft.com/en-us/azure/devops/pipelines/test/collect-screenshots-and-video?view=azure-devops
 * Guidance and framework for running HPC apps on Azure - Batch or CycleCloud <https://blogs.msdn.microsoft.com/azurecat/2018/11/12/running-hpc-applications-on-azure/>
 
 ## VISUAL STUDIO MOBILE CENTER

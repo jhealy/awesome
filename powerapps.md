@@ -27,6 +27,7 @@ Main sign-in : https://make.powerapps.com
 ## ADMIN
 
 * Admin center - must be admin - https://admin.microsoft.com/Support/Support.aspx
+* DLP - Restricting connectors that can be accessed by users - https://docs.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention#configuring-connectors-for-a-dlp-policy
 * Environments > Working with Environments - https://powerapps.microsoft.com/en-us/tutorials/working-with-environments
 * Export and Import Apps Across Environments with Packaging - https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/
 * Moving a Flow between environments - or rather the inability to - https://powerusers.microsoft.com/t5/General-Flow-Discussion/How-to-move-a-flow-between-two-envirionments/td-p/10838

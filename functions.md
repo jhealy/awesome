@@ -18,6 +18,13 @@
 * V3.0 upcoming features discussion - https://github.com/Azure/app-service-announcements/issues/200
 * Wiki - has variety of topics including samples and content - https://github.com/Azure/Azure-Functions/wiki
 
+## AWS LAMBDA COMPARISONS
+
+* AWS Lambda versus Functions - https://serifandsemaphore.io/azure-cloud-functions-vs-aws-lambda-caf8a90605dd
+* AWS Lambda versus Functions - Functions come out looking pretty good - https://www.iamondemand.com/blog/aws-lambda-vs-azure-functions-ten-major-differences/​​​​​​​ . 
+* Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-scaling-face-off/
+* Versus Azure Functions Lambda vs Google Cloud Functions - Javascript Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-vs-google-cloud-functions-javascript-scaling-face-off/
+
 ## CANCELLATION TOKENS
 
 * Correct use of cancellation token <https://stackoverflow.com/questions/36173674/correct-use-of-cancellationtoken>
@@ -154,9 +161,6 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 
 ## MISC
 
-* AWS Lambda versus Functions - https://serifandsemaphore.io/azure-cloud-functions-vs-aws-lambda-caf8a90605dd
-* Azure Functions vs AWS Lambda Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-scaling-face-off/
-* Azure Functions vs AWS Lambda vs Google Cloud Functions - Javascript Scaling Face Off - https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-vs-google-cloud-functions-javascript-scaling-face-off/
 * Blog - Azure App Service Team - https://blogs.msdn.microsoft.com/appserviceteam/
 * Blog - Kloud - good general dev blog for cloud - https://blog.kloud.com.au - rss: https://blog.kloud.com.au/feed/
 * Build Apps Faster with Serverless - https://channel9.msdn.com/Blogs/Azure/Build-apps-faster-with-Azure-Serverless

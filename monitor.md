@@ -8,7 +8,16 @@
 * Filtering telemetry - https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-filtering-sampling#filtering
 * Functions monitoring using App Insights - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
 * Monitoring Azure Batch .NET with App Insights <https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously>
+* .NET Core 3.0 support - https://azure.microsoft.com/en-us/blog/azure-monitor-adds-worker-service-sdk-new-asp-net-core-metrics/
 * Sampling - turn off random sample using hosts.json - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#configure-sampling
+
+## LOG ANALYTICS
+
+* How to alert on az storage blob access using Az Monitor and Log Analytics - https://devblogs.microsoft.com/premier-developer/how-to-alert-on-azure-blob-metrics/
+
+## MONITOR
+
+* How to alert on az storage blob access using Az Monitor and Log Analytics - https://devblogs.microsoft.com/premier-developer/how-to-alert-on-azure-blob-metrics/
 
 ## .NET CORE AND APP INSIGHTS
 

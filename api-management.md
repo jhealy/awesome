@@ -18,8 +18,8 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 ## QUICK LINKS
 
+* API Documents - showing API-M in action - <https://aka.ms/apidocs>
 * Blog - https://aka.ms/apimblog
-* Tutorials, docs, and refs - http://aka.ms/apimdocs
 * Public discussion form - http://aka.ms/apimso
 * Reusable policy examples - http://aka.ms/apimpolicyexamples
 * DevOps guidance and tools - http://aka.ms/apimdevops
@@ -27,7 +27,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Public Roadmap - http://aka.ms/apimroadmap
 * Feedback and feature requests - http://aka.ms/apimwish
 * Customer stories - http://aka.ms/apimcustomers
-* **API-M Love - resource collection - Great! - http://aka.ms/apimlove**
+* ** API-M Love - resource collection - Great! - http://aka.ms/apimlove **
 
 ## DEVELOPER PORTAL
 
@@ -66,9 +66,14 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Manage Change in your APIs with Azure API Management (Nov 2017) <https://www.youtube.com/watch?v=kVM-5vQymIA&t=14s> 
 * RBAC in API Management ( Jan 2017 ) <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Quick starts here (2) - <https://docs.microsoft.com/en-us/azure/api-management/>
-* Tutorial, doc, and ref - <https://aka.ms/apidocs>
+* Tutorials - https://docs.microsoft.com/en-us/azure/api-management/import-and-publish
 * Videos - https://azure.microsoft.com/en-us/resources/videos/index/?services=api-management
 * Why, what, how, and what's next (Sept 2017) <https://www.youtube.com/watch?v=HxhoAkhor-w>
+
+## MONITORING
+
+* Az Monitor with API-M - https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-use-azure-monitor
+* Monitoring a web api - https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation?toc=%2Fazure%2Fapi-management%2Ftoc.json#monitoring-a-web-api
 
 ## REVISIONS / VERSIONING
 

@@ -42,6 +42,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 
 ## WINDOWS CONTAINER
 
+* **Windows Containers home** - https://aka.ms/containers 
 * AKS Windows Container Support Announce - May 17 2019 - https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-windows-server-containers-support-in-azure-kubernetes-service/
 * Authentication - Enabling Integrated Windows Authentication in Windows Docker Container - https://artisticcheese.wordpress.com/2017/09/09/enabling-integrated-windows-authentication-in-windows-docker-container/
 * Config file - https://docs.docker.com/engine/reference/commandline/dockerd/#/windows-configuration-file
@@ -49,6 +50,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 * Docker engine on windows - configuration tips - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/configure-docker-daemon
 * IIS Docker Image - https://hub.docker.com/r/microsoft/iis/
 * IIS Docker Image and https - https://github.com/Microsoft/iis-docker/issues/30
+* Implementing resource controls for windows container - things like cpu, memory, etc - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/resource-controls
 * Mounting drives into a Windows Container - https://blog.sixeyed.com/docker-volumes-on-windows-the-case-of-the-g-drive/
 * 'latest' tag removed from docker images - https://techcommunity.microsoft.com/t5/Containers/Removing-the-latest-Tag-An-Update-on-MCR/ba-p/393045
 * Windows Containers on Windows 10 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10

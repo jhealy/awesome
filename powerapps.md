@@ -78,6 +78,7 @@ Main sign-in : https://make.powerapps.com
 
 Also see SOLUTIONS
 
+* Environment and tenant app migration through packaging - https://docs.microsoft.com/en-us/power-platform/admin/environment-and-tenant-migration
 * PowerApps Build tools: http://aka.ms/buildtoolsdoc 
 * PowerApps Build Tools (Preview): https://aka.ms/pabuildtools 
 * CoreTools (including Solution Packager) of SDK: https://www.nuget.org/packages/Microsoft.CrmSdk.CoreTools
@@ -86,6 +87,8 @@ Also see SOLUTIONS
 ## LEARN
 
 * App-in-a-day - https://aka.ms/appinaday
+* Lab challenges - a follow on to app-in-a-day - https://powerapps.microsoft.com/en-us/blog/power-platform-challenges/
+* Resources - ton of great stuff, you MUST check this out - http://aka.ms/powerapps-resources
 * Webinar series - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/webinars-listing
 
 ## TEMPLATES

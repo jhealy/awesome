@@ -11,6 +11,10 @@
 * .NET Core 3.0 support - https://azure.microsoft.com/en-us/blog/azure-monitor-adds-worker-service-sdk-new-asp-net-core-metrics/
 * Sampling - turn off random sample using hosts.json - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#configure-sampling
 
+## LEARN
+
+* Exploring monitoring capabilities in Azure (HoL) - https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T01_Lab_Mod01_Exploring%20Monitoring%20Capabilities%20in%20Azure.md
+
 ## LOG ANALYTICS
 
 * How to alert on az storage blob access using Az Monitor and Log Analytics - https://devblogs.microsoft.com/premier-developer/how-to-alert-on-azure-blob-metrics/

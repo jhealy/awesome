@@ -62,6 +62,10 @@
 * ODP.NET Discussion Forum - https://community.oracle.com/community/database/developer-tools/windows_and_.net/odp.net
 * via dbConnect from devart as of June 2017 - https://www.devart.com/dotconnect/oracle/history.html
 
+# DEVOPS
+
+* Pipeline sample - Here is a repo where I have set up workflow for a .NET framework core app: https://github.com/N-Usha/pipelines-dotnet-core/ , https://github.com/N-Usha/pipelines-dotnet-core/blob/master/.github/workflows/README.md
+
 ## LEARN
 
 * Get Started - https://www.microsoft.com/net/core#windowsvs2017
@@ -107,6 +111,7 @@ Convert other proj to vs2017 <https://github.com/hvanbakel/CsprojToVs2017>
 * Logging > Using nLog with .NET Standard - https://github.com/NLog/NLog/wiki/platform-support
 * Performance - techempower benchmarks - linux v win, cloud v physical
 * Polly - silience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner - <https://github.com/App-vNext/Polly>
+* Repository Pattern - https://dotnetcorecommunity.blogspot.com/2019/11/generic-repository-pattern-with.html
 * Run a command in an external window with .net core <https://dev.to/deinsoftware/run-a-command-in-external-terminal-with-net-core-d4l?WT.mc_id=devfish>
 * Runtime > Multi-framework targeting - https://blogs.msdn.microsoft.com/cesardelatorre/2016/06/28/running-net-core-apps-on-multiple-frameworks-and-what-the-target-framework-monikers-tfms-are-about/
 * Static code analysis in .NET Core <https://docs.microsoft.com/en-us/visualstudio/code-quality/use-roslyn-analyzers?view=vs-2017>

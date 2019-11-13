@@ -40,6 +40,12 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * Service limits <https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#azure-signalr-service-limits>
 * Message Size <https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery>
 
+## SITE RECOVERY 
+
+* Bitlocker not supported - 
+* Site recovery - azure to azure - https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-support-matrix
+* Site recovery - vmware to azure - https://docs.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-support-matrix
+
 ## STORAGE
 
 * Account Scale Limits - Standard <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#standard-storage-account-scale-limits>

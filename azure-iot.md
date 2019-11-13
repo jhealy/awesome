@@ -6,6 +6,7 @@
 * Device Explorer - https://github.com/Azure/azure-iot-sdk-csharp/releases
 * IoT and AI Insider Labs <https://www.microsoftiotinsiderlabs.com/>
 * IoT Project catalog - https://microsoft.github.io/azure-iot-developer-kit/docs/projects/?utm_source=distributor-seeed&utm_medium=email&utm_campaign=devfish
+* Microsoft IoT blob - https://aka.ms/msiotblog
 * Starter Kits > Docs for Starter Kits - free - https://azure.microsoft.com/en-us/resources/samples/?service=iot-hub&term=starter+kit
 * Starter Kits > March 2016 Blog - https://blogs.microsoft.com/iot/2016/03/31/azure-iot-starter-kits-open-the-door-to-developer-innovation/
 

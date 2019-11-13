@@ -9,6 +9,7 @@
 ## LEARN
 
 * Get Started with Terraform on Windows Azure - <https://pgroene.wordpress.com/2016/06/14/getting-started-with-terraform-on-windows-and-azure/>
+* Julien Corioland - Terraform on Azure Series - Part 7 - https://blog.jcorioland.io/archives/2019/10/02/terraform-microsoft-azure-pipeline-continuous-deployment.html
 * Workshop via UK CSA team <https://azurecitadel.com/automation/terraform/>
 
 ## DEVOPS INTEGRATION

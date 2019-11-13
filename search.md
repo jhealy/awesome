@@ -13,6 +13,7 @@
 * Indexing > SQL <https://docs.microsoft.com/en-us/azure/search/search-howto-connecting-azure-sql-database-to-azure-search-using-indexers>
 * ***Knowledge mining solution accelerator*** - released May 2019 - https://github.com/Azure-Samples/azure-search-knowledge-mining
 * Limits - see azure-limits.md
+* Partitioning strategies - https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies
 * Performance optimization - https://docs.microsoft.com/en-us/azure/search/search-performance-optimization
 * Preview Azure Blob PDF in Angular JS <http://www.dotnetfunda.com/articles/show/3494/preview-azure-blob-pdf-document-in-angularjs>
 * Privacy - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/

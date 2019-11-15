@@ -15,8 +15,11 @@ Exploration of things docker but not ACS/AKS/AppService container
 ## LEARN
 
 * Azure Batch and Docker Containers Lab - vscode, ci builds, azure container registry hooks, and azure app service - https://github.com/AdamPaternostro/Azure-Docker-Shipyard 
+* Containers on Windows Documentation - https://docs.microsoft.com/en-us/virtualization/windowscontainers/
 * Exploring Docker for Windows - Michael Crump - https://www.michaelcrump.net/part1-docker/
 * Get started with docker in your projects (ebook) - https://www.amazon.com/Get-Started-Docker-your-Projects-ebook/dp/B07DNHVLTX/
+* Getting started with Docker for Windows (june 2019) - https://devblogs.microsoft.com/premier-developer/getting-started-with-docker-for-windows/
+* Leverage the power of docker (linkedin$) - https://www.linkedin.com/learning/docker-for-developers-2/leverage-the-power-of-docker?u=3322
 * Michael Crump starter series - https://www.michaelcrump.net/part1-docker/
 
 ## .NET

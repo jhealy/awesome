@@ -12,6 +12,10 @@ Exploration of things docker but not ACS/AKS/AppService container
 * Windows Container Samples - https://docs.microsoft.com/en-us/virtualization/windowscontainers/samples
 * Windows dockerfiles - https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/master/windows-container-samples
 
+## DOCKERFILE
+
+* Mother load of Windows dockerfiles.  Great to see how to build out really sophisticated dockerfiles.  https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/master/windows-container-samples .
+
 ## LEARN
 
 * Azure Batch and Docker Containers Lab - vscode, ci builds, azure container registry hooks, and azure app service - https://github.com/AdamPaternostro/Azure-Docker-Shipyard 

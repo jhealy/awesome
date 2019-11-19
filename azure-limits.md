@@ -23,6 +23,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * SQL Database - VM - 32,767 user connections - https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/data-warehousing#key-selection-criteria
 * SQL Data Warehouse - 240 TB db size - lots of other goodies - https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-service-capacity-limits - 60 TB tables
 * Storage - see storage section below
+* Teams - https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#meetings-and-calls
 * Translate - https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits
 
 ## COGNITIVE SERVICES

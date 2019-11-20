@@ -5,6 +5,10 @@
 * Setting up poshbot for microsoft teams - https://www.thelazyadministrator.com/2019/08/19/chatops-setting-up-poshbot-for-microsoft-teams/
 * Poshbot with teams - https://poshbot.readthedocs.io/en/latest/guides/backends/setup-teams-backend/
 
+## LEARN
+
+* Brandon Olin demoing poshbot (creator of poshbot) - https://www.youtube.com/watch?v=Mrs49IdnSHc&feature=youtu.be
+
 ## MS TEAMS
 
 * MS BotFramework for chatops - https://docs.stackstorm.com/chatops/msteams.html

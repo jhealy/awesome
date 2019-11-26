@@ -5,6 +5,7 @@
 * Connectors List - <https://docs.microsoft.com/en-us/azure/connectors/apis-list>
 * Connector request - <https://aka.ms/logicapps-wish>
 * Docs - https://docs.microsoft.com/en-us/azure/logic-apps/
+* Dynamic expressions / functions reference - https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference
 * Edit with Visual Studio <https://docs.microsoft.com/en-us/azure/logic-apps/manage-logic-apps-with-visual-studio>
 * IP Addresses - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config#firewall-configuration-ip-addresses
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/logic-apps/

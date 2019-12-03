@@ -55,6 +55,7 @@ Office 365
 * Virtual Earth (bing maps) Support - https://support.discoverbing.com/default.aspx?mkt=en-us&productkey=binglocal&brand=&&ct=eformts&scrx=1 
 * Visual Studio - bugs and feedback - '''https://connect.microsoft.com/VisualStudio/''', http://blogs.msdn.com/b/visualstudio/archive/2015/07/30/visual-studio-customer-feedback-channels.aspx 
 http://www.devfish.net/fullblogitemview.aspx?blogid=734|Web Application Toolkit Feedback - webapp@microsoft.com 
+* Visual Studio Container Tools Feedback - https://github.com/Microsoft/DockerTools
 * Visual Studio Cordova - see TACO entry here 
 * Visual Studio and .NET Framework Feedback - https://developercommunity.visualstudio.com/spaces/21/index.html
 * Visual Studio Forums - https://social.msdn.microsoft.com/Forums/vstudio/en-US/home?forum=vsdebug 

@@ -34,6 +34,12 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Endpoint security for Windows containers <https://success.docker.com/article/endpoint-security-for-windows-containers>
 * McAfee doesn't play well with docker <https://kc.mcafee.com/corporate/index?page=content&id=KB90041&actp=null&viewlocale=en_US&showDraft=false&platinum_status=false&locale=en_US>
 
+## VISUAL STUDIO
+
+* Container tools in Visual Studio - https://docs.microsoft.com/en-us/visualstudio/containers/?view=vs-2019
+* Install build tools into a container - https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container?view=vs-2019
+* Visual Studio Container Tools Feedback - https://github.com/Microsoft/DockerTools
+
 ## WINDOWS CONTAINERS
 
 * AKS Windows Containers Support (May 2019) <https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/>

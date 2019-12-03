@@ -2,6 +2,14 @@
 
 wth did all my ps content go?  eeek!
 
+## DEBUG
+
+Dump object
+
+```powershell
+Write-Host ($obj | Format-Table | Out-String)
+````
+
 ## STORAGE
 
 Snapshot blob

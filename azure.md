@@ -107,6 +107,7 @@
 * Non-profits center for Azure - arm templates and contoso store  plus ppts <https://github.com/Microsoft/Nonprofits>
 * Python in Azure PaaS for batch services - https://azure.microsoft.com/en-us/resources/samples/batch-python-paas-cloud-service-pool/
 * Redis available soon in Azure IoT Edge market place <https://redislabs.com/blog/ideal-iot-edge-database-redis-enterprise/>
+* Region name shortcuts - https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.documents.locationnames.westus2?view=azure-dotnet
 * Service Bus > Move off AZAD to SAS - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-acs-sas
 * Sphere SDK <https://www.seeedstudio.com/MT3620-Development-Board-for-Azure-Sphere-p-3052.html>
 * Site Recovery > Case studies <https://azure.microsoft.com/en-us/case-studies/?service=site-recovery>

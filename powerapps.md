@@ -27,6 +27,7 @@ Main sign-in : https://make.powerapps.com
 ## ADMIN
 
 * Admin center - must be admin - https://admin.microsoft.com/Support/Support.aspx
+* Block self-service purchasing for power platform - https://redmondmag.com/articles/2019/12/04/block-microsoft-power-platform-self-service.aspx
 * DLP - Restricting connectors that can be accessed by users - https://docs.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention#configuring-connectors-for-a-dlp-policy
 * Environments > Working with Environments - https://powerapps.microsoft.com/en-us/tutorials/working-with-environments
 * Export and Import Apps Across Environments with Packaging - https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/

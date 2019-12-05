@@ -26,5 +26,6 @@
 # MISC
 * Azure Functions Bindings for Graph - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions
 * CosmosDB and Azure Function Integration - https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/
-* Teams via Graph with SSO - https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Authentication-SSO-and-Microsoft-Graph-in-Microsoft-Teams-Tabs/ba-p/125366
-
+* Graph Toolkit - reusable, framework-agnostic web UI components - https://developer.microsoft.com/en-us/graph/blogs/the-microsoft-graph-toolkit-is-now-generally-available/
+* Teams via Graph with SSO - https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/
+Authentication-SSO-and-Microsoft-Graph-in-Microsoft-Teams-Tabs/ba-p/125366

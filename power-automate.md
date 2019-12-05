@@ -7,6 +7,10 @@ Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 * Licensing - https://preview.flow.microsoft.com/en-us/pricing/
 * Templates - https://us.flow.microsoft.com/en-us/templates/
 
+## ADMIN
+
+* Block self-service purchasing for power platform - https://redmondmag.com/articles/2019/12/04/block-microsoft-power-platform-self-service.aspx
+
 ## DEVOPS
 
 * Power Automate API - https://docs.microsoft.com/en-us/power-automate/web-api

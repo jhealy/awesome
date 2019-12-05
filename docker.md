@@ -46,6 +46,8 @@ Exploration of things docker but not ACS/AKS/AppService container
 * Image2Docker - old and kinda outdated - https://github.com/docker/communitytools-image2docker-win
 * Image2Docker - IIS - Convert ASP.NET Web Servers to Docker with Image2Docker - https://blog.docker.com/2016/12/convert-asp-net-web-servers-docker-image2docker/
 * Powershell to run commands in Windows docker container - https://docs.microsoft.com/en-us/dotnet/standard/containerized-lifecycle-architecture/design-develop-containerized-apps/set-up-windows-containers-with-powershell
+* Visual Studio 16.4 update to VS brings container tools - https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/
+* VS Code for Docker - https://code.visualstudio.com/docs/azure/docker
 
 ## WINDOWS CONTAINER
 

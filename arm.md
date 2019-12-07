@@ -12,6 +12,7 @@ All the goodness I've found on Azure Resource Manager and templates.
 # LEARN
 
 * Azure Citadel <https://azurecitadel.com/automation/>
+* What's new with ARM Templates (Nov 2019) - https://www.youtube.com/watch?v=3D-JIKShrws
 
 # TEMPLATE COLLECTIONS
 
@@ -24,6 +25,7 @@ All the goodness I've found on Azure Resource Manager and templates.
 
 * ARMClient Command Tool <http://blog.davidebbo.com/2015/01/azure-resource-manager-client.html>
 * Deployment Manager - deploy arm templates across regions - https://docs.microsoft.com/en-us/azure/azure-resource-manager/deployment-manager-overview
+* Template tester - https://github.com/Azure/azure-quickstart-templates/tree/master/test/arm-ttk
 * Template validator <https://github.com/singhkays/azure-arm-validator>
 
 ## TOOLS - ARM CLIENT SAMPLES

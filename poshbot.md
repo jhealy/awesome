@@ -12,10 +12,6 @@
 ## MS TEAMS
 
 * AccesKey config failure reported to github repo on 12/10/2019 - https://github.com/poshbotio/PoshBot/issues/196
-* MS BotFramework for chatops - https://docs.stackstorm.com/chatops/msteams.html
-* Orky - localbot for teams - https://github.com/OfficeDev/Orky - dated
-* Botframework and teams - https://www.infoworld.com/article/3252225/how-to-use-microsoft-teams-for-chatops.html
-* Doing chatops in teams - https://www.infoq.com/news/2018/02/chatops-microsoft-teams/
 * Poshbot with teams - https://poshbot.readthedocs.io/en/latest/guides/backends/setup-teams-backend/
 
 ## DEVOPS

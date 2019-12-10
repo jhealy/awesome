@@ -83,6 +83,7 @@
 * CLI > Bash Shell - Powershell or Linux - https://shell.azure.com
 * CLI > IoT Hub Extension - "az extension add --name azure-cli-iot-ext"
 * CLI > Locally run Azure CLI - https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
+* CLI > login - using a personal access token to avoid login prompts - https://docs.microsoft.com/en-us/azure/devops/cli/log-in-via-pat?view=azure-devops&tabs=windows
 * Cloud Design Patterns (pnp) - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 * Certification - Collection of study guides for various exams - https://rmmartins.github.io/AzureCertification/
 * Certification - Az100 - https://stanislas.io/2019/08/23/preparation-guide-for-microsoft-ai-100-designing-and-implementing-an-azure-ai-solution-azure-ai-engineer-associate-certification/

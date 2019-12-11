@@ -2,8 +2,6 @@
 
 * https://github.com/poshbotio/PoshBot
 * Chatops the easy way - https://leanpub.com/chatops-the-easy-way (incomplete book - 33%)
-* Setting up poshbot for microsoft teams - https://www.thelazyadministrator.com/2019/08/19/chatops-setting-up-poshbot-for-microsoft-teams/
-* Poshbot with teams - https://poshbot.readthedocs.io/en/latest/guides/backends/setup-teams-backend/
 
 ## LEARN
 
@@ -12,6 +10,7 @@
 ## MS TEAMS
 
 * AccesKey config failure reported to github repo on 12/10/2019 - https://github.com/poshbotio/PoshBot/issues/196
+* Setting up poshbot for microsoft teams - https://www.thelazyadministrator.com/2019/08/19/chatops-setting-up-poshbot-for-microsoft-teams/
 * Poshbot with teams - https://poshbot.readthedocs.io/en/latest/guides/backends/setup-teams-backend/
 
 ## DEVOPS

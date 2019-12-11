@@ -6,6 +6,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Overview video - https://www.youtube.com/watch?v=0yf_xm5cPIo
 * Twitter - https://twitter.com/AzureApiMgmt
 * About API Management - <https://docs.microsoft.com/en-us/azure/machine-learning/studio/manage-web-service-endpoints-using-api-management>
+* API import restrictions - <https://docs.microsoft.com/en-us/azure/api-management/api-management-api-import-restrictions>
 * Benefits of using Azure API Management with Microservices - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
 * Consumption tier API management - use with serverless - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
 * Limits - see [Azure Limits](./azure-limits.md)
@@ -38,6 +39,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Auth - OAuth2 <https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-oauth2>
 * Content <https://docs.microsoft.com/en-us/azure/api-management/api-management-modify-content-layout>
 * Lab on setting up developer portal - oauth and policies  <https://github.com/shanepeckham/api_management/blob/master/open.md>
+* Self hosting dev portal - see wiki - https://github.com/Azure/api-management-developer-portal/wiki
 * Style <https://docs.microsoft.com/en-us/azure/api-management/api-management-customize-styles>
 
 ## DEVOPS
@@ -51,6 +53,14 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Service Management REST API (docs) - https://docs.microsoft.com/en-us/rest/api/apimanagement/?redirectedfrom=devfish
 * Service Management REST API (2014 video) - https://channel9.msdn.com/Blogs/AzureApiMgmt/Getting-Started-with-Azure-API-Management-REST-API
 * Terraform provider in go - https://github.com/terraform-providers/terraform-provider-azurerm/blob/master/azurerm/data_source_api_management.go
+
+## GRAPHQL AND API-M
+
+“Unfortunately, there isn't any support for GraphQL as of today.  There is a feature request to support introspection of a GraphQL schema document in APIM which you can up vote for it to gain traction.  That being said, since GraphQL requests are essential HTTP requests in the end, you could always serve them over HTTP but would end up losing lots of features APIM (or any pure REST API Gateway for that matter) provide - especially caching, authorization, etc.”  Pramod Valavala – Microsoft – Jan 29, 2019
+
+* Thread on GraphQL : https://social.msdn.microsoft.com/Forums/azure/en-US/afda077a-c3ec-4cde-af1b-0ba826f55d6d/is-graphql-supported?forum=azureapimgmt  
+* Feature request for schema parsing -439 votes -  https://feedback.azure.com/forums/248703-api-management/suggestions/32113882-graphql-introspective-support-within-api-managemen 
+* Apollo server for az function graphql integration - https://stackoverflow.com/questions/43123969/graphql-with-azure-functions - https://www.npmjs.com/package/apollo-server-azure-functions 
 
 ## IP ADDRESSES
 

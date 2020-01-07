@@ -21,7 +21,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 ## QUICK LINKS
 
-* API Documents - showing API-M in action - <https://aka.ms/apidocs>
+* APIM Documents - showing API-M in action - <https://aka.ms/apidocs>
 * Blog - https://aka.ms/apimblog
 * Public discussion form - http://aka.ms/apimso
 * Reusable policy examples - http://aka.ms/apimpolicyexamples

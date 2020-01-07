@@ -29,6 +29,7 @@ Formerly known as Visual Studio Mobile Center
 * Azure Citadel - all kinds of goodies <https://azurecitadel.com/devops/>, <https://azurecitadel.github.io/>
 * DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
 * DevOps hands on labs - tons of labs <https://www.azuredevopslabs.com/>
+* MS Learn - https://docs.microsoft.com/en-us/learn/browse/?term=devops
 * Hands on labs <https://almvm.azurewebsites.net/>
 
 ## TESTING

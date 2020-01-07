@@ -18,3 +18,8 @@ Free or cheap data sets to play with
 * NOAA Data - https://www.ncdc.noaa.gov/data-access/quick-links 
 * Radar images - real time - https://radar.weather.gov/ridge/kmzgenerator.php 
 * Seagrass beds - https://catalog.data.gov/dataset/geographic-information-system-gis-characterization-of-historical-extent-of-seagrass-beds-in-tam/resource/fcdee793-9127-47d5-ad02-86ffa01641f8
+
+## IMAGES
+
+* CIFAR-10 - 60000 32x32 color imagesin 10 classes, with 600 images per class.  50000 training, 10000 test images.  https://www.cs.toronto.edu/~kriz/cifar.html
+

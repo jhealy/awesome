@@ -21,5 +21,5 @@ Free or cheap data sets to play with
 
 ## IMAGES
 
-* CIFAR-10 - 60000 32x32 color imagesin 10 classes, with 600 images per class.  50000 training, 10000 test images.  https://www.cs.toronto.edu/~kriz/cifar.html
+* CIFAR-10 and CIFAR-100 : 60000 32x32 color imagesin 10 classes, with 600 images per class.  50000 training, 10000 test images.  https://www.cs.toronto.edu/~kriz/cifar.html
 

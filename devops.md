@@ -47,6 +47,7 @@ See App Center above....
 * Azure Stack - Validated Azure tasks - https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/azure-stack?view=azure-devops#qa 
 * CI/CD - Edx - Continuous Integration and Continuous Deployment - https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T2/info
 * CI/CD - Pluralsight - Implementing CD using TFS 2015 - https://app.pluralsight.com/library/courses/tfs-visual-studio-2015-implementing-continuous-delivery/table-of-contents
+* Code Search extension - extension to help locate relevant information across all projects - aka locate examples of an API's implementation, browsing its definition, search for error text - https://marketplace.visualstudio.com/items?itemName=ms.vss-code-search
 * Containers > Installing Build tools into a docker container - https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container
 * Copy a project.  No way to do it directly (yet 08/2019).  Workaround: template extractor tool for Azure DevOps Demo Generator: https://azuredevopsdemogenerator.azurewebsites.net/?enableextractor=true . The tool extracst a template package from the source project that can then be used to create a new project(s).  Documentation: https://docs.microsoft.com/en-us/azure/devops/demo-gen/build-your-own-template
 * DataBricks extension for az devops - https://aka.ms/devopsfordatabricks

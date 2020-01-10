@@ -182,6 +182,7 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * Logic Apps v Functions - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
 * Managing connections in Az Functions - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/
+* Newtonsoft and 1.x functions - will not go behond newtonsoft v9 - https://github.com/Azure/azure-functions-host/issues/4049 
 * Performance > https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices#configure-host-behaviors-to-better-handle-concurrency
 * Performance > High throughput functions - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario

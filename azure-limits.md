@@ -52,7 +52,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * Account Scale Limits - Standard <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#standard-storage-account-scale-limits>
 * Account Scale Limits - Premium <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#premium-storage-account-scale-limits>
 * ADLS Gen2 - no status limits per PG - current max single object size for both Blob and ADLS Gen2 is 5TB (2019-July)
-* Blob - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-blob-storage-scale-targets> - max size, more
+* Blob - Scale Targets - https://docs.microsoft.com/en-us/azure/storage/blobs/scalability-targets - max size, more
 * CosmosDB - https://docs.microsoft.com/en-us/azure/cosmos-db/concepts-limits
 * Resource provider scale limits <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#storage-resource-provider-scale-limits> - account max for read/write/list - only apply w ARM with Az Storage
 * Queue - Scale Targets - max size, msg size, more <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-queue-storage-scale-targets>

@@ -1,6 +1,7 @@
 # MONITOR
 
 * **Docs** - https://docs.microsoft.com/en-us/azure/azure-monitor/
+* When to use what monitoring tool - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/monitor/cloud-models-monitor-overview
 
 ## APPINSIGHTS
 

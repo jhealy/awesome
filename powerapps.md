@@ -45,6 +45,10 @@ Main sign-in : https://make.powerapps.com
 * Get started from data - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-create-from-data
 * Get started from scratch -https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-create-from-blank
 
+## CASE STUDIES AND OTHER GOOD NEWS
+
+* Forrester report on PowerApps - Microsoft Is About To Shake Up Low-Code Platforms - https://aka.ms/newsheriff
+
 ## CDS AND POWERAPPS
 
 * Create a canvas app from scratch using CDS - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch

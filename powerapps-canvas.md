@@ -14,10 +14,8 @@ Main sign-in : https://make.powerapps.com
 * Get help - Community Forms and App Gallery - https://powerapps.microsoft.com/en-us/blog/new-best-practices-community-forums-and-app-gallery/
 * Connectors with Descriptions - https://docs.microsoft.com/en-us/connectors/
 * Connectors with Premium Identified - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
-* Licensing - https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus
 * Publishing Apps - https://powerapps.microsoft.com/en-us/tutorials/save-publish-app/
 * Release notes - https://powerapps.microsoft.com/en-us/tutorials/release-notes/
-* Service Status for O365 - https://portal.office.com/servicestatus
 * Support - submit a ticket - https://powerapps.microsoft.com/en-us/support/pro/
 * Suggestions - https://powerusers.microsoft.com/t5/PowerApps-Ideas/idb-p/PowerAppsIdeas
 * System Status for Flow - https://flow.microsoft.com/support/
@@ -26,8 +24,6 @@ Main sign-in : https://make.powerapps.com
 
 ## ADMIN
 
-* Admin center - must be admin - https://admin.microsoft.com/Support/Support.aspx
-* Block self-service purchasing for power platform - https://redmondmag.com/articles/2019/12/04/block-microsoft-power-platform-self-service.aspx
 * DLP - Restricting connectors that can be accessed by users - https://docs.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention#configuring-connectors-for-a-dlp-policy
 * Environments > Working with Environments - https://powerapps.microsoft.com/en-us/tutorials/working-with-environments
 * Export and Import Apps Across Environments with Packaging - https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/
@@ -87,8 +83,6 @@ Main sign-in : https://make.powerapps.com
 Also see SOLUTIONS
 
 * Auditing and monitoring - https://docs.microsoft.com/en-us/power-platform/admin/logging-powerapps 
-* Establishing an Environment Strategy for Microsoft Power Platform - https://powerapps.microsoft.com/en-us/blog/establishing-an-environment-strategy-for-microsoft-power-platform/
-* Environment and tenant app migration through packaging - https://docs.microsoft.com/en-us/power-platform/admin/environment-and-tenant-migration
 * PowerApps Build tools: http://aka.ms/buildtoolsdoc 
 * PowerApps Build Tools (Preview): https://aka.ms/pabuildtools 
 * CoreTools (including Solution Packager) of SDK: https://www.nuget.org/packages/Microsoft.CrmSdk.CoreTools
@@ -136,7 +130,6 @@ https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/solutions-o
 * Azure Function -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * Azure Function -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Case study - Microsoft onboarding application - https://www.microsoft.com/itshowcase/blog/solving-onboarding-dilemma-microsoft-powerapps/
-* Center of Excellence (COE) Starter Kit - https://powerapps.microsoft.com/en-us/blog/introducing-the-powerapps-center-of-excellence-starter-kit/
 * Cloud Storage > Excel > Limitatons - https://powerapps.microsoft.com/en-us/tutorials/cloud-storage-blob-connections/#sharing-excel-tables
 * Collaborative dev with powerapps canvas templates - https://powerapps.microsoft.com/en-us/blog/collaborative-development-for-powerapps-canvas-apps/
 * Connectors > Office 365 > RelevantPeople() - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
@@ -156,4 +149,3 @@ https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/solutions-o
 * Teams - Embed PowerApps in Teams - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/embed-teams-app
 * Using the Cognitive Services Text Analytics API in PowerApps - https://powerapps.microsoft.com/en-us/blog/custom-connectors-and-text-analytics-in-powerapps-part-one/
 
-SEE ALSO - Microsoft Flow - https://github.com/jhealy/awesome/blob/master/flow.md

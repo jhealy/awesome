@@ -56,3 +56,4 @@
 ## MISC
 
 * How to alert on az storage blob access using Az Monitor and Log Analytics - https://devblogs.microsoft.com/premier-developer/how-to-alert-on-azure-blob-metrics/
+* Slicing large blobs - https://www.dynabyte.se/blog/2013/10/09/uploading-directly-to-windows-azure-blob-storage-f/

@@ -10,9 +10,11 @@ Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 ## ADMIN
 
 * Block self-service purchasing for power platform - https://redmondmag.com/articles/2019/12/04/block-microsoft-power-platform-self-service.aspx
+* Governance and deployment whitepaper - https://powerapps.microsoft.com/en-us/blog/powerapps-enterprise-deployment-whitepaper/
 
 ## DEVOPS
 
+* Administer Power Automate - https://docs.microsoft.com/en-us/power-automate/admin-center-introduction
 * Power Automate API - https://docs.microsoft.com/en-us/power-automate/web-api
 
 ## LEARN

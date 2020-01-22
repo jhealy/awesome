@@ -20,6 +20,7 @@ Oddly enough device provisioning works with Azure CLI but not ARM
 ## HARDWARE
 
 * AZ3166 IOT Developer Kit - Arduino with wifi, mxchip, humidity sensor, et al - https://www.seeedstudio.com/AZ3166-IOT-Developer-Kit.html
+* ESP332 Azure IoT Board samples - https://github.com/Azure-Samples/ESP-Samples
 
 ## LEARN
 

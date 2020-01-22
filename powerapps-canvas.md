@@ -44,6 +44,7 @@ Main sign-in : https://make.powerapps.com
 * Create a canvas app from scratch using CDS - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch
 * Get started from data - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-create-from-data
 * Get started from scratch -https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-create-from-blank
+* Responsive layout using Canvas Apps - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/create-responsive-layout
 
 ## CASE STUDIES AND OTHER GOOD NEWS
 
@@ -71,6 +72,7 @@ Main sign-in : https://make.powerapps.com
 * ReactJS - Extend boundary of PowerApps CF - http://blog.dynamicscode.net/2019/06/26/react-extended-boundary-of-powerapps-component-framework/
 * ReactJS - Facepile - https://docs.microsoft.com/en-us/powerapps/developer/component-framework/sample-controls/react-facepile-control
 * React in the PCF public preview - https://powerapps.microsoft.com/en-us/blog/use-of-react-and-office-ui-fabric-react-in-the-powerapps-component-framework-is-now-available-for-public-preview/
+* SignalR via PCF - https://powerapps.microsoft.com/en-us/blog/notification-control-using-powerapps-component-framework-and-azure-signalr/
 * Using PowerApp CF in ReactJS (video) - https://powerusers.microsoft.com/t5/Video-Gallery/PowerApps-Components-Parameters-and-React/td-p/234759
 * Vote for new CF ideas - https://aka.ms/PCFIdea
 
@@ -84,6 +86,8 @@ Main sign-in : https://make.powerapps.com
 
 Also see SOLUTIONS
 
+* Auditing and monitoring - https://docs.microsoft.com/en-us/power-platform/admin/logging-powerapps 
+* Establishing an Environment Strategy for Microsoft Power Platform - https://powerapps.microsoft.com/en-us/blog/establishing-an-environment-strategy-for-microsoft-power-platform/
 * Environment and tenant app migration through packaging - https://docs.microsoft.com/en-us/power-platform/admin/environment-and-tenant-migration
 * PowerApps Build tools: http://aka.ms/buildtoolsdoc 
 * PowerApps Build Tools (Preview): https://aka.ms/pabuildtools 
@@ -96,7 +100,7 @@ Also see SOLUTIONS
 * Lab challenges - a follow on to app-in-a-day - https://powerapps.microsoft.com/en-us/blog/power-platform-challenges/
 * Power Platform World Tour content - Dec 2019 - dynamic powerbi tiles, object detection with ai builder, creating power virtual agents bot in 10 steps, ai builder forms processing - https://powerusers.microsoft.com/t5/News-Announcements-Formerly/Power-Platform-World-Tour-Hands-on-Labs/ba-p/409740
 * Resources - ton of great stuff, you MUST check this out - http://aka.ms/powerapps-resources
-* Training resources (12/19) - https://powerusers.microsoft.com/t5/News-Announcements-Formerly/Power-Platform-Training-Materials/
+* Training resources (12/19) - https://powerusers.microsoft.com/t5/News-Announcements/Power-Platform-Training-Materials/ba-p/342088
 * Webinar series - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/webinars-listing
 
 ## TEMPLATES

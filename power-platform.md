@@ -6,9 +6,14 @@ Things common to the Power Platform as a whole.
 
 * Admin center - must be admin - https://admin.microsoft.com/Support/Support.aspx
 * Block self-service purchasing for power platform - https://redmondmag.com/articles/2019/12/04/block-microsoft-power-platform-self-service.aspx
-* Center of Excellence (COE) Starter Kit - https://powerapps.microsoft.com/en-us/blog/introducing-the-powerapps-center-of-excellence-starter-kit/
 * Licensing - https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus
 * Service Status for O365 - https://portal.office.com/servicestatus
+
+# COE
+
+* Center of Excellence (COE) Starter Kit - https://powerapps.microsoft.com/en-us/blog/introducing-the-powerapps-center-of-excellence-starter-kit/
+* Tools repo - https://github.com/microsoft/powerapps-tools
+* Tried and tested techniques for establishing a Center of Excellence (video) - https://powerusers.microsoft.com/t5/Microsoft-Business-Applications/Microsoft-PowerApps-Tried-and-tested-techniques-for-establishing/m-p/299979
 
 # DEVOPS
 

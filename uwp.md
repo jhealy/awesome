@@ -53,6 +53,10 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 * Fluent Design - Examples for UWP - https://docs.microsoft.com/en-us/windows/uwp/fluent-design-system/
 * Sept 2017 Xaml designer preview - https://blogs.msdn.microsoft.com/visualstudio/2017/09/11/a-significant-update-to-the-xaml-designer/
 
+# LEARN 
+
+* Develop Windows 10 Applications - https://docs.microsoft.com/en-us/learn/paths/develop-windows10-apps/
+
 ## RESPONSIVE UI
 * Morton Nielsen's State Triggers collection - https://github.com/dotMorten/WindowsStateTriggers
 * Responsive Design 101 for Universal Windows Platform Apps - https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn958435.aspx

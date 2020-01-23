@@ -33,4 +33,6 @@
 
 "Request limit too large" . http status 29 , http header: x-ms-retry-after-ms .  With SQL API its retried automatically.  With mongoapi , request are not retried automaticaly.  You must catch MongoCommandException and look for code property of 16500, then guess when to retry.
 
+* Private link avail for cosmosdb - Jan 2020 - https://docs.microsoft.com/en-us/azure/private-link/private-link-overview#availability
+
 SEE ALSO - CosmosDB and Azure Functions <https://github.com/jhealy/awesome/blob/master/azure-functions.md#cosmosdb-and-azure-functions>

@@ -17,7 +17,8 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * File Sync - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-file-sync-scale-targets> - region limits, sync group limits, max servers, cloud endpionts, more
 * Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config> actions pe rworkflow, workflows per region, runduration, storage retention, IP addresses
 * Functions - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#functions-limits
-* PowerBI Dataflow - Pro and Premium - https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview#dataflow-capabilities-on-power-bi-premium 
+* Power Automate -  https://docs.microsoft.com/en-us/power-automate/limits-and-config
+* Power BI Dataflow - Pro and Premium - https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview#dataflow-capabilities-on-power-bi-premium 
 * SQL Database (Azure) - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-limits-database-server
 * Storage limits dtu single db - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dtu-resource-limits-single-databases
 * SQL Database - VM - 32,767 user connections - https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/data-warehousing#key-selection-criteria

@@ -9,6 +9,7 @@
 * CosmosDB and Azure Function Integration - https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/
 * CosmosDB Graph via Gremlin - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
 * FAQ - <https://docs.microsoft.com/en-us/azure/cosmos-db/faq>
+* IP Ranges for Power Automate Connectors -  https://docs.microsoft.com/en-us/power-automate/limits-and-config#connectors
 * Networking - Direct mode over TCP/IP <https://docs.microsoft.com/en-us/azure/cosmos-db/performance-tips#networking >
 * SQL v CosmosDB - https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server
 * SQL API and a console client - https://docs.microsoft.com/en-us/azure/cosmos-db/create-sql-api-dotnet

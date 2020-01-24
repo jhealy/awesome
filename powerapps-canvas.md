@@ -92,6 +92,7 @@ Also see SOLUTIONS
 
 * App-in-a-day - https://aka.ms/appinaday
 * Lab challenges - a follow on to app-in-a-day - https://powerapps.microsoft.com/en-us/blog/power-platform-challenges/
+* Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/
 * Power Platform World Tour content - Dec 2019 - dynamic powerbi tiles, object detection with ai builder, creating power virtual agents bot in 10 steps, ai builder forms processing - https://powerusers.microsoft.com/t5/News-Announcements-Formerly/Power-Platform-World-Tour-Hands-on-Labs/ba-p/409740
 * Resources - ton of great stuff, you MUST check this out - http://aka.ms/powerapps-resources
 * Training resources (12/19) - https://powerusers.microsoft.com/t5/News-Announcements/Power-Platform-Training-Materials/ba-p/342088

@@ -20,6 +20,10 @@ Things common to the Power Platform as a whole.
 * Establishing an Environment Strategy for Microsoft Power Platform - https://powerapps.microsoft.com/en-us/blog/establishing-an-environment-strategy-for-microsoft-power-platform/
 * Environment and tenant app migration through packaging - https://docs.microsoft.com/en-us/power-platform/admin/environment-and-tenant-migration
 
+# LEARN
+
+* Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/
+
 # SEE ALSO
 
 * Power Automate (formerly flow) - [power-automate.md](./power-automate.md)

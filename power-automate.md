@@ -3,12 +3,12 @@
 Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 
 * Blog - https://flow.microsoft.com/en-us/blog/
-* Documentation - tutorials et al - https://ms.flow.microsoft.com/en-us/documentation/getting-started/
-* Licensing - https://preview.flow.microsoft.com/en-us/pricing/
+* Documentation - tutorials et al - https://docs.microsoft.com/en-us/power-automate/sign-up-sign-in
 * Templates - https://us.flow.microsoft.com/en-us/templates/
 
 ## ADMIN
 
+* IP Addresses and such - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config#firewall-configuration-ip-addresses
 * Governance and deployment whitepaper - https://powerapps.microsoft.com/en-us/blog/powerapps-enterprise-deployment-whitepaper/
 
 ## DEVOPS
@@ -20,6 +20,7 @@ Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 
 * Guided Learning - https://flow.microsoft.com/en-us/guided-learning/
 * Learning Resources collection - https://flow.microsoft.com/en-us/blog/microsoft-flow-learning-resources-materials/
+* Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/
 
 ## SAMPLES
 

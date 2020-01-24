@@ -7,6 +7,7 @@
 ## LEARN
 
 * AI School - https://aischool.microsoft.com/en-us/home
+* Introduction to Azure Machine Learning - https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/
 * KnowledgeMining Bootcamp - search, cogs, vision, bot - https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/tree/master/labs
 * Learn Analytics Materials <https://azure.github.io/learnAnalytics-public/>
 * Microsoft Cloud Workshops <https://github.com/Microsoft/MCW>

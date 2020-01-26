@@ -16,6 +16,7 @@ Non-database data, such as files.
 
 ## MIGRATE TOOL
 
+* End to end process for liftingand shifting your lamp stack (using az migration tool) - https://techcommunity.microsoft.com/t5/azure-database-for-mysql/an-end-to-end-process-for-lifting-and-shifting-your-lamp-stack/ba-p/1126666
 * Migrate service overview - https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview
 * Step by step migration for physical VMs using Azure Migrate - https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines
 

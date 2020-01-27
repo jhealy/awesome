@@ -16,6 +16,10 @@ Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 * Administer Power Automate - https://docs.microsoft.com/en-us/power-automate/admin-center-introduction
 * Power Automate API - https://docs.microsoft.com/en-us/power-automate/web-api
 
+## FUNCTIONS
+
+* Function Reference - https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference
+
 ## LEARN
 
 * Guided Learning - https://flow.microsoft.com/en-us/guided-learning/

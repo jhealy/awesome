@@ -26,6 +26,10 @@
 * Preparing Azure Logic Apps for CI/CD using ARM templates <https://platform.deloitte.com.au/articles/preparing-azure-logic-apps-for-cicd>
 * REST interface for devops - https://docs.microsoft.com/en-us/rest/api/logic/
 
+## FUNCTIONS
+
+* Function Reference - https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference
+
 ## HELP
 
 * Forums - http://feedback.azure.com/forums/287593-logic-apps

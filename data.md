@@ -6,7 +6,11 @@ Free or cheap data sets to play with
 * NOAA Data - https://www.ncdc.noaa.gov/data-access/quick-links
 * NJ Death Index - https://www.newjerseydeathindex.com/
 * NYC - Marriage index - csv, xls, sql -  https://www.nycmarriageindex.com/
-* Public data sets from the Microsoft SQL Database folks - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets 
+* Public data sets from the Microsoft SQL Database folks - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets - API: http://apicollections.parismusees.paris.fr/ - collections home: http://parismuseescollections.paris.fr/fr
+
+## ART
+
+* Paris museum art collection - 150k free pd images - http://www.parismusees.paris.fr/en/actualite/open-content-150000-works-from-the-museum-collections-of-the-city-of-paris-freely -
 
 ## BOOKS
 

@@ -7,7 +7,6 @@ Main sign-in : https://make.powerapps.com
 * **PowerApps for Developers** - https://docs.microsoft.com/en-us/powerapps/#pivot=home&panel=developer
 * Blog - PowerApps Team - https://powerapps.microsoft.com/en-us/blog/
 * Blog - Office Team - https://blogs.office.com/en-us/feed/
-* Case Studies - http://aka.ms/Powerapps/casestudies
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Forum
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Community/ct-p/PowerApps1
@@ -27,6 +26,7 @@ Main sign-in : https://make.powerapps.com
 * DLP - Restricting connectors that can be accessed by users - https://docs.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention#configuring-connectors-for-a-dlp-policy
 * Environments > Working with Environments - https://powerapps.microsoft.com/en-us/tutorials/working-with-environments
 * Export and Import Apps Across Environments with Packaging - https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/
+* External users - sharing Canvas apps - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/share-app#share-with-guests
 * Moving a Flow between environments - or rather the inability to - https://powerusers.microsoft.com/t5/General-Flow-Discussion/How-to-move-a-flow-between-two-envirionments/td-p/10838
 * Moving a PowerApp between environments - https://powerapps.microsoft.com/en-us/tutorials/environment-and-tenant-migration/
 * Save and Publish - https://powerapps.microsoft.com/en-us/blog/saveandpublish/
@@ -44,6 +44,7 @@ Main sign-in : https://make.powerapps.com
 
 ## CASE STUDIES AND OTHER GOOD NEWS
 
+* Case Studies from the Power Platform PG - http://aka.ms/Powerapps/casestudies
 * Forrester report on PowerApps - Microsoft Is About To Shake Up Low-Code Platforms - https://aka.ms/newsheriff
 
 ## CDS AND POWERAPPS

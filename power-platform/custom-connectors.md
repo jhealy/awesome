@@ -7,6 +7,10 @@
 
 * Use your custom connectors in solutions.  Solutions allow you to move your custom connectors along with Canvas apps, flows, and CDS customizations in a single package. Manage your customizations in Azure DevOps and automating your CI/CD process. https://docs.microsoft.com/en-us/connectors/custom-connectors/customconnectorssolutions
 
+## FAVORITES
+
+* Office 365 Users - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/connections/connection-office365-users
+
 ## HELP
 
 * Email <condevhelp@microsoft.com>

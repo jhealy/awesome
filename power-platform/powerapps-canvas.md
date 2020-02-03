@@ -8,6 +8,7 @@ Main sign-in : https://make.powerapps.com
 * Blog - PowerApps Team - https://powerapps.microsoft.com/en-us/blog/
 * Blog - Office Team - https://blogs.office.com/en-us/feed/
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
+* **Formula Reference** - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Forum
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Community/ct-p/PowerApps1
 * Get help - Community Forms and App Gallery - https://powerapps.microsoft.com/en-us/blog/new-best-practices-community-forums-and-app-gallery/
@@ -89,6 +90,11 @@ Also see SOLUTIONS
 * CoreTools (including Solution Packager) of SDK: https://www.nuget.org/packages/Microsoft.CrmSdk.CoreTools
 * Powershell modules of the SDK: https://docs.microsoft.com/en-us/powershell/dynamics365/customer-engagement/overview?view=dynamics365ce-ps
 
+## EMBEDDING POWERAPPS IN OTHER APPLICATIONS
+
+* Embed - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/embedding-sdk
+* Integrate canvas apps into websites and other services - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/embed-apps-dev
+
 ## LEARN
 
 * App-in-a-day - https://aka.ms/appinaday
@@ -99,6 +105,9 @@ Also see SOLUTIONS
 * Training resources (12/19) - https://powerusers.microsoft.com/t5/News-Announcements/Power-Platform-Training-Materials/ba-p/342088
 * Webinar series - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/webinars-listing
 
+## SECURITY
+
+* Hooking a jwt token to pass around - https://powerusers.microsoft.com/t5/Building-Power-Apps/custom-API-connection-using-JWT-that-expires/td-p/353876 
 ## TEMPLATES
 
 * Calendar App from SharePoint Data - https://powerapps.microsoft.com/en-us/blog/building-an-internal-event-calendar-app-in-flight/

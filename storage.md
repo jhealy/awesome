@@ -38,7 +38,6 @@
 * Scanning blobs using Symantec Cloud Workload Protection for Storage - https://azuremarketplace.microsoft.com/en-us/marketplace/apps/symanteccorporation.symccwps-app?tab=Overview
 * Scanning blobs using ClamAV and Az functions
   * Defensive functions - https://www.defenseagainstthedarkarts.com/defensive-functions/
-  * S/O discussions - https://stackoverflow.com/questions/32567922/virus-scanning-uploaded-files-from-azure-web-worker-role
 * Securing Azure Storage <https://docs.microsoft.com/en-us/azure/storage/common/storage-security-guide>
 
 ## TOOLS
@@ -48,6 +47,11 @@
 * Fast Data Transfer - high speed loader for Azure <https://www.microsoft.com/en-us/garage/profiles/fast-data-transfer/>
 * FUSE Adapter - expose virtual file system on linux <https://github.com/Azure/azure-storage-fuse>
 
+## VIRUS SCANNING BLOB
+
+* Cloudmersive connector - https://docs.microsoft.com/en-us/connectors/cloudmersive/
+  * S/O discussions - https://stackoverflow.com/questions/32567922/virus-scanning-uploaded-files-from-azure-web-worker-role
+  
 ## NOTES
 
 * Blob to blob copy API doesn’t work when the Storage Firewall is enabled.  We are currently working on a fix that will allow it to work but only for copy calls initiated from within an allowed VNet.  As this is not yet done coding it will still take a bit to finish, test, and roll out to all locations – but we are currently targeting it for third quarter of this calendar year (cy18) - Alan Stephenson

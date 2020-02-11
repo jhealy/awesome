@@ -63,6 +63,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 * Implementing resource controls for windows container - things like cpu, memory, etc - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/resource-controls
 * Licensing for test/dev in a container - unlimited - https://docs.microsoft.com/en-us/virtualization/windowscontainers/about/faq
 * Mounting drives into a Windows Container - https://blog.sixeyed.com/docker-volumes-on-windows-the-case-of-the-g-drive/
+* Mounting drives - Persistent storage  in a Windows container - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/persistent-storage 
 * 'latest' tag removed from docker images - https://techcommunity.microsoft.com/t5/Containers/Removing-the-latest-Tag-An-Update-on-MCR/ba-p/393045
 * Windows Containers on Windows 10 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10
 * Windows Containers on Windows Server 2019 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-server

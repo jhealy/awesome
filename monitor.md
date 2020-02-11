@@ -38,3 +38,7 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/app/ilogger
 ## MISC
 
 * Powershell - built in function to log to app insights - https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell#logging
+* Splunk - Az Monitor setup - https://www.splunk.com/en_us/blog/cloud/splunking-microsoft-azure-monitor-data-part-1-azure-setup.html
+* Splunk - Az Monitor Addon - https://github.com/Microsoft/AzureMonitorAddonForSplunk/wiki/Azure-Monitor-Addon-For-Splunk
+
+

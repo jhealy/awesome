@@ -70,6 +70,7 @@
 ## SECURITY
 
 * Azure Trust Center - https://www.microsoft.com/en-us/trustcenter/privacy/you-own-your-data
+* Index of 'built-in security controls' articles for Azure services - https://docs.microsoft.com/en-us/azure/security/fundamentals/security-controls
 * Network Security - https://docs.microsoft.com/en-us/azure/security/azure-network-security
 * Shared responsibility - https://aka.ms/sharedresponsibility
 * Shared responsibility model - download - https://gallery.technet.microsoft.com/Shared-Responsibilities-81d0ff91

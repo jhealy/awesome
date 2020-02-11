@@ -101,6 +101,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 ## MISC
 
 * Aggregation - https://www.c-sharpcorner.com/blogs/api-aggregation-using-azure-apim
+* App service integration - https://azure.microsoft.com/en-us/updates/azure-api-management-now-supports-integration-with-azure-app-service/
 * Analytics - Power BI Solution Template for API Management - LINKS ARE DEAD - https://azure.microsoft.com/en-us/updates/azure-api-management-analytics-powerbi-solution-template/
 * Analytics - Monitoring - https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-use-azure-monitor
 * Azure Function Proxies - like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>

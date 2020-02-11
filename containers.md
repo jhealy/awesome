@@ -21,6 +21,7 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 ## AZURE SERVICES IN A CONTAINER
 
 * cogs - https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support#prerequisites
+* speech service - https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-container-howto?tabs=stt%2Ccsharp
 
 ## DEVOPS
 

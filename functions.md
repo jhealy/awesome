@@ -6,6 +6,7 @@
 * Bindings and triggers - https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
 * Blog - Jeff Hollan - Program Manager (no rss) <https://medium.com/@jeffhollan>
 * Choose between Flow, Logic Apps, Functions, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
+* Documentation - home <https://docs.microsoft.com/en-us/azure/azure-functions/>
 * Feedback - UserVoice <https://feedback.azure.com/forums/355860-azure-functions>
 * host.json (v2) doc <https://github.com/Azure/azure-functions-host/wiki/host.json-(v2)#sample-hostjson>
 * Limits - buried in this pricing doc <https://azure.microsoft.com/en-us/pricing/details/functions/>

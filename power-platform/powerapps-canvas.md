@@ -14,6 +14,7 @@ Main sign-in : https://make.powerapps.com
 * Get help - Community Forms and App Gallery - https://powerapps.microsoft.com/en-us/blog/new-best-practices-community-forums-and-app-gallery/
 * Connectors with Descriptions - https://docs.microsoft.com/en-us/connectors/
 * Connectors with Premium Identified - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
+* Model versus Canvas Apps - https://us.hitachi-solutions.com/blog/canvas-vs-model-driven-apps/
 * Publishing Apps - https://powerapps.microsoft.com/en-us/tutorials/save-publish-app/
 * Release notes - https://powerapps.microsoft.com/en-us/tutorials/release-notes/
 * Support - submit a ticket - https://powerapps.microsoft.com/en-us/support/pro/
@@ -98,6 +99,7 @@ Also see SOLUTIONS
 ## LEARN
 
 * App-in-a-day - https://aka.ms/appinaday
+* Grid - editable - https://powerapps.microsoft.com/en-us/blog/editable-tables/
 * Lab challenges - a follow on to app-in-a-day - https://powerapps.microsoft.com/en-us/blog/power-platform-challenges/
 * Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/
 * Power Platform World Tour content - Dec 2019 - dynamic powerbi tiles, object detection with ai builder, creating power virtual agents bot in 10 steps, ai builder forms processing - https://powerusers.microsoft.com/t5/News-Announcements-Formerly/Power-Platform-World-Tour-Hands-on-Labs/ba-p/409740

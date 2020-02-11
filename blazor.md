@@ -20,3 +20,4 @@
 
 * Bringing your Blazor apps to the Desktop with ElectronNET.Blazor -https://medium.com/cloudnimble/bringing-your-blazor-apps-to-the-desktop-with-electronnet-blazor-67701bff82f7
 * Creating interactive documentation - https://devblogs.microsoft.com/dotnet/creating-interactive-net-documentation/
+* Webforms to Blazor - https://github.com/FritzAndFriends/BlazorWebFormsComponents

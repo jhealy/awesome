@@ -39,6 +39,7 @@ Main sign-in : https://make.powerapps.com
 
 * Coding Guidelines - http://toddbaginski.com/blog/powerapps-coding-guidelines/
 * Coding standards for Canvas apps - https://aka.ms/powerappscanvasguidelines
+* Convert phone to tablet - https://toddbaginski.com/blog/how-to-convert-a-powerapp-from-one-layout-to-another/
 * Create a canvas app from scratch using CDS - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch
 * Get started from data - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-create-from-data
 * Get started from scratch -https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-create-from-blank

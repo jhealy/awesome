@@ -97,12 +97,18 @@ Also see SOLUTIONS
 * Embed - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/embedding-sdk
 * Integrate canvas apps into websites and other services - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/embed-apps-dev
 
+## EXTERNAL USERS
+
+* Sharing with guest AzAD doc - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/share-app#share-with-guests
+* Sharing canvas apps with guests in your organization GA - https://powerapps.microsoft.com/en-us/blog/sharing-canvas-apps-with-guests-in-your-organization-is-generally-available/
+
 ## LEARN
 
 * App-in-a-day - https://aka.ms/appinaday
 * Grid - editable - https://powerapps.microsoft.com/en-us/blog/editable-tables/
 * Lab challenges - a follow on to app-in-a-day - https://powerapps.microsoft.com/en-us/blog/power-platform-challenges/
-* Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/
+* Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/ 
+* Learning Path - Create PowerApps - https://docs.microsoft.com/en-us/learn/paths/create-powerapps/
 * Power Platform World Tour content - Dec 2019 - dynamic powerbi tiles, object detection with ai builder, creating power virtual agents bot in 10 steps, ai builder forms processing - https://powerusers.microsoft.com/t5/News-Announcements-Formerly/Power-Platform-World-Tour-Hands-on-Labs/ba-p/409740
 * Resources - ton of great stuff, you MUST check this out - http://aka.ms/powerapps-resources
 * Training resources (12/19) - https://powerusers.microsoft.com/t5/News-Announcements/Power-Platform-Training-Materials/ba-p/342088
@@ -111,6 +117,7 @@ Also see SOLUTIONS
 ## SECURITY
 
 * Hooking a jwt token to pass around - https://powerusers.microsoft.com/t5/Building-Power-Apps/custom-API-connection-using-JWT-that-expires/td-p/353876 
+
 ## TEMPLATES
 
 * Calendar App from SharePoint Data - https://powerapps.microsoft.com/en-us/blog/building-an-internal-event-calendar-app-in-flight/

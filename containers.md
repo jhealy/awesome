@@ -51,6 +51,7 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Selenium containers - https://robotninja.com/blog/introduction-using-selenium-docker-containers-end-end-testing/
 * Selenium inside a docker container - http://www.testautomationguru.com/selenium-webdriver-how-to-run-automated-tests-inside-a-docker-container/
 * Selenium on Windows Docker - https://medium.com/@aandryashin/selenium-on-windows-docker-revolution-f5a7eab205ad
+* Virus scanning for win/linux containers by McAfee - https://kc.mcafee.com/corporate/index?page=content&id=KB90041&actp=null&viewlocale=en_US&showDraft=false&platinum_status=false&locale=en_US
 
 ## SEE ALSO
 

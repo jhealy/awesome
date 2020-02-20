@@ -4,6 +4,10 @@ Its own special kind of best, built on model driven PowerApps.  Model will be ge
 
 * Data upload using sharepoint and flow - https://www.engineeredcode.com/blog/powerapps-portals-data-upload-using-sharepoint-and-flow
 
+## LEARN
+
+* Intro to model driven - https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview
+
 ## STORAGE FOR UPLOADS
 
 * Enable Azure Storage - https://docs.microsoft.com/en-us/powerapps/maker/portals/enable-azure-storage#specify-the-storage-container

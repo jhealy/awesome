@@ -21,6 +21,7 @@
 * ARM Template - Function and Logic App <https://azure.microsoft.com/en-us/resources/templates/101-logic-app-and-function-app/>
 * ARM templates for logic apps via Az Docs template ref <https://docs.microsoft.com/en-us/azure/templates/microsoft.logic/allversions>
 * ARM templates for logic apps via Azure QuickStarts <https://github.com/singhkays/azure-quickstart-templates>
+* API Connection via ARM template - https://medium.com/@derek_li/create-api-connection-via-arm-template-b018e8069808
 * Callback URL for Logic App in ARM <https://stackoverflow.com/questions/47012601/getting-callback-url-for-logic-app-in-arm>
 * Deploy using ARM templates <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
 * Preparing Azure Logic Apps for CI/CD using ARM templates <https://platform.deloitte.com.au/articles/preparing-azure-logic-apps-for-cicd>
@@ -50,6 +51,7 @@
 ## SECURITY
 
 * ASE and logic apps <https://feedback.azure.com/forums/287593-logic-apps/suggestions/15105741-is-it-possible-to-deploy-logic-app-to-app-service>
+* Bearer token - https://medium.com/@gamacy/how-to-pass-a-bearer-token-using-azure-logic-apps-b90d597ddce7
 * IP addresses - restricting inbound <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app#restrict-incoming-ip-addresses>
 * Securing Access to Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app>
 * Securing Logic Apps via ASE and API Management (vnet equiv) <http://www.bizbert.com/bizbert/2016/01/07/AppServiceEnvironmentsHowToDeployAPIAppsToAVirtualNetwork.aspx>

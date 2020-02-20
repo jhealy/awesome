@@ -43,7 +43,3 @@ Computer Vision with either OCR or Read API.  Two modes, OCR and Read.
 * Read API - https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text#recognize-text-api
 * Read API in a container - https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers
 * Quickstart - https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts/csharp-hand-text
-
-## MISC
-
-* Cameras - NYC public webcam list - https://webcams.nyctmc.org/multiview2.php

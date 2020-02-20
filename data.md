@@ -29,3 +29,6 @@ Free or cheap data sets to play with
 
 * CIFAR-10 and CIFAR-100 : 60000 32x32 color imagesin 10 classes, with 600 images per class.  50000 training, 10000 test images.  https://www.cs.toronto.edu/~kriz/cifar.html
 
+## MISC
+
+* Cameras - NYC public webcam list - https://webcams.nyctmc.org/multiview2.php

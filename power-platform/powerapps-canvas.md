@@ -140,12 +140,14 @@ https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/intro
 https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/use-powerapps-checker
 * Solution Lifecycle Management Whitepaper (Phil Hand)
 https://www.microsoft.com/en-us/download/details.aspx?id=57777 
+* Word doc generation - https://youtu.be/Zzm965PlYl0
 * Working with Solutions in PowerApps
 https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/solutions-overview 
 
 ## MISC
 
 * AddColumn not working - https://powerusers.microsoft.com/t5/PowerApps-Forum/AddColumns-not-working-with-collection/td-p/29072
+* Automate / flow from Canvas app - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/using-logic-flows#add-a-flow-to-an-app
 * Azure Blob Storage Connector - <https://powerapps.microsoft.com/en-us/blog/upload-files-from-powerapps-using-the-azure-blob-storage-connector/?utm_source=dlvr.it&utm_medium=twitter>
 * Azure Function -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
 * Azure Function -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario

@@ -53,6 +53,7 @@ Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 
 ## MISC
 
+* Automate / flow from Canvas app - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/using-logic-flows#add-a-flow-to-an-app
 * Choose between Logic Apps, Flow, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
 * HttpTrigger for custom applications - http://techcarpenter.blogspot.no/2017/10/microsoft-flow-as-a-service-for-custom-applications.html
 * Office 365 - Get My Profile v2 - https://flow.microsoft.com/en-us/blog/o365-profile-infobip/

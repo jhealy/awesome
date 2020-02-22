@@ -30,6 +30,7 @@
 Computer Vision with either OCR or Read API.  Two modes, OCR and Read.
 
 * Comparison v Amazon and Google - https://www.amplenote.com/blog/2019_examples_amazon_textract_rekognition_microsoft_cognitive_services_google_vision (2019)
+* Language support - https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/language-support#text-recognition
 
 ### Text - OCR
 

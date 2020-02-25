@@ -1,9 +1,10 @@
-# POWERAPPS
+# POWERAPPS - CANVAS
+
+Currently migrating devops and model stuff out...
 
 Admin sign-in : https://admin.powerapps.com
 Main sign-in : https://make.powerapps.com
 
-* **Documentation** - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * **PowerApps for Developers** - https://docs.microsoft.com/en-us/powerapps/#pivot=home&panel=developer
 * Blog - PowerApps Team - https://powerapps.microsoft.com/en-us/blog/
 * Blog - Office Team - https://blogs.office.com/en-us/feed/

@@ -27,6 +27,7 @@ All the goodness I've found on Azure Resource Manager and templates.
 * Deployment Manager - deploy arm templates across regions - https://docs.microsoft.com/en-us/azure/azure-resource-manager/deployment-manager-overview
 * Template tester - https://github.com/Azure/azure-quickstart-templates/tree/master/test/arm-ttk
 * Template validator <https://github.com/singhkays/azure-arm-validator>
+* Visualizer for ARM - https://github.com/shenglol/arm-visualizer 
 
 ## TOOLS - ARM CLIENT SAMPLES
 

@@ -9,6 +9,7 @@
 * Documentation - home <https://docs.microsoft.com/en-us/azure/azure-functions/>
 * Feedback - UserVoice <https://feedback.azure.com/forums/355860-azure-functions>
 * host.json (v2) doc <https://github.com/Azure/azure-functions-host/wiki/host.json-(v2)#sample-hostjson>
+* IP Addresses outbound - https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses
 * Limits - buried in this pricing doc <https://azure.microsoft.com/en-us/pricing/details/functions/>
 * Limits in App Service Plan <https://docs.microsoft.com/en-us/azure/app-service/azure-web-sites-web-hosting-plans-in-depth-overview>
 * Linux - Preview <https://github.com/Azure/Azure-Functions/wiki/Azure-Functions-on-Linux-Preview>
@@ -130,6 +131,7 @@ Notes on moving functions across zones that include premium - https://github.com
 * Call a Secure Azure Function from a Logic App
 http://www.mattruma.com/call-a-secure-azure-function-from-a-logic-app/
 * Integrate your app wiht an Az Vnet - premium plan or ASE - https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet
+* IP Addresses outbound - https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses
 * Premium plan allows for private vnet connectivity - https://docs.microsoft.com/en-us/azure/azure-functions/functions-premium-plan
 * Secure an Azure Function App with Azure Active Directory - 
 http://www.mattruma.com/secure-an-azure-function-app-with-azure-active-directory/
@@ -179,8 +181,6 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * Container - Functions in a container - http://tattoocoder.com/functions-runtime-kubernetes/
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 * HttpClient - Use a static client in an Az Function but do NOT dispose of the httpclient in an Az Function - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
-* Limits - Functions - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#functions-limits
-* Limits - Functions in App Service Plan - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#app-service-limits
 * Linux - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 
 * Logic Apps v Functions - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
 * Managing connections in Az Functions - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c

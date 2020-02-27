@@ -1,3 +1,6 @@
+
+[Custom connectors](custom-connectors.md) :: [Power Automate](power-automate.md) :: [Power BI](power-bi.md) :: [Power Platform](power-platform.md) :: [Power Virtual Agent Bot](power-virtual-agent-bot.md) :: [Canvas Apps](powerapps-canvas.md) :: [Portal / Model Driven Apps](powerapps-portal.md) :: [Logic Apps](..\logicapps.md)
+
 # POWERAPPS - CANVAS
 
 Currently migrating devops and model stuff out...
@@ -178,10 +181,5 @@ https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/solutions-o
 * SortByColumns(), also Concat() - https://blogs.msdn.microsoft.com/briangre/2017/10/04/powerappspuzzle-sorting-selecteditems/
 * Teams - Embed PowerApps in Teams - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/embed-teams-app
 * Using the Cognitive Services Text Analytics API in PowerApps - https://powerapps.microsoft.com/en-us/blog/custom-connectors-and-text-analytics-in-powerapps-part-one/
-
-
-## See Also
-
-[Custom connectors](custom-connectors.md) :: [Power Automate](power-automate.md) :: [Power BI](power-bi.md) :: [Power Platform](power-platform.md) :: [Power Virtual Agent Bot](power-virtual-agent-bot.md) :: [Canvas Apps](powerapps-canvas.md) :: [Portal / Model Driven Apps](powerapps-portal.md) :: [Logic Apps](..\logicapps.md)
 
 

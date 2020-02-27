@@ -3,7 +3,7 @@
 * Case studies - https://customers.microsoft.com/en-us/search?sq=%22Azure%20Logic%20Apps%20%22&ff=&p=1&so=story_publish_date%20desc
 * Compare Flow, Logic Apps, Functions, and WebJobs <https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs>
 * Competitors to PowerApps - https://www.g2.com/products/powerapps/competitors/alternatives
-* Connectors List - <https://docs.microsoft.com/en-us/azure/connectors/apis-list>
+* Connectors List - https://docs.microsoft.com/en-us/connectors/
 * Connector request - <https://aka.ms/logicapps-wish>
 * Docs - https://docs.microsoft.com/en-us/azure/logic-apps/
 * Dynamic expressions / functions reference - https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference

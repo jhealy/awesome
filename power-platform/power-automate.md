@@ -1,3 +1,5 @@
+[Custom connectors](custom-connectors.md) :: [Power Automate](power-automate.md) :: [Power BI](power-bi.md) :: [Power Platform](power-platform.md) :: [Power Virtual Agent Bot](power-virtual-agent-bot.md) :: [Canvas Apps](powerapps-canvas.md) :: [Portal / Model Driven Apps](powerapps-portal.md) :: [Logic Apps](..\logicapps.md)
+
 # POWER AUTOMATE
 
 Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.

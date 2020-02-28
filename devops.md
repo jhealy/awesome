@@ -9,6 +9,8 @@ ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile
 * DevOps Hands-On-Labs <https://almvm.azurewebsites.net/>
 * Licensing - what users can and cannot do with the different levels  (StakeHolder, Basic, Basic+TestManagement)
 https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-levels?view=azure-devops
+* Roadmap - https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline
+* Feature request - https://developercommunity.visualstudio.com/spaces/21/index.html
 
 ## APP CENTER
 

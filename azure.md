@@ -109,6 +109,7 @@
 * Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
 * Networking > Measuring latency and throughput between azure regions <https://blogs.msdn.microsoft.com/mioteg/2017/11/20/measuring-latency-and-throughput-between-azure-regions/>
 * Non-profits center for Azure - arm templates and contoso store  plus ppts <https://github.com/Microsoft/Nonprofits>
+* Portal - how to avoid preview portal - https://portal.azure.com/?feature.customportal=false
 * Python in Azure PaaS for batch services - https://azure.microsoft.com/en-us/resources/samples/batch-python-paas-cloud-service-pool/
 * Redis available soon in Azure IoT Edge market place <https://redislabs.com/blog/ideal-iot-edge-database-redis-enterprise/>
 * Region name shortcuts - https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.documents.locationnames.westus2?view=azure-dotnet

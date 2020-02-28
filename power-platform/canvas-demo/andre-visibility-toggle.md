@@ -1,5 +1,7 @@
 # TOGGLING VISIBILITY OF AN ITEM BASED ON WHETHER TEXT IS CONTAINED
 
+* A MSApp for this project can be downloaded from [andre-visibility.msapp](andre-visibility.msapp) in this repo.
+
 # BUILD IT
 
 * Create a new, blank, tablet app

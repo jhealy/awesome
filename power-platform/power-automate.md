@@ -43,6 +43,7 @@ Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 * Approval - sequential -using SharePoint - https://ms.flow.microsoft.com/en-us/documentation/sequential-modern-approvals/ 
 * Approval - parallel - using SharePoint - https://ms.flow.microsoft.com/en-us/documentation/parallel-modern-approvals/
 * Copy files automatically - https://flow.microsoft.com/en-us/guided-learning/learning-copy-files/
+* Crisis template - https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/
 * Data collection - https://flow.microsoft.com/en-us/guided-learning/learning-collect-data/
 * Email - Post when emailed - https://ms.flow.microsoft.com/en-us/documentation/get-started-logic-template/
 * Email - Send form responses for approval - Forms, approvals and sharepoint - https://us.flow.microsoft.com/en-us/galleries/public/templates/4071c6b040c611e7ad68c1c80e905297/send-form-responses-for-approval/

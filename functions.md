@@ -122,6 +122,7 @@ Notes on moving functions across zones that include premium - https://github.com
 * License plate reader using functions and OpenALPR - https://github.com/anthonychu/azure-functions-openalpr/tree/master/src/openalpr
 * MS Graph with Az Functions https://github.com/microsoftgraph/msgraph-training-building-apps/blob/master/Lab.md#exercise-3-build-an-azure-function-using-microsoft-graph
 * Reference Arch > ECommerce front end > - https://docs.microsoft.com/en-us/azure/architecture/example-scenario/apps/ecommerce-scenario
+* **Serverless library** - https://serverlesslibrary.net/
 
 ## SECURITY
 
@@ -176,8 +177,7 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * Cross Platform Tooling for Az Functions - Mac, Linux via NPM.  VS Code. VS Mac. Javascript, c#.  https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Debugging Azure Functions locally using Postman <https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function>
 * Deployment slots - https://docs.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots
-* Event Hubs with Azure Functions - Reliable Event Processing in Azure Functions <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc>
-* Event Processing in Azure Functions - challenges <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fcfs>
+* Event Processing in Azure Functions / Event Hub - challenges <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fcfs>
 * Container - Functions in a container - http://tattoocoder.com/functions-runtime-kubernetes/
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 * HttpClient - Use a static client in an Az Function but do NOT dispose of the httpclient in an Az Function - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
@@ -193,7 +193,9 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Proxies - act like baby api management - only available in functions v1 - use API-M instead <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * Python - First py function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python#deploy-the-function-app-project-to-azure
+* Scaling - High throughput functions - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/
 * Selenium not supported in Azure Functions - https://github.com/projectkudu/kudu/wiki/Azure-Web-App-sandbox#unsupported-frameworks
+* Status codes from Azure Functions - https://dontcodetired.com/blog/post/Returning-HTTP-Status-Codes-from-Azure-Functions
 * SQL Binding <https://stackoverflow.com/questions/44983669/azure-function-vs2017-sql-table-binding>
 * VS Code Extension now supports Azure Functions - https://marketplace.visualstudio.com/items/ms-azuretools.vscode-azurefunctions
 

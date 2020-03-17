@@ -71,6 +71,7 @@ Main sign-in : https://make.powerapps.com
 * Announcing GA of PCF for Model Driven Apps - https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-powerapps-component-framework-for-model-driven-applications-and-powerapps-cli/
 * CLI - Announcing PowerApps CLI for PCF - https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-powerapps-component-framework-for-model-driven-applications-and-powerapps-cli/
 * Community components/blogs/demos - https://aka.ms/PCFDemos
+* Gallery - https://pcf.gallery/ 
 * Getting started with PA component framework - https://aka.ms/PCFBlog
 * PA component framework community forum - https://aka.ms/PCFForum
 * ReactJS - Extend boundary of PowerApps CF - http://blog.dynamicscode.net/2019/06/26/react-extended-boundary-of-powerapps-component-framework/
@@ -131,6 +132,7 @@ Also see SOLUTIONS
 ## TEMPLATES
 
 * Calendar App from SharePoint Data - https://powerapps.microsoft.com/en-us/blog/building-an-internal-event-calendar-app-in-flight/
+* Crisis template - https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/
 * Out of Office Template (o365 connector) - https://powerapps.microsoft.com/en-us/blog/announcing-new-office-template-series/
 * Shout outs / kudos template - https://powerapps.microsoft.com/en-us/blog/next-in-the-office-template-series-shoutouts/
 

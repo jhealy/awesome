@@ -51,6 +51,8 @@
 
 * Cloudmersive connector - https://docs.microsoft.com/en-us/connectors/cloudmersive/
   * S/O discussions - https://stackoverflow.com/questions/32567922/virus-scanning-uploaded-files-from-azure-web-worker-role
+* Advanced threat protection for Azure Storage includes Malware Reputation Screening, which detects malware uploads using hash reputation analysis leveraging the power of Microsoft Threat Intelligence, which includes hashes for Viruses, Trojans, Spyware and Ransomware.  GA sometime post April.  Note cannot guarantee every malware will be detected using hash reputation analysis technique.  https://techcommunity.microsoft.com/t5/Azure-Security-Center/Validating-ATP-for-Azure-Storage-Detections-in-Azure-Security/ba-p/1068131 .  
+
   
 ## NOTES
 
@@ -59,6 +61,7 @@
 
 ## MISC
 
+* ADLS G2 Connector for PowerApps, Automate, Flow - https://docs.microsoft.com/en-us/connectors/azureblob/#azure-data-lake-storage-gen2
 * How to alert on az storage blob access using Az Monitor and Log Analytics - https://devblogs.microsoft.com/premier-developer/how-to-alert-on-azure-blob-metrics/
 * SFTP in Azure - https://docs.microsoft.com/en-us/samples/azure-samples/sftp-creation-template/sftp-on-azure/
 * Slicing large blobs - https://www.dynabyte.se/blog/2013/10/09/uploading-directly-to-windows-azure-blob-storage-f/

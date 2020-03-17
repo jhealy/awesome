@@ -15,3 +15,9 @@ Its own special kind of best, built on model driven PowerApps.  Model will be ge
 
 * Enable Azure Storage - https://docs.microsoft.com/en-us/powerapps/maker/portals/enable-azure-storage#specify-the-storage-container
 * Metadata for notes to use storage - https://docs.microsoft.com/en-us/powerapps/maker/portals/configure-notes#notes-configuration-for-web-forms
+
+## MISC
+
+* Embed a canvas app in a Portal - https://readyxrm.blog/2019/11/26/embedding-a-canvas-app-in-a-power-apps-portal/
+* Theming your portal app - https://docs.microsoft.com/en-us/dynamics365/portals/create-theme
+

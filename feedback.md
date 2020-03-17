@@ -57,9 +57,12 @@ Office 365
 http://www.devfish.net/fullblogitemview.aspx?blogid=734|Web Application Toolkit Feedback - webapp@microsoft.com 
 * Visual Studio Container Tools Feedback - https://github.com/Microsoft/DockerTools
 * Visual Studio Cordova - see TACO entry here 
+* Visual Studio - Developer Community - https://developercommunity.visualstudio.com/spaces/8/index.html
 * Visual Studio and .NET Framework Feedback - https://developercommunity.visualstudio.com/spaces/21/index.html
 * Visual Studio Forums - https://social.msdn.microsoft.com/Forums/vstudio/en-US/home?forum=vsdebug 
 * Visual Studio Mac - https://visualstudio.uservoice.com/forums/563332-visual-studio-for-mac 
+* Visual Studio - RoadMap - https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap
+* Visual Studio - Suggest a feature - https://docs.microsoft.com/en-us/visualstudio/ide/suggest-a-feature?view=vs-2019
 * Visual Studio Subscriptions (MSDN Subs) - Service Centers (1-800-759-5474) -
 https://www.visualstudio.com/subscriptions/support/
 * Visual Studio Team Systems ( VSTS ) UserVoice - <https://visualstudio.uservoice.com/forums/330519-visual-studio-team-services/>

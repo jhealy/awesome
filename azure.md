@@ -26,6 +26,7 @@
 * Azure Gaming Reference Architectures - https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/general-guidelines
 * Azure Solution Explorer - new tool in Azure Charts. Easily discover published reference architectures, solution ideas and example workloads starting small from a single "anchor" service and iteratively adding more pieces of the puzzle https://aka.ms/azslns
 * Cloud Design Patterns <https://docs.microsoft.com/en-us/azure/architecture/patterns/>
+* Cloud Native Arch - https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/?WT.mc_id=blog-docs-shboyer
 * SmartHive Meeting Room with Service Bus - <https://github.com/Microsoft/MTC_SmartHive>
 * Icon / Glyph collection - Azure Architecture Center - svg format <https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/>
 * Icon / Glyph Collection <https://www.microsoft.com/en-us/download/details.aspx?id=41937>

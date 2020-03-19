@@ -16,6 +16,7 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 ## APP SERVICE CONTAINERS
 
 * Announce - https://azure.microsoft.com/en-us/blog/announcing-the-public-preview-of-windows-container-support-in-azure-app-service/
+* CI/CD for App Service and Function Containers - https://docs.microsoft.com/en-us/azure/app-service/containers/app-service-linux-ci-cd
 * Quickstart to run a Windows Container in App Service - https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-windows-container
 
 ## AZURE SERVICES IN A CONTAINER

@@ -13,6 +13,7 @@
 * Connect Sample - UWP/C# - <https://dev.office.com/code-samples-detail/8759>
 * Functions with MS Graph <https://github.com/microsoftgraph/msgraph-training-building-apps/blob/master/Lab.md#exercise-3-build-an-azure-function-using-microsoft-graph>
 * Graph Code Samples and SDKs - <https://developer.microsoft.com/en-us/graph/code-samples-and-sdks>
+* Graph Toolkit - collection of web components for ms graph - js - https://github.com/microsoftgraph/microsoft-graph-toolkit
 * Snippets for UWP/C# - <https://dev.office.com/code-samples-detail/10941>
 
 ## MISC

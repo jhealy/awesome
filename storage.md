@@ -35,6 +35,7 @@
 ## SECURITY
 
 * Compliance offerings <https://docs.microsoft.com/en-us/azure/storage/common/storage-compliance-offerings>
+* Private endpoints for storage GA - March 2020 - https://docs.microsoft.com/en-us/azure/storage/common/storage-private-endpoints
 * Scanning blobs using Symantec Cloud Workload Protection for Storage - https://azuremarketplace.microsoft.com/en-us/marketplace/apps/symanteccorporation.symccwps-app?tab=Overview
 * Scanning blobs using ClamAV and Az functions
   * Defensive functions - https://www.defenseagainstthedarkarts.com/defensive-functions/
@@ -51,7 +52,7 @@
 
 * Cloudmersive connector - https://docs.microsoft.com/en-us/connectors/cloudmersive/
   * S/O discussions - https://stackoverflow.com/questions/32567922/virus-scanning-uploaded-files-from-azure-web-worker-role
-* Advanced threat protection for Azure Storage includes Malware Reputation Screening, which detects malware uploads using hash reputation analysis leveraging the power of Microsoft Threat Intelligence, which includes hashes for Viruses, Trojans, Spyware and Ransomware.  GA sometime post April.  Note cannot guarantee every malware will be detected using hash reputation analysis technique.  https://techcommunity.microsoft.com/t5/Azure-Security-Center/Validating-ATP-for-Azure-Storage-Detections-in-Azure-Security/ba-p/1068131 .  
+* Advanced threat protection for Azure Storage includes Malware Reputation Screening, which detects malware uploads using hash reputation analysis leveraging the power of Microsoft Threat Intelligence, which includes hashes for Viruses, Trojans, Spyware and Ransomware.  GA sometime post April.  Note cannot guarantee every malware will be detected using hash reputation analysis technique.  https://techcommunity.microsoft.com/t5/Azure-Security-Center/Validating-ATP-for-Azure-Storage-Detections-in-Azure-Security/ba-p/1068131 . Symantec and McAffee are deeper scans of the blob.  
 
   
 ## NOTES

@@ -26,6 +26,7 @@
 * Deploy using ARM templates <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
 * Preparing Azure Logic Apps for CI/CD using ARM templates <https://platform.deloitte.com.au/articles/preparing-azure-logic-apps-for-cicd>
 * REST interface for devops - https://docs.microsoft.com/en-us/rest/api/logic/
+* Template for full lifecycle from S.Gaul.  Very extensive. https://dev.azure.com/shgaul/_git/LogicAppsAndDevOps
 
 ## FUNCTIONS
 

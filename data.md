@@ -24,6 +24,7 @@ Free or cheap data sets to play with
 * Public reefs (gpx,free) - https://strikelines.com/public-reefs/
 * Radar images - real time - https://radar.weather.gov/ridge/kmzgenerator.php 
 * Seagrass beds - https://catalog.data.gov/dataset/geographic-information-system-gis-characterization-of-historical-extent-of-seagrass-beds-in-tam/resource/fcdee793-9127-47d5-ad02-86ffa01641f8
+* Ship positions ($$) https://www.marinetraffic.com/en/online-services/plans
 
 ## IMAGES
 
@@ -32,3 +33,5 @@ Free or cheap data sets to play with
 ## MISC
 
 * Cameras - NYC public webcam list - https://webcams.nyctmc.org/multiview2.php
+* Medical - covid19 infections from John Hopkins - https://github.com/CSSEGISandData/COVID-19
+

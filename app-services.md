@@ -48,6 +48,7 @@
 
 ## WEB APPS FOR CONTAINERS
 
+* Migrating ghost (node.js/linux) to azure app service - https://tattoocoder.com/updating-the-my-blog-from-appservice-to-containers-finally/?utm_source=devfish
 * NOT available in gov cloud - https://azure.microsoft.com/en-us/global-infrastructure/services/?products=app-service-linux&regions=non-regional,us-east,us-east-2,us-central,us-north-central,us-south-central,us-west-central,us-west,us-west-2,canada-east,canada-central,usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia
 
 SEE ALSO Azure App Service Environments - https://github.com/jhealy/awesome/blob/master/azure-ase.md

@@ -30,6 +30,10 @@ Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 
 ## LEARN
 
+* Begginer to advanced (free) from https://www.twitter.com/JonJLevesque
+  * Beginner series from @JonJLevesque - https://aka.ms/PABeginner
+  * Intermediate series from @JonJLevesque - https://aka.ms/PAIntermediate
+  * Advanced series from https://aka.ms/PAAdvanced
 * Guided Learning - https://flow.microsoft.com/en-us/guided-learning/
 * Learning Resources collection - https://flow.microsoft.com/en-us/blog/microsoft-flow-learning-resources-materials/
 * Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/

@@ -33,6 +33,7 @@ Main sign-in : https://make.powerapps.com
 * Environments > Working with Environments - https://powerapps.microsoft.com/en-us/tutorials/working-with-environments
 * Export and Import Apps Across Environments with Packaging - https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/
 * External users - sharing Canvas apps - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/share-app#share-with-guests
+* IP Addresses - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/limits-and-config#ip-addresses
 * Moving a Flow between environments - or rather the inability to - https://powerusers.microsoft.com/t5/General-Flow-Discussion/How-to-move-a-flow-between-two-envirionments/td-p/10838
 * Moving a PowerApp between environments - https://powerapps.microsoft.com/en-us/tutorials/environment-and-tenant-migration/
 * Save and Publish - https://powerapps.microsoft.com/en-us/blog/saveandpublish/
@@ -115,6 +116,7 @@ Also see SOLUTIONS
 ## LEARN
 
 * App-in-a-day - https://aka.ms/appinaday
+* Crisis management template - https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/
 * Grid - editable - https://powerapps.microsoft.com/en-us/blog/editable-tables/
 * Lab challenges - a follow on to app-in-a-day - https://powerapps.microsoft.com/en-us/blog/power-platform-challenges/
 * Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/ 

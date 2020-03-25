@@ -11,6 +11,8 @@
 
 ## PUBLISH
 
+* Available channels - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?view=azure-bot-service-4.0
+* Push to Channel - https://docs.microsoft.com/en-us/power-virtual-agents/publication-fundamentals-publish-channels#configure-channels
 * Teams - https://docs.microsoft.com/en-us/power-virtual-agents/publication-add-bot-to-microsoft-teams
 
 ## LEARN

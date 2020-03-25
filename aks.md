@@ -11,6 +11,7 @@
 * Containers bootcamp - https://github.com/heoelri/container-bootcamp
 * K8S Windows Walkthrough - https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md
 * Learn K8S - http://aka.ms/learnkubernetes
+* Learn in 50 Days - https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/ 
 
 ## WINDOWS
 

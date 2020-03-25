@@ -9,12 +9,18 @@
 * Sign up - https://aka.ms/TryPVA
 * Suggest an idea for Power Virtual Agent Bots - https://aka.ms/PowerVirtualAgentsIdeas- https://powerusers.microsoft.com/t5/Power-Apps-Ideas/idb-p/PowerAppsIdeas/label-name/power%20virtual%20agents
 
+## LEARN
+
+* Create a Power Virtual Agent bot in 10 easy steps - https://powerusers.microsoft.com/t5/News-Announcements/Creating-a-Power-Virtual-Agent-bot-in-10-easy-steps/ba-p/395918
+
 ## PUBLISH
 
 * Available channels - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?view=azure-bot-service-4.0
 * Push to Channel - https://docs.microsoft.com/en-us/power-virtual-agents/publication-fundamentals-publish-channels#configure-channels
 * Teams - https://docs.microsoft.com/en-us/power-virtual-agents/publication-add-bot-to-microsoft-teams
 
-## LEARN
+## SECURITY
 
-* Create a Power Virtual Agent bot in 10 easy steps - https://powerusers.microsoft.com/t5/News-Announcements/Creating-a-Power-Virtual-Agent-bot-in-10-easy-steps/ba-p/395918
+* OAuth2 -  https://docs.microsoft.com/en-us/power-virtual-agents/configuration-end-user-authentication
+
+

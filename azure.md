@@ -77,6 +77,13 @@
 * Shared responsibility - https://aka.ms/sharedresponsibility
 * Shared responsibility model - download - https://gallery.technet.microsoft.com/Shared-Responsibilities-81d0ff91
 
+## SERVICE LEVEL AGREEMENTS
+
+* Azure SLA Summary - https://azure.microsoft.com/en-us/support/legal/sla/summary/ 
+* Azure SLAs - https://azure.microsoft.com/en-us/support/legal/sla/ 
+* Calculating compound SLA - https://devops.stackexchange.com/questions/711/how-do-you-calculate-the-compound-service-level-agreement-sla-for-cloud-servic 
+
+
 ## MISC
 
 * App Insights > Profile a live app using App Insights - <https://docs.microsoft.com/en-us/azure/application-insights/app-insights-profiler>

@@ -17,7 +17,9 @@
 * Linux Container in an ASE <https://blogs.msdn.microsoft.com/appserviceteam/2018/07/30/linuxasega/>
 
 # DEVOPS
+
 * Create an ASE v2 using Powershell <https://azure.microsoft.com/en-us/resources/templates/201-web-app-asev2-create/>
+* Deploy to ASE using DevOps - https://stackoverflow.com/questions/55133089/deploying-to-app-service-environment-from-azure-devops
 
 # LOGIC APPS
 

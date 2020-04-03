@@ -13,7 +13,7 @@
 * Limits - buried in this pricing doc <https://azure.microsoft.com/en-us/pricing/details/functions/>
 * Limits in App Service Plan <https://docs.microsoft.com/en-us/azure/app-service/azure-web-sites-web-hosting-plans-in-depth-overview>
 * Linux - Preview <https://github.com/Azure/Azure-Functions/wiki/Azure-Functions-on-Linux-Preview>
-* Premium Plan <https://www.msn.com/en-us/video/watch/Dark-Phoenix--Official-Trailer-HD--20th-Century-FOX/vi-BBUbBWI?videoformat=flash> -up to 4 cores/14gb memory - event driven scaling - min and max instances - vnet integration - no cold start - costsa re consumption and 1 pre-warmed instance
+* Premium Plan - up to 4 cores/14gb memory - event driven scaling - min and max instances - vnet integration - no cold start - costsa re consumption and 1 pre-warmed instance
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Roadmap <https://azure.microsoft.com/en-us/roadmap/?query=functions>
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/

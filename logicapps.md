@@ -22,7 +22,7 @@
 * ARM templates for logic apps via Az Docs template ref <https://docs.microsoft.com/en-us/azure/templates/microsoft.logic/allversions>
 * ARM templates for logic apps via Azure QuickStarts <https://github.com/singhkays/azure-quickstart-templates>
 * API Connection via ARM template - https://medium.com/@derek_li/create-api-connection-via-arm-template-b018e8069808
-* Callback URL for Logic App in ARM <https://stackoverflow.com/questions/47012601/getting-callback-url-for-logic-app-in-arm>
+* Callback URL for Logic App in ARM <https://stackoverflow.com/questions/47012601/getting-callback-url-for-logic-app-in-arm>, API to get the callback url for the Logic App trigger - https://docs.microsoft.com/en-us/rest/api/logic/workflowtriggers/listcallbackurl
 * Deploy using ARM templates <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>
 * Preparing Azure Logic Apps for CI/CD using ARM templates <https://platform.deloitte.com.au/articles/preparing-azure-logic-apps-for-cicd>
 * REST interface for devops - https://docs.microsoft.com/en-us/rest/api/logic/

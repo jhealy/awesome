@@ -36,6 +36,7 @@
 
 * Compliance offerings <https://docs.microsoft.com/en-us/azure/storage/common/storage-compliance-offerings>
 * Private endpoints for storage GA - March 2020 - https://docs.microsoft.com/en-us/azure/storage/common/storage-private-endpoints
+* RBAC - https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
 * Scanning blobs using Symantec Cloud Workload Protection for Storage - https://azuremarketplace.microsoft.com/en-us/marketplace/apps/symanteccorporation.symccwps-app?tab=Overview
 * Scanning blobs using ClamAV and Az functions
   * Defensive functions - https://www.defenseagainstthedarkarts.com/defensive-functions/

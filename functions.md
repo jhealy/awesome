@@ -104,6 +104,11 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Monitor Azure Functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
 * Sampling configuration <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#configure-sampling>
 
+## PERFORMANCE
+
+* Concurrency - https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices#configure-host-behaviors-to-better-handle-concurrency
+* Scaling - High throughput functions - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/
+
 ## PREMIUM FUNCTIONS
 
 Pre-warmed instances are shared by all apps in your plan. So, with 3 apps with low load and a minimal memory footprint you would be running on just your pre-warmed instances. You can only deploy Function Apps to this plan, no other resource, like Logic Apps can share that capacity.
@@ -186,14 +191,11 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * Managing connections in Az Functions - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/
 * Newtonsoft and 1.x functions - will not go behond newtonsoft v9 - https://github.com/Azure/azure-functions-host/issues/4049 
-* Performance > https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices#configure-host-behaviors-to-better-handle-concurrency
-* Performance > High throughput functions - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * PowerApps -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Proxies - act like baby api management - only available in functions v1 - use API-M instead <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * Python - First py function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python#deploy-the-function-app-project-to-azure
-* Scaling - High throughput functions - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/
 * Selenium not supported in Azure Functions - https://github.com/projectkudu/kudu/wiki/Azure-Web-App-sandbox#unsupported-frameworks
 * Status codes from Azure Functions - https://dontcodetired.com/blog/post/Returning-HTTP-Status-Codes-from-Azure-Functions
 * SQL Binding <https://stackoverflow.com/questions/44983669/azure-function-vs2017-sql-table-binding>

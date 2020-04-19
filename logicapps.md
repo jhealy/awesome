@@ -58,6 +58,7 @@
 * Securing Access to Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app>
 * Securing Logic Apps via ASE and API Management (vnet equiv) <http://www.bizbert.com/bizbert/2016/01/07/AppServiceEnvironmentsHowToDeployAPIAppsToAVirtualNetwork.aspx>
 * IP addresses - whitelisting - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config#outbound-ip-addresses---logic-apps-service--managed-connectors 
+* ISE - https://aka.ms/logicappsise
 
 ## TOOLS
 
@@ -80,6 +81,7 @@
 * Lessons Learned - http://blogs.technet.com/b/meamcs/archive/2015/04/09/azure-logic-app-lessons-learned-part-1.aspx
 * Liquid templates (b2b) - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-liquid-transform
 * On-Premise Data Gateway - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-connection
+* SAP - https://aka.ms/saplogicapps
 * Using Logic Apps to assist with DevOps <https://azure.microsoft.com/en-us/resources/videos/extending-devops-with-serverless-logic-apps/>
 * VS2019 Extension - https://marketplace.visualstudio.com/items?itemName=VinaySinghMSFT.AzureLogicAppsToolsForVS2019 
 * XML Integration - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-eai-logic-app-using-vetr/

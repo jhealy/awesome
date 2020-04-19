@@ -1,3 +1,5 @@
+See also:  [Docker](docker.md) 
+
 # CONTAINERS
 
 * Active Directory service accounts with Containers - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/manage-serviceaccounts
@@ -39,6 +41,7 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 ## VISUAL STUDIO
 
 * Container tools in Visual Studio - https://docs.microsoft.com/en-us/visualstudio/containers/?view=vs-2019
+* How VS builds containerized apps - https://docs.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2019 
 * Install build tools into a container - https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container?view=vs-2019
 * Visual Studio Container Tools Feedback - https://github.com/Microsoft/DockerTools
 

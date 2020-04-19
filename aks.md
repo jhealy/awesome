@@ -4,6 +4,10 @@
 * Container networking interfaces - pre-requisites, ip addresses, et al - https://docs.microsoft.com/en-us/azure/aks/configure-azure-cni#prerequisites
 * Windows Container Support (May 2019) - https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/
 
+## DEVOPS
+
+* AKS integration for Azure Devops Pipelines - https://devblogs.microsoft.com/devops/announcing-kubernetes-integration-for-azure-pipelines/
+
 ## LEARN
 
 * Azure Kubernetes workshop - https://aksworkshop.io/
@@ -12,6 +16,15 @@
 * K8S Windows Walkthrough - https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md
 * Learn K8S - http://aka.ms/learnkubernetes
 * Learn in 50 Days - https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/ 
+https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
+
+## NETWORKING
+
+* Network concepts for apps in AKS - https://docs.microsoft.com/en-us/azure/aks/concepts-network
+
+## SCALING
+
+* Create virtual nodes using the Azure CLI - https://docs.microsoft.com/en-us/azure/aks/virtual-nodes-cli
 
 ## WINDOWS
 

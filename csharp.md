@@ -1,15 +1,19 @@
-# General
+# CSHARP
+
 * Roadmap - https://github.com/dotnet/csharplang/tree/master/proposals
 
-# Design
+## Design
+
 * https://github.com/dotnet/csharplang
 * https://blogs.msdn.microsoft.com/dotnet/2017/03/09/new-features-in-c-7-0/
 
-# Language strategy
+## Language strategy
+
 * https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
 * https://blogs.msdn.microsoft.com/vbteam/2017/02/01/digging-deeper-into-the-visual-basic-language-strategy/
 
-# Roslyn
+## Roslyn
+
 * https://github.com/dotnet/Roslyn
 
 # History of C#
@@ -22,7 +26,8 @@
 * Async Main - https://blogs.msdn.microsoft.com/mazhou/2017/05/30/c-7-series-part-2-async-main/
 * Default Expressions - https://blogs.msdn.microsoft.com/mazhou/2017/06/06/c-7-series-part-3-default-literals/
 
-# MISC
+## MISC
+* Enumerable v Lists/Arrays - https://medium.com/@ben.k.muller/c-ienumerable-vs-list-and-array-9f099f157f4f
 * Events tutorial - https://msdn.microsoft.com/en-us/library/aa645739(v=vs.71).aspx
 * Extension methods collection - http://extensionmethod.net/
 * Lambda examples from dotnetperls - https://www.dotnetperls.com/lambda

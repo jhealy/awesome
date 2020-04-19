@@ -45,6 +45,8 @@ See App Center above....
 
 ## MISC
 
+* AKS - AKS integration for Azure Devops Pipelines - https://devblogs.microsoft.com/devops/announcing-kubernetes-integration-for-azure-pipelines/
+
 * Azure Stack - Deploy apps to Azure and Azure Stack -https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-solution-pipeline 
 * Azure Stack - Validated Azure tasks - https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/azure-stack?view=azure-devops#qa 
 * CI/CD - Edx - Continuous Integration and Continuous Deployment - https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T2/info

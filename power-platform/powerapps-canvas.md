@@ -95,6 +95,9 @@ Main sign-in : https://make.powerapps.com
 
 ## DEVOPS
 
+* Test Studio for Canvas Apps - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/test-studio 
+* Testing Canvas Apps with Power Testing Studio in DevOps Pipelines- https://powerapps.microsoft.com/en-us/blog/automate-your-canvas-tests-in-your-devops-pipeline/
+
 Also see SOLUTIONS
 
 * Auditing and monitoring - https://docs.microsoft.com/en-us/power-platform/admin/logging-powerapps 

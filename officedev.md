@@ -1,5 +1,6 @@
 # GENERAL
 
+* M365 Roadmap - https://www.microsoft.com/en-us/microsoft-365/roadmap
 * Open XML SDK - <https://github.com/OfficeDev/Open-XML-SDK>
 * Add-in Model Labs - <https://github.com/OfficeDev/TrainingContent/tree/master/O3652>
 

@@ -57,17 +57,6 @@
 * Microsoft Mechanics Video Series - https://www.youtube.com/c/MicrosoftMechanicsSeries
 * QuickStart Guide for .NET Developers <https://azure.microsoft.com/en-us/blog/get-the-azure-quick-start-guide-for-net-developers/>
 
-## MICROSERVICES
-
-* Also see service Fabric topic in this wiki
-* ISV > Microservice applications - https://azure.microsoft.com/en-us/solutions/microservice-applications/
-* Patterns for Microservices - http://microservices.io/patterns/index.html
-* Learn > Book > Building Microservices by Sam Newman - http://amzn.to/2tEh5Uw
-* Learn > eBook > Microservices Architecture for eCommerce - http://go.divante.co/microservices-architecture-ecommerce/
-* Learn > eBook > Microservices and Docker Containers Architecture Guide and Source Code - https://www.microsoft.com/net/learn/architecture
-* Learn > Video > Russinovich on Microservices - https://channel9.msdn.com/Blogs/Seth-Juarez/An-Introduction-to-Microservices-with-Mark-Russinovich
-* Source Code > eShopOnContainers reference architecture - download and ebook links - https://github.com/dotnet-architecture/eShopOnContainers
-
 ## SECURITY
 
 * Azure Trust Center - https://www.microsoft.com/en-us/trustcenter/privacy/you-own-your-data

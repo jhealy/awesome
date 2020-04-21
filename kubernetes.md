@@ -7,3 +7,4 @@
 
 * Hackfest - https://github.com/azure/kubernetes-hackfest
 * How YOU actually use Kubernetes, starring YAML files -https://dev.to/azure/how-you-actually-use-kubernetes-starring-yaml-files-3c0k 
+* Learn kubernetes - learning path, ebook - https://aka.ms/k8slearning

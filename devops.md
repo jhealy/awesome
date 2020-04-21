@@ -25,6 +25,7 @@ Formerly known as Visual Studio Mobile Center
 
 * Integrated toolset for security.  Credential scanner, linker scanner, linter, roslyn analyzers, security risk detection, anti-malware scanner -  https://secdevtools.azurewebsites.net/
 * OWASP Source Code Scanners - integration guidance for devops needed - https://www.owasp.org/index.php/Source_Code_Analysis_Tools
+* Security code analysis using analyzers - https://docs.microsoft.com/en-us/azure/security/develop/security-code-analysis-overview
 
 ## LEARN
 
@@ -33,6 +34,10 @@ Formerly known as Visual Studio Mobile Center
 * DevOps hands on labs - tons of labs <https://www.azuredevopslabs.com/>
 * MS Learn - https://docs.microsoft.com/en-us/learn/browse/?term=devops
 * Hands on labs <https://almvm.azurewebsites.net/>
+
+## SAMPLES
+
+* Microsoft Docs system as open source - how to build it out yourself - GitHub / DevOps / Az Storage - https://aka.ms/iwantdocs 
 
 ## TESTING
 
@@ -46,7 +51,6 @@ See App Center above....
 ## MISC
 
 * AKS - AKS integration for Azure Devops Pipelines - https://devblogs.microsoft.com/devops/announcing-kubernetes-integration-for-azure-pipelines/
-
 * Azure Stack - Deploy apps to Azure and Azure Stack -https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-solution-pipeline 
 * Azure Stack - Validated Azure tasks - https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/azure-stack?view=azure-devops#qa 
 * CI/CD - Edx - Continuous Integration and Continuous Deployment - https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T2/info

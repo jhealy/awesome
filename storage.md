@@ -32,6 +32,10 @@
 * How to RBAC with Storage <https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-rbac>
 * Storage security Guide <https://docs.microsoft.com/en-us/azure/storage/common/storage-security-guide>
 
+## SAMPLES
+
+* Microsoft Docs system as open source - how to build it out yourself - GitHub / DevOps / Az Storage - https://aka.ms/iwantdocs 
+
 ## SECURITY
 
 * Compliance offerings <https://docs.microsoft.com/en-us/azure/storage/common/storage-compliance-offerings>

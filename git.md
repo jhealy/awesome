@@ -14,6 +14,10 @@
 * Team Services and git - multipart tutorial - excellent - https://www.visualstudio.com/en-us/docs/git/gitquickstart
 * Using Git with VS2013 Jump Start - http://www.microsoftvirtualacademy.com/training-courses/using-git-with-visual-studio-2013-jump-start
 
+## SAMPLES
+
+* Microsoft Docs system as open source - how to build it out yourself - GitHub / DevOps / Az Storage - https://aka.ms/iwantdocs 
+
 ## MISC
 
 * Devops with GitLab - https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/?view=azure-devops - 

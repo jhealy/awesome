@@ -8,10 +8,12 @@
 * SonarQube Integration for Rosalyn - https://blogs.msdn.microsoft.com/visualstudioalm/2016/02/18/sonarqube-scanner-for-msbuild-v2-0-* released-support-for-third-party-roslyn-analyzers/
 * Use code analyzers in C# to improve code quality - https://codehollow.com/2016/08/use-code-analyzers-csharp-improve-code-quality/
 
-# ANALYZERS 
+## ANALYZERS 
+
 * API Analyzer - checks for deprecated APIs in port to .NET Core <https://visualstudiomagazine.com/articles/2017/11/07/api-analyzer.aspx>
 * Built into Visual Studio - https://blogs.msdn.microsoft.com/secdevblog/2016/03/30/roslyn-diagnostics-security-analyzers-overview/
 * Roslyn Analyzer Essentials - libs to supplement the built in ones - core sets - https://github.com/dotnet/roslyn-analyzers
+* DevSecOps with Roslyn Analyzers - https://docs.microsoft.com/en-us/azure/security/develop/security-code-analysis-overview
 * Top 20 Analyzers - http://nugetmusthaves.com/Tag/analyzers
 * C# Essentials - Dustin Campbell - gallery: https://visualstudiogallery.msdn.microsoft.com/a4445ad0-f97c-41f9-a148-eae225dcc8a5 - github: https://github.com/DustinCampbell/CSharpEssentials - NameOf, Getter-Only AutoProperty, Expression-Bodied member, Convert to Interpolated String
 * Refactoring Essentials by the ILSpy Team - http://vsrefactoringessentials.com/

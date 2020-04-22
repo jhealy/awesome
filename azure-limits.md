@@ -18,7 +18,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config> actions pe rworkflow, workflows per region, runduration, storage retention, IP addresses
 * Functions - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#functions-limits
 * Functions in App Service Plan - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#app-service-limits
-* Load Balancer - https://docs.microsoft.com/en-us/azure/load-balancer/concepts-limitations#skus
+* Load Balancer - no bandwidth/throughput cap. It's backbone/wire speed - https://docs.microsoft.com/en-us/azure/load-balancer/concepts-limitations#skus
 * Power Automate -  https://docs.microsoft.com/en-us/power-automate/limits-and-config
 * Power BI Dataflow - Pro and Premium - https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview#dataflow-capabilities-on-power-bi-premium 
 * SQL Database (Azure) - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-limits-database-server

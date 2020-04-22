@@ -73,3 +73,10 @@ Custom skill link <https://docs.microsoft.com/en-us/azure/search/cognitive-searc
 * Cassandra - not supported yet - upvote the feature <https://feedback.azure.com/forums/263029-azure-search/suggestions/32857525-indexer-crawler-for-apache-cassandra-api-in-azur>
 * Number of docs in blob storage container <https://docs.microsoft.com/en-us/azure/storage/scripts/storage-blobs-container-calculate-size-powershell>
 * Query - lucene search examples - https://docs.microsoft.com/en-us/azure/search/search-query-lucene-examples 
+
+## MISC FAQ
+
+### CAN I FIND OUT WHO SEARCHED WHAT IN AZ SEARCH
+
+Azure Search does not track or store customer related information such as this.  FYou can integrate in that capability via custom code efforts.  Mechanisms such as App Insights can be used with the client uploading telemetry.  The AppService running the search engine can logs the information as well, to App Insights or another engine.   The search telemetry can be used to add a fake parameter to a search request (e.g. search=foo&userid=123) which would log this info.
+

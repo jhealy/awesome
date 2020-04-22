@@ -47,6 +47,7 @@
 ## LEARN
 
 * **Azure Learning Paths** - free training, hands on labs, guided learning paths, certification links <https://docs.microsoft.com/en-us/learn/azure/>
+* **Top Rated Learning by Topic** - https://azurecharts.com/learning/top
 * Application Architecture Guide (pdf available too) <https://docs.microsoft.com/en-us/azure/architecture/guide/>
 * Architecture Guide for MicroServices, Web Apps, Cloud Deployment - https://www.microsoft.com/net/learn/architecture
 * ARM errors on deploy - <https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures>

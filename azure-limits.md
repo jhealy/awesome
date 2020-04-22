@@ -21,6 +21,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * Load Balancer - no bandwidth/throughput cap. It's backbone/wire speed - https://docs.microsoft.com/en-us/azure/load-balancer/concepts-limitations#skus
 * Power Automate -  https://docs.microsoft.com/en-us/power-automate/limits-and-config
 * Power BI Dataflow - Pro and Premium - https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview#dataflow-capabilities-on-power-bi-premium 
+* Power Virtual Agent Bot - https://docs.microsoft.com/en-us/power-virtual-agents/requirements-quotas
 * SQL Database (Azure) - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-limits-database-server
 * Storage limits dtu single db - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dtu-resource-limits-single-databases
 * SQL Database - VM - 32,767 user connections - https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/data-warehousing#key-selection-criteria

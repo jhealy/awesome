@@ -26,6 +26,10 @@ https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
 
 * Create virtual nodes using the Azure CLI - https://docs.microsoft.com/en-us/azure/aks/virtual-nodes-cli
 
+# SECURE 
+
+* Private link support for AKS - preview - https://azure.microsoft.com/en-us/updates/azure-private-link-support-in-aks-now-in-preview/
+
 ## WINDOWS
 
 * K8S Windows Walkthrough - https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md

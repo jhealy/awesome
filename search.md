@@ -19,7 +19,6 @@
 * Privacy - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
 * Pricing - Search - see azure pricing calculator
 * Pricing - Cognitive Services - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/
-* Samples <https://Github.com/azure-samples?utf8=%E2%9C%93&query=search>
 * Security in Azure Search - <https://docs.microsoft.com/en-us/azure/search/search-security-overview>
 * Scoring Profiles / Tag Boosting <https://docs.microsoft.com/en-us/rest/api/searchservice/add-scoring-profiles-to-a-search-index>
 * Support via StackOverflow <https://stackoverflow.com/questions/tagged/azure-search>
@@ -46,11 +45,22 @@
 
 * [deprecated - template tool gone] How to provision Azure Search service with PowerShell <https://dzimchuk.net/how-to-provision-azure-search-service-with-powershell/> 
 
+## SAMPLES
+
+* Azure Samples for Search - https://Github.com/azure-samples?utf8=%E2%9C%93&query=search
+* Knowlege mining toolkit -  https://github.com/Azure-Samples/azure-search-knowledge-mining
+* NYC Jobs Search - https://github.com/Azure-Samples/search-dotnet-asp-net-mvc-jobs
+
+## SECURE
+
+Private endpoint big concern for many.  Yse VNETs with private endpoints for search. In preview since the Fall 2019 are in the process of rolling out to GA.  https://docs.microsoft.com/en-us/azure/search/service-create-private-endpoint .
+
 ## SHOWCASE
 
 * Financial Files - http://wolterskluwereap.azurewebsites.net
 * JFK Files - Source <https://github.com/Microsoft/AzureSearch_JFK_Files>
 * NYC Jobs - http://azjobsdemo.azurewebsites.net/
+* NYC Jobs Source - https://github.com/Azure-Samples/search-dotnet-asp-net-mvc-jobs
 * Using Azure Search custom skills to create personalized job recommendations - https://azure.microsoft.com/en-us/blog/using-azure-search-custom-skills-to-create-personalized-job-recommendations/
 
 ## VOLUME

@@ -191,6 +191,7 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * Managing connections in Az Functions - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/
 * Newtonsoft and 1.x functions - will not go behond newtonsoft v9 - https://github.com/Azure/azure-functions-host/issues/4049 
+* PInvoke / DLLImport not currently supported in functions - https://github.com/Azure/Azure-Functions/issues/622 
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
 * PowerApps -> Call from PowerApps -> https://docs.microsoft.com/en-us/azure/azure-functions/functions-powerapps-scenario
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow

@@ -1,7 +1,7 @@
 # MISCELLANEOUS TOPICS 
 Held here until enough volume to be posted elsewhere....
 
-# .NET GENERAL
+## .NET GENERAL
 * .NET API Browser - https://docs.microsoft.com/en-us/dotnet/api/
 * .NET Verification Tool - https://blogs.msdn.microsoft.com/astebner/2017/05/26/net-framework-setup-verification-tool-cleanup-tool-and-detection-sample-code-now-support-net-framework-4-7/
 * Early Access Builds - https://github.com/Microsoft/dotnet-framework-early-access
@@ -10,27 +10,32 @@ Held here until enough volume to be posted elsewhere....
 * Performance > .NET Performance Tuning Guide circa 2004 - an oldie but goodie - https://msdn.microsoft.com/en-us/library/ff649152.aspx
 * Performance > .NET 4.7 v .NET Core 2.0 - Performance Improvements - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 * Tools > JustAssembly - decompile and compare assemblies - telerik free - http://www.telerik.com/justassembly?utm_source=devfish
+* WCF - https://github.com/CoreWCF/CoreWCF
+* WCF - Open source project - https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/
 * What's New in .NET Framework - https://docs.microsoft.com/en-us/dotnet/framework/whats-new/index
 
-# ART
-## ICONS
+## ART
+### ICONS
 * SyncFusion Metro Studio - https://www.syncfusion.com/downloads/metrostudio
 
-# CACHING
+## CACHING
 * Migrate from Managed Cache to Azure Redis - https://docs.microsoft.com/en-us/azure/redis-cache/cache-migrate-to-redis - https://blogs.msdn.microsoft.com/appfabric/2015/04/02/microsoft-appfabric-1-1-for-windows-server-ends-support-422016/
 * Azure Redis Cache - https://azure.microsoft.com/en-us/services/cache/
 * NCache - commercially supported cache solution for Windows - http://www.alachisoft.com/ncache/
 * Redis on Windows oppen source - https://github.com/MicrosoftArchive/redis
 
-# DEEP LEARNING
+## DEEP LEARNING
+
 * Coursera - Deep Learning Specialization - https://www.coursera.org/specializations/deep-learning
 * Deep Learning Explained - https://www.edx.org/course/deep-learning-explained-microsoft-dat236x
 * Practical Deep Learning For Coders - http://course.fast.ai/
 
-# DEVOPS
+## DEVOPS
+
 * Team Foundation Server to Visual Studio Team Services Migration Guide and Database Import Tooling - https://www.microsoft.com/en-us/download/details.aspx?id=54274
 
-# IIS
+## IIS
+
 * Debug Labs by Benjamin Perkins - https://blogs.msdn.microsoft.com/benjaminperkins/tag/iis-labs-csharpguitarbugs/
 * Debugging and tuning HTTP.SYS output cache on W2k8r2/ iis7.5 (relevant to all!) - https://blogs.msdn.microsoft.com/friis/2011/01/12/debugging-and-tuning-http-sys-output-cache-on-w2k8r2-iis-7-5/
 * Docs on microsoft.com - https://docs.microsoft.com/en-us/iis/
@@ -40,14 +45,15 @@ Held here until enough volume to be posted elsewhere....
 * Troubleshooting Failed Requests Using Tracing (8.5) - https://docs.microsoft.com/en-us/iis/troubleshoot/using-failed-request-tracing/troubleshooting-failed-requests-using-tracing-in-iis-85
 * Troubleshooting IIS - https://docs.microsoft.com/en-us/iis/troubleshoot/
 
-# WEB TESTING
+## WEB TESTING
+
 * Great overview of VS2015+ Load Testing setup - https://blogs.msdn.microsoft.com/testingspot/2017/02/23/guide-to-get-started-with-visual-studio-web-load-testing-and-automation/
 * Logger for Performance Testing - https://blogs.msdn.microsoft.com/testingspot/2017/05/31/logger-for-performance-testing/
 * On-Premise Testing using VS2015+ - https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release
 * Team Services Load Testing Tools - https://www.visualstudio.com/team-services/testing-tools/
 * VS2015+ Test Tools - getting started - https://blogs.msdn.microsoft.com/visualstudioalm/2015/12/10/visual-studio-2015-test-tools-getting-started-content/
 
-# MISC
+## MISC
 
 * .NET > Diagnostics > How to enable debug tracing for System.Net.Mail API - https://blogs.msdn.microsoft.com/deva/2017/06/02/debugging-how-to-enable-debug-tracing-for-system-net-mail-api/
 * .NET > Diagnostics > Name of current method - https://stackoverflow.com/questions/2652460/how-to-get-the-name-of-the-current-method-from-code

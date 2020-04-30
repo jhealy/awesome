@@ -3,6 +3,7 @@
 * Connections list - built in - https://powerapps.microsoft.com/en-us/tutorials/connections-list/
 * Custom connectors for PowerApps - Announce (2017) https://powerapps.microsoft.com/en-us/blog/brand-new-custom-api-experience-in-powerapps/
 * Documentation for creating custom connectors - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/register-custom-api
+* Limits - https://docs.microsoft.com/en-us/connectors/custom-connectors/faq#limits
 
 ## DEVOPS
 

@@ -2,6 +2,7 @@
 
 * Feedback - https://cognitive.uservoice.com/
 * Forms recognizers home - https://aka.ms/form-recognizer
+* Limits - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/form-recognizer/
 * Documentation - Https://aka.ms/form-recognizer/docs
 * Setup Forms Recog Preview - https://portal.azure.com/?microsoft_azure_marketplace_ItemHideKey=microsoft_azure_cognitiveservices_formUnderstandingPreview#create/Microsoft.CognitiveServicesFormRecognizer
 

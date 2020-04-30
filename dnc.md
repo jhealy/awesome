@@ -21,6 +21,10 @@
 * What's news - https://docs.microsoft.com/en-us/dotnet/whats-new/?WT.mc_id=blog-docs-shboyer
 * Windows Compatibility Pack - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack
 
+## .NET 5.0
+
+* .NET 5.0 Preview 3 Announce - https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-3/
+
 ## .NET CORE 3.0
 
 * .NET Core 3.0 updates including blazor web assembly preview 9 - https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-release-candidate-1/
@@ -105,6 +109,7 @@ Convert other proj to vs2017 <https://github.com/hvanbakel/CsprojToVs2017>
 * global.json refernce https://docs.microsoft.com/en-us/dotnet/core/tools/global-json
 * ILogger.net on .net core - https://github.com/aspnet/Announcements/issues/353
 * How to: Handl exceptions in parallel loops <https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-handle-exceptions-in-parallel-loops>
+* Libraries - Creating and Packaging a .NET Standard Lib - https://devblogs.microsoft.com/visualstudio/creating-and-packaging-net-standard-library/?utm_campaign=devfish
 * Libraries > Refit - Typesafe REST lib from Paul Betts - .NET Standard 1.4 and up - https://paulcbetts.github.io/refit/
 * Linux > Create a .NET Core 2 application on Linux with Visual Studio Code - https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/create-a-net-core-2-application-on-linux-with-visual-studio-code/
 * Linux > Red Hat Container catalog - .NET Core image - https://access.redhat.com/containers/#/registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7

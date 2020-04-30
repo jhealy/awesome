@@ -21,6 +21,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * Load Balancer - no bandwidth/throughput cap. It's backbone/wire speed - https://docs.microsoft.com/en-us/azure/load-balancer/concepts-limitations#skus
 * Power Automate -  https://docs.microsoft.com/en-us/power-automate/limits-and-config
 * Power BI Dataflow - Pro and Premium - https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview#dataflow-capabilities-on-power-bi-premium 
+* Power Platform Custom Connectors - https://docs.microsoft.com/en-us/connectors/custom-connectors/faq#limits
 * Power Virtual Agent Bot - https://docs.microsoft.com/en-us/power-virtual-agents/requirements-quotas
 * SQL Database (Azure) - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-limits-database-server
 * Storage limits dtu single db - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dtu-resource-limits-single-databases
@@ -33,6 +34,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 ## COGNITIVE SERVICES
 
 * Facial Recognition - 10 transactions per second.  Can be increased by a service request.
+* Form Recognizer - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/form-recognizer/
 * Search - https://docs.microsoft.com/en-us/azure/search/search-limits-quotas-capacity
 * Search synonyms map <https://docs.microsoft.com/en-us/rest/api/searchservice/create-synonym-map>
 * Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>

@@ -57,6 +57,7 @@
 * Hands on labs <https://www.microsoft.com/handsonlabs>
 * Microsoft Mechanics Video Series - https://www.youtube.com/c/MicrosoftMechanicsSeries
 * QuickStart Guide for .NET Developers <https://azure.microsoft.com/en-us/blog/get-the-azure-quick-start-guide-for-net-developers/>
+* Sentinel Training Path - https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310
 
 ## SECURITY
 

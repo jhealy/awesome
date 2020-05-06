@@ -7,6 +7,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 ## SERVICE LIMITS
 
 * **Subcription Service Limits - All Up** - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
+* AKS - https://docs.microsoft.com/en-us/azure/aks/quotas-skus-regions 
 * App Insights <https://docs.microsoft.com/en-us/azure/azure-monitor/app/pricing#limits-summary>
 * API Management Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
 * API Management Limits and known issues - <https://docs.microsoft.com/en-us/azure/api-management/api-management-api-import-restrictions>
@@ -15,7 +16,8 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * EventHub - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-quotas
 * File - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-files-scale-targets> max file share size, max file size, more
 * File Sync - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-file-sync-scale-targets> - region limits, sync group limits, max servers, cloud endpionts, more
-* Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config> actions pe rworkflow, workflows per region, runduration, storage retention, IP addresses
+* Logic Apps - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config - actions pe rworkflow, workflows per region, runduration, storage retention, IP addresses
+* Logic apps - limits by pricing tier - https://azure.microsoft.com/en-us/pricing/details/logic-apps/
 * Functions - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#functions-limits
 * Functions in App Service Plan - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#app-service-limits
 * Load Balancer - no bandwidth/throughput cap. It's backbone/wire speed - https://docs.microsoft.com/en-us/azure/load-balancer/concepts-limitations#skus
@@ -34,7 +36,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 ## COGNITIVE SERVICES
 
 * Facial Recognition - 10 transactions per second.  Can be increased by a service request.
-* Form Recognizer - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/form-recognizer/
+* Form Recognizer - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/form-recognizer/ - soft cap 5000 models
 * Search - https://docs.microsoft.com/en-us/azure/search/search-limits-quotas-capacity
 * Search synonyms map <https://docs.microsoft.com/en-us/rest/api/searchservice/create-synonym-map>
 * Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>

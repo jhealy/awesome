@@ -1,5 +1,6 @@
 # FORMS RECOGNIZER
 
+* APIs - https://aka.ms/form-recongizer/api
 * Feedback - https://cognitive.uservoice.com/
 * Forms recognizers home - https://aka.ms/form-recognizer
 * Limits - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/form-recognizer/

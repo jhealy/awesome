@@ -2,6 +2,7 @@
 
 * Teams platform - https://aka.ms/teamsplatform
 * Apps for teams - certified - https://aka.ms/teamsappcertification
+* Backgrounds - https://teamsbackground.net/
 
 ## DEVELOPMENT
 

@@ -49,6 +49,7 @@
 ## TOOLS
 
 * Azure Explorer - RedGate's free azure storage management tool <https://www.red-gate.com/products/azure-development/azure-explorer/index>
+* Blob Indexing (by tag) preview - https://azure.microsoft.com/en-gb/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/
 * BlobPorter - Highly concurrent data transfer tool for Azure Blob Storage - friendlier than AzCopy -  https://github.com/Azure/blobporter
 * Fast Data Transfer - high speed loader for Azure <https://www.microsoft.com/en-us/garage/profiles/fast-data-transfer/>
 * FUSE Adapter - expose virtual file system on linux <https://github.com/Azure/azure-storage-fuse>

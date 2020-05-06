@@ -181,6 +181,7 @@ https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/solutions-o
 * InfoPath > Convert InfoPath/Designer workflow processes to PowerApps - https://www.youtube.com/watch?v=l69E7q79y6w
 * InfoPath > Rebuilding an InfoPath Designer form in PowerApps - https://www.youtube.com/watch?v=ohQcxcVZSK4
 * Launching a URL / Hyperlink - https://powerusers.microsoft.com/t5/PowerApps-Forum/Hyperlinks-in-Powerapps/td-p/1477
+* Mixed Reality preview in Canvas App - https://powerapps.microsoft.com/en-us/blog/introducing-mixed-reality-in-power-apps/ - May 2020
 * Offline Apps - https://powerapps.microsoft.com/en-us/blog/build-offline-apps-with-new-powerapps-capabilities/
 * Performance - otpimization tips - https://powerapps.microsoft.com/en-us/blog/app-checker-now-includes-performance-optimization-tips/
 * PowerBI > PowerBI, PowerApps and Flow - https://www.blue-granite.com/blog/self-service-bi-improving-data-quality-using-power-bi-flow-powerapps

@@ -10,13 +10,15 @@
 
 ## LEARN
 
-* Azure Kubernetes workshop - https://aksworkshop.io/
 * Build ASP.NET Core Applications for Linux containers in AKS (tutorial) - https://docs.microsoft.com/en-us/dotnet/architecture/containerized-lifecycle/design-develop-containerized-apps/build-aspnet-core-applications-linux-containers-aks-kubernetes
 * Containers bootcamp - https://github.com/heoelri/container-bootcamp
+* KataCoda - K8S series - https://www.katacoda.com/courses/kubernetes
 * K8S Windows Walkthrough - https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md
 * Learn K8S - http://aka.ms/learnkubernetes
 * Learn in 50 Days - https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/ 
 https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
+* Workshop - basics - https://aksworkshop.io/
+* Workshop - https://github.com/Azure/sg-aks-workshop
 
 ## NETWORKING
 
@@ -29,6 +31,13 @@ https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
 # SECURE 
 
 * Private link support for AKS - preview - https://azure.microsoft.com/en-us/updates/azure-private-link-support-in-aks-now-in-preview/
+* Security hardening AKS volume - https://docs.microsoft.com/en-us/azure/aks/security-hardened-vm-host-image
+
+## SLA
+
+QUERY: SLA has verbage - "For customers who have purchased an Azure Kubernetes Service (AKS) Uptime SLA".   Does that mean we need to purchase something in order to have the SLA?  https://azure.microsoft.com/en-us/support/legal/sla/kubernetes-service/v1_1/ 
+
+RESOLUTION: Dig further into doc.  “This Service Level Agreement for Microsoft Online Services (this “SLA”) is a part of your Microsoft volume licensing agreement (the “Agreement”).”
 
 ## WINDOWS
 

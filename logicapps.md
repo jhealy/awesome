@@ -11,7 +11,7 @@
 * IP Addresses - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config#firewall-configuration-ip-addresses
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/logic-apps/
 * Pricing Model - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing
-* Roadmap <https://trello.com/b/9GhzIReR/azure-logic-apps-product-roadmap>
+* Roadmap - https://azure.microsoft.com/en-us/updates/?product=logic-apps
 * Usage scenarios - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-examples-and-scenarios
 * Visual Studio Tools for Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-with-visual-studio#prerequisites>
 * Workflow definition language - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
@@ -52,13 +52,27 @@
 
 ## SECURITY
 
-* ASE and logic apps <https://feedback.azure.com/forums/287593-logic-apps/suggestions/15105741-is-it-possible-to-deploy-logic-app-to-app-service>
-* Bearer token - https://medium.com/@gamacy/how-to-pass-a-bearer-token-using-azure-logic-apps-b90d597ddce7
-* IP addresses - restricting inbound <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app#restrict-incoming-ip-addresses>
-* Securing Access to Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app>
-* Securing Logic Apps via ASE and API Management (vnet equiv) <http://www.bizbert.com/bizbert/2016/01/07/AppServiceEnvironmentsHowToDeployAPIAppsToAVirtualNetwork.aspx>
+* ASE and logic apps - Logic Apps is not part of the App Service infrastructure and cannot be deployed to an ASE. To connect across a VNET the recommended pattern is to either use the on-premises data gateway for on-prem connectors or use API Management which can span VNETs/Express Route. - https://feedback.azure.com/forums/287593-logic-apps/suggestions/15105741-is-it-possible-to-deploy-logic-app-to-app-service
+* Bearer token / jwt token passing - https://medium.com/@gamacy/how-to-pass-a-bearer-token-using-azure-logic-apps-b90d597ddce7
+* IP addresses - restricting inbound https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app#restrict-incoming-ip-addresses
 * IP addresses - whitelisting - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config#outbound-ip-addresses---logic-apps-service--managed-connectors 
 * ISE - https://aka.ms/logicappsise
+* Managed identities - https://docs.microsoft.com/en-us/azure/logic-apps/create-managed-service-identity
+* Securing - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app
+
+### ISE AND LOGIC APPS
+
+ISE : Integration Service Environment
+
+Will eventually move out to its own ISE page
+
+* Access to Azure VNET resources from LA by using ISE - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment-overview
+* Add resource to ISE - https://docs.microsoft.com/en-us/azure/logic-apps/add-artifacts-integration-service-environment-ise 
+* Connect to Azure vnets from LA by using an ISE - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment
+* Create ISE using REST - https://docs.microsoft.com/en-us/azure/logic-apps/create-integration-service-environment-rest-api
+* Developer tier - https://azure.microsoft.com/en-us/updates/new-developer-pricing-tier-for-integration-service-environment/ - July 2019
+* Pricing - includes integration account - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing#fixed-pricing-model
+* Pricing - includes integration account - https://azure.microsoft.com/en-us/pricing/details/logic-apps/
 
 ## TOOLS
 
@@ -67,8 +81,11 @@
 ## VNET / ISE
 
 * ISE - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment-overview
+* ISE GA - https://azure.microsoft.com/en-us/updates/integration-service-environments-ise-are-now-generally-available/ - May 2019
 * Connect to Azure virtual networks from Azure Logic apps by using an integration service enviornment (ISE) - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment
+* DevOps - Manage ISE - https://docs.microsoft.com/en-us/azure/logic-apps/ise-manage-integration-service-environment
 * Network considerations - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment#check-network-ports
+* Storage - Customer-managed keys to encrypt data at rest for ISEs - https://docs.microsoft.com/en-us/azure/logic-apps/customer-managed-keys-integration-service-environment
 
 ## MISC
 

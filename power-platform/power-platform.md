@@ -32,6 +32,10 @@ Things common to the Power Platform as a whole.
 
 * Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/
 
+## SECURE
+
+* DLP - Connector blocking - https://powerapps.microsoft.com/en-us/blog/new-data-loss-prevention-capabilities-in-public-preview/
+
 ## SEE ALSO
 
 * Power Automate (formerly flow) - [power-automate.md](./power-automate.md)

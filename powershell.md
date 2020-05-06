@@ -1,6 +1,6 @@
 # POWERSHELL
 
-wth did all my ps content go?  eeek!
+Great command ref - https://ss64.com/ps/
 
 ## DEBUG
 

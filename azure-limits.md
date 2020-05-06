@@ -20,6 +20,9 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * Logic apps - limits by pricing tier - https://azure.microsoft.com/en-us/pricing/details/logic-apps/
 * Functions - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#functions-limits
 * Functions in App Service Plan - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#app-service-limits
+* KeyVault
+  * Limits - https://docs.microsoft.com/en-us/azure/key-vault/general/service-limits
+  * Making the case to increase limits - https://docs.microsoft.com/en-us/azure/key-vault/general/overview-throttling#how-does-key-vault-handle-its-limits
 * Load Balancer - no bandwidth/throughput cap. It's backbone/wire speed - https://docs.microsoft.com/en-us/azure/load-balancer/concepts-limitations#skus
 * Power Automate -  https://docs.microsoft.com/en-us/power-automate/limits-and-config
 * Power BI Dataflow - Pro and Premium - https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview#dataflow-capabilities-on-power-bi-premium 

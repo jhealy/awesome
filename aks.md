@@ -1,6 +1,7 @@
 # AZURE KUBERNETES SERVICES
 
 * Docs - https://docs.microsoft.com/en-us/azure/aks/
+* Choose AKS or not?  Decision matrix - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#choose-a-candidate-service
 * Container networking interfaces - pre-requisites, ip addresses, et al - https://docs.microsoft.com/en-us/azure/aks/configure-azure-cni#prerequisites
 * Windows Container Support (May 2019) - https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/
 
@@ -20,6 +21,11 @@ https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
 * Workshop - basics - https://aksworkshop.io/
 * Workshop - https://github.com/Azure/sg-aks-workshop
 
+## MICROSERVICES AND AKS
+
+* Microservices arch on AKS - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/microservices/aks
+Monitoring microservice arch in AKS - https://docs.microsoft.com/en-us/azure/architecture/microservices/logging-monitoring
+
 ## NETWORKING
 
 * Network concepts for apps in AKS - https://docs.microsoft.com/en-us/azure/aks/concepts-network
@@ -32,6 +38,7 @@ https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
 
 * Private link support for AKS - preview - https://azure.microsoft.com/en-us/updates/azure-private-link-support-in-aks-now-in-preview/
 * Security hardening AKS volume - https://docs.microsoft.com/en-us/azure/aks/security-hardened-vm-host-image
+* Service Principals with AKS - https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/kubernetes-service-principal.md 
 
 ## SLA
 
@@ -43,3 +50,4 @@ RESOLUTION: Dig further into doc.  “This Service Level Agreement for Microsoft
 
 * K8S Windows Walkthrough - https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md
 * Windows Container Support Announce - May 17 2019 - https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-windows-server-containers-support-in-azure-kubernetes-service/
+

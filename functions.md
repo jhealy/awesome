@@ -138,6 +138,7 @@ Notes on moving functions across zones that include premium - https://github.com
 http://www.mattruma.com/call-a-secure-azure-function-from-a-logic-app/
 * Integrate your app wiht an Az Vnet - premium plan or ASE - https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet
 * IP Addresses outbound - https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses
+* Private storage account - https://github.com/mcollier/azure-functions-private-storage
 * Premium plan allows for private vnet connectivity - https://docs.microsoft.com/en-us/azure/azure-functions/functions-premium-plan
 * Secure an Azure Function App with Azure Active Directory - 
 http://www.mattruma.com/secure-an-azure-function-app-with-azure-active-directory/

@@ -24,9 +24,11 @@ Things common to the Power Platform as a whole.
 * Trust center w pp links - https://www.microsoft.com/en-us/trust-center/product-overview
 
 ## DEVOPS
+
 * Canvas Apps - Testing with Power Testing Studio in DevOps Pipelines- https://powerapps.microsoft.com/en-us/blog/automate-your-canvas-tests-in-your-devops-pipeline/
 * Establishing an Environment Strategy for Microsoft Power Platform - https://powerapps.microsoft.com/en-us/blog/establishing-an-environment-strategy-for-microsoft-power-platform/
 * Environment and tenant app migration through packaging - https://docs.microsoft.com/en-us/power-platform/admin/environment-and-tenant-migration
+* Power Platform ALM / Devops docs released ( May 2020 ) - https://powerapps.microsoft.com/en-us/blog/finally-application-lifecycle-management-alm-on-the-power-platform-explained/
 
 ## LEARN
 

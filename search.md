@@ -63,6 +63,11 @@ Private endpoint big concern for many.  Yse VNETs with private endpoints for sea
 * NYC Jobs Source - https://github.com/Azure-Samples/search-dotnet-asp-net-mvc-jobs
 * Using Azure Search custom skills to create personalized job recommendations - https://azure.microsoft.com/en-us/blog/using-azure-search-custom-skills-to-create-personalized-job-recommendations/
 
+## SKILLS 
+
+* How to write a custom skill: https://docs.microsoft.com/en-us/azure/search/cognitive-search-custom-skill-interface
+* Custom skill sample code: https://github.com/Azure-Samples/azure-search-power-skills (includes Form Recognizer integration example), Bing Entity Search API integration, custom entity recognition, and custom skill in Python hosted in an Azure Function (see the left-hand sidebar for more code samples).
+
 ## VOLUME
 
 On processing large numbers of documents.... Via Luis Calado de Sousa 08/2018

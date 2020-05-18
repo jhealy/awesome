@@ -5,6 +5,7 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * DirectLine - https://blog.botframework.com/2017/02/02/direct-line-performance-improvements/
 * Documentation - https://docs.microsoft.com/en-us/bot-framework/
 * Publishing endpoint - https://dev.botframework.com/
+* Roadmap - https://github.com/microsoft/botframework-sdk/wiki/Roadmap
 * Samples - Node.js or C# - https://github.com/Microsoft/BotBuilder-Samples
 * Support - StackOverflow for Cognitive Services and Bot - <https://stackoverflow.com/questions/tagged/microsoft-cognitive>
 * Support - twitter @msbotframework <https://www.twitter.com/msbotframework>

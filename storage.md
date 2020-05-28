@@ -53,6 +53,7 @@
 * BlobPorter - Highly concurrent data transfer tool for Azure Blob Storage - friendlier than AzCopy -  https://github.com/Azure/blobporter
 * Fast Data Transfer - high speed loader for Azure <https://www.microsoft.com/en-us/garage/profiles/fast-data-transfer/>
 * FUSE Adapter - expose virtual file system on linux <https://github.com/Azure/azure-storage-fuse>
+* Versioning - https://docs.microsoft.com/en-us/azure/storage/blobs/versioning-overview?tabs=powershell
 
 ## VIRUS SCANNING BLOB
 

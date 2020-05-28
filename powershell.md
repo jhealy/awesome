@@ -22,3 +22,4 @@ Snapshot blob
 ## MISC
 
 * Automating outlook with powershell - https://devblogs.microsoft.com/premier-developer/outlook-email-automation-with-powershell/
+* Trimming nulls - https://communary.net/2016/01/29/quick-tip-trim-null-terminated-strings/

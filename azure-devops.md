@@ -10,6 +10,7 @@ Sept 2018, the product formerly known as Visual Studio Team Services (VSTS) is n
 # MISC
 
 * Backup - DevOps can restore to any point in time in the past month
+* Change state of parent work item depending on state of children - https://github.com/microsoft/azure-boards-automate-state-transitions - Automatic state transitions for Azure Boards
 * Container registry using Devops <https://about-azure.com/2019/03/08/setup-azure-devops-yaml-pipeline-to-publish-a-net-core-angular-7-docker-container-to-azure-container-registry/>
 * ExpressRoute and Az Devops <https://devblogs.microsoft.com/devops/expressroute-for-azure-devops/>
 * Managing Azure Secrets on GitHub Repos using Microsoft Credential Scanner <https://azure.microsoft.com/en-us/blog/managing-azure-secrets-on-github-repositories/>

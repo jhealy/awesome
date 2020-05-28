@@ -37,6 +37,8 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 
 * Endpoint security for Windows containers <https://success.docker.com/article/endpoint-security-for-windows-containers>
 * McAfee doesn't play well with docker <https://kc.mcafee.com/corporate/index?page=content&id=KB90041&actp=null&viewlocale=en_US&showDraft=false&platinum_status=false&locale=en_US>
+* Securing Containers - ( by twistlock ) https://www.twistlock.com/2017/07/06/ultimate-guide-container-security/
+* Twistlock / Prisma - Layer security - https://www.twistlock.com/container-security/
 
 ## VISUAL STUDIO
 
@@ -55,6 +57,7 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Selenium containers - https://robotninja.com/blog/introduction-using-selenium-docker-containers-end-end-testing/
 * Selenium inside a docker container - http://www.testautomationguru.com/selenium-webdriver-how-to-run-automated-tests-inside-a-docker-container/
 * Selenium on Windows Docker - https://medium.com/@aandryashin/selenium-on-windows-docker-revolution-f5a7eab205ad
+* Support policy for win10 containers - https://support.microsoft.com/en-us/help/4489234/support-policy-for-windows-containers-and-docker-on-premises
 * Virus scanning for win/linux containers by McAfee - https://kc.mcafee.com/corporate/index?page=content&id=KB90041&actp=null&viewlocale=en_US&showDraft=false&platinum_status=false&locale=en_US
 
 ## SEE ALSO

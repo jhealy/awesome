@@ -3,6 +3,7 @@
 * Docs - https://docs.microsoft.com/en-us/azure/aks/
 * Choose AKS or not?  Decision matrix - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#choose-a-candidate-service
 * Container networking interfaces - pre-requisites, ip addresses, et al - https://docs.microsoft.com/en-us/azure/aks/configure-azure-cni#prerequisites
+* Roadmap - https://github.com/Azure/AKS/projects/1
 * Windows Container Support (May 2019) - https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/
 
 ## DEVOPS

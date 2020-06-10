@@ -53,6 +53,7 @@ See App Center above....
 * AKS - AKS integration for Azure Devops Pipelines - https://devblogs.microsoft.com/devops/announcing-kubernetes-integration-for-azure-pipelines/
 * Azure Stack - Deploy apps to Azure and Azure Stack -https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-solution-pipeline 
 * Azure Stack - Validated Azure tasks - https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/azure-stack?view=azure-devops#qa 
+* Bash - create new pipeline - https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/pipelines?view=azure-cli-latest#ext-azure-devops-az-pipelines-create
 * CI/CD - Edx - Continuous Integration and Continuous Deployment - https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T2/info
 * CI/CD - Pluralsight - Implementing CD using TFS 2015 - https://app.pluralsight.com/library/courses/tfs-visual-studio-2015-implementing-continuous-delivery/table-of-contents
 * Code Search extension - extension to help locate relevant information across all projects - aka locate examples of an API's implementation, browsing its definition, search for error text - https://marketplace.visualstudio.com/items?itemName=ms.vss-code-search
@@ -67,6 +68,7 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-f
 * Image generation - json for az pipelines image generation - https://github.com/Microsoft/azure-pipelines-image-generation/tree/master/images/win
 * Jenkins > Integrating VSTS with Jenkins - lab ( April 2018 ) - <https://almvm.azurewebsites.net/labs/vstsextend/jenkins/#approach-2-wrapping-jenkins-job-within-the-vsts-build>
 * Parts Unlimited DevOps Demo - https://microsoft.github.io/PartsUnlimitedMRP/
+* Pipelines - create new using powershell - https://github.com/segraef/New-AzPipeline
 * PowerApps Devops add-in - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools
 * PowerBI Devops - https://social.technet.microsoft.com/wiki/contents/articles/53172.azuredevops-cicd-for-powerbi-reports.aspx
 * Team Explorer Everywhere - Eclipse and command line plugin - https://github.com/Microsoft/team-explorer-everywhere

@@ -2,6 +2,7 @@
 
 * Announcements <https://github.com/Azure/app-service-announcements/>
 * Case Study > Migrating an on-premise solution to Azure PaaS services with automated deployment (may 2017) <https://microsoft.github.io/techcasestudies/devops/2017/05/12/Somerset_CC_DevOps.html> - Azure App services, Docker, PostgreSQL
+* Cloning - https://docs.microsoft.com/en-us/azure/app-service/app-service-web-app-cloning#current-restrictions
 * Deployment Credentials - setting <https://docs.microsoft.com/en-us/azure/app-service/deploy-configure-credentials>
 * Let's Encrypt and Azure Web Apps <https://github.com/sjkp/letsencrypt-siteextension/wiki/How-to-install>
 * Limits - <https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits?toc=%2fazure%2fvpn-gateway%2ftoc.json#app-service-limits>

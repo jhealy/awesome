@@ -3,7 +3,8 @@
 * Analysis Tools > Code Metrics Power Tool (commmand line) - https://blogs.msdn.microsoft.com/camerons/2011/01/28/code-metrics-from-the-command-line/ 
 * Awesome .NET <https://github.com/quozd/awesome-dotnet>
 * Hands on Labs from PG - https://github.com/microsoft/vs4mac-labs
-* Installing an earlier release of VS2017 <https://docs.microsoft.com/en-us/visualstudio/productinfo/installing-an-earlier-release-of-vs2017>
+* Installing an earlier release of VS2017 - https://docs.microsoft.com/en-us/visualstudio/productinfo/installing-an-earlier-release-of-vs2017
+* Licensing - March 2020 - https://visualstudio.microsoft.com/wp-content/uploads/2020/03/Visual-Studio-Licensing-Whitepaper-Mar-2020.pdf
 * MSBuild > Common MSBuild Commands - https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties
 * Network whitelist - https://msdn.microsoft.com/en-US/library/mt604698(VS.140).aspx 
 * Roadmap thru Spring 2020 - https://devblogs.microsoft.com/visualstudio/the-spring-2020-roadmap-for-visual-studio-published/

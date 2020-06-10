@@ -1,6 +1,7 @@
 # MONITOR
 
 * **Docs** - https://docs.microsoft.com/en-us/azure/azure-monitor/
+* IP Ranges - https://docs.microsoft.com/en-us/azure/azure-monitor/app/ip-collection 
 * When to use what monitoring tool - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/monitor/cloud-models-monitor-overview
 
 ## APPINSIGHTS

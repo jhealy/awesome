@@ -11,6 +11,7 @@
 * FAQ - <https://docs.microsoft.com/en-us/azure/cosmos-db/faq>
 * IP Ranges for Power Automate Connectors -  https://docs.microsoft.com/en-us/power-automate/limits-and-config#connectors
 * Networking - Direct mode over TCP/IP <https://docs.microsoft.com/en-us/azure/cosmos-db/performance-tips#networking >
+* Pricing Calculator - use instead of the Azure one - https://cosmos.azure.com/capacitycalculator/
 * SQL v CosmosDB - https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server
 * SQL API and a console client - https://docs.microsoft.com/en-us/azure/cosmos-db/create-sql-api-dotnet
 * Technical Overview of Cosmos DB <https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/>
@@ -31,6 +32,8 @@
 * RU - Request units - https://docs.microsoft.com/en-us/azure/cosmos-db/request-units
 
 ## MISC
+
+"geospatial" - CosmosDB uses SqlGeography under the covers instead of SqlGeometry.  Whic is not GeoJson-compliant.  Thus it usesgeodesic line segments instead of linear interpolation as required by GeoSpec spec (which is also done in Open Geospatial Consortium specs for WKT and SQL/MM).  So CosmosDB produces spatial results that are not comparable to most GIS standards and operations.  Also valid for Azure Stream Analytics and Azure Maps.  061120
 
 "Request limit too large" . http status 29 , http header: x-ms-retry-after-ms .  With SQL API its retried automatically.  With mongoapi , request are not retried automaticaly.  You must catch MongoCommandException and look for code property of 16500, then guess when to retry.
 

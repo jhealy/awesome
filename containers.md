@@ -32,6 +32,7 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 * Containers and DevOps workshop <https://github.com/Microsoft/MCW-Containers-and-DevOps>
 * Container registry using Devops <https://about-azure.com/2019/03/08/setup-azure-devops-yaml-pipeline-to-publish-a-net-core-angular-7-docker-container-to-azure-container-registry/>
 * DevOps > Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
+* How the .NET Team uses Az Pipelines to produce Docker Images - https://devblogs.microsoft.com/dotnet/how-the-net-team-uses-azure-pipelines-to-produce-docker-images/
 
 ## SECURITY
 

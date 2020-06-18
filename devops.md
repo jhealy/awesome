@@ -27,6 +27,13 @@ Formerly known as Visual Studio Mobile Center
 * OWASP Source Code Scanners - integration guidance for devops needed - https://www.owasp.org/index.php/Source_Code_Analysis_Tools
 * Security code analysis using analyzers - https://docs.microsoft.com/en-us/azure/security/develop/security-code-analysis-overview
 
+
+## AWS AND ADO
+
+* Connect ADO to AWS - https://medium.com/swlh/connect-azure-devops-to-aws-b89120599103 
+* AWS ADO Toolkit from Amazon - https://aws.amazon.com/vsts/ 
+* Terraform provision for cloud providers ADO pipeline extension - https://github.com/microsoft/azure-pipelines-extensions/blob/master/Extensions/Terraform/Src/Tasks/TerraformTaskV1/README.md 
+
 ## LEARN
 
 * Azure Citadel - all kinds of goodies <https://azurecitadel.com/devops/>, <https://azurecitadel.github.io/>
@@ -58,6 +65,7 @@ See App Center above....
 * CI/CD - Pluralsight - Implementing CD using TFS 2015 - https://app.pluralsight.com/library/courses/tfs-visual-studio-2015-implementing-continuous-delivery/table-of-contents
 * Code Search extension - extension to help locate relevant information across all projects - aka locate examples of an API's implementation, browsing its definition, search for error text - https://marketplace.visualstudio.com/items?itemName=ms.vss-code-search
 * Containers > Installing Build tools into a docker container - https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container
+* Containers > How the .NET Team uses Az Pipelines to produce Docker Images - https://devblogs.microsoft.com/dotnet/how-the-net-team-uses-azure-pipelines-to-produce-docker-images/
 * Copy a project.  No way to do it directly (yet 08/2019).  Workaround: template extractor tool for Azure DevOps Demo Generator: https://azuredevopsdemogenerator.azurewebsites.net/?enableextractor=true . The tool extracst a template package from the source project that can then be used to create a new project(s).  Documentation: https://docs.microsoft.com/en-us/azure/devops/demo-gen/build-your-own-template
 * DataBricks extension for az devops - https://aka.ms/devopsfordatabricks
 * Data Factory DevOps - https://cloudarchitected.com/2019/04/devops-in-azure-with-databricks-and-data-factory/
@@ -67,6 +75,8 @@ See App Center above....
 https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-for-git?view=azure-devops
 * Image generation - json for az pipelines image generation - https://github.com/Microsoft/azure-pipelines-image-generation/tree/master/images/win
 * Jenkins > Integrating VSTS with Jenkins - lab ( April 2018 ) - <https://almvm.azurewebsites.net/labs/vstsextend/jenkins/#approach-2-wrapping-jenkins-job-within-the-vsts-build>
+* Load testing - alternatives - https://docs.microsoft.com/en-us/azure/devops/test/load-test/overview?view=azure-devops#alternatives
+* Load testing - https://dev.to/brpaz/load-testing-your-applications-with-artillery-4m1p
 * Parts Unlimited DevOps Demo - https://microsoft.github.io/PartsUnlimitedMRP/
 * Pipelines - create new using powershell - https://github.com/segraef/New-AzPipeline
 * PowerApps Devops add-in - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools

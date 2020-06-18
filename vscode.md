@@ -11,6 +11,7 @@
 
 ## EXTENSIONS
 
+* AWS Tookit for VSCode - https://github.com/aws/aws-toolkit-vscode
 * Chrome JavaScript Debugger - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 * mssql > SQL Server - https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
 * Docker - https://code.visualstudio.com/docs/azure/docker

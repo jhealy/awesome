@@ -5,6 +5,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 * **Docker on Windows doc** - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/configure-docker-daemon
 * **Docker Documentation** - https://docs.docker.com/
 * **Dockerfile Reference** - https://docs.docker.com/engine/reference/builder/
+* Best practices - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/ 
 * Kubernetes versus docker - https://rancher.com/blog/2018/2018-10-09-kubernetes-versus-docker
 
 ## CONTAINER SAMPLES
@@ -12,9 +13,14 @@ Exploration of things docker but not ACS/AKS/AppService container
 * Windows Container Samples - https://docs.microsoft.com/en-us/virtualization/windowscontainers/samples
 * Windows dockerfiles - https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/master/windows-container-samples
 
+## DEVOPS
+
+* How the .NET Team uses Az Pipelines to produce Docker Images - https://devblogs.microsoft.com/dotnet/how-the-net-team-uses-azure-pipelines-to-produce-docker-images/
+
 ## DOCKERFILE
 
-* Mother load of Windows dockerfiles.  Great to see how to build out really sophisticated dockerfiles.  https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/master/windows-container-samples .
+* Mother load of Windows dockerfiles.  Great to see how to build out really sophisticated dockerfiles.  https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/master/windows-container-samples 
+* .NET Docker Images - https://github.com/dotnet/dotnet-docker
 
 ## LEARN
 
@@ -30,6 +36,8 @@ Exploration of things docker but not ACS/AKS/AppService container
 
 * ASP.NET Core Dockerized app using VS Code - by wally - https://medium.com/@waelkdouh/developing-a-dockerized-asp-net-core-application-using-visual-studio-code-6ccfc59d6f6
 * Docker and .NET - https://www.hanselman.com/blog/NETAndDocker.aspx
+* How the .NET Team uses Az Pipelines to produce Docker Images - https://devblogs.microsoft.com/dotnet/how-the-net-team-uses-azure-pipelines-to-produce-docker-images/
+* .NET Docker Images - https://github.com/dotnet/dotnet-docker - sample apps
 
 ## NODE.JS
 

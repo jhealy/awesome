@@ -11,6 +11,7 @@
 * Full text <https://docs.microsoft.com/en-us/azure/search/search-lucene-query-architecture >
 * Indexing > Blob <https://docs.microsoft.com/en-us/azure/search/search-howto-indexing-azure-blob-storage>
 * Indexing > SQL <https://docs.microsoft.com/en-us/azure/search/search-howto-connecting-azure-sql-database-to-azure-search-using-indexers>
+* IP Addresses - https://www.microsoft.com/en-us/download/details.aspx?id=56519
 * ***Knowledge mining solution accelerator*** - released May 2019 - https://github.com/Azure-Samples/azure-search-knowledge-mining
 * Limits - see azure-limits.md
 * Partitioning strategies - https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies

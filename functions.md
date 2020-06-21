@@ -107,6 +107,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 ## PERFORMANCE
 
 * Concurrency - https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices#configure-host-behaviors-to-better-handle-concurrency
+* Processing 100k events per second on azure functions - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/?ref=msdn
 * Scaling - High throughput functions - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/
 
 ## PREMIUM FUNCTIONS

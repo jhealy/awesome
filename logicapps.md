@@ -34,6 +34,10 @@
 
 * Function Reference - https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference
 
+## GOVERNANCE
+
+* Block connector connection creation - http://docs.microsoft.com/azure/logic-apps/block-connections-connectors
+
 ## HELP
 
 * Forums - http://feedback.azure.com/forums/287593-logic-apps

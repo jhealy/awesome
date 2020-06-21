@@ -22,5 +22,6 @@
 
 * Bringing your Blazor apps to the Desktop with ElectronNET.Blazor -https://medium.com/cloudnimble/bringing-your-blazor-apps-to-the-desktop-with-electronnet-blazor-67701bff82f7
 * Creating interactive documentation - https://devblogs.microsoft.com/dotnet/creating-interactive-net-documentation/
+* gprc web from blazor web assembly - https://medium.com/@waelkdouh/how-to-utilize-grpc-web-from-a-blazor-webassembly-application-e8313444f75b
 * PWA with Blazor - https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/ - https://docs.microsoft.com/en-us/aspnet/core/blazor/progressive-web-app?view=aspnetcore-3.1&tabs=visual-studio
 * Webforms to Blazor - https://github.com/FritzAndFriends/BlazorWebFormsComponents

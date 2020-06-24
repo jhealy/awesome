@@ -74,6 +74,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 * Mounting drives into a Windows Container - https://blog.sixeyed.com/docker-volumes-on-windows-the-case-of-the-g-drive/
 * Mounting drives - Persistent storage  in a Windows container - https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/persistent-storage 
 * 'latest' tag removed from docker images - https://techcommunity.microsoft.com/t5/Containers/Removing-the-latest-Tag-An-Update-on-MCR/ba-p/393045
+* RUN command - https://docs.microsoft.com/en-us/rest/api/compute/virtual%20machines%20run%20commands/runcommand
 * Ruby on docker - https://www.techrepublic.com/article/how-to-set-up-a-ruby-on-rails-development-environment-with-docker/
 * Windows Containers on Windows 10 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10
 * Windows Containers on Windows Server 2019 Quickstart - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-server

@@ -30,6 +30,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * Power Virtual Agent Bot - https://docs.microsoft.com/en-us/power-virtual-agents/requirements-quotas
 * SQL Database (Azure) - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-limits-database-server
 * Storage limits dtu single db - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dtu-resource-limits-single-databases
+* SQL, Azure - logical limits - https://docs.microsoft.com/en-us/azure/azure-sql/database/resource-limits-logical-server
 * SQL Database - VM - 32,767 user connections - https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/data-warehousing#key-selection-criteria
 * SQL Data Warehouse - 240 TB db size - lots of other goodies - https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-service-capacity-limits - 60 TB tables
 * Storage - see storage section below

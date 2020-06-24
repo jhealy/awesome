@@ -31,6 +31,10 @@ Monitoring microservice arch in AKS - https://docs.microsoft.com/en-us/azure/arc
 
 * Network concepts for apps in AKS - https://docs.microsoft.com/en-us/azure/aks/concepts-network
 
+## PRICING
+
+* Pricing calculator - https://azure.microsoft.com/en-us/pricing/details/kubernetes-service/
+
 ## SCALING
 
 * Create virtual nodes using the Azure CLI - https://docs.microsoft.com/en-us/azure/aks/virtual-nodes-cli

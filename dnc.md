@@ -107,6 +107,7 @@ Convert other proj to vs2017 <https://github.com/hvanbakel/CsprojToVs2017>
 * DevOps > Create a build pipeline for Angular and ASP.NET Core apps with Visual Studio Team Services <https://offering.solutions/blog/articles/2018/03/08/create-build-pipeline-for-angular-and-aspnetcore-app-with-visual-studio-team-services/>
 * DevOps > Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
 * global.json refernce https://docs.microsoft.com/en-us/dotnet/core/tools/global-json
+* grpc in .net core - https://devblogs.microsoft.com/aspnet/grpc-web-for-net-now-available/
 * ILogger.net on .net core - https://github.com/aspnet/Announcements/issues/353
 * How to: Handl exceptions in parallel loops <https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-handle-exceptions-in-parallel-loops>
 * Libraries - Creating and Packaging a .NET Standard Lib - https://devblogs.microsoft.com/visualstudio/creating-and-packaging-net-standard-library/?utm_campaign=devfish

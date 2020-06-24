@@ -2,6 +2,7 @@
 
 * Batching - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-programming-guide#batch-event-send-operations
 * Batching - enabling - https://github.com/Azure/azure-functions-templates/blob/df94e19484fea88fc2c68d9f032c9d18d860d5b5/Functions.Templates/Templates/EventHubTrigger-JavaScript/function.json
+* Docs - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-features
 
 ## HA/DR
 

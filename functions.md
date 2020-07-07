@@ -129,6 +129,7 @@ Notes on moving functions across zones that include premium - https://github.com
 * MS Graph with Az Functions https://github.com/microsoftgraph/msgraph-training-building-apps/blob/master/Lab.md#exercise-3-build-an-azure-function-using-microsoft-graph
 * Reference Arch > ECommerce front end > - https://docs.microsoft.com/en-us/azure/architecture/example-scenario/apps/ecommerce-scenario
 * **Serverless library** - https://serverlesslibrary.net/
+* Wait for files and process - durable/python - https://github.com/eavanvalkenburg/azure_durable_function_waitforfilesandprocess
 
 ## SECURITY
 
@@ -137,6 +138,7 @@ Notes on moving functions across zones that include premium - https://github.com
 * Azure Function into a VNET <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
 * Call a Secure Azure Function from a Logic App
 http://www.mattruma.com/call-a-secure-azure-function-from-a-logic-app/
+* KeyVault for secrets - https://docs.microsoft.com/en-us/azure/app-service/app-service-key-vault-references
 * Integrate your app wiht an Az Vnet - premium plan or ASE - https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet
 * IP Addresses outbound - https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses
 * Private storage account - https://github.com/mcollier/azure-functions-private-storage

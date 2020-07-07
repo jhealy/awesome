@@ -31,6 +31,7 @@
 * Events tutorial - https://msdn.microsoft.com/en-us/library/aa645739(v=vs.71).aspx
 * Extension methods collection - http://extensionmethod.net/
 * Lambda examples from dotnetperls - https://www.dotnetperls.com/lambda
-* nrules - Rules engine for c# - http://nrules.net/
+* rules engine  - http://nrules.net/
+* rules engine - https://github.com/microsoft/RulesEngine
 * XDocument Sample - https://code.msdn.microsoft.com/windowsdesktop/Manipulate-XML-in-memory-4b612d6b#content
 * XML Documents and Data - https://docs.microsoft.com/en-us/dotnet/standard/data/xml/

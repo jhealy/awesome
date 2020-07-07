@@ -37,6 +37,7 @@ Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 * Guided Learning - https://flow.microsoft.com/en-us/guided-learning/
 * Learning Resources collection - https://flow.microsoft.com/en-us/blog/microsoft-flow-learning-resources-materials/
 * Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/
+* Learning Path - Use best practices to secure and govern power automate environments - https://docs.microsoft.com/en-us/learn/paths/best-practices-environments/
 
 ## SAMPLES
 

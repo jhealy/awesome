@@ -9,6 +9,10 @@
 * Issues - <https://github.com/aspnet/blazor/issues>
 * .NET Core 3.0 updates including blazor web assembly preview 9 - https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-release-candidate-1/
 
+## DEVOPS
+
+* Azure Pipelines with Blazor App - https://chrissainty.com/building-blazor-apps-using-azure-pipelines/ 
+
 ## LEARN
 
 * Blazor University - https://blazor-university.com/
@@ -24,4 +28,5 @@
 * Creating interactive documentation - https://devblogs.microsoft.com/dotnet/creating-interactive-net-documentation/
 * gprc web from blazor web assembly - https://medium.com/@waelkdouh/how-to-utilize-grpc-web-from-a-blazor-webassembly-application-e8313444f75b
 * PWA with Blazor - https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/ - https://docs.microsoft.com/en-us/aspnet/core/blazor/progressive-web-app?view=aspnetcore-3.1&tabs=visual-studio
+* Security - Securing a Blazor WebAssembly Application with Azure Active Directory - https://medium.com/@waelkdouh/securing-a-blazor-webassembly-application-with-azure-active-directory-7822148f332b
 * Webforms to Blazor - https://github.com/FritzAndFriends/BlazorWebFormsComponents

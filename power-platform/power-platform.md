@@ -8,6 +8,7 @@ Things common to the Power Platform as a whole.
 
 * Admin center - must be admin - https://admin.microsoft.com/Support/Support.aspx
 * Block self-service purchasing for power platform - https://redmondmag.com/articles/2019/12/04/block-microsoft-power-platform-self-service.aspx
+* Governing your digital transformation with the power platform (june2020) https://flow.microsoft.com/en-us/blog/governing-your-digital-transformation-with-the-power-platform/
 * Licensing - https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus
 * Service Status for O365 - https://portal.office.com/servicestatus
 

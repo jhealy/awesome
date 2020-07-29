@@ -19,4 +19,4 @@ pooling, and socket exceptions
 
 ## HTTPCLIENTFACTORIES
 
-* HttpClient Factories in .NET CORE 2.1 <https://dotnetcoretutorials.com/2018/05/03/httpclient-factories-in-net-core-2-1/>
+* HttpClient Factories in .NET CORE 2.1 <https://dotnetcoretutorials.com/2018/05/03/httpclient-factories-in-net-core-2-1/>K

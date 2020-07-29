@@ -34,6 +34,7 @@ Things common to the Power Platform as a whole.
 ## LEARN
 
 * Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/
+* Mega-resource site - https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/
 
 ## SECURE
 

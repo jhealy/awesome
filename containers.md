@@ -50,7 +50,7 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 
 ## WINDOWS CONTAINERS
 
-* AKS Windows Containers Support (May 2019) <https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/>
+* Windows Container Support Announce - April 2020 - https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-windows-server-containers-and-private-clusters-for-azure-kubernetes-service/ :: https://cloudblogs.microsoft.com/windowsserver/2020/04/28/windows-server-container-support-in-azure-kubernetes-service-is-now-generally-available/
 
 ## MISC
 

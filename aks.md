@@ -14,6 +14,7 @@
 
 * Build ASP.NET Core Applications for Linux containers in AKS (tutorial) - https://docs.microsoft.com/en-us/dotnet/architecture/containerized-lifecycle/design-develop-containerized-apps/build-aspnet-core-applications-linux-containers-aks-kubernetes
 * Containers bootcamp - https://github.com/heoelri/container-bootcamp
+* Hackfest - https://github.com/Azure/kubernetes-hackfest
 * KataCoda - K8S series - https://www.katacoda.com/courses/kubernetes
 * K8S Windows Walkthrough - https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md
 * Learn K8S - http://aka.ms/learnkubernetes
@@ -54,5 +55,5 @@ RESOLUTION: Dig further into doc.  “This Service Level Agreement for Microsoft
 ## WINDOWS
 
 * K8S Windows Walkthrough - https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md
-* Windows Container Support Announce - May 17 2019 - https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-windows-server-containers-support-in-azure-kubernetes-service/
+* Windows Container Support Announce - April 2020 - https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-windows-server-containers-and-private-clusters-for-azure-kubernetes-service/ :: https://cloudblogs.microsoft.com/windowsserver/2020/04/28/windows-server-container-support-in-azure-kubernetes-service-is-now-generally-available/
 

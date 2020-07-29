@@ -77,6 +77,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Container - Run a durable function in a container <https://carlos.mendible.com/2018/01/14/run-a-durable-azure-function-in-a-container/>
 * Doc <https://github.com/Azure/azure-functions-durable-extension>
 * Durable functions making serverless last - durable functions as orchestrator <https://thenewstack.io/durable-functions-making-serverless-last/>
+* Wait for files and process - durable/python - https://github.com/eavanvalkenburg/azure_durable_function_waitforfilesandprocess
 
 ## LEARN
 
@@ -129,7 +130,7 @@ Notes on moving functions across zones that include premium - https://github.com
 * MS Graph with Az Functions https://github.com/microsoftgraph/msgraph-training-building-apps/blob/master/Lab.md#exercise-3-build-an-azure-function-using-microsoft-graph
 * Reference Arch > ECommerce front end > - https://docs.microsoft.com/en-us/azure/architecture/example-scenario/apps/ecommerce-scenario
 * **Serverless library** - https://serverlesslibrary.net/
-* Wait for files and process - durable/python - https://github.com/eavanvalkenburg/azure_durable_function_waitforfilesandprocess
+
 
 ## SECURITY
 
@@ -189,7 +190,7 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * Event Processing in Azure Functions / Event Hub - challenges <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fcfs>
 * Container - Functions in a container - http://tattoocoder.com/functions-runtime-kubernetes/
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
-* HttpClient - Use a static client in an Az Function but do NOT dispose of the httpclient in an Az Function - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
+* HttpClient - Use a static client in an Az Function but do NOT dispose of the httpclient in an Az Function - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
 * Linux - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 
 * Logic Apps v Functions - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
 * Managing connections in Az Functions - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c

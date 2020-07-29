@@ -2,6 +2,7 @@
 
 * AI Reference Architectures - <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/>
 * AI Show on Ch9 <https://channel9.msdn.com/Shows/AI-Show/>
+* Blog feed - Cognitive Services at Microsoft - https://azure.microsoft.com/en-us/blog/topics/cognitive-services/
 * Predicting Expenses Types from Receipts with COGS and ML - https://www.microsoft.com/developerblog/2017/01/01/predicting-expense-type-from-receipts-with-microsoft-cognitive-services/
 * build and teach conversational interfaces that learn from example interactions -  <https://labs.cognitive.microsoft.com/en-us/project-conversation-learner>
 * Intelligent Kiosk - http://aka.ms/KioskApp, https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk/
@@ -17,6 +18,13 @@
 
 ## CONTAINERIZED COGNITIVE SERVICES
 
+* Where are the dockerfiles for building the actual cogs containers? not available.
+* Container FAQ for COGS - https://docs.microsoft.com/en-us/azure/cognitive-services/containers/container-faq
+* Container support in Az Cognitive Services - https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support?tabs=text-analytics
+* Deploy cognitive services containers anywhere (video) https://info.microsoft.com/AP-AZUREPLAT-WBNR-FY19-03Mar-20-Seamlesslyintegrateapplicationsdataandprocesses-MCW0012283_02OnDemandRegistration-ForminBody.html
+* LUIS how-to - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-container-howto?tabs=v3
+* Running cognitive services containers - https://azure.microsoft.com/en-us/blog/running-cognitive-service-containers/
+* Text analytics how to - https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-install-containers?tabs=sentiment
 * Translate - supposed to be coming circa Dec 2018 ( https://aka.ms/csrmap )
 
 ## CONTENT MODERATION

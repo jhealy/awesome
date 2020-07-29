@@ -11,6 +11,7 @@ Main sign-in : https://make.powerapps.com
 * **PowerApps for Developers** - https://docs.microsoft.com/en-us/powerapps/#pivot=home&panel=developer
 * Blog - PowerApps Team - https://powerapps.microsoft.com/en-us/blog/
 * Blog - Office Team - https://blogs.office.com/en-us/feed/
+* Collaborative development - still no panancea - https://powerapps.microsoft.com/en-us/blog/collaborative-development-for-powerapps-canvas-apps/
 * Feedback to team and issues - https://powerusers.microsoft.com/t5/PowerApps-Forum/bd-p/PowerAppsForum1
 * **Formula Reference** - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference
 * Get help - https://powerusers.microsoft.com/t5/PowerApps-Forum
@@ -75,6 +76,7 @@ Main sign-in : https://make.powerapps.com
 * Gallery - https://pcf.gallery/ 
 * Getting started with PA component framework - https://aka.ms/PCFBlog
 * PA component framework community forum - https://aka.ms/PCFForum
+* PCF Gallery - https://PCF.Gallery 
 * ReactJS - Extend boundary of PowerApps CF - http://blog.dynamicscode.net/2019/06/26/react-extended-boundary-of-powerapps-component-framework/
 * ReactJS - Facepile - https://docs.microsoft.com/en-us/powerapps/developer/component-framework/sample-controls/react-facepile-control
 * React in the PCF public preview - https://powerapps.microsoft.com/en-us/blog/use-of-react-and-office-ui-fabric-react-in-the-powerapps-component-framework-is-now-available-for-public-preview/
@@ -125,6 +127,7 @@ Also see SOLUTIONS
 * Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/ 
 * Learning Path - Create PowerApps - https://docs.microsoft.com/en-us/learn/paths/create-powerapps/
 * Ignite 2019 Power Platform Session List - https://powerapps.microsoft.com/en-us/blog/microsoft-ignite-2019-event-recap/
+* Mega-resource site - https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/
 * Power Platform World Tour content - Dec 2019 - dynamic powerbi tiles, object detection with ai builder, creating power virtual agents bot in 10 steps, ai builder forms processing - https://powerusers.microsoft.com/t5/News-Announcements-Formerly/Power-Platform-World-Tour-Hands-on-Labs/ba-p/409740
 * Resources - ton of great stuff, you MUST check this out - http://aka.ms/powerapps-resources
 * Training resources (12/19) - https://powerusers.microsoft.com/t5/News-Announcements/Power-Platform-Training-Materials/ba-p/342088

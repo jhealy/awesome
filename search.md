@@ -46,6 +46,11 @@
 
 * [deprecated - template tool gone] How to provision Azure Search service with PowerShell <https://dzimchuk.net/how-to-provision-azure-search-service-with-powershell/> 
 
+## PERFORMANCE
+
+* Indexing large datasets - https://docs.microsoft.com/en-us/azure/search/search-howto-large-index#parallel-indexing
+* Scale for performance - https://docs.microsoft.com/en-us/azure/search/search-performance-optimization
+
 ## SAMPLES
 
 * Azure Samples for Search - https://Github.com/azure-samples?utf8=%E2%9C%93&query=search

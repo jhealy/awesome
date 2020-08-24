@@ -30,6 +30,7 @@ Things common to the Power Platform as a whole.
 * Establishing an Environment Strategy for Microsoft Power Platform - https://powerapps.microsoft.com/en-us/blog/establishing-an-environment-strategy-for-microsoft-power-platform/
 * Environment and tenant app migration through packaging - https://docs.microsoft.com/en-us/power-platform/admin/environment-and-tenant-migration
 * Power Platform ALM / Devops docs released ( May 2020 ) - https://powerapps.microsoft.com/en-us/blog/finally-application-lifecycle-management-alm-on-the-power-platform-explained/
+* Power Platform Build Tools Overhaul (Aug 2020) - https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-microsoft-power-platform-build-tools/ 
 
 ## LEARN
 

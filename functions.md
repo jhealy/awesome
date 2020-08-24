@@ -183,18 +183,21 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * Case Study - A fast, serverless, big data pipeline powered by a single Azure Function - Event Hub, Functions, ML Studio, SQL DB, Cosmos DB  <https://azure.microsoft.com/en-us/blog/a-fast-serverless-big-data-pipeline-powered-by-a-single-azure-function/>
 * Case Study - Mobile fraud detection architecture - Event Hub, Functions, ML Studio, SQL DB, Cosmos DB, Logic Apps <https://download.microsoft.com%2Fdownload%2F0%2F1%2F5%2F0150425C-14C7-41F4-97EA-3DE57B678C51%2FIndSG_FraudDetection.pdf>
 * Case Study - https://haveibeenpwned.com - runs on Az Func - https://builtwith.com/detailed/haveibeenpwned.com and https://channel9.msdn.com/Shows/DevOps-Lab/Improving-Performance-for-Pwned-Passwords 
+* CLI - Request a specific instance - https://blog.amitapple.com/post/2014/03/access-specific-instance/#.X0PRUn6SnOh
+* Container - Functions in a container - http://tattoocoder.com/functions-runtime-kubernetes/
+* Container - Windows Functions in container - https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-windows-container
 * Core - .NET Core 2.0 with Azure Functions Preview - https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Cross Platform Tooling for Az Functions - Mac, Linux via NPM.  VS Code. VS Mac. Javascript, c#.  https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Debugging Azure Functions locally using Postman <https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function>
 * Deployment slots - https://docs.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots
 * Event Processing in Azure Functions / Event Hub - challenges <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fcfs>
-* Container - Functions in a container - http://tattoocoder.com/functions-runtime-kubernetes/
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 * HttpClient - Use a static client in an Az Function but do NOT dispose of the httpclient in an Az Function - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
 * Linux - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 
 * Logic Apps v Functions - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
 * Managing connections in Az Functions - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
 * Microservices -> Azure Functions are not Microservices - https://www.linkedin.com/pulse/azure-functions-microservices-vs-microservice-platforms-mark-hedley/
+* Migrating console apps to functions - https://docs.microsoft.com/en-us/samples/azure-samples/functions-dotnet-migrating-console-apps/run-console-apps-on-azure-functions/
 * Newtonsoft and 1.x functions - will not go behond newtonsoft v9 - https://github.com/Azure/azure-functions-host/issues/4049 
 * PInvoke / DLLImport not currently supported in functions - https://github.com/Azure/Azure-Functions/issues/622 
 * PowerApps -> Export to Flow - https://docs.microsoft.com/en-us/azure/azure-functions/functions-flow-scenario
@@ -202,6 +205,7 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * PowerApps -> Export to PowerApps and Flow -> https://docs.microsoft.com/en-us/azure/azure-functions/app-service-export-api-to-powerapps-and-flow
 * Proxies - act like baby api management - only available in functions v1 - use API-M instead <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * Python - First py function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python#deploy-the-function-app-project-to-azure
+* Sandbox - https://github.com/projectkudu/kudu/wiki/Azure-Web-App-sandbox
 * Selenium not supported in Azure Functions - https://github.com/projectkudu/kudu/wiki/Azure-Web-App-sandbox#unsupported-frameworks
 * Status codes from Azure Functions - https://dontcodetired.com/blog/post/Returning-HTTP-Status-Codes-from-Azure-Functions
 * SQL Binding <https://stackoverflow.com/questions/44983669/azure-function-vs2017-sql-table-binding>

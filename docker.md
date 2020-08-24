@@ -21,6 +21,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 
 * Mother load of Windows dockerfiles.  Great to see how to build out really sophisticated dockerfiles.  https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/master/windows-container-samples 
 * .NET Docker Images - https://github.com/dotnet/dotnet-docker
+* .NET Framework Docker Samples - https://github.com/Microsoft/dotnet-framework-docker
 
 ## LEARN
 

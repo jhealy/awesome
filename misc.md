@@ -4,6 +4,7 @@ Held here until enough volume to be posted elsewhere....
 ## .NET GENERAL
 * .NET API Browser - https://docs.microsoft.com/en-us/dotnet/api/
 * .NET Verification Tool - https://blogs.msdn.microsoft.com/astebner/2017/05/26/net-framework-setup-verification-tool-cleanup-tool-and-detection-sample-code-now-support-net-framework-4-7/
+* Docker files for .NET Framework - https://github.com/Microsoft/dotnet-framework-docker
 * Early Access Builds - https://github.com/Microsoft/dotnet-framework-early-access
 * Memory > Analyzing Issues - https://msdn.microsoft.com/en-us/library/dn342825.aspx 
 * Migration Guides from earlier framework versions - https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/index
@@ -11,6 +12,7 @@ Held here until enough volume to be posted elsewhere....
 * Performance > .NET 4.7 v .NET Core 2.0 - Performance Improvements - https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
 * Tools > JustAssembly - decompile and compare assemblies - telerik free - http://www.telerik.com/justassembly?utm_source=devfish
 * WCF - https://github.com/CoreWCF/CoreWCF
+* WCF - in a docker container - https://github.com/Microsoft/dotnet-framework-docker-samples/tree/master/wcfapp
 * WCF - Open source project - https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/
 * What's New in .NET Framework - https://docs.microsoft.com/en-us/dotnet/framework/whats-new/index
 
@@ -60,6 +62,7 @@ Held here until enough volume to be posted elsewhere....
 * .NET > Disposable > Caching a disposable - https://stackoverflow.com/questions/32706296/how-to-cache-an-idisposable-object
 * .NET > Framework > Troubleshoot .NET Framework Installation Issues on Windows - http://www.thewindowsclub.com/troubleshoot-net-frameworks-4-0-install-issues-on-windows-7
 * .NET > Framework > 4.7 released - https://blogs.msdn.microsoft.com/dotnet/2017/10/17/announcing-the-net-framework-4-7-1/
+* .NET > Framework > 4.8 is the last release, core is the future - https://devblogs.microsoft.com/dotnet/net-core-is-the-future-of-net/
 * .NET > Framework Installation > .NET Framework deployment guide for developers - https://docs.microsoft.com/en-us/dotnet/framework/deployment/deployment-guide-for-developers
 * .NET > Framework Installation > Install the .NET Framework for developers - https://docs.microsoft.com/en-us/dotnet/framework/install/guide-for-developers
 .NET > System Requirements - http://msdn.microsoft.com/en-us/library/8z6watww(v=vs.110).aspx

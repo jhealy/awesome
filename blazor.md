@@ -1,8 +1,8 @@
 # BLAZOR
 
-* **Home** https://dotnet.microsoft.com/apps/aspnet/web-apps/client
+* **Home** - https://blazor.net
 * Awesome links collection <https://github.com/AdrienTorris/awesome-blazor>
-* Docs, community and more - <http://blazor.net/>
+* Docs, community and more - https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1
 * Forums - <https://gitter.im/aspnet/Blazor>
 * Getting started - <http://blazor.net/docs/get-started.html>
 * Github repo for source - <https://github.com/aspnet/blazor>
@@ -12,6 +12,10 @@
 ## DEVOPS
 
 * Azure Pipelines with Blazor App - https://chrissainty.com/building-blazor-apps-using-azure-pipelines/ 
+
+## HOSTING MODELS
+
+* Serverside - BlazorServerSample - https://github.com/dotnet/AspNetCore.Docs/tree/master/aspnetcore/blazor/common/samples/3.x/BlazorServerSample
 
 ## LEARN
 
@@ -27,6 +31,8 @@
 * Bringing your Blazor apps to the Desktop with ElectronNET.Blazor -https://medium.com/cloudnimble/bringing-your-blazor-apps-to-the-desktop-with-electronnet-blazor-67701bff82f7
 * Creating interactive documentation - https://devblogs.microsoft.com/dotnet/creating-interactive-net-documentation/
 * gprc web from blazor web assembly - https://medium.com/@waelkdouh/how-to-utilize-grpc-web-from-a-blazor-webassembly-application-e8313444f75b
+* httpclient - https://learn-blazor.com/architecture/rest-api/index.htm 
+* OnPageLoad type functionality in blazor - https://stackoverflow.com/questions/61551404/in-blazor-how-to-call-a-function-at-page-load-event-name
 * PWA with Blazor - https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/ - https://docs.microsoft.com/en-us/aspnet/core/blazor/progressive-web-app?view=aspnetcore-3.1&tabs=visual-studio
 * Security - Securing a Blazor WebAssembly Application with Azure Active Directory - https://medium.com/@waelkdouh/securing-a-blazor-webassembly-application-with-azure-active-directory-7822148f332b
 * Webforms to Blazor - https://github.com/FritzAndFriends/BlazorWebFormsComponents

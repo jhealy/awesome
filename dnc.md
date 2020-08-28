@@ -60,6 +60,7 @@
 
 ## DATA ACCESS - ORACLE
 
+* EF Core with .NET Standard 3.x - https://con-cat.com/2020/08/22/how-to-use-net-standard-with-ef-core-3-1/?utm_source=devfish
 * Quick Start: Deploy .NET Core on Oracle Cloud - https://medium.com/oracledevs/quick-start-develop-deploy-a-net-core-app-on-oracle-cloud-aca69158c592
 * .NET Core and Entity Framework Statement of Direction - March 2018 - www.oracle.com/technetwork/topics/dotnet/tech-info/odpnet-dotnet-ef-core-sod-4395108.pdf
 * ODP.NET Core Intro (video) - https://www.youtube.com/watch?v=tGXs3VmflQU&feature=youtu.be

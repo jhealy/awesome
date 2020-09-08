@@ -11,3 +11,5 @@ VMs and such.
 * Image Builder for VMs - https://docs.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-overview
 * Image Builder for VMs using Packer - https://www.packer.io/docs/builders/azure.html
 * RDP file format - https://www.donkz.nl/overview-rdp-file-settings/
+* Security - Allow only certain image publishers - https://github.com/Azure/azure-policy/tree/master/samples/Compute/allowed-image-publishers
+* Security - CIS Hardened Images - https://www.cisecurity.org/cis-hardened-images/microsoft/

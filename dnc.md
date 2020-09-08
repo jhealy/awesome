@@ -9,7 +9,10 @@
 * Build > CI with .NET Core - https://docs.microsoft.com/en-us/dotnet/core/tools/using-ci-with-cli
 * Command line tools > https://docs.microsoft.com/en-us/dotnet/core/tools/
 * Compared with .NET Framework > https://stackoverflow.com/questions/42939454/what-is-the-difference-between-net-core-and-net-standard-class-library-project
+* Dependency injection in .net core 3.0 - https://medium.com/@alexalvess/dependency-injection-and-inversion-of-control-on-net-core-3136fe98b72
 * Diagnostics via EventFlow - https://github.com/Azure/diagnostics-eventflow
+* Inversion of control in .net core 3.0 - y-project
+* Dependency injection in .net core 3.0 - https://medium.com/@alexalvess/dependency-injection-and-inversion-of-control-on-net-core-3136fe98b72
 * Logging in .NET Core <https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-2.1#tracesource-provider>
 * OData Lib for .NET Core - https://www.nuget.org/packages/Microsoft.AspNetCore.OData/
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
@@ -24,6 +27,7 @@
 ## .NET 5.0
 
 * .NET 5.0 Preview 3 Announce - https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-3/
+* Assembly trimming in .NET Core 5.0 - https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/
 
 ## .NET CORE 3.0
 
@@ -80,10 +84,13 @@
 
 ## MIGRATION
 
-* .NET to Core <https://docs.microsoft.com/en-us/aspnet/core/migration/proper-to-2x/?view=aspnetcore-2.1>
-* 1X TO 2X <https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/?view=aspnetcore-2.1>
-* 20 TO 2.1 <https://docs.microsoft.com/en-us/aspnet/core/migration/20_21?view=aspnetcore-2.1>
+* .NET to Core - https://docs.microsoft.com/en-us/aspnet/core/migration/proper-to-2x/?view=aspnetcore-3.1
 * Core v Framework 4.8 <https://devblogs.microsoft.com/dotnet/update-on-net-core-3-0-and-net-framework-4-8/>
+* Package conversion tool - https://docs.microsoft.com/en-us/nuget/consume-packages/migrate-packages-config-to-package-reference
+* Portability analyzer - https://aka.ms/portabilityAnalyzer
+* Porting libraries to .NET Core - https://docs.microsoft.com/en-us/dotnet/core/porting/libraries
+* Porting Guide - 
+Porting guide - https://docs.microsoft.com/nb-no/dotnet/core/porting/
 * Try-convert automated migration tool - https://github.com/dotnet/try-convert/
 
 ## WINDOWS WORKFLOW

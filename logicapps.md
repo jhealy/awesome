@@ -74,6 +74,7 @@ Will eventually move out to its own ISE page
 * Access to Azure VNET resources from LA by using ISE - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment-overview
 * Add resource to ISE - https://docs.microsoft.com/en-us/azure/logic-apps/add-artifacts-integration-service-environment-ise 
 * Connect to Azure vnets from LA by using an ISE - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment
+* Connector list for ISE -    https://docs.microsoft.com/en-us/azure/connectors/apis-list#ise-connectors
 * Create ISE using REST - https://docs.microsoft.com/en-us/azure/logic-apps/create-integration-service-environment-rest-api
 * Developer tier - https://azure.microsoft.com/en-us/updates/new-developer-pricing-tier-for-integration-service-environment/ - July 2019
 * Pricing - includes integration account - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing#fixed-pricing-model

@@ -9,7 +9,12 @@
 * Documentation - home <https://docs.microsoft.com/en-us/azure/azure-functions/>
 * Feedback - UserVoice <https://feedback.azure.com/forums/355860-azure-functions>
 * host.json (v2) doc <https://github.com/Azure/azure-functions-host/wiki/host.json-(v2)#sample-hostjson>
-* IP Addresses outbound - https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses
+* IP Addresses - outbound - https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses
+* IP Addresses - configuring for consumption - 
+https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses#find-outbound-ip-addresses
+is to allow all Ips from the datacenter in the region.
+
+
 * Limits - buried in this pricing doc <https://azure.microsoft.com/en-us/pricing/details/functions/>
 * Limits in App Service Plan <https://docs.microsoft.com/en-us/azure/app-service/azure-web-sites-web-hosting-plans-in-depth-overview>
 * Linux - Preview <https://github.com/Azure/Azure-Functions/wiki/Azure-Functions-on-Linux-Preview>

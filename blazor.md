@@ -25,9 +25,11 @@
 * BlazorTrain - carl franklin's blazor site - https://blazortrain.com/
 * Tutorial - RealWorld - <https://github.com/torhovland/blazor-realworld-example-app>
 * Tutorial - VocabDb - <https://github.com/riipah/vocadb-lyrics-blazor-proto>
+* Workshop - ten part - https://github.com/dotnet-presentations/blazor-workshop
 
 ## MISC
 
+* Assembly trimming - Blazor section - https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/
 * Bringing your Blazor apps to the Desktop with ElectronNET.Blazor -https://medium.com/cloudnimble/bringing-your-blazor-apps-to-the-desktop-with-electronnet-blazor-67701bff82f7
 * Creating interactive documentation - https://devblogs.microsoft.com/dotnet/creating-interactive-net-documentation/
 * gprc web from blazor web assembly - https://medium.com/@waelkdouh/how-to-utilize-grpc-web-from-a-blazor-webassembly-application-e8313444f75b

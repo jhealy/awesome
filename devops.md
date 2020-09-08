@@ -17,9 +17,17 @@ https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-leve
 Formerly known as Visual Studio Mobile Center
 
 * Home - https://docs.microsoft.com/en-us/appcenter/
+* Github - issues/roadmap - https://github.com/microsoft/appcenter
 * Announce - https://blogs.msdn.microsoft.com/vsappcenter/introducing-visual-studio-app-center/?utm_source=devfish
 * Roadmap - https://docs.microsoft.com/en-us/appcenter/general/roadmap
 * Slack App for VSMC - https://blogs.msdn.microsoft.com/mobilecenter/introducing-the-mobile-center-slack-app/
+
+## DATA FACTORY
+
+* Data Factory DevOps - https://cloudarchitected.com/2019/04/devops-in-azure-with-databricks-and-data-factory/
+* Best Practices for CICD - https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-deployment#best-practices-for-cicd
+* Unsupported features - https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-deployment#best-practices-for-cicd
+* Configure Source Control in ADF - https://docs.microsoft.com/en-us/azure/data-factory/source-control
 
 ## DEVSECOPS
 

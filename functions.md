@@ -82,6 +82,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Container - Run a durable function in a container <https://carlos.mendible.com/2018/01/14/run-a-durable-azure-function-in-a-container/>
 * Doc <https://github.com/Azure/azure-functions-durable-extension>
 * Durable functions making serverless last - durable functions as orchestrator <https://thenewstack.io/durable-functions-making-serverless-last/>
+* Patterns - https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp#application-patterns 
 * Wait for files and process - durable/python - https://github.com/eavanvalkenburg/azure_durable_function_waitforfilesandprocess
 
 ## LEARN
@@ -144,6 +145,7 @@ Notes on moving functions across zones that include premium - https://github.com
 * Azure Function into a VNET <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
 * Call a Secure Azure Function from a Logic App
 http://www.mattruma.com/call-a-secure-azure-function-from-a-logic-app/
+* EasyAuth and Az Functions - https://markheath.net/post/secure-azure-functions-app-easy-auth-adb2c
 * KeyVault for secrets - https://docs.microsoft.com/en-us/azure/app-service/app-service-key-vault-references
 * Integrate your app wiht an Az Vnet - premium plan or ASE - https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet
 * IP Addresses outbound - https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses

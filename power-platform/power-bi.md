@@ -2,6 +2,8 @@
 
 # POWER BI
 
+* Change datasource on deploy - https://www.c-sharpcorner.com/article/how-to-change-data-source-of-existing-report-in-power-bi/
+
 ## LEARN
 
 * Learning Path - Learn the basics of Power BI Desktop, Power Automate, and PowerApps - https://docs.microsoft.com/en-us/learn/paths/power-platform-introduction/

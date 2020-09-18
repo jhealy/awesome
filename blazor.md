@@ -32,6 +32,7 @@
 * Assembly trimming - Blazor section - https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/
 * Bringing your Blazor apps to the Desktop with ElectronNET.Blazor -https://medium.com/cloudnimble/bringing-your-blazor-apps-to-the-desktop-with-electronnet-blazor-67701bff82f7
 * Creating interactive documentation - https://devblogs.microsoft.com/dotnet/creating-interactive-net-documentation/
+* File upload in blazor - https://blog.stevensanderson.com/2019/09/13/blazor-inputfile/
 * gprc web from blazor web assembly - https://medium.com/@waelkdouh/how-to-utilize-grpc-web-from-a-blazor-webassembly-application-e8313444f75b
 * httpclient - https://learn-blazor.com/architecture/rest-api/index.htm 
 * OnPageLoad type functionality in blazor - https://stackoverflow.com/questions/61551404/in-blazor-how-to-call-a-function-at-page-load-event-name

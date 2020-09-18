@@ -5,6 +5,7 @@
 * Azure SQL Database - Managed Instance PREVIEW - increased compat for PAAS with on-premise -network isolation with ful vnet - private ip support -  https://sqldatabase-migrationpreview.azurewebsites.net/
 * CosmosDB v SQL - https://db-engines.com/en/system/Microsoft+Azure+Cosmos+DB%3BMicrosoft+SQL+Server
 * Configure and manage Azure Active Directory authentication with SQL Database, Managed Instance, or SQL Data Warehouse - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure#azure-ad-token
+* Decision guide for data stores - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree
 * Features comparison - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-features
 * IaaS v PaaS - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas
 * On-Premise v Azure - https://azure.microsoft.com/en-us/blog/tag/azure-data-factory/

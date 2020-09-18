@@ -22,4 +22,4 @@
 
 * Devops with GitLab - https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/?view=azure-devops - 
 https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-for-git?view=azure-devops
-
+* Github container registry - https://github.blog/2020-09-01-introducing-github-container-registry/

@@ -4,6 +4,7 @@
 * Custom connectors for PowerApps - Announce (2017) https://powerapps.microsoft.com/en-us/blog/brand-new-custom-api-experience-in-powerapps/
 * Documentation for creating custom connectors - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/register-custom-api
 * Limits - https://docs.microsoft.com/en-us/connectors/custom-connectors/faq#limits
+* Not available in Office E5/M5 plans - https://docs.microsoft.com/en-us/power-platform/admin/powerapps-flow-licensing-faq#microsoft-365
 
 ## DEVOPS
 

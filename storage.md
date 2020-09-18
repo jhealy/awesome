@@ -2,6 +2,7 @@
 
 * APIs for .NET - doc - <https://docs.microsoft.com/en-us/dotnet/api/overview/azure/storage?view=azure-dotnet>
 * Blog - <https://blogs.msdn.microsoft.com/windowsazurestorage/>
+* Decision guide for data stores - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree
 * Feedback and suggestions - https://feedback.azure.com/forums/217298-storage/
 * Geo redundant storage preview ( Feb 2019 ) <https://azure.microsoft.com/en-us/blog/account-failover-now-in-public-preview-for-azure-storage/>
 * Immutable Storage for Blob <https://azure.microsoft.com/en-us/blog/microsoft-azure-launches-tamper-proof-azure-immutable-blob-storage-for-financial-services/>
@@ -39,6 +40,7 @@
 
 ## SECURITY
 
+* Change feed - https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-change-feed?tabs=azure-portal
 * Compliance offerings <https://docs.microsoft.com/en-us/azure/storage/common/storage-compliance-offerings>
 * Private endpoints for storage GA - March 2020 - https://docs.microsoft.com/en-us/azure/storage/common/storage-private-endpoints
 * RBAC - https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles

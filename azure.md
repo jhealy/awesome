@@ -14,6 +14,7 @@
 * Services by region, including FED - https://azure.microsoft.com/en-us/status/
 * Services - all up <https://azure.microsoft.com/en-us/services/>
 * Services - all up - map - https://nnmer.github.io/azure-services-map/dist/
+* SLA Board - shows all services by SLA level - https://azurecharts.com/sla
 * Updates - heat map across all updates -https://aka.ms/azheatmap
 * Updates - InfoHub - https://azureinfohub.azurewebsites.net/
 * Updates - Last week in Azure - msft blog on latest - no updates since July 2019 - https://azure.microsoft.com/en-us/blog/topics/last-week-in-azure/

@@ -67,6 +67,7 @@ Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 * HttpTrigger for custom applications - http://techcarpenter.blogspot.no/2017/10/microsoft-flow-as-a-service-for-custom-applications.html
 * Office 365 - Get My Profile v2 - https://flow.microsoft.com/en-us/blog/o365-profile-infobip/
 * PowerApps - add a flow to a powerapp - https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/using-logic-flows
+* XML - Get greater than 1k data - https://www.inogic.com/blog/2019/10/how-to-get-paging-cookie-while-retrieving-data-using-fetch-xml-query-in-microsoft-flow/
 
 ## See Also
 

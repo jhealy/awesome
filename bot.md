@@ -1,5 +1,7 @@
 # BOT
+
 Things relevant to Bot framework from Microsoft.  No, I dont care about any other kinds of bots right now.
+
 * AI training center <http://mcstestdesignerportal.azurewebsites.net/>
 * Design Principles <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-4.0>
 * DirectLine - https://blog.botframework.com/2017/02/02/direct-line-performance-improvements/
@@ -11,12 +13,12 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Support - twitter @msbotframework <https://www.twitter.com/msbotframework>
 * Team Blog - <https://blog.botframework.com/>
 
-# HEALTHCARE BOT
+## HEALTHCARE BOT
 
 * Azure Marketplace link <https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-hcb.microsofthealthcarebot?tab=Overview>
 * Conversational AI for healthcare <https://www.microsoft.com/en-us/research/project/health-bot/>
 
-# LEARN v.4
+## LEARN v.4
 
 **5 Minute QuickStarts from Bots doc - <https://docs.microsoft.com/en-us/bot-framework/> **
 * Create a bot with Bot Builder SDK for .NET tutorial (v4) <https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0>
@@ -24,12 +26,12 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Migrating from v3 to v4 <https://www.youtube.com/watch?v=lzUE4qi8O-A>
 * Simple bot - https://github.com/ssemyan/SampleAzureBot
 
-# LEARN v.3
+## LEARN v.3
 
 * Authentication - Add <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0>
 * Daniel Egan's Bot Leearning Lab - https://github.com/DanielEgan/BotWorkshop 
 
-# LUIS - Language Understanding Cognitive Service
+## LUIS - Language Understanding Cognitive Service
 
 * Home - <https://www.luis.ai/home>
 * Add natural lang understanding to your bot (v4) <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-v4-luis?view=azure-bot-service-4.0&tabs=cs>
@@ -43,7 +45,7 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * QBox - visual luis ai $ <https://qbox.ai/>
 * Utterances - varied <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-utterance#how-to-choose-varied-utterances>
 
-## LUIS PERFORMANCE
+### LUIS PERFORMANCE
 
 * Improving LUIS Intent Classifications (MSDN Mag July 2018) <https://msdn.microsoft.com/en-us/magazine/mt847187.aspx?f=255&MSPPError=-2147217396>
 * Model explainer - R Lang <https://github.com/pbiecek/DALEX>
@@ -51,13 +53,15 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Tool > LIME - Local Interpretable Model Agnostic Explanation - Explains intent classification - Source - <https://github.com/marcotcr/lime>, 
 Why should I trust you?  Explaining the predictions of any classifier - <https://arxiv.org/abs/1602.04938>
 
-# QNA MAKER
-The extraction process to get QNA-pairs out of a URL or file is something QNAMaker does. Once it has the QNA-pairs it will add them to the Azure Search index.
+## QNAMAKER
+
+The extraction process to get QNA-pairs out of a URL or file is something QNAMaker does. Once it has the QNA-pairs it will add them to the Azure Search index. qna maker.
+
 * QNA Maker Architecture <https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/overview/overview#qna-maker-architecture>
 * QnA Maker tutorial <https://github.com/Microsoft/BotBuilder-CognitiveServices/tree/master/CSharp/Samples/QnAMaker>
 * Use multiple LUIS and QnA models (v4) <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=csharp>
 
-# SAMPLES V4
+## SAMPLES V4
 
 * Bot Builder SDK - connect bots to text/sms, skype, slack, o365, et al <https://github.com/Microsoft/BotBuilder>
 * **Bot builder samples** - many <https://github.com/Microsoft/BotBuilder-Samples/blob/master/README.md>
@@ -65,7 +69,7 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 * Qna Maker and LUIS to distribute KBs (3.x) <https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/tutorials/integrate-qnamaker-luis>
 * Virtual Assistant <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0>, github repo <https://github.com/Microsoft/AI>
 
-# SAMPLES V3
+## SAMPLES V3
 * Alexa integration -	https://github.com/suneetnangia/Alexa/tree/master/Microsoft.Demos.Alexa.Luis
 * AzureBot - https://github.com/Microsoft/AzureBot
 * Commerce bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-commerce?view=azure-bot-service-3.0>
@@ -78,13 +82,19 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 * Stackoverflow Bot - krishnaji - https://github.com/krishnaji/StackOverflow-Bot
 * Samples - <https://github.com/Microsoft/BotBuilder-Samples>
 
-# TOOLS
+## TEAMS INTEGRATION
+
+* Bot templates for teams - https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates
+
+## TOOLS
+
 * BotAuth - Node.js and C# framework for  bot authentication.  Any OAuth2 provider.  https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2017/05/15/bot-authentication-in-the-bot-framework/
 * Channel Inspector - Overview - https://docs.microsoft.com/en-us/bot-framework/bot-service-channel-inspector 
 * Channel Inspector - link - https://docs.botframework.com/en-us/channel-inspector/channels/WebChat
 * Microsoft Bot Framework Emulator - https://aka.ms/bf-bc-emulator 
 
-# MISC
+## MISC
+
 * Bot State Service retired on March 31 2018 - migration resources here - https://blog.botframework.com/2017/12/19/bot-state-service-will-soon-retired-march-31st-2018/
 * Enterprise Bot Arch / Master Child ( Feb 2018 ) - <https://blogs.msdn.microsoft.com/pragdev/2018/02/10/enterprise-bot-architecture/>
 * J.Marsman's favorite bot samples - https://blogs.msdn.microsoft.com/jennifer/2017/05/09/the-bot-framework-my-favorite-samples/ - chop me up

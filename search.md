@@ -42,6 +42,11 @@
 * LearnAI > Knowledge Mining Bootcamp <https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/>
 * Search Tutorial (C#) <https://docs.microsoft.com/en-us/azure/search/search-query-dotnet>
 
+## LUCENE
+
+* Samples - https://docs.microsoft.com/en-us/azure/search/search-query-lucene-examples
+* Syntax - https://docs.microsoft.com/en-us/azure/search/query-lucene-syntax
+
 ## DEVOPS
 
 * [deprecated - template tool gone] How to provision Azure Search service with PowerShell <https://dzimchuk.net/how-to-provision-azure-search-service-with-powershell/> 

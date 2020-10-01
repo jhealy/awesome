@@ -18,6 +18,7 @@
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
 * Pre-requisites - Linux - https://github.com/dotnet/docs/blob/master/docs/core/linux-prerequisites.md
 * Pre-requisities - Windows - https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites
+* Release cycles and support - https://devblogs.microsoft.com/dotnet/net-core-releases-and-support/
 * Runtime - Book of the Runtime - https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
 * System Requirements - https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements
 * Telemetry Reports -  https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/

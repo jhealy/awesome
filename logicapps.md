@@ -108,3 +108,5 @@ Will eventually move out to its own ISE page
 * Using Logic Apps to assist with DevOps <https://azure.microsoft.com/en-us/resources/videos/extending-devops-with-serverless-logic-apps/>
 * VS2019 Extension - https://marketplace.visualstudio.com/items?itemName=VinaySinghMSFT.AzureLogicAppsToolsForVS2019 
 * XML Integration - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-eai-logic-app-using-vetr/
+* XML - Get greater than 1k data - https://www.inogic.com/blog/2019/10/how-to-get-paging-cookie-while-retrieving-data-using-fetch-xml-query-in-microsoft-flow/
+ 

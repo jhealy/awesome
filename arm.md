@@ -1,6 +1,8 @@
 # AZURE RESOURCE MANAGER ( ARM )
 
-All the goodness I've found on Azure Resource Manager and templates.  
+All the goodness I've found on Azure Resource Manager and templates. 
+
+* Move operations by resource type - https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-support-resources#microsoftnetwork
 
 ## KEY VAULT ( AKV )
 

@@ -13,6 +13,7 @@
 * IP Addresses - configuring for consumption - 
 https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses#find-outbound-ip-addresses
 is to allow all Ips from the datacenter in the region.
+* Storage considerations for Az Functions - https://docs.microsoft.com/en-us/azure/azure-functions/storage-considerations
 
 
 * Limits - buried in this pricing doc <https://azure.microsoft.com/en-us/pricing/details/functions/>

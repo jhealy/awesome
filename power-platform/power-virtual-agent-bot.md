@@ -18,6 +18,7 @@
 
 ## FLOW
 
+* Add actions to bot using power automate - https://docs.microsoft.com/en-us/power-virtual-agents/advanced-flow 
 * Adding Flow/Automate to bots - https://powervirtualagents.microsoft.com/en-us/blog/bots-can-use-power-automate-flows-created-from-power-virtual-agents-right-away/
 
 ## LEARN

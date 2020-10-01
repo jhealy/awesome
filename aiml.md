@@ -4,6 +4,12 @@
 * Developers Guide to Building AI Applications (Spring 2018) <https://info.microsoft.com/ww-landing-ai-developers-bot-ebook.html>
 * What to use and when ( march 2018, buck woody ) - <https://blogs.msdn.microsoft.com/buckwoody/2018/02/22/the-microsoft-artificial-intelligence-landscape-and-what-to-use-when/>
 
+# GPT3
+
+* API signup - https://openai.com/blog/openai-api/
+* Microsoft licenses gpt3 - https://blogs.microsoft.com/blog/2020/09/22/microsoft-teams-up-with-openai-to-exclusively-license-gpt-3-language-model/
+* Waitlist signup (preview) - https://share.hsforms.com/1Lfc7WtPLRk2ppXhPjcYY-A4sk30
+
 ## LEARN
 
 * AI School - https://aischool.microsoft.com/en-us/home

@@ -23,6 +23,11 @@
 
 * Storage redundancy levels - https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy
 
+## MONITOR
+
+* Monitoring Azure Storage - https://docs.microsoft.com/en-us/azure/storage/common/monitor-storage?tabs=dotnet
+* Public preview of Azure Storage logs integration with Azure Monitor. Consolidate storage logs to central storage accounts, send to Event Hub for streaming ingestion, or export to Log Analytics to query and analyze natively. Supports Diagnostic logs for Files, Diagnostic logs for Premium storage, Diagnostic logs for Azure Data Lake Storage Gen2.  Also authentication context, TLS version, etc. Native query and analysis experience with Log Analytics.  https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxW65f1VQyNCuBHMIMBV8qlUM0E0MFdPRFpOVTRYVklDSE1WUTcyTVAwOC4u
+
 ## RBAC
 
 * Available for blobs and queues but not for tables.
@@ -53,6 +58,7 @@
 
 * Azure Explorer - RedGate's free azure storage management tool <https://www.red-gate.com/products/azure-development/azure-explorer/index>
 * Blob Indexing (by tag) preview - https://azure.microsoft.com/en-gb/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/
+* BlofFuse - virtual file system on blob storage -https://github.com/Azure/azure-storage-fuse
 * BlobPorter - Highly concurrent data transfer tool for Azure Blob Storage - friendlier than AzCopy -  https://github.com/Azure/blobporter
 * Fast Data Transfer - high speed loader for Azure <https://www.microsoft.com/en-us/garage/profiles/fast-data-transfer/>
 * FUSE Adapter - expose virtual file system on linux <https://github.com/Azure/azure-storage-fuse>

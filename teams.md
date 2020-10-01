@@ -6,8 +6,8 @@
 
 ## DEVELOPMENT
 
-App Templates for Teams - https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates
-Developer platform - https://aka.ms/teams.dev or https://docs.microsoft.com/en-us/microsoftteams/platform/overview
+* App Templates for Teams - https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates
+* Developer platform - https://aka.ms/teams.dev or https://docs.microsoft.com/en-us/microsoftteams/platform/overview
 
 ### C# MVC RAZOR
 

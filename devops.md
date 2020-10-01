@@ -54,6 +54,10 @@ Formerly known as Visual Studio Mobile Center
 
 * Microsoft Docs system as open source - how to build it out yourself - GitHub / DevOps / Az Storage - https://aka.ms/iwantdocs 
 
+## SCALED AGILE ( SAFE )
+
+* Docs on AzDO Services page - https://docs.microsoft.com/en-us/azure/devops/boards/plans/scaled-agile-framework?view=azure-devops&viewFallbackFrom=vsts
+
 ## TESTING
 
 * Collect screenshots and videos from tests - https://docs.microsoft.com/en-us/azure/devops/pipelines/test/collect-screenshots-and-video?view=azure-devops
@@ -92,6 +96,7 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-f
 * Team Explorer Everywhere - Eclipse and command line plugin - https://github.com/Microsoft/team-explorer-everywhere
 * TechNet Virtual Labs - https://almvm.azurewebsites.net/labs/tfs/technet/
 * TerraForm > An Intro to TerraForm <https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/>
+* Tools - Azure DevOps Migration Tools - migrate Teams, Work Items, and Plans & Suits from one Project to another in Azure DevOps/TFS both within the same Organisation, and between Organisations - https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration 
 * Using Logic Apps to assist with DevOps <https://azure.microsoft.com/en-us/resources/videos/extending-devops-with-serverless-logic-apps/>
 * WorkItems - import from csv
 * YML for functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops

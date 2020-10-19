@@ -18,7 +18,7 @@
 * Performance optimization - https://docs.microsoft.com/en-us/azure/search/search-performance-optimization
 * Preview Azure Blob PDF in Angular JS <http://www.dotnetfunda.com/articles/show/3494/preview-azure-blob-pdf-document-in-angularjs>
 * Privacy - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
-* Pricing - Search - see azure pricing calculator
+* Pricing - Search - https://azure.microsoft.com/en-us/pricing/details/search/
 * Pricing - Cognitive Services - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/
 * Security in Azure Search - <https://docs.microsoft.com/en-us/azure/search/search-security-overview>
 * Scoring Profiles / Tag Boosting <https://docs.microsoft.com/en-us/rest/api/searchservice/add-scoring-profiles-to-a-search-index>
@@ -40,6 +40,7 @@
 * Knowledge mining with Az COGS - bootcamp - redeliverable - https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp
 * Index Azure blobs <https://docs.microsoft.com/en-us/azure/search/search-semi-structured-data>
 * LearnAI > Knowledge Mining Bootcamp <https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/>
+* Multi-language indexing - https://docs.microsoft.com/en-us/azure/search/search-language-support
 * Search Tutorial (C#) <https://docs.microsoft.com/en-us/azure/search/search-query-dotnet>
 
 ## LUCENE
@@ -78,6 +79,8 @@ Private endpoint big concern for many.  Yse VNETs with private endpoints for sea
 
 * How to write a custom skill: https://docs.microsoft.com/en-us/azure/search/cognitive-search-custom-skill-interface
 * Custom skill sample code: https://github.com/Azure-Samples/azure-search-power-skills (includes Form Recognizer integration example), Bing Entity Search API integration, custom entity recognition, and custom skill in Python hosted in an Azure Function (see the left-hand sidebar for more code samples).
+* Skill - translation - https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-text-translation
+
 
 ## VOLUME
 

@@ -1,5 +1,7 @@
 # AZURE APP SERVICES
 
+* **Azure Info Hub** - App Service - https://azureinfohub.azurewebsites.net/Service?serviceTitle=App%20Service 
+* **Blog** - https://antares-blog-staging-pr-154.azurewebsites.net/feed.xml
 * Announcements <https://github.com/Azure/app-service-announcements/>
 * Case Study > Migrating an on-premise solution to Azure PaaS services with automated deployment (may 2017) <https://microsoft.github.io/techcasestudies/devops/2017/05/12/Somerset_CC_DevOps.html> - Azure App services, Docker, PostgreSQL
 * Cloning - https://docs.microsoft.com/en-us/azure/app-service/app-service-web-app-cloning#current-restrictions

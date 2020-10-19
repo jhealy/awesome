@@ -1,4 +1,5 @@
 # APP SERVICE ENVIRONMENTS
+
 * alt.ase - VNET Integration (preview) <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet#new-vnet-integration> :: (Oct 2018 article) <https://blogs.msdn.microsoft.com/appserviceteam/2018/10/17/new-app-service-vnet-integration-feature/>
 * DOCS - <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>
 * ASE Deployment Center Preview <https://blogs.msdn.microsoft.com/appserviceteam/2018/06/04/app-service-deployment-center-preview/>
@@ -14,18 +15,24 @@
 * When to use ASE (v1) - <https://blog.kloud.com.au/2016/04/05/when-to-use-an-azure-app-service-environment/>
 * When to use ASE (v2) - <https://blog.mexia.com.au/when-to-use-an-app-service-environment-v2>
 
-# CONTAINERS
+## CONTAINERS
 * Linux Container in an ASE <https://blogs.msdn.microsoft.com/appserviceteam/2018/07/30/linuxasega/>
 
-# DEVOPS
+## DEVOPS
 
 * Create an ASE v2 using Powershell <https://azure.microsoft.com/en-us/resources/templates/201-web-app-asev2-create/>
 * Deploy to ASE using DevOps - https://stackoverflow.com/questions/55133089/deploying-to-app-service-environment-from-azure-devops
 
-# LOGIC APPS
+## LOGIC APPS
 
 * Logic Apps in an ASE <https://feedback.azure.com/forums/287593-logic-apps/suggestions/15105741-is-it-possible-to-deploy-logic-app-to-app-service>
 * How to provision logic apps in an ASE <http://www.bizbert.com/bizbert/2016/01/07/AppServiceEnvironmentsHowToDeployAPIAppsToAVirtualNetwork.aspx>
 
-# SECURITY
+## SECURITY
 * Securing Traffic to ASE using Network Security Groups <https://docs.microsoft.com/en-us/azure/app-service/environment/app-service-app-service-environment-web-application-firewall#securing-traffic-to-app-service-environment-using-network-security-groups-nsg>
+
+## V3
+
+* Doc on V3 - https://aka.ms/asev3-private-preview
+* Private preview signup - https://aka.ms/asev3-private-preview-signup
+

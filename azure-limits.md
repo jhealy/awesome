@@ -28,6 +28,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * Power BI Dataflow - Pro and Premium - https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview#dataflow-capabilities-on-power-bi-premium 
 * Power Platform Custom Connectors - https://docs.microsoft.com/en-us/connectors/custom-connectors/faq#limits
 * Power Virtual Agent Bot - https://docs.microsoft.com/en-us/power-virtual-agents/requirements-quotas
+* Service bus quotas - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quotas
 * SQL Database (Azure) - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-limits-database-server
 * Storage limits dtu single db - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dtu-resource-limits-single-databases
 * SQL, Azure - logical limits - https://docs.microsoft.com/en-us/azure/azure-sql/database/resource-limits-logical-server
@@ -41,6 +42,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 
 * Facial Recognition - 10 transactions per second.  Can be increased by a service request.
 * Form Recognizer - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/form-recognizer/ - soft cap 5000 models
+* LUIS - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-limits
 * Search - https://docs.microsoft.com/en-us/azure/search/search-limits-quotas-capacity
 * Search synonyms map <https://docs.microsoft.com/en-us/rest/api/searchservice/create-synonym-map>
 * Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>

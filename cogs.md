@@ -24,6 +24,7 @@
 * Deploy cognitive services containers anywhere (video) https://info.microsoft.com/AP-AZUREPLAT-WBNR-FY19-03Mar-20-Seamlesslyintegrateapplicationsdataandprocesses-MCW0012283_02OnDemandRegistration-ForminBody.html
 * LUIS how-to - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-container-howto?tabs=v3
 * Running cognitive services containers - https://azure.microsoft.com/en-us/blog/running-cognitive-service-containers/
+* Spatial analysis in a container - https://techcommunity.microsoft.com/t5/azure-ai/computer-vision-for-spatial-analysis-at-the-edge/ba-p/1666313
 * Text analytics how to - https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-install-containers?tabs=sentiment
 * Translate - supposed to be coming circa Dec 2018 ( https://aka.ms/csrmap )
 

@@ -35,6 +35,7 @@
 * AWS Tookit for VSCode - https://github.com/aws/aws-toolkit-vscode
 * AWS Toolkit for Visual Studio - https://aws.amazon.com/visualstudio/ 
 * New Extensions for VS2017 - https://visualstudiomagazine.com/articles/2017/07/01/new-extensions.aspx
+* Project System - https://github.com/dotnet/project-system
 * Web Essentials 2017 by Mads - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017
 * 12 More Extensions for VS 2015 and 2017 - https://visualstudiomagazine.com/articles/2017/04/01/12-more-extensions-visual-studio-2015-2017.aspx
 * 22 New Tools and Extensions for VS 2017 - https://visualstudiomagazine.com/articles/2017/09/01/22-new-tools.aspx

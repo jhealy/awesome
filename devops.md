@@ -56,7 +56,9 @@ Formerly known as Visual Studio Mobile Center
 
 ## SCALED AGILE ( SAFE )
 
+* **SAFE home https://www.scaledagileframework.com** 
 * Docs on AzDO Services page - https://docs.microsoft.com/en-us/azure/devops/boards/plans/scaled-agile-framework?view=azure-devops&viewFallbackFrom=vsts
+* Videos and presentations - https://www.scaledagileframework.com/videos-and-presentations/
 
 ## TESTING
 

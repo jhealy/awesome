@@ -12,6 +12,11 @@
 * https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
 * https://blogs.msdn.microsoft.com/vbteam/2017/02/01/digging-deeper-into-the-visual-basic-language-strategy/
 
+## LEARN
+
+* CSharp 101 - https://channel9.msdn.com/Series/CSharp-101/?WT.mc_id=Educationalcsharp-c9-scottha
+* CSharp Advanced - https://channel9.msdn.com/Series/C-Advanced/?&WT.mc_id=EducationalAdvancedCsharp-c9-niner
+
 ## Roslyn
 
 * https://github.com/dotnet/Roslyn

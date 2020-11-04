@@ -95,6 +95,7 @@ Will eventually move out to its own ISE page
 
 ## MISC
 
+* Biztalk to Logic apps - https://github.com/Azure/aimtool/tree/main/docs
 * Build Apps Faster with Serverless - https://channel9.msdn.com/Blogs/Azure/Build-apps-faster-with-Azure-Serverless
 * B2B via Enterprise Integration Pack - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-overview
 * Calling long-running Functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>

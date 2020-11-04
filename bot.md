@@ -42,6 +42,7 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Luis tips (Anna Thomas) <https://blogs.msdn.microsoft.com/buckwoody/2018/10/30/luis-notes-from-the-field-of-natural-language-processing/>
 * None intent <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-intent#none-intent-is-fallback-for-app>
 * Pricing - <https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-understanding-intelligent-services/>
+* REST api - https://westus.dev.cognitive.microsoft.com/docs/services/luis-programmatic-apis-v3-0-preview/operations/5890b47c39e2bb052c5b9c40
 * QBox - visual luis ai $ <https://qbox.ai/>
 * Utterances - varied <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-utterance#how-to-choose-varied-utterances>
 

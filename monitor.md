@@ -1,20 +1,15 @@
 # MONITOR
 
-* **Docs** - https://docs.microsoft.com/en-us/azure/azure-monitor/
+* **Docs** - https://docs.microsoft.com/en-us/azure/azure-monitor/ or https://aka.ms/MonitoringDocs 
+* Blog - http://aka.ms/AzMonAMABlog
+* Case studies
 * IP Ranges - https://docs.microsoft.com/en-us/azure/azure-monitor/app/ip-collection 
+* uUpdates - https://aka.ms/AzMonUpdates 
 * When to use what monitoring tool - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/monitor/cloud-models-monitor-overview
-
-## APPINSIGHTS
-
-* Best Practices - https://devblogs.microsoft.com/premier-developer/azure-application-insights-best-practices/
-* Filtering telemetry - https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-filtering-sampling#filtering
-* Functions monitoring using App Insights - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
-* Monitoring Azure Batch .NET with App Insights <https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously>
-* .NET Core 3.0 support - https://azure.microsoft.com/en-us/blog/azure-monitor-adds-worker-service-sdk-new-asp-net-core-metrics/
-* Sampling - turn off random sample using hosts.json - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#configure-sampling
 
 ## LEARN
 
+* Courses - http://aka.ms/AzMonSkills 
 * Exploring monitoring capabilities in Azure (HoL) - https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T01_Lab_Mod01_Exploring%20Monitoring%20Capabilities%20in%20Azure.md
 
 ## LOG ANALYTICS
@@ -43,3 +38,13 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/app/ilogger
 * Splunk - Az Monitor Addon - https://github.com/Microsoft/AzureMonitorAddonForSplunk/wiki/Azure-Monitor-Addon-For-Splunk
 
 
+
+Azure Updates:
+
+Documentation:
+
+Useful Skills & Courses:
+
+Monthly AMA:
+
+Case Studies:

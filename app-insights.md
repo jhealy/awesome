@@ -1,6 +1,7 @@
 # APPINSIGHTS
 
 * **Overview** -  https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+* API summary - https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics
 * Best Practices - https://devblogs.microsoft.com/premier-developer/azure-application-insights-best-practices/
 * Filtering telemetry - https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-filtering-sampling#filtering
 * Functions monitoring using App Insights - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
@@ -11,9 +12,12 @@
 * Sampling - turn off random sample using hosts.json - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#configure-sampling
 * Visualizations - https://docs.microsoft.com/en-us/azure/azure-monitor/visualizations
 
-## FUNCTIONS
+## MONITORING
 
-* Monitor Azure Functions: https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
+* Continuous export - https://docs.microsoft.com/en-us/azure/azure-monitor/app/export-telemetry
+* Log metrics - https://docs.microsoft.com/en-us/azure/azure-monitor/platform/app-insights-metrics
+* Monitor Azure Functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
+* PowerBI and App Insights - https://docs.microsoft.com/en-us/azure/azure-monitor/app/export-power-bi
 
 ## SDKS
 

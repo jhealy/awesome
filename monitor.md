@@ -3,13 +3,15 @@
 * **Docs** - https://docs.microsoft.com/en-us/azure/azure-monitor/ or https://aka.ms/MonitoringDocs 
 * Blog - http://aka.ms/AzMonAMABlog
 * Case studies
-* IP Ranges - https://docs.microsoft.com/en-us/azure/azure-monitor/app/ip-collection 
-* uUpdates - https://aka.ms/AzMonUpdates 
+* IP Ranges - https://docs.microsoft.com/en-us/azure/azure-monitor/app/ip-collection and https://docs.microsoft.com/en-us/azure/azure-monitor/app/ip-addresses
+* Pricing - https://azure.microsoft.com/en-us/pricing/details/monitor/
+* Updates - https://aka.ms/AzMonUpdates 
 * When to use what monitoring tool - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/monitor/cloud-models-monitor-overview
 
 ## LEARN
 
 * Courses - http://aka.ms/AzMonSkills 
+* Overview course - https://aka.ms/AzMonOverview 
 * Exploring monitoring capabilities in Azure (HoL) - https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T01_Lab_Mod01_Exploring%20Monitoring%20Capabilities%20in%20Azure.md
 
 ## LOG ANALYTICS

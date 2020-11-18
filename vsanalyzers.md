@@ -17,7 +17,6 @@
 * Top 20 Analyzers - http://nugetmusthaves.com/Tag/analyzers
 * C# Essentials - Dustin Campbell - gallery: https://visualstudiogallery.msdn.microsoft.com/a4445ad0-f97c-41f9-a148-eae225dcc8a5 - github: https://github.com/DustinCampbell/CSharpEssentials - NameOf, Getter-Only AutoProperty, Expression-Bodied member, Convert to Interpolated String
 * Refactoring Essentials by the ILSpy Team - http://vsrefactoringessentials.com/
-* Roslynator- http://pihrt.net/RoslynatorRuleset
 * Kentico - https://github.com/Kentico/CodeAnalysisRuleset/blob/master/Kentico.CodeAnalysis.rulesetSecurity
 * Security - Roslyn Security Guard - https://dotnet-security-guard.github.io/ , https://github.com/dotnet-security-guard/roslyn-security-guard , https://marketplace.visualstudio.com/items?itemName=PhilippeArteau.RoslynSecurityGuard
 * StyleCopAnalyzers - https://github.com/DotNetAnalyzers/

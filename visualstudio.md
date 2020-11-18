@@ -10,6 +10,12 @@
 * Roadmap thru Spring 2020 - https://devblogs.microsoft.com/visualstudio/the-spring-2020-roadmap-for-visual-studio-published/
 * Time Travel Debugging <https://blogs.msdn.microsoft.com/dotnet/2019/01/25/debugging-net-apps-with-time-travel-debugging-ttd/>
 
+## DEBUGGING
+
+* Use dump files in the debugger - https://docs.microsoft.com/en-us/visualstudio/debugger/using-dump-files?view=vs-2019
+* View threads in the Parallel Stacks window - https://docs.microsoft.com/en-us/visualstudio/debugger/using-the-parallel-stacks-window?view=vs-2019
+
+
 ## VS2019
 
 * Web and Azure Tool Updates - https://devblogs.microsoft.com/aspnet/web-and-azure-tool-updates-in-visual-studio-2019/

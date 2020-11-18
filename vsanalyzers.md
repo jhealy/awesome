@@ -11,7 +11,7 @@
 ## ANALYZERS 
 
 * API Analyzer - checks for deprecated APIs in port to .NET Core <https://visualstudiomagazine.com/articles/2017/11/07/api-analyzer.aspx>
-* Built into Visual Studio - https://blogs.msdn.microsoft.com/secdevblog/2016/03/30/roslyn-diagnostics-security-analyzers-overview/
+* ASP.NET Core - Top 10 Static Code Analyzers for ASP.NET Core - https://bharatdwarkani.medium.com/top-10-code-quality-static-analysers-for-asp-net-core-1660ad7a8d61
 * Roslyn Analyzer Essentials - libs to supplement the built in ones - core sets - https://github.com/dotnet/roslyn-analyzers
 * DevSecOps with Roslyn Analyzers - https://docs.microsoft.com/en-us/azure/security/develop/security-code-analysis-overview
 * Top 20 Analyzers - http://nugetmusthaves.com/Tag/analyzers

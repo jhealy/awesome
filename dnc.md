@@ -20,6 +20,7 @@
 * Pre-requisities - Windows - https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites
 * Release cycles and support - https://devblogs.microsoft.com/dotnet/net-core-releases-and-support/
 * Runtime - Book of the Runtime - https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
+* SDK downloads - https://dotnet.microsoft.com/download/dotnet-core
 * System Requirements - https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements
 * Telemetry Reports -  https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/
 * What's news - https://docs.microsoft.com/en-us/dotnet/whats-new/?WT.mc_id=blog-docs-shboyer
@@ -29,6 +30,8 @@
 
 * .NET 5.0 Preview 3 Announce - https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-3/
 * Assembly trimming in .NET Core 5.0 - https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/
+* App service availability on GA - https://azure.microsoft.com/en-us/updates/net-5-now-available-in-app-service/
+* ASP.NET Core in .net 5 - https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/
 
 ## .NET CORE 3.0
 

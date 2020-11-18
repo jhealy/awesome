@@ -24,6 +24,7 @@
 * **Platforms** - also include logging frameworks - https://docs.microsoft.com/en-us/azure/azure-monitor/app/platforms
 * .NET - https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net
 * .NET Core - https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core
+* Angular - https://devblogs.microsoft.com/premier-developer/angular-how-to-add-application-insights-to-an-angular-spa/
 * NodeJS - https://docs.microsoft.com/en-us/azure/azure-monitor/app/nodejs
 * ReactJS Plugin - https://docs.microsoft.com/en-us/azure/azure-monitor/app/javascript-react-plugin
 * ReactJS - enabling - https://github.com/microsoft/applicationinsights-js#single-page-applications

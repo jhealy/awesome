@@ -29,15 +29,10 @@
 * Cloud Design Patterns <https://docs.microsoft.com/en-us/azure/architecture/patterns/>
 * Cloud Native Arch - https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/?WT.mc_id=blog-docs-shboyer
 * SmartHive Meeting Room with Service Bus - <https://github.com/Microsoft/MTC_SmartHive>
+* How complex systems fail - https://how.complexsystems.fail/
 * Icon / Glyph collection - Azure Architecture Center - svg format <https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/>
 * Icon / Glyph Collection <https://www.microsoft.com/en-us/download/details.aspx?id=41937>
 * Network diagrams off your Az Environ using Network Watcher <https://docs.microsoft.com/en-us/azure/network-watcher/view-network-topology>
-
-## AWS
-
-* Mapping to Azure Services - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
-* Versus Azure Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
-* Training - https://aws.amazon.com/training/
 
 ## BLOCKCHAIN
 

@@ -8,6 +8,7 @@ Also known as Azure AD...
 * AzAD Graph from PowerShell - https://blogs.technet.microsoft.com/paulomarques/2016/03/21/working-with-azure-active-directory-graph-api-from-powershell/
 * AzAD Graph from PowerShell - https://github.com/Azure/azure-docs-powershell-azuread/blob/master/azureadps-2.0-preview/AzureAD/Connect-AzureAD.md
 * Code Samples Collection Across almost everything - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-code-samples
+* Data Security Considerations Whitepaper for AzAD - https://aka.ms/aaddatawhitepaper
 * Documentation - https://docs.microsoft.com/en-us/azure/active-directory/index
 * Intro to the Microsoft Graph .NET Client Library ( ADAL + Microsoft.Graph ) - http://blog.jonathanhuss.com/intro-to-the-microsoft-graph-net-client-library/
 * Graph QuickStart - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-graph-api-quickstart

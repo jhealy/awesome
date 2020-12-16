@@ -90,6 +90,7 @@ Will eventually move out to its own ISE page
 * ISE GA - https://azure.microsoft.com/en-us/updates/integration-service-environments-ise-are-now-generally-available/ - May 2019
 * Connect to Azure virtual networks from Azure Logic apps by using an integration service enviornment (ISE) - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment
 * DevOps - Manage ISE - https://docs.microsoft.com/en-us/azure/logic-apps/ise-manage-integration-service-environment
+* IP Addresses for ISE - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-set-up-single-ip-address
 * Network considerations - https://docs.microsoft.com/en-us/azure/logic-apps/connect-virtual-network-vnet-isolated-environment#check-network-ports
 * Storage - Customer-managed keys to encrypt data at rest for ISEs - https://docs.microsoft.com/en-us/azure/logic-apps/customer-managed-keys-integration-service-environment
 
@@ -111,4 +112,3 @@ Will eventually move out to its own ISE page
 * VS2019 Extension - https://marketplace.visualstudio.com/items?itemName=VinaySinghMSFT.AzureLogicAppsToolsForVS2019 
 * XML Integration - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-eai-logic-app-using-vetr/
 * XML - Get greater than 1k data - https://www.inogic.com/blog/2019/10/how-to-get-paging-cookie-while-retrieving-data-using-fetch-xml-query-in-microsoft-flow/
- 

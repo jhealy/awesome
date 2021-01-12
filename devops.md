@@ -101,6 +101,8 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-f
 * Pipelines - create new using powershell - https://github.com/segraef/New-AzPipeline
 * PowerApps Devops add-in - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools
 * PowerBI Devops - https://social.technet.microsoft.com/wiki/contents/articles/53172.azuredevops-cicd-for-powerbi-reports.aspx
+* Synapse - CI CD in Azure Synapse Analytics Part 1 https://lnkd.in/egxV3jG - CI CD in Azure Synapse Analytics Part 2
+https://lnkd.in/euwHQZt - Part 3 https://techcommunity.microsoft.com/t5/data-architecture-blog/ci-cd-in-azure-synapse-analytics-part-3/ba-p/1993201
 * Team Explorer Everywhere - Eclipse and command line plugin - https://github.com/Microsoft/team-explorer-everywhere
 * TechNet Virtual Labs - https://almvm.azurewebsites.net/labs/tfs/technet/
 * TerraForm > An Intro to TerraForm <https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/>
@@ -109,7 +111,5 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-f
 * WorkItems - import from csv
 * YML for functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
 
-
-\
 # PACKER
 * How to use Packer to create Windows virtual machine images in Azure <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/build-image-with-packer>

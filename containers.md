@@ -55,6 +55,7 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 ## MISC
 
 * Cognitive Services Container Support - https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support
+* Logic apps in a container - https://azure.microsoft.com/en-us/updates/logic-apps-updated-with-new-hosting-options-improved-performance-and-developer-workflows/
 * Selenium containers - https://robotninja.com/blog/introduction-using-selenium-docker-containers-end-end-testing/
 * Selenium inside a docker container - http://www.testautomationguru.com/selenium-webdriver-how-to-run-automated-tests-inside-a-docker-container/
 * Selenium on Windows Docker - https://medium.com/@aandryashin/selenium-on-windows-docker-revolution-f5a7eab205ad

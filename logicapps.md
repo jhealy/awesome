@@ -102,6 +102,7 @@ Will eventually move out to its own ISE page
 * Calling long-running Functions from Logic Apps <https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d7ba5044701>
 * Choose between Logic Apps, Flow, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
 * Connectors - How to create a custom connector for Logic Apps - https://docs.microsoft.com/en-us/connectors/custom-connectors/create-logic-apps-connector , https://azure.microsoft.com/en-us/updates/create-connectors-in-logic-apps-designer/
+* Containerized logic apps - https://azure.microsoft.com/en-us/updates/logic-apps-updated-with-new-hosting-options-improved-performance-and-developer-workflows/
 * Functions v Logic Apps - 10 diffs <https://www.codit.eu/blog/10-differences-between-azure-functions-and-logic-apps/>
 * Kafka via event hubs - https://social.msdn.microsoft.com/Forums/en-US/99ba0634-147a-428d-a8fe-77932d29b54d/azure-logic-apps-to-kafka-bidirectional-producerconsumer-connector
 * Lessons Learned - http://blogs.technet.com/b/meamcs/archive/2015/04/09/azure-logic-app-lessons-learned-part-1.aspx

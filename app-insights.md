@@ -39,3 +39,6 @@
 * SDK samples - https://github.com/Azure-Samples?q=applicationinsights-js-demo 
 * Stats - usage - https://docs.microsoft.com/en-us/azure/azure-monitor/app/usage-overview
 
+## MISC
+
+* Cookies - turning off via isCoookUseDisabled=true ( https://docs.microsoft.com/en-us/azure/azure-monitor/app/javascript ).  This configuration disables the User and Session cookies, effectively rendering all experiences built on those fields useless. This includes all the Usage Blades and Experiences. Distributed tracing should continue to work, though events will not be correlated to a specific user.

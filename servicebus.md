@@ -22,3 +22,8 @@
 ## HA/DR
 
 * Best practices for isolating service bus from disaster - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters
+
+## MISC
+
+* Performance - Premium, How fast is it? https://techcommunity.microsoft.com/t5/messaging-on-azure/premium-messaging-how-fast-is-it/ba-p/370722
+

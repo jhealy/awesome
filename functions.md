@@ -14,11 +14,10 @@
 https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses#find-outbound-ip-addresses
 is to allow all Ips from the datacenter in the region.
 * Storage considerations for Az Functions - https://docs.microsoft.com/en-us/azure/azure-functions/storage-considerations
-
-
 * Limits - buried in this pricing doc <https://azure.microsoft.com/en-us/pricing/details/functions/>
 * Limits in App Service Plan <https://docs.microsoft.com/en-us/azure/app-service/azure-web-sites-web-hosting-plans-in-depth-overview>
 * Linux - Preview <https://github.com/Azure/Azure-Functions/wiki/Azure-Functions-on-Linux-Preview>
+* Platform updates - v2 to v3 - https://github.com/Azure/azure-functions-host/wiki/Platform-upgrade-from-Azure-Functions-runtime-V2-to-V3#opting-out-of-the-upgrade
 * Premium Plan - up to 4 cores/14gb memory - event driven scaling - min and max instances - vnet integration - no cold start - costsa re consumption and 1 pre-warmed instance
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Roadmap <https://azure.microsoft.com/en-us/roadmap/?query=functions>

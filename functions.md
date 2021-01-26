@@ -17,7 +17,7 @@ is to allow all Ips from the datacenter in the region.
 * Limits - buried in this pricing doc <https://azure.microsoft.com/en-us/pricing/details/functions/>
 * Limits in App Service Plan <https://docs.microsoft.com/en-us/azure/app-service/azure-web-sites-web-hosting-plans-in-depth-overview>
 * Linux - Preview <https://github.com/Azure/Azure-Functions/wiki/Azure-Functions-on-Linux-Preview>
-* Platform updates - v2 to v3 - https://github.com/Azure/azure-functions-host/wiki/Platform-upgrade-from-Azure-Functions-runtime-V2-to-V3#opting-out-of-the-upgrade
+* ```Platform updates - v2 to v3``` - https://github.com/Azure/azure-functions-host/wiki/Platform-upgrade-from-Azure-Functions-runtime-V2-to-V3#opting-out-of-the-upgrade
 * Premium Plan - up to 4 cores/14gb memory - event driven scaling - min and max instances - vnet integration - no cold start - costsa re consumption and 1 pre-warmed instance
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Roadmap <https://azure.microsoft.com/en-us/roadmap/?query=functions>
@@ -197,6 +197,7 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * Cross Platform Tooling for Az Functions - Mac, Linux via NPM.  VS Code. VS Mac. Javascript, c#.  https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/
 * Debugging Azure Functions locally using Postman <https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function>
 * Deployment slots - https://docs.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots
+* ```DotNet 5 on Azure Functions``` - https://techcommunity.microsoft.com/t5/apps-on-azure/net-5-support-on-azure-functions/ba-p/1973055
 * Event Processing in Azure Functions / Event Hub - challenges <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fcfs>
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 * HttpClient - Use a static client in an Az Function but do NOT dispose of the httpclient in an Az Function - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c

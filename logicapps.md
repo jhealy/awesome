@@ -16,6 +16,11 @@
 * Visual Studio Tools for Logic Apps <https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-with-visual-studio#prerequisites>
 * Workflow definition language - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
 
+## CONNECTORS - COOL
+
+* Content conversion - html to text - https://docs.microsoft.com/en-us/connectors/conversionservice/ 
+* PDF text - https://docs.microsoft.com/en-us/connectors/docparser/
+
 ## DEVOPS
 
 * ARM templates are the preferred method for CI/CD with Logic Apps.  <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template>

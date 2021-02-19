@@ -13,6 +13,7 @@
 * .NET - Azure.Messaging.ServiceBus - https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/servicebus/Azure.Messaging.ServiceBus/samples/
 * .NET - Azure.Messaging.ServiceBus - Migrating to Azure.Messaging.ServiceBus from Microsoft.Azure.ServiceBus - https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide.md#known-gaps-from-previous-library
 * .NET - Microsoft.Azure.ServiceBus - Migrating to Azure.Messaging.ServiceBus from Microsoft.Azure.ServiceBus - https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide.md#known-gaps-from-previous-library
+* REST interface - https://docs.microsoft.com/en-us/rest/api/servicebus/service-bus-runtime-rest
 
 ## DEAD LETTER QUEUES ( DLQ )
 
@@ -22,6 +23,15 @@
 ## HA/DR
 
 * Best practices for isolating service bus from disaster - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters
+
+## LEARN
+
+* Console with Service Bus subs - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-tutorial-topics-subscriptions-portal
+* Console - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions 
+* Implement Message Workflows with Service Bus (free online class) - https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/
+* Portal Quickstart - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-portal
+* Samples -  https://github.com/Azure/azure-service-bus/tree/master/samples/DotNet 
+* Queues - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues
 
 ## MISC
 

@@ -2,6 +2,7 @@
 
 * Teams platform - https://aka.ms/teamsplatform
 * Apps for teams - certified - https://aka.ms/teamsappcertification
+* App generator 3.0 - https://developer.microsoft.com/en-us/graph/blogs/announcing-microsoft-teams-app-generator-yo-teams-version-3/
 * Backgrounds - https://teamsbackground.net/
 
 ## DEVELOPMENT

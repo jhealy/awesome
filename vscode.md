@@ -15,6 +15,7 @@
 * Chrome JavaScript Debugger - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 * mssql > SQL Server - https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
 * Docker - https://code.visualstudio.com/docs/azure/docker
+* Py Linter - https://code.visualstudio.com/docs/python/linting
 * vscode-database > mysql and posgres - https://marketplace.visualstudio.com/items?itemName=bajdzis.vscode-database
 
 ## MISC

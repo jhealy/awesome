@@ -106,6 +106,6 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Analytics - Monitoring - https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-use-azure-monitor
 * Azure Function Proxies - like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * httpbin - simple http request and response service - free - http://httpbin.org/ - about httpbin - https://www.kennethreitz.org/essays/httpbin
-* Policies - Sample policies <https://aka.ms/apimpolicyexamples>
+* Policies - Sample policies <https://aka.ms/apimpolicyexamples> - throttling https://docs.microsoft.com/en-us/azure/api-management/api-management-sample-flexible-throttling
 * Security - RBAC <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Static IPs <https://feedback.azure.com/forums/248703-api-management/suggestions/32805958-ability-to-assign-public-static-ip-address-to-publ>

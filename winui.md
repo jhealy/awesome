@@ -11,9 +11,19 @@ Full Windows 10 native UI platform being fully decoupled from the UWP software d
 ## WINUI3
 
 * Getting started - https://docs.microsoft.com/en-us/windows/apps/winui/winui3/
+  * Desktop Apps - https://docs.microsoft.com/en-us/windows/apps/winui/winui3/get-started-winui3-for-desktop
 * Samples - https://github.com/microsoft/WinUI-3-Demos
+
+## SYSTRAY
+
+Notification area, system tray, systray
+
+* Distributing - https://techcommunity.microsoft.com/t5/windows-dev-appconsult/packaging-a-uwp-application-with-a-win32-component-in-the-right/ba-p/317496
+* Notification area doc - https://docs.microsoft.com/en-us/windows/win32/uxguide/winenv-notification#documentation
+* System Tray / Notification area - https://github.com/microsoft/microsoft-ui-xaml/issues/2020
+* UWP App with SysTray extension - https://stefanwick.com/2017/06/24/uwp-app-with-systray-extension/
 
 ## MISC
 
-* NOtification area doc - https://docs.microsoft.com/en-us/windows/win32/uxguide/winenv-notification#documentation
-* System Tray / Notification area - https://github.com/microsoft/microsoft-ui-xaml/issues/2020
+* Distribution - https://docs.microsoft.com/en-us/windows/msix/desktop/desktop-to-uwp-packaging-dot-net
+

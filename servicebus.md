@@ -1,18 +1,24 @@
 # SERVICE BUS
 
 * **docs** - https://docs.microsoft.com/en-us/azure/service-bus-messaging/
+* Enterprise architecture for Service Bus - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/enterprise-integration/queues-events
 * IP requirements - inbound - https://docs.microsoft.com/en-us/azure/app-service/overview-inbound-outbound-ips
 * IP and port whitelisting - https://blogs.msdn.microsoft.com/servicebus/2017/11/07/open-port-requirements-and-ip-address-whitelisting/
 * Roadmap - https://azure.microsoft.com/en-us/updates/?status=nowavailable,inpreview,indevelopment&category=integration&query=service%20bus
 * Quotas - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quotas
 * Service Bus Explorer - Portal - https://docs.microsoft.com/en-us/azure/service-bus-messaging/explorer
 * Service Bus Explorer - clientside - https://github.com/paolosalvatori/ServiceBusExplorer/ - installing: https://codingazure.net/?p=305
+* Troubleshooting guide - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide
 
 ## CLIENTS
 
-* .NET - Azure.Messaging.ServiceBus - https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/servicebus/Azure.Messaging.ServiceBus/samples/
-* .NET - Azure.Messaging.ServiceBus - Migrating to Azure.Messaging.ServiceBus from Microsoft.Azure.ServiceBus - https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide.md#known-gaps-from-previous-library
-* .NET - Microsoft.Azure.ServiceBus - Migrating to Azure.Messaging.ServiceBus from Microsoft.Azure.ServiceBus - https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide.md#known-gaps-from-previous-library
+### Azure.Messaging.ServiceBus
+
+* Migrating to Azure.Messaging.ServiceBus from Microsoft.Azure.ServiceBus - https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide.md
+* Samples - https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/servicebus/Azure.Messaging.ServiceBus/samples
+
+### REST
+
 * REST interface - https://docs.microsoft.com/en-us/rest/api/servicebus/service-bus-runtime-rest
 
 ## DEAD LETTER QUEUES ( DLQ )
@@ -23,6 +29,7 @@
 ## HA/DR
 
 * Best practices for isolating service bus from disaster - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters
+* Geo DR for SB - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-geo-dr#availability-zones
 
 ## LEARN
 
@@ -33,7 +40,12 @@
 * Samples -  https://github.com/Azure/azure-service-bus/tree/master/samples/DotNet 
 * Queues - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues
 
+## PRIVACY
+
+* Integrating Service Bus with private link - https://docs.microsoft.com/en-us/azure/service-bus-messaging/private-link-service
+
 ## MISC
 
+* Performance - Improving - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-performance-improvements 
 * Performance - Premium, How fast is it? https://techcommunity.microsoft.com/t5/messaging-on-azure/premium-messaging-how-fast-is-it/ba-p/370722
 

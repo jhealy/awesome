@@ -51,6 +51,7 @@ effect - https://blogs.windows.com/buildingapps/2016/05/05/kickstart-uwp-app-cre
 # DESIGN
 * Fluent Design System - https://blogs.msdn.microsoft.com/visualstudio/2017/09/11/a-significant-update-to-the-xaml-designer/
 * Fluent Design - Examples for UWP - https://docs.microsoft.com/en-us/windows/uwp/fluent-design-system/
+* Fluent Icons - https://github.com/microsoft/fluentui-system-icons
 * Sept 2017 Xaml designer preview - https://blogs.msdn.microsoft.com/visualstudio/2017/09/11/a-significant-update-to-the-xaml-designer/
 
 # LEARN 

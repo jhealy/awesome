@@ -29,6 +29,7 @@
 ## HA/DR
 
 * Best practices for isolating service bus from disaster - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters
+* Handling outages and disasters - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters
 * Geo DR for SB - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-geo-dr#availability-zones
 
 ## LEARN
@@ -40,12 +41,16 @@
 * Samples -  https://github.com/Azure/azure-service-bus/tree/master/samples/DotNet 
 * Queues - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues
 
+## PERFORMANCE
+
+* Improving - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-performance-improvements 
+* Messaging Units - How many are needed? - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-premium-messaging
+* Premium, How fast is it? https://techcommunity.microsoft.com/t5/messaging-on-azure/premium-messaging-how-fast-is-it/ba-p/370722
+
 ## PRIVACY
 
 * Integrating Service Bus with private link - https://docs.microsoft.com/en-us/azure/service-bus-messaging/private-link-service
 
 ## MISC
 
-* Performance - Improving - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-performance-improvements 
-* Performance - Premium, How fast is it? https://techcommunity.microsoft.com/t5/messaging-on-azure/premium-messaging-how-fast-is-it/ba-p/370722
-
+all moved...

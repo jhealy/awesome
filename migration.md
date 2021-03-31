@@ -22,9 +22,17 @@ Non-database data, such as files.
 
 ## MIGRATE TOOL
 
+* Data Migration Tool ( dma ) - https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-ver15#
 * End to end process for liftingand shifting your lamp stack (using az migration tool) - https://techcommunity.microsoft.com/t5/azure-database-for-mysql/an-end-to-end-process-for-lifting-and-shifting-your-lamp-stack/ba-p/1126666
 * Migrate service overview - https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview
 * Step by step migration for physical VMs using Azure Migrate - https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines
+
+## SQL SERVER
+
+* Data Migration Tool ( dma ) - https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-ver15#
+* SQL Server to Az SQL Database - https://docs.microsoft.com/en-us/azure/azure-sql/migration-guides/database/sql-server-to-sql-database-overview
+* SQL Server to Az SQL Managed Instance - https://docs.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/sql-server-to-managed-instance-overview
+* SQL Server to Az SQL Managed Instance - Perf Analysis - https://docs.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/sql-server-to-managed-instance-performance-baseline
 
 # VMs
 

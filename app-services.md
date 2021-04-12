@@ -50,6 +50,7 @@
 Full stack JavaScript web apps with static frontends and optional dynamic backends powered by serverless APIs.
 
 * Docs - https://aka.ms/swadocs
+* CLI - https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-the-azure-static-web-apps-cli/ba-p/2257581?WT.mc_id=dotnet-0000-shboyer
 * Introducing Static Web Apps -https://techcommunity.microsoft.com/t5/azure-app-service/introducing-app-service-static-web-apps/ba-p/1394451
 * Getting started with Azure Static Web Apps - https://blog.codewithdan.com/getting-started-with-azure-static-web-apps/
 * Learn - https://aka.ms/learnswa
@@ -66,6 +67,7 @@ Full stack JavaScript web apps with static frontends and optional dynamic backen
 
 ## MISC
 
+* OS Runtime and patching for PaaS - https://docs.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime
 * Storage - az cli to add storage - https://docs.microsoft.com/en-us/cli/azure/webapp/config/storage-account?view=azure-cli-latest#az-webapp-config-storage-account-add
 
 SEE ALSO Azure App Service Environments - https://github.com/jhealy/awesome/blob/master/azure-ase.md

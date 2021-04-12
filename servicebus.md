@@ -53,4 +53,5 @@
 
 ## MISC
 
-all moved...
+Troubleshooting AMQP errors in Service Bus - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-troubleshoot
+

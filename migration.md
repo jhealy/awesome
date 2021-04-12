@@ -10,9 +10,11 @@ TCO of cloud migration from GigaOhm - https://azure.microsoft.com/mediahandler/f
 
 ## APP SERVICES
 
+* Cloud services classic to Azure Cloud Services extended support migration tool - https://docs.microsoft.com/en-us/azure/cloud-services-extended-support/in-place-migration-overview
 * Considerations - https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service
 * Publish your .NET app to an Azure App Service walkthrough - https://tutorials.visualstudio.com/azure-webapp-migrate/intro 
 * Readiness checklist - https://github.com/Azure/App-Service-Migration-Assistant/wiki/Readiness-Checks 
+* ROI - Migrating Web app to the cloud - https://azure.microsoft.com/mediahandler/files/resourcefiles/costs-and-benefits-of-net-application-migration-to-the-cloud/Costs-and-Benefits-of-dotNET-Application-Migration-to-the-Cloud%20-%20FINAL.pdf
 
 ## DATA
 

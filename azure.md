@@ -55,6 +55,11 @@
 * QuickStart Guide for .NET Developers <https://azure.microsoft.com/en-us/blog/get-the-azure-quick-start-guide-for-net-developers/>
 * Sentinel Training Path - https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310
 
+## ROI
+
+* Cloud migration business case - dispelling the myths - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/cloud-migration-business-case
+* TCO Calculator - https://azure.microsoft.com/en-us/pricing/tco/calculator/
+
 ## SECURITY
 
 * Azure Trust Center - https://www.microsoft.com/en-us/trustcenter/privacy/you-own-your-data

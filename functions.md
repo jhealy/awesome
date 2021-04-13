@@ -199,6 +199,7 @@ Status 09/19 .  v1 framework can spit out swagger def.  v2 framework in portal c
 * Deployment slots - https://docs.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots
 * ```DotNet 5 on Azure Functions``` - https://techcommunity.microsoft.com/t5/apps-on-azure/net-5-support-on-azure-functions/ba-p/1973055
 * Event Processing in Azure Functions / Event Hub - challenges <https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fcfs>
+* Functions as a graph tool - visualizer - https://github.com/scale-tone/az-func-as-a-graph#az-func-as-a-graph
 * Graph - Bindings for Azure Functions - https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions?ocid=player
 * HttpClient - Use a static client in an Az Function but do NOT dispose of the httpclient in an Az Function - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections - https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections#httpclient-example-c
 * Linux - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image 

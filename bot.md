@@ -82,6 +82,21 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 * Stackoverflow Bot - krishnaji - https://github.com/krishnaji/StackOverflow-Bot
 * Samples - <https://github.com/Microsoft/BotBuilder-Samples>
 
+## SECURITY
+
+* Authentication with the Bot Connector API - https://docs.microsoft.com/en-us/azure/bot-service/rest-api/bot-framework-rest-connector-authentication?view=azure-bot-service-4.0 
+* Authentication with DirectLine - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-security-enhanced?view=azure-bot-service-4.0
+* Authentication Types - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-authentication-types?view=azure-bot-service-4.0#bot-authentication
+* Bot fw Security and Privacy FAQ - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-resources-faq-security?view=azure-bot-service-4.0
+
+## SKILL BOTS
+
+Extend a bot using another bot (skill).  Available as of v 4.7 of bot sdk.  User interacts with root bot.  Root bot delegates some conversational logic to skill.
+
+* Skills - https://docs.microsoft.com/en-us/azure/bot-service/skills-conceptual?view=azure-bot-service-4.0 
+* Skill bots - https://docs.microsoft.com/en-us/azure/bot-service/skills-about-skill-bots?view=azure-bot-service-4.0
+* Skill consumers - https://docs.microsoft.com/en-us/azure/bot-service/skills-about-skill-bots?view=azure-bot-service-4.0
+
 ## TEAMS INTEGRATION
 
 * Bot templates for teams - https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates
@@ -92,6 +107,13 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 * Channel Inspector - Overview - https://docs.microsoft.com/en-us/bot-framework/bot-service-channel-inspector 
 * Channel Inspector - link - https://docs.botframework.com/en-us/channel-inspector/channels/WebChat
 * Microsoft Bot Framework Emulator - https://aka.ms/bf-bc-emulator 
+
+## VIRTUAL ASSISTANT TEMPLATE
+
+* Overview - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0
+* Bot Framework Solutions Index - https://microsoft.github.io/botframework-solutions/index
+* Bot Framework Solutions Support - https://microsoft.github.io/botframework-solutions/help/support/
+* Github - https://github.com/microsoft/botframework-solutions
 
 ## MISC
 

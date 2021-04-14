@@ -84,6 +84,8 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 
 ## SECURITY
 
+* Azure Security Baseline for Bot Service - https://docs.microsoft.com/en-us/azure/bot-service/security-baseline?view=azure-bot-service-4.0
+* Auth - add to a bot - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-authentication?view=azure-bot-service-4.0&tabs=aadv1%2Ccsharp
 * Authentication with the Bot Connector API - https://docs.microsoft.com/en-us/azure/bot-service/rest-api/bot-framework-rest-connector-authentication?view=azure-bot-service-4.0 
 * Authentication with DirectLine - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-security-enhanced?view=azure-bot-service-4.0
 * Authentication Types - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-authentication-types?view=azure-bot-service-4.0#bot-authentication
@@ -96,6 +98,8 @@ Extend a bot using another bot (skill).  Available as of v 4.7 of bot sdk.  User
 * Skills - https://docs.microsoft.com/en-us/azure/bot-service/skills-conceptual?view=azure-bot-service-4.0 
 * Skill bots - https://docs.microsoft.com/en-us/azure/bot-service/skills-about-skill-bots?view=azure-bot-service-4.0
 * Skill consumers - https://docs.microsoft.com/en-us/azure/bot-service/skills-about-skill-bots?view=azure-bot-service-4.0
+
+* Authentication config for Authenticated skills - https://microsoft.github.io/botframework-solutions/skills/handbook/authentication/
 
 ## TEAMS INTEGRATION
 
@@ -114,6 +118,7 @@ Extend a bot using another bot (skill).  Available as of v 4.7 of bot sdk.  User
 * Bot Framework Solutions Index - https://microsoft.github.io/botframework-solutions/index
 * Bot Framework Solutions Support - https://microsoft.github.io/botframework-solutions/help/support/
 * Github - https://github.com/microsoft/botframework-solutions
+* Roadmap April 2021 - https://github.com/microsoft/botframework-solutions/issues/3786
 
 ## MISC
 

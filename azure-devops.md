@@ -40,7 +40,6 @@ Formerly known as Visual Studio Mobile Center
 * OWASP Source Code Scanners - integration guidance for devops needed - https://www.owasp.org/index.php/Source_Code_Analysis_Tools
 * Security code analysis using analyzers - https://docs.microsoft.com/en-us/azure/security/develop/security-code-analysis-overview
 
-
 ## AWS AND ADO
 
 * Connect ADO to AWS - https://medium.com/swlh/connect-azure-devops-to-aws-b89120599103 
@@ -102,6 +101,7 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-f
 * Load testing - https://dev.to/brpaz/load-testing-your-applications-with-artillery-4m1p
 * Managing Azure Secrets on GitHub Repos using Microsoft Credential Scanner <https://azure.microsoft.com/en-us/blog/managing-azure-secrets-on-github-repositories/>
 * .NET CORE > Create a build pipeline for Angular and ASP.NET Core apps with Visual Studio Team Services <https://offering.solutions/blog/articles/2018/03/08/create-build-pipeline-for-angular-and-aspnetcore-app-with-visual-studio-team-services/>
+* Packer to create Windows virtual machine images in Azure - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/build-image-with-packer
 * Parts Unlimited DevOps Demo - https://microsoft.github.io/PartsUnlimitedMRP/
 * Pipelines - create new using powershell - https://github.com/segraef/New-AzPipeline
 * PowerApps Devops add-in - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools
@@ -116,5 +116,3 @@ https://lnkd.in/euwHQZt - Part 3 https://techcommunity.microsoft.com/t5/data-arc
 * WorkItems - import from csv
 * YML for functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
 
-# PACKER
-* How to use Packer to create Windows virtual machine images in Azure <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/build-image-with-packer>

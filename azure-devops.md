@@ -19,7 +19,7 @@ Formerly known as Visual Studio Mobile Center
 * Home - https://docs.microsoft.com/en-us/appcenter/
 * Github - issues/roadmap - https://github.com/microsoft/appcenter
 * Announce - https://blogs.msdn.microsoft.com/vsappcenter/introducing-visual-studio-app-center/?utm_source=devfish
-* Roadmap - https://docs.microsoft.com/en-us/appcenter/general/roadmap
+* Roadmap - https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline#features-under-development
 * Slack App for VSMC - https://blogs.msdn.microsoft.com/mobilecenter/introducing-the-mobile-center-slack-app/
 
 ## BOARDS

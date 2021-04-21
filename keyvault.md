@@ -2,6 +2,7 @@
 
 * ```Doc``` - https://docs.microsoft.com/en-us/azure/key-vault/
 * Best practices - https://docs.microsoft.com/en-us/azure/key-vault/general/best-practices
+* Client libraries - https://docs.microsoft.com/en-us/azure/key-vault/general/client-libraries
 * Error fix for "The system cannot find the file specified issue with X509Certificate2" <https://github.com/projectkudu/kudu/wiki/Configurable-settings#the-system-cannot-find-the-file-specified-issue-with-x509certificate2>
 
 ## BYOK
@@ -20,6 +21,19 @@
 
 * Availability and redundancy - https://docs.microsoft.com/en-us/azure/key-vault/general/disaster-recovery-guidance
 
+## LEARN
+
+* Developers Guide to kv - https://docs.microsoft.com/en-us/azure/key-vault/general/developers-guide
+* MS LEARN - https://docs.microsoft.com/en-us/learn/browse/?products=azure-key-vault
+
 ## SECURITY
 
 * KV behind a firewall, including IP ranges - https://docs.microsoft.com/en-us/azure/key-vault/key-vault-access-behind-firewall 
+
+## MISC
+
+* Bamboo - https://marketplace.atlassian.com/apps/1221965/secret-managers-for-bamboo?hosting=server&tab=overview 
+* Jira on Azure - https://confluence.atlassian.com/confeval/jira-core-evaluator-resources/jira-core-can-jira-core-run-on-azure
+* Confluence - tbd
+* SonarQube - using KV - https://rajbos.github.io/blog/2019/04/29/SonarQube-Azure-Default-Settings
+

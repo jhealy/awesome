@@ -41,6 +41,7 @@
 ## SECURITY
 
 * IP Endpoint restrictions - https://docs.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions
+* Security Baseline for Azure App Service (checklist) - https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/app-service-security-baseline
 * VNET - includes functions <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
 * VNET - linux preview for app services - https://github.com/Azure/app-service-linux-docs/blob/master/app_service_linux_vnet_integration.md 
 * ASE - includes functions <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>

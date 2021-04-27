@@ -24,6 +24,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
   * Limits - https://docs.microsoft.com/en-us/azure/key-vault/general/service-limits
   * Making the case to increase limits - https://docs.microsoft.com/en-us/azure/key-vault/general/overview-throttling#how-does-key-vault-handle-its-limits
 * Load Balancer - no bandwidth/throughput cap. It's backbone/wire speed - https://docs.microsoft.com/en-us/azure/load-balancer/concepts-limitations#skus
+* Monitor - https://docs.microsoft.com/en-us/azure/azure-monitor/service-limits#log-analytics-workspaces
 * Power Automate -  https://docs.microsoft.com/en-us/power-automate/limits-and-config
 * Power BI Dataflow - Pro and Premium - https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview#dataflow-capabilities-on-power-bi-premium 
 * Power Platform Custom Connectors - https://docs.microsoft.com/en-us/connectors/custom-connectors/faq#limits

@@ -19,6 +19,7 @@
 
 ## LEARN
 
+* .NET Quickstart - https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet
 * Parallel with the Batch Explorer tool.  Also a good general intro to batch.  <https://github.com/tojozefi/azurebatch/tree/master/customcode>  
 
 ## MONITOR

@@ -18,11 +18,9 @@
 
 ## ACTIVITY - AZURE BATCH
 
+* Configure a Simple Azure Batch job with Azure Data Factory - https://techcommunity.microsoft.com/t5/azure-paas-blog/configure-a-simple-azure-batch-job-with-azure-data-factory/ba-p/2260759
 * Run R Batch with ADF Sample - https://github.com/Azure/Azure-DataFactory/tree/main/SamplesV2/tutorial-run-r-batch-azure-data-factory
 
 ## MISC
 
 * Troubleshooting - https://docs.microsoft.com/en-us/azure/data-factory/data-factory-troubleshoot-guide
-
-change
-

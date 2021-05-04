@@ -51,7 +51,12 @@
 
 * Integrating Service Bus with private link - https://docs.microsoft.com/en-us/azure/service-bus-messaging/private-link-service
 
+## WINDOWS SERVICE BUS EOL
+
+* EOL - Collaboration and federation: Azure Service Bus Messaging on-premises - https://azure.microsoft.com/en-us/blog/collaboration-and-federation-azure-service-bus-messaging-on-premises-futures/
+* Support if used as part of sharepoint 2013 or 2016 - https://docs.microsoft.com/en-us/lifecycle/products/service-bus-for-windows-server 
+* TLS 1.1 and 1.2 for Windows Service Bus - https://support.microsoft.com/en-us/topic/add-support-for-tls-1-1-and-tls-1-2-on-service-bus-for-windows-server-1-1-92a6cf2c-1b3f-1ea6-185a-b9ced2840fb6
+
 ## MISC
 
 Troubleshooting AMQP errors in Service Bus - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-troubleshoot
-

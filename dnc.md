@@ -21,6 +21,7 @@
 * Release cycles and support - https://devblogs.microsoft.com/dotnet/net-core-releases-and-support/
 * Runtime - Book of the Runtime - https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
 * SDK downloads - https://dotnet.microsoft.com/download/dotnet-core
+* Support policy (timelines / LTS) - https://dotnet.microsoft.com/platform/support/policy/dotnet-core
 * System Requirements - https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements
 * Telemetry Reports -  https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/
 * What's news - https://docs.microsoft.com/en-us/dotnet/whats-new/?WT.mc_id=blog-docs-shboyer

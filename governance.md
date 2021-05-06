@@ -28,4 +28,6 @@
 ## MISC
 
 * Alias request <https://github.com/Azure/azure-policy/blob/master/1-contribution-guide/request-alias.md>
-* Hippa / HITRUST blueprint <https://azure.microsoft.com/en-us/blog/use-ai-to-streamline-healthcare-operations/?_lrsc=db9e9b8c-5b39-4419-b91c-e8c390bf718e>
+* HIPPA Guidance - https://docs.microsoft.com/en-us/azure/compliance/offerings/offering-hipaa-us#frequently-asked-questions
+* HIPPA HITRUST 9.2 Blueprint Sample - https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/hipaa-hitrust-9-2
+

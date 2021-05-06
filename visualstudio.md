@@ -45,3 +45,7 @@
 * Web Essentials 2017 by Mads - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017
 * 12 More Extensions for VS 2015 and 2017 - https://visualstudiomagazine.com/articles/2017/04/01/12-more-extensions-visual-studio-2015-2017.aspx
 * 22 New Tools and Extensions for VS 2017 - https://visualstudiomagazine.com/articles/2017/09/01/22-new-tools.aspx
+
+## MUTT
+
+* Creating NuGet packages for .NET Projects using VS2017+ and nuget command line - https://docs.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio-net-framework

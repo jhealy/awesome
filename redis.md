@@ -1,7 +1,7 @@
 # REDIS
 
 * **docs** - https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/
-* Best practices - https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices
+* Best practices - failover, more - https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices
 * Client libraries - https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices#client-library-specific-guidance
 * High availability - https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-high-availability
 * Samples - https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-redis-samples

@@ -49,6 +49,7 @@
 * Intro to Razor Pages - https://docs.microsoft.com/en-us/aspnet/core/mvc/razor-pages/index?tabs=visual-studio
 * MapPath equiv in Razor <https://stackoverflow.com/questions/47893477/how-do-you-map-path-in-razor-for-net-core-2-0-mvc>
 * Routing primer (tutorial missing layout pages, watchout) <https://tahirnaushad.com/2017/08/20/asp-net-core-mvc-routing/>, github <https://github.com/TahirNaushad/Fiver.Mvc.RazorPages/tree/master/Fiver.Mvc.RazorPages/Pages/Movies>
+* Syntax on W3C - https://www.w3schools.com/asp/razor_syntax.asp
 * Startup class in Razor - https://www.learnrazorpages.com/startup
 * Quick Tutorial <https://tahirnaushad.com/2017/08/29/asp-net-core-2-0-razor-pages/>
 

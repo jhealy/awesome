@@ -9,7 +9,12 @@ Tenants around private endpoints, confidential computing, compliance for privacy
 
 * Security baseline - https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/private-link-security-baseline
 
-## REDIS CACHE
+
+## PRODUCTS
+
+* Data Factory - https://docs.microsoft.com/en-us/azure/data-factory/data-factory-private-link
+
+### REDIS CACHE
 
 * Network Isolation Options - https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-network-isolation
 * Private Link for Redis in GA ( March 31 2021 ) - https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-in-general-availability/

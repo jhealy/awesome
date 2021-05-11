@@ -19,6 +19,7 @@
 * Costs - https://docs.microsoft.com/en-us/azure/azure-monitor/logs/manage-cost-storage
 https://docs.microsoft.com/en-us/azure/azure-monitor/usage-estimated-costs
 * How to alert on az storage blob access using Az Monitor and Log Analytics - https://devblogs.microsoft.com/premier-developer/how-to-alert-on-azure-blob-metrics/
+* Query samples - https://docs.microsoft.com/en-us/azure/azure-monitor/logs/examples
 
 ## MONITOR
 

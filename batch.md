@@ -46,6 +46,10 @@
 * Samples - batch explorer in action - <https://blogs.technet.microsoft.com/windowshpc/2015/01/20/azure-batch-explorer-sample-walkthrough/>
 * Sample - .NET API Quickstart - https://github.com/Azure-Samples/batch-dotnet-quickstart
 
+## SECURE
+
+* Restrict pool IP addresses - https://docs.microsoft.com/en-us/azure/batch/create-pool-public-ip
+
 ## RUDE AND SILLY QNA
 
 * How to delete task output in bulk - not available in portal.  not available in batch explorer.  Have to go api?  ANSWER: this is one reason its better to work with jobs than ad-hoc task submissions.

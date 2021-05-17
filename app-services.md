@@ -28,6 +28,7 @@
 
 ## LEARN
 
+* **Tutorials home** - https://docs.microsoft.com/en-us/azure/app-service/
 * Getting Started with Azure App Service - Hightlights - <https://mva.microsoft.com/en-US/training-courses/getting-started-with-azure-app-service-highlights-18284>
 * Getting Started with Azure App Service (long version) < https://www.edx.org/course/getting-started-azure-app-service-web-apps-1>
 

@@ -8,3 +8,5 @@
 ## LEARN
 
 * Github universe - https://githubuniverse.com/
+* Courses - https://lab.github.com/
+* Intro to Github - https://lab.github.com/githubtraining/introduction-to-github 

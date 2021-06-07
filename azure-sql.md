@@ -21,3 +21,7 @@
 * sqlworkshops - SQL Server Workshops from Microsoft - hol format - https://aka.ms/sqlworkshops
 * big data cluster / alt.databrick / sparc - https://github.com/Microsoft/sqlworkshops/tree/master/sqlserver2019bigdataclusters
 * Security Baseline for Azure SQL Database - https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/sql-database-security-baseline
+
+## MISC
+
+* Ledge capabilities - data integrity - temper-evidence - https://docs.microsoft.com/en-us/azure/azure-sql/database/ledger-overview

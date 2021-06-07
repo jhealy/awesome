@@ -1,5 +1,15 @@
 # Architecture (Azure)
 
+* Azure Architecture Center - <https://docs.microsoft.com/en-us/azure/architecture/>
+* Azure Gaming Reference Architectures - https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/general-guidelines
+* Azure Solution Explorer - new tool in Azure Charts. Easily discover published reference architectures, solution ideas and example workloads starting small from a single "anchor" service and iteratively adding more pieces of the puzzle https://aka.ms/azslns
+* Cloud Design Patterns <https://docs.microsoft.com/en-us/azure/architecture/patterns/>
+* Cloud Native Arch - https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/?WT.mc_id=blog-docs-shboyer
+* How complex systems fail - https://how.complexsystems.fail/
+* Icon / Glyph collection - Azure Architecture Center - svg format <https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/>
+* Icon / Glyph Collection <https://www.microsoft.com/en-us/download/details.aspx?id=41937>
+* Network diagrams off your Az Environ using Network Watcher <https://docs.microsoft.com/en-us/azure/network-watcher/view-network-topology>
+
 ## ENTERPRISE SCALE LANDING ZONES ( ESLZ )
 
 * Policies explained - https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/azpol.md
@@ -20,3 +30,7 @@
 * ```WAF Review / Assessment``` - https://docs.microsoft.com/en-us/assessments/?id=azure-architecture-review&mode=pre-assessment 
 * Amazon equiv - no assessment though - https://aws.amazon.com/architecture/well-architected/
 * Learning path - https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/ 
+
+## MISC
+
+* ASE - High availability enterprise deployment using ASE - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/enterprise-integration/ase-high-availability-deployment

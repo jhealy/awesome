@@ -1,6 +1,7 @@
 # AZURE KUBERNETES SERVICES
 
 * Docs - https://docs.microsoft.com/en-us/azure/aks/
+* Alternatives - https://azuredays.com/2020/11/09/alternatives-to-azure-kubernetes-service-aks-azure-app-services/
 * Choose AKS or not?  Decision matrix - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#choose-a-candidate-service
 * Container networking interfaces - pre-requisites, ip addresses, et al - https://docs.microsoft.com/en-us/azure/aks/configure-azure-cni#prerequisites
 * Roadmap - https://github.com/Azure/AKS/projects/1

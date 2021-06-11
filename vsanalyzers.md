@@ -1,5 +1,5 @@
 # GENERAL 
-* Docs - https://github.com/dotnet/roslyn/tree/master/docs/analyzers
+* Docs - https://docs.microsoft.com/en-us/visualstudio/code-quality/roslyn-analyzers-overview?view=vs-2019
 * Analyzing Application Quality by Using Code Analysis Tools - https://docs.microsoft.com/en-us/visualstudio/code-quality/analyzing-application-quality-by-using-code-analysis-tools
 * Code Analysis for Managed Code - MSDN Doc - https://msdn.microsoft.com/en-us/library/3z0aeatx.aspx
 * Code Analysis as a MSBuild Task - https://marketplace.visualstudio.com/items?itemName=TotalALM.totalalm-codeanalysis

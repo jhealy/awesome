@@ -9,7 +9,6 @@
 * Compute intensive sizes - https://docs.microsoft.com/en-us/azure/batch/batch-pool-compute-intensive-sizes
 * Diagnostics - https://docs.microsoft.com/en-us/azure/batch/batch-diagnostics
 * Environment variables - https://docs.microsoft.com/en-us/azure/batch/batch-compute-node-environment-variables
-* **Explorer for Batch** - https://azure.github.io/BatchExplorer/
 * File Share - Mount an azure file share - https://docs.microsoft.com/en-us/azure/batch/pool-file-shares - can mount via "net use"
 * Installing Applications and staging data on Batch compute nodes - https://social.msdn.microsoft.com/Forums/en-US/87b19671-1bdf-427a-972c-2af7e5ba82d9/installing-applications-and-staging-data-on-batch-compute-nodes?forum=azurebatch - interesting with azure storage scalability (60mb/sec) for each blob.
 * Limits on task submission <https://docs.microsoft.com/en-us/azure/batch/large-number-tasks>
@@ -20,7 +19,6 @@
 
 ## LEARN
 
-* .NET Quickstart - https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet
 * Parallel with the Batch Explorer tool.  Also a good general intro to batch.  <https://github.com/tojozefi/azurebatch/tree/master/customcode>  
 
 ## MONITOR
@@ -44,11 +42,6 @@
 * Portal basics - <https://docs.microsoft.com/en-us/azure/batch/quick-create-portal>
 * Samples github - <https://github.com/Azure-Samples/azure-batch-samples>
 * Samples - batch explorer in action - <https://blogs.technet.microsoft.com/windowshpc/2015/01/20/azure-batch-explorer-sample-walkthrough/>
-* Sample - .NET API Quickstart - https://github.com/Azure-Samples/batch-dotnet-quickstart
-
-## SECURE
-
-* Restrict pool IP addresses - https://docs.microsoft.com/en-us/azure/batch/create-pool-public-ip
 
 ## RUDE AND SILLY QNA
 
@@ -59,5 +52,6 @@
 
 ## MISC
 
+* Application packages aka zips - https://docs.microsoft.com/en-us/azure/batch/batch-application-packages
 * Batch - Monitor .NET Azure Batch Using Application Insights - https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously
 * Batch Labs - monitor your azure batch jobs - https://azure.github.io/BatchLabs/

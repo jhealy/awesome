@@ -76,6 +76,7 @@ See App Center above....
 ## MISC
 
 * AKS - AKS integration for Azure Devops Pipelines - https://devblogs.microsoft.com/devops/announcing-kubernetes-integration-for-azure-pipelines/
+* API-M - Automating deployment of Azure API Management changes using Azure Devops - https://waelkdouh.medium.com/automating-deployment-of-azure-api-management-changes-using-azure-devops-7af1985faa98
 * Azure Stack - Deploy apps to Azure and Azure Stack -https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-solution-pipeline 
 * Azure Stack - Validated Azure tasks - https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/azure-stack?view=azure-devops#qa 
 * Backup - DevOps can restore to any point in time in the past month

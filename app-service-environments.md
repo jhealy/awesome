@@ -23,6 +23,10 @@
 * Create an ASE v2 using Powershell <https://azure.microsoft.com/en-us/resources/templates/201-web-app-asev2-create/>
 * Deploy to ASE using DevOps - https://stackoverflow.com/questions/55133089/deploying-to-app-service-environment-from-azure-devops
 
+## HIGH AVAILABILITY
+
+* High availability enterprise deployment using ASE - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/enterprise-integration/ase-high-availability-deployment
+
 ## LOGIC APPS
 
 * Logic Apps in an ASE <https://feedback.azure.com/forums/287593-logic-apps/suggestions/15105741-is-it-possible-to-deploy-logic-app-to-app-service>

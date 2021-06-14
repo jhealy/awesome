@@ -21,19 +21,6 @@
 * Updates - Notes - searchable text repo with links and details of az updates - https://azurenotes.tech/
 * Updates - Roadmap - https://azure.microsoft.com/en-us/updates/ 
 
-## ARCHITECTURE
-
-* Azure Architecture Center - <https://docs.microsoft.com/en-us/azure/architecture/>
-* Azure Gaming Reference Architectures - https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/general-guidelines
-* Azure Solution Explorer - new tool in Azure Charts. Easily discover published reference architectures, solution ideas and example workloads starting small from a single "anchor" service and iteratively adding more pieces of the puzzle https://aka.ms/azslns
-* Cloud Design Patterns <https://docs.microsoft.com/en-us/azure/architecture/patterns/>
-* Cloud Native Arch - https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/?WT.mc_id=blog-docs-shboyer
-* SmartHive Meeting Room with Service Bus - <https://github.com/Microsoft/MTC_SmartHive>
-* How complex systems fail - https://how.complexsystems.fail/
-* Icon / Glyph collection - Azure Architecture Center - svg format <https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/>
-* Icon / Glyph Collection <https://www.microsoft.com/en-us/download/details.aspx?id=41937>
-* Network diagrams off your Az Environ using Network Watcher <https://docs.microsoft.com/en-us/azure/network-watcher/view-network-topology>
-
 ## BLOCKCHAIN
 
 * Blockchain dev kit - article - Feb 2019 <https://blogs.msdn.microsoft.com/wriju/2019/02/07/azure-blockchain-development-kit/>
@@ -79,6 +66,7 @@
 ## MISC
 
 * App Insights > Profile a live app using App Insights - <https://docs.microsoft.com/en-us/azure/application-insights/app-insights-profiler>
+* API - Costs - https://docs.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
 * Bizspark - where did it go - best you get is $200 azure free on startups <https://startups.microsoft.com/en-us/>
 * Blog - https://anthonychu.ca/
@@ -104,6 +92,7 @@
 * Location Based Services > Add a Line - https://codepen.io/azuremaps/pen/qomaKv
 * Linux > Bash shell in azure cloud <https://shell.azure.com/>
 * Linux > Course - Linux Foundation - Administering Linux on Azure - https://training.linuxfoundation.org/linux-courses/system-administration-training/administering-linux-on-azure
+* Lockbox - 
 * Mobile Apps Using Xamarin and Azure - Good extensions around existing apps with Azure - https://developer.xamarin.com/guides/cross-platform/azure/Resources/poster.>
 * Move resources from one RG or subscription to another - <https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources>
 * Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions

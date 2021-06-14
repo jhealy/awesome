@@ -12,6 +12,10 @@
 * Suggest an idea for Power Virtual Agent Bots - https://aka.ms/PowerVirtualAgentsIdeas- https://powerusers.microsoft.com/t5/Power-Apps-Ideas/idb-p/PowerAppsIdeas/label-name/power%20virtual%20agents
 * Whats coming in 2020 Wave1 - https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/power-virtual-agents/planned-features
 
+## CASE STUDY
+
+* Miami Dolphins fan app - https://customers.microsoft.com/en-us/story/1372033753975924800-miami-dolphins-media-entertainment-power-virtual-agents
+
 ## DEVOPS
 
 * No ALM picture at this point, must go regular bot.  Features coming in future.  Ref CharlesS.

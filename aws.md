@@ -7,4 +7,4 @@
 * Lambda v Azure Functions - https://www.azurefromthetrenches.com/azure-functions-performance-update-on-ep1-results/
 * Mapping to Azure Services - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 * Versus Azure Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
-* Training - https://aws.amazon.com/training/
+* Training - https://www.aws.training/ 

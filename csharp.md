@@ -1,6 +1,7 @@
 # CSHARP
 
 * Roadmap - https://github.com/dotnet/csharplang/tree/master/proposals
+* Naming guidelines - dll, packages, namespaces, et cetera - https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines
 
 ## Design
 

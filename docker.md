@@ -38,6 +38,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 * ASP.NET Core Dockerized app using VS Code - by wally - https://medium.com/@waelkdouh/developing-a-dockerized-asp-net-core-application-using-visual-studio-code-6ccfc59d6f6
 * Docker and .NET - https://www.hanselman.com/blog/NETAndDocker.aspx
 * How the .NET Team uses Az Pipelines to produce Docker Images - https://devblogs.microsoft.com/dotnet/how-the-net-team-uses-azure-pipelines-to-produce-docker-images/
+* Install .NET Core into a Linux Image - https://www.ubuntupit.com/how-to-install-dotnet-core-on-linux-distributions-guide/
 * .NET Docker Images - https://github.com/dotnet/dotnet-docker - sample apps
 
 ## NODE.JS

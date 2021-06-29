@@ -11,12 +11,12 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Benefits of using Azure API Management with Microservices - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
 * Consumption tier API management - use with serverless - https://azure.microsoft.com/en-us/blog/benefits-of-using-azure-api-management-with-microservices/
 * Limits - see [Azure Limits](./azure-limits.md)
-* Pricing - <https://azure.microsoft.com/en-us/pricing/details/api-management>
+* Pricing - https://azure.microsoft.com/en-us/pricing/details/api-management
 
 ## CONTACT THE TEAM
 
 * Azure feedback forum - https://feedback.azure.com/forums/248703-api-management
-* Email - <mailto:apimgmt@microsoft.com>
+* Email - apimgmt@microsoft.com
 * MSDN forum for API-M - https://social.msdn.microsoft.com/forums/azure/home?forum=azureapimgmt
 
 ## QUICK LINKS
@@ -110,3 +110,4 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Policies - Sample policies <https://aka.ms/apimpolicyexamples> - throttling https://docs.microsoft.com/en-us/azure/api-management/api-management-sample-flexible-throttling
 * Security - RBAC <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Static IPs <https://feedback.azure.com/forums/248703-api-management/suggestions/32805958-ability-to-assign-public-static-ip-address-to-publ>
+* Swaggerhub with api-m - https://swagger.io/blog/api-development/api-management-with-azure-and-swaggerhub/

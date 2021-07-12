@@ -17,7 +17,7 @@ https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-leve
 Formerly known as Visual Studio Mobile Center
 
 * Home - https://docs.microsoft.com/en-us/appcenter/
-* Github - issues/roadmap - https://github.com/microsoft/appcenter
+* DevOps Resource Center - https://docs.microsoft.com/en-us/devops/
 * Announce - https://blogs.msdn.microsoft.com/vsappcenter/introducing-visual-studio-app-center/?utm_source=devfish
 * Roadmap - https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline#features-under-development
 * Slack App for VSMC - https://blogs.msdn.microsoft.com/mobilecenter/introducing-the-mobile-center-slack-app/
@@ -94,8 +94,6 @@ See App Center above....
 * Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects (tutorial) <https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks>
 * ExpressRoute and Az Devops <https://devblogs.microsoft.com/devops/expressroute-for-azure-devops/>
 * Functions and devops - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
-* Git > GitLab > Devops with GitLab - https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/?view=azure-devops - 
-https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-for-git?view=azure-devops
 * Image generation - json for az pipelines image generation - https://github.com/Microsoft/azure-pipelines-image-generation/tree/master/images/win
 * Jenkins > Integrating VSTS with Jenkins - lab ( April 2018 ) - <https://almvm.azurewebsites.net/labs/vstsextend/jenkins/#approach-2-wrapping-jenkins-job-within-the-vsts-build>
 * Load testing - alternatives - https://docs.microsoft.com/en-us/azure/devops/test/load-test/overview?view=azure-devops#alternatives

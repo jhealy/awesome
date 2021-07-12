@@ -59,5 +59,6 @@
 
 ## MISC
 
+* RabbitMQ Integration - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-integrate-with-rabbitmq
 * SmartHive Meeting Room with Service Bus - https://github.com/Microsoft/MTC_SmartHive
 * Troubleshooting AMQP errors in Service Bus - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-troubleshoot

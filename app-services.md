@@ -51,6 +51,7 @@
 
 Full stack JavaScript web apps with static frontends and optional dynamic backends powered by serverless APIs.
 
+* Calling authenticated web apps - https://techcommunity.microsoft.com/t5/apps-on-azure/calling-static-web-apps-authenticated-api-endpoints/
 * Docs - https://aka.ms/swadocs
 * CLI - https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-the-azure-static-web-apps-cli/ba-p/2257581?WT.mc_id=dotnet-0000-shboyer
 * Introducing Static Web Apps -https://techcommunity.microsoft.com/t5/azure-app-service/introducing-app-service-static-web-apps/ba-p/1394451

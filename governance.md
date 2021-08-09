@@ -9,6 +9,12 @@
 * Templates for automating Azure Resource Manager policies <https://github.com/karlkuhnhausen/azure-scaffold>
 * VMs <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-govern-resources>
 
+## GXP
+
+* Azure Guidlines for GXP - August 2020 - https://azure.microsoft.com/en-us/resources/microsoft-azure-gxp-guidelines-april/
+* Healthcare and life sciences compiance article on GXP  - https://docs.microsoft.com/en-us/azure/compliance/offerings/offering-gxp
+* Manufacturing, clinical, and laboratory gxp - https://docs.microsoft.com/en-us/compliance/regulatory/offering-gxp
+
 ## LEARN
 
 * Governance workshop - https://github.com/faridabharmal/AzureGovernance

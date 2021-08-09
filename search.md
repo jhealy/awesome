@@ -65,7 +65,8 @@
 
 ## SECURE
 
-Private endpoint big concern for many.  Yse VNETs with private endpoints for search. In preview since the Fall 2019 are in the process of rolling out to GA.  https://docs.microsoft.com/en-us/azure/search/service-create-private-endpoint .
+* ASE with Search - https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/network-isolation?tabs=v1#restrict-access-to-cognitive-search-resource
+* Private endpoint big concern for many.  Yse VNETs with private endpoints for search. In preview since the Fall 2019 are in the process of rolling out to GA.  https://docs.microsoft.com/en-us/azure/search/service-create-private-endpoint .
 
 ## SHOWCASE
 

@@ -10,3 +10,11 @@
 * Github universe - https://githubuniverse.com/
 * Courses - https://lab.github.com/
 * Intro to Github - https://lab.github.com/githubtraining/introduction-to-github 
+
+## CODESPACES
+
+* AWS attempt at codespaces - https://aws.amazon.com/blogs/architecture/field-notes-use-aws-cloud9-to-power-your-visual-studio-code-ide/
+
+## MISC
+ 
+* Remote github repositories extension for vscode ( 06/2021 ) - https://visualstudiomagazine.com/articles/2021/06/16/remote-repos.aspx?oly_enc_id=6878G9202956B3A

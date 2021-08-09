@@ -16,6 +16,7 @@
 * When to use ASE (v2) - <https://blog.mexia.com.au/when-to-use-an-app-service-environment-v2>
 
 ## CONTAINERS
+
 * Linux Container in an ASE <https://blogs.msdn.microsoft.com/appserviceteam/2018/07/30/linuxasega/>
 
 ## DEVOPS
@@ -38,5 +39,5 @@
 ## V3
 
 * Doc on V3 - https://aka.ms/asev3-private-preview
-* Private preview signup - https://aka.ms/asev3-private-preview-signup
+* Search with ASE - https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/network-isolation?tabs=v1#restrict-access-to-cognitive-search-resource
 

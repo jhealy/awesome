@@ -9,6 +9,7 @@
 * Documentation - home <https://docs.microsoft.com/en-us/azure/azure-functions/>
 * Feedback - UserVoice <https://feedback.azure.com/forums/355860-azure-functions>
 * host.json (v2) doc <https://github.com/Azure/azure-functions-host/wiki/host.json-(v2)#sample-hostjson>
+* Hosting options - https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale
 * IP Addresses - outbound - https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses
 * IP Addresses - configuring for consumption - 
 https://docs.microsoft.com/en-us/azure/azure-functions/ip-addresses#find-outbound-ip-addresses

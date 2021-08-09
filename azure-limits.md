@@ -19,6 +19,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * Logic Apps - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-limits-and-config - actions pe rworkflow, workflows per region, runduration, storage retention, IP addresses
 * Logic apps - limits by pricing tier - https://azure.microsoft.com/en-us/pricing/details/logic-apps/
 * Functions - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#functions-limits
+* Functions hosting limits - networking too based on plan - https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale
 * Functions in App Service Plan - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#app-service-limits
 * KeyVault
   * Limits - https://docs.microsoft.com/en-us/azure/key-vault/general/service-limits

@@ -25,3 +25,4 @@
 ## MISC
 
 * Ledge capabilities - data integrity - temper-evidence - https://docs.microsoft.com/en-us/azure/azure-sql/database/ledger-overview
+* SQL Tips - tuning script for Azure SQL - https://github.com/microsoft/azure-sql-tips

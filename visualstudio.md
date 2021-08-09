@@ -20,6 +20,7 @@
 
 * Web and Azure Tool Updates - https://devblogs.microsoft.com/aspnet/web-and-azure-tool-updates-in-visual-studio-2019/
 * Azure with VS2019 - Launch Video https://www.youtube.com/watch?v=6QBiWY09k8g
+* IDE Refactorings - https://visualstudiomagazine.com/articles/2021/06/15/refactoring.aspx?oly_enc_id=6878G9202956B3A
 * Logic Apps Extension - https://marketplace.visualstudio.com/items?itemName=VinaySinghMSFT.AzureLogicAppsToolsForVS2019
 * Oh my! "Visual Studio 2019 will be the last version of Visual Studio with load test features. For customers requiring load testing tools, we recommend using alternate load testing tools such as Apache JMeter, Akamai CloudTest, Blazemeter."
 * 16.4 update to VS brings container tools and github repo - https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/

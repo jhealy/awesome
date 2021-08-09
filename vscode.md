@@ -16,6 +16,7 @@
 * mssql > SQL Server - https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
 * Docker - https://code.visualstudio.com/docs/azure/docker
 * Py Linter - https://code.visualstudio.com/docs/python/linting
+* Github - Remote repositories extension for vs code ( 06/2021 ) - https://visualstudiomagazine.com/articles/2021/06/16/remote-repos.aspx?oly_enc_id=6878G9202956B3A
 * vscode-database > mysql and posgres - https://marketplace.visualstudio.com/items?itemName=bajdzis.vscode-database
 
 ## MISC

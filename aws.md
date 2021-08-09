@@ -8,3 +8,7 @@
 * Mapping to Azure Services - https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 * Versus Azure Stats - Cloud Report March 2018 - https://www.rightscale.com/lp/state-of-the-cloud
 * Training - https://www.aws.training/ 
+
+## VISUAL STUDIO AND AWS
+
+* Container publishing - https://www.pluralsight.com/blog/software-development/deploying-dotnet-apps-to-containers

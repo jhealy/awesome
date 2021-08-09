@@ -1,5 +1,7 @@
 # AZURE GOVERNANCE
+
 * Azure enterprise scaffold - prescriptive subscription governance <https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-subscription-governance>
+* Azure "the platform" security - https://docs.microsoft.com/en-us/azure/security/fundamentals/infrastructure
 * Compliance Overview - matrix of regulated industries and markets ww - <https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942> , <https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942>
 * Examples of implementing Azure enterprise scaffold - <https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-subscription-examples>
 * Naming conventions <https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions>

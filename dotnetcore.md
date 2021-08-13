@@ -91,6 +91,7 @@
 ## MIGRATION
 
 * .NET to Core - https://docs.microsoft.com/en-us/aspnet/core/migration/proper-to-2x/?view=aspnetcore-3.1
+* .NET to Core Upgrade Tool - https://github.com/dotnet/upgrade-assistant
 * Core v Framework 4.8 <https://devblogs.microsoft.com/dotnet/update-on-net-core-3-0-and-net-framework-4-8/>
 * Package conversion tool - https://docs.microsoft.com/en-us/nuget/consume-packages/migrate-packages-config-to-package-reference
 * Portability analyzer - https://aka.ms/portabilityAnalyzer

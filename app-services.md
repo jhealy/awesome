@@ -35,6 +35,7 @@
 ## MIGRATION ASSISTANT
 
 * Azure App Service Migration Tool - <https://azure.microsoft.com/en-us/downloads/migration-assistant/>
+* Containerize and migrate apps to AKS and Azure App Service Preview - https://azure.microsoft.com/en-us/updates/public-preview-containerize-apps-and-migrate-to-aks-and-azure-app-service-with-azure-migrate/
 * Migrate your websites to azure in just a few clicks - <https://azure.microsoft.com/en-us/blog/migrate-your-websites-to-azure-in-just-a-few-clicks/>
 * Move me to the cloud - <https://www.movemetothecloud.net/>
 * Source code - <https://archive.codeplex.com/?p=websiteassist>

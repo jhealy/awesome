@@ -25,6 +25,7 @@ mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/
 
 * cogs - https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support#prerequisites
 * speech service - https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-container-howto?tabs=stt%2Ccsharp
+* Containerize and migrate apps to AKS and Azure App Service Preview - https://azure.microsoft.com/en-us/updates/public-preview-containerize-apps-and-migrate-to-aks-and-azure-app-service-with-azure-migrate/
 
 ## DEVOPS
 

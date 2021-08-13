@@ -11,6 +11,7 @@ TCO of cloud migration from GigaOhm - https://azure.microsoft.com/mediahandler/f
 ## APP SERVICES
 
 * Cloud services classic to Azure Cloud Services extended support migration tool - https://docs.microsoft.com/en-us/azure/cloud-services-extended-support/in-place-migration-overview
+* Containerize and migrate apps to AKS and Azure App Service Preview - https://azure.microsoft.com/en-us/updates/public-preview-containerize-apps-and-migrate-to-aks-and-azure-app-service-with-azure-migrate/
 * Considerations - https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service
 * Publish your .NET app to an Azure App Service walkthrough - https://tutorials.visualstudio.com/azure-webapp-migrate/intro 
 * Readiness checklist - https://github.com/Azure/App-Service-Migration-Assistant/wiki/Readiness-Checks 
@@ -38,4 +39,5 @@ Non-database data, such as files.
 
 # VMs
 
+* Migration assessment tool for web apps running in vmware (preview) 08/11/21 - https://azure.microsoft.com/en-us/updates/public-preview-discovery-and-assessment-for-aspnet-web-apps-with-azure-migrate/
 * Step by step migration for physical VMs using Azure Migrate - https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines

@@ -28,6 +28,10 @@
 * What's news - https://docs.microsoft.com/en-us/dotnet/whats-new/?WT.mc_id=blog-docs-shboyer
 * Windows Compatibility Pack - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack
 
+## .NET 6.0
+
+* Installing, VS2022 and such (0823/21) https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-6/
+
 ## .NET 5.0
 
 * .NET 5.0 Preview 3 Announce - https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-3/

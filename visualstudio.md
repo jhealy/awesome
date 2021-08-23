@@ -15,6 +15,9 @@
 * Use dump files in the debugger - https://docs.microsoft.com/en-us/visualstudio/debugger/using-dump-files?view=vs-2019
 * View threads in the Parallel Stacks window - https://docs.microsoft.com/en-us/visualstudio/debugger/using-the-parallel-stacks-window?view=vs-2019
 
+## VS2022
+
+* VS2022 and .NET CORE 6.0 - https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-6/
 
 ## VS2019
 

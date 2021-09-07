@@ -30,6 +30,7 @@
 
 ## .NET 6.0
 
+* Azure Functions and .NET Core - preview - https://github.com/Azure/Azure-Functions/wiki/V4-early-preview
 * Installing, VS2022 and such (0823/21) https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-6/
 
 ## .NET 5.0

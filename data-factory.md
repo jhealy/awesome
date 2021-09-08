@@ -6,6 +6,10 @@
 
 * Data Factory DevOps - https://cloudarchitected.com/2019/04/devops-in-azure-with-databricks-and-data-factory/
 * DevOps Pipeline SEtup for ADF v2 - https://medium.com/@cprosenjit/azure-devops-pipeline-setup-for-azure-data-factory-v2-8e957cd5141
+* Source control in Azure Data Factory - https://docs.microsoft.com/en-us/azure/data-factory/source-control 
+* Automated publishing for continuous integration in ADF - https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-deployment-improvements
+* Continuous integration and delivery in Azure Data Factory - https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-deployment
+* Feature Flags in Azure Data Factory - https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-deployment#exposure-control-and-feature-flags
 
 ## LEARN
 

@@ -20,6 +20,7 @@ is to allow all Ips from the datacenter in the region.
 * Linux - Preview <https://github.com/Azure/Azure-Functions/wiki/Azure-Functions-on-Linux-Preview>
 * ```Platform updates - v2 to v3``` - https://github.com/Azure/azure-functions-host/wiki/Platform-upgrade-from-Azure-Functions-runtime-V2-to-V3#opting-out-of-the-upgrade
 * Premium Plan - up to 4 cores/14gb memory - event driven scaling - min and max instances - vnet integration - no cold start - costsa re consumption and 1 pre-warmed instance
+* Pricing with Isolated v Premium - https://azure.microsoft.com/en-us/pricing/details/app-service/windows/
 * Pricing - https://azure.microsoft.com/en-us/pricing/details/functions/
 * Roadmap <https://azure.microsoft.com/en-us/roadmap/?query=functions>
 * Web API versus Functions - https://blog.kloud.com.au/2017/01/01/is-azure-functions-over-web-api-beneficial/

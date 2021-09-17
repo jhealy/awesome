@@ -25,8 +25,8 @@
 
 ## MONITOR
 
+* Monitoring blob storage - diagnostic settings - https://docs.microsoft.com/en-us/azure/storage/blobs/monitor-blob-storage?tabs=azure-portal#creating-a-diagnostic-setting
 * Monitoring Azure Storage - https://docs.microsoft.com/en-us/azure/storage/common/monitor-storage?tabs=dotnet
-* Public preview of Azure Storage logs integration with Azure Monitor. Consolidate storage logs to central storage accounts, send to Event Hub for streaming ingestion, or export to Log Analytics to query and analyze natively. Supports Diagnostic logs for Files, Diagnostic logs for Premium storage, Diagnostic logs for Azure Data Lake Storage Gen2.  Also authentication context, TLS version, etc. Native query and analysis experience with Log Analytics.  https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxW65f1VQyNCuBHMIMBV8qlUM0E0MFdPRFpOVTRYVklDSE1WUTcyTVAwOC4u
 
 ## RBAC
 

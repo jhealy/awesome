@@ -93,6 +93,14 @@
 * EF > Entity Framework Core: Getting Started - pluralsight - <https://www.pluralsight.com/courses/entity-framework-core-getting-started>
 * Workshop <https://github.com/dotnet-presentations/dotnetcore-workshop>
 
+## LINUX
+
+* Create a .NET Core 2 application on Linux with Visual Studio Code - https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/create-a-net-core-2-application-on-linux-with-visual-studio-code/
+* Core dumping on linux - https://docs.microsoft.com/en-us/troubleshoot/aspnetcore/1-1-creating-vm
+* Red Hat Container catalog - .NET Core image - https://access.redhat.com/containers/#/registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7
+* systemd integration - https://devblogs.microsoft.com/dotnet/net-core-and-systemd/
+* Troubleshooting linux - https://docs.microsoft.com/en-us/troubleshoot/aspnetcore/introduction
+
 ## MIGRATION
 
 * .NET to Core - https://docs.microsoft.com/en-us/aspnet/core/migration/proper-to-2x/?view=aspnetcore-3.1
@@ -133,9 +141,6 @@ Convert other proj to vs2017 <https://github.com/hvanbakel/CsprojToVs2017>
 * How to: Handl exceptions in parallel loops <https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-handle-exceptions-in-parallel-loops>
 * Libraries - Creating and Packaging a .NET Standard Lib - https://devblogs.microsoft.com/visualstudio/creating-and-packaging-net-standard-library/?utm_campaign=devfish
 * Libraries > Refit - Typesafe REST lib from Paul Betts - .NET Standard 1.4 and up - https://paulcbetts.github.io/refit/
-* Linux > Create a .NET Core 2 application on Linux with Visual Studio Code - https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/create-a-net-core-2-application-on-linux-with-visual-studio-code/
-* Linux > Red Hat Container catalog - .NET Core image - https://access.redhat.com/containers/#/registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7
-* Linux > systemd integration - https://devblogs.microsoft.com/dotnet/net-core-and-systemd/
 * Logging > Using nLog with .NET Standard - https://github.com/NLog/NLog/wiki/platform-support
 * Performance - techempower benchmarks - linux v win, cloud v physical
 * Polly - silience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner - <https://github.com/App-vNext/Polly>

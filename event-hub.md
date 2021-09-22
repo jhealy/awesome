@@ -13,3 +13,7 @@
 * .NET Framework - getting started - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-framework-getstarted-send
 * Processor samples - https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/eventhub/Azure.Messaging.EventHubs.Processor/samples
 * Programming Guide for Event Hub - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-programming-guide
+
+## MISC
+
+* Federating ServiceBus with things like EventHub - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-overview

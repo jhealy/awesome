@@ -12,6 +12,11 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Support - twitter @msbotframework <https://www.twitter.com/msbotframework>
 * Team Blog - <https://blog.botframework.com/>
 
+## GOVERNANCE
+
+* LUIS - authoring and publishing endpoints - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-reference-regions 
+* LUIS - regional availability - look for language understanding - https://azure.microsoft.com/en-us/global-infrastructure/services/?products=cognitive-services,bot-services  
+
 ## HEALTHCARE BOT
 
 * Azure Marketplace link <https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-hcb.microsofthealthcarebot?tab=Overview>
@@ -37,6 +42,7 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Apps home - <https://www.luis.ai/applications>
 * Documentation - <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/home>
 * Enable Natural Language Interaction with LUIS (MSDN Mag Jan 2017) <https://msdn.microsoft.com/magazine/mt745095>
+* Governance and data residency - see governance in this doc
 * Luis tips (Anna Thomas) <https://blogs.msdn.microsoft.com/buckwoody/2018/10/30/luis-notes-from-the-field-of-natural-language-processing/>
 * Migrating LUIS apps - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-migration-authoring
 * None intent <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-intent#none-intent-is-fallback-for-app>

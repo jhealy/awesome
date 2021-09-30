@@ -25,7 +25,6 @@
 
 * **Where is your data located** - aggregate of links to various sources <https://www.microsoft.com/en-us/TrustCenter/Privacy/where-your-data-is-located>
 * COGS-Translator - Microsoft takes no record of the content submitted for translation <https://www.microsoft.com/en-us/translator/notrace.aspx>
-* COGS-Translator - If customer performs customization, the documents used for training will be stored by Microsoft in YOUR workspace - <https://cognitive.uservoice.com/knowledgebase/articles/1147537-api-and-customization-confidentiality>
 * Encryption at rest <https://docs.microsoft.com/en-us/azure/security/azure-security-encryption-atrest>
 
 ## SECURITY

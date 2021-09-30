@@ -12,6 +12,7 @@ Tenants around private endpoints, confidential computing, compliance for privacy
 
 ## PRODUCTS
 
+* Confidential Ledger Preview ( Sept 2021 ) - https://techcommunity.microsoft.com/t5/security-compliance-and-identity/record-confidential-transaction-logs-with-azure-confidential/ba-p/2377226
 * Data Factory - https://docs.microsoft.com/en-us/azure/data-factory/data-factory-private-link
 
 ### REDIS CACHE

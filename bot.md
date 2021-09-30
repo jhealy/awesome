@@ -2,41 +2,49 @@
 
 Things relevant to Bot framework from Microsoft.  No, I dont care about any other kinds of bots right now.
 
+* Home - https://www.botframework.com
 * Design Principles <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-4.0>
 * DirectLine - https://blog.botframework.com/2017/02/02/direct-line-performance-improvements/
 * Documentation - https://docs.microsoft.com/en-us/bot-framework/
 * Publishing endpoint - https://dev.botframework.com/
-* Roadmap - https://github.com/microsoft/botframework-sdk/wiki/Roadmap
-* Samples - Node.js or C# - https://github.com/Microsoft/BotBuilder-Samples
 * Support - StackOverflow for Cognitive Services and Bot - <https://stackoverflow.com/questions/tagged/microsoft-cognitive>
-* Support - twitter @msbotframework <https://www.twitter.com/msbotframework>
-* Team Blog - <https://blog.botframework.com/>
 
-## HEALTHCARE BOT
+## BOT FRAMEWORK COMPOSER
 
-* Azure Marketplace link <https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-hcb.microsofthealthcarebot?tab=Overview>
-* Conversational AI for healthcare <https://www.microsoft.com/en-us/research/project/health-bot/>
+* Doc - https://docs.microsoft.com/en-us/composer/
+* Best practices for composer - https://docs.microsoft.com/en-us/composer/concept-best-practices?tabs=v2x
+* Enterprise grade bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
 
-## LEARN v.4
+## BOT FRAMEWORK SDK
+
+* Samples - Node.js or C# - https://github.com/Microsoft/BotBuilder-Samples
+
+## GOVERNANCE
+
+* LUIS - authoring and publishing endpoints - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-reference-regions 
+* LUIS - regional availability - look for language understanding - https://azure.microsoft.com/en-us/global-infrastructure/services/?products=cognitive-services,bot-services  
+
+## LEARN BOT FRAMEWORK COMPOSER
+
+* Introduction to azure bot service and bot framework composer - https://docs.microsoft.com/en-us/learn/modules/intro-to-bot-service-bot-framework-composer/?WT.mc_id=api_CatalogApi
+
+## LEARN v.4 SDK
 
 **5 Minute QuickStarts from Bots doc - <https://docs.microsoft.com/en-us/bot-framework/> **
 * Create a bot with Bot Builder SDK for .NET tutorial (v4) <https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0>
 * Migrating from v3 to v4 <https://www.youtube.com/watch?v=lzUE4qi8O-A>
 * Simple bot - https://github.com/ssemyan/SampleAzureBot
 
-## LEARN v.3
-
-* Authentication - Add <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0>
-* Daniel Egan's Bot Leearning Lab - https://github.com/DanielEgan/BotWorkshop 
 
 ## LUIS - Language Understanding Cognitive Service
 
 * Home - <https://www.luis.ai/home>
 * Add natural lang understanding to your bot (v4) <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-v4-luis?view=azure-bot-service-4.0&tabs=cs>
-* Adding Luis entities to a chat bot <https://blogs.msdn.microsoft.com/benjaminperkins/2017/02/01/adding-luis-entities-to-my-chatbot/>
+* Adding Luis entities to a chat bot - https://www.thebestcsharpprogrammerintheworld.com/2017/12/01/adding-luis-entities-to-my-chatbot/
 * Apps home - <https://www.luis.ai/applications>
 * Documentation - <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/home>
 * Enable Natural Language Interaction with LUIS (MSDN Mag Jan 2017) <https://msdn.microsoft.com/magazine/mt745095>
+* Governance and data residency - see governance in this doc
 * Luis tips (Anna Thomas) <https://blogs.msdn.microsoft.com/buckwoody/2018/10/30/luis-notes-from-the-field-of-natural-language-processing/>
 * Migrating LUIS apps - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-migration-authoring
 * None intent <https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-intent#none-intent-is-fallback-for-app>
@@ -68,19 +76,6 @@ The extraction process to get QNA-pairs out of a URL or file is something QNAMak
 * Enterprise bot template <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-overview?view=azure-bot-service-4.0>
 * Qna Maker and LUIS to distribute KBs (3.x) <https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/tutorials/integrate-qnamaker-luis>
 * Virtual Assistant <https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0>, github repo <https://github.com/Microsoft/AI>
-
-## SAMPLES V3
-* Alexa integration -	https://github.com/suneetnangia/Alexa/tree/master/Microsoft.Demos.Alexa.Luis
-* AzureBot - https://github.com/Microsoft/AzureBot
-* Commerce bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-commerce?view=azure-bot-service-3.0>
-* Cortana skill bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-cortana-skill?view=azure-bot-service-3.0>
-* Enterprise productivity bot scenario <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-enterprise-productivity?view=azure-bot-service-3.0>
-* Information bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-informational?view=azure-bot-service-3.0>
-* Intelligent Kiosk - qna bot maker samples embedded <https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84?activetab=pivot:overviewtab>
-* IoT bot <https://docs.microsoft.com/en-us/azure/bot-service/bot-service-scenario-internet-things?view=azure-bot-service-3.0>
-* Stack Overflow Bot - https://github.com/Microsoft/BotFramework-Samples/tree/master/StackOverflow-Bot
-* Stackoverflow Bot - krishnaji - https://github.com/krishnaji/StackOverflow-Bot
-* Samples - <https://github.com/Microsoft/BotBuilder-Samples>
 
 ## SECURITY
 
@@ -119,10 +114,3 @@ Extend a bot using another bot (skill).  Available as of v 4.7 of bot sdk.  User
 * Bot Framework Solutions Support - https://microsoft.github.io/botframework-solutions/help/support/
 * Github - https://github.com/microsoft/botframework-solutions
 * Roadmap April 2021 - https://github.com/microsoft/botframework-solutions/issues/3786
-
-## MISC
-
-* Bot State Service retired on March 31 2018 - migration resources here - https://blog.botframework.com/2017/12/19/bot-state-service-will-soon-retired-march-31st-2018/
-* Enterprise Bot Arch / Master Child ( Feb 2018 ) - <https://blogs.msdn.microsoft.com/pragdev/2018/02/10/enterprise-bot-architecture/>
-* J.Marsman's favorite bot samples - https://blogs.msdn.microsoft.com/jennifer/2017/05/09/the-bot-framework-my-favorite-samples/ - chop me up
-* Logs - currently possible to export them but can't view them online

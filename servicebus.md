@@ -4,6 +4,7 @@
 * Enterprise architecture for Service Bus - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/enterprise-integration/queues-events
 * IP requirements - inbound - https://docs.microsoft.com/en-us/azure/app-service/overview-inbound-outbound-ips
 * IP and port whitelisting - https://blogs.msdn.microsoft.com/servicebus/2017/11/07/open-port-requirements-and-ip-address-whitelisting/
+* Large message support ( Sept 2021 ) - https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/
 * Roadmap - https://azure.microsoft.com/en-us/updates/?status=nowavailable,inpreview,indevelopment&category=integration&query=service%20bus
 * Quotas - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quotas
 * Service Bus Explorer - Portal - https://docs.microsoft.com/en-us/azure/service-bus-messaging/explorer
@@ -59,6 +60,7 @@
 
 ## MISC
 
+* Federating ServiceBus with things like EventHub - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-overview
 * RabbitMQ Integration - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-integrate-with-rabbitmq
 * SmartHive Meeting Room with Service Bus - https://github.com/Microsoft/MTC_SmartHive
 * Troubleshooting AMQP errors in Service Bus - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-troubleshoot

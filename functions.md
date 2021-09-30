@@ -89,6 +89,12 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Patterns - https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp#application-patterns 
 * Wait for files and process - durable/python - https://github.com/eavanvalkenburg/azure_durable_function_waitforfilesandprocess
 
+## ISOLATED
+
+* doc - https://docs.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-process-guide
+* how to - https://github.com/Azure/azure-functions-dotnet-worker
+* issues - https://github.com/Azure/azure-functions-dotnet-worker/wiki/Known-issues
+
 ## LEARN
 
 * Book - <a target="_blank" href="https://www.amazon.com/gp/product/1788390822/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788390822&linkCode=as2&tag=jhealy-20&linkId=9a9dd2c286874f47f28a007a30542368">Azure Serverless Computing Cookbook: Build applications hosted on serverless architecture using Azure Functions</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jhealy-20&l=am2&o=1&a=1788390822" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

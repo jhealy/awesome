@@ -14,10 +14,11 @@ Things relevant to Bot framework from Microsoft.  No, I dont care about any othe
 * Doc - https://docs.microsoft.com/en-us/composer/
 * Best practices for composer - https://docs.microsoft.com/en-us/composer/concept-best-practices?tabs=v2x
 * Enterprise grade bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
+* Samples - see composer-samples - https://github.com/Microsoft/BotBuilder-Samples
 
 ## BOT FRAMEWORK SDK
 
-* Samples - Node.js or C# - https://github.com/Microsoft/BotBuilder-Samples
+* Samples - https://github.com/Microsoft/BotBuilder-Samples
 
 ## GOVERNANCE
 

@@ -17,7 +17,7 @@
 * Hackfest - <https://github.com/Azure/kubernetes-hackfest>
 * KataCoda - K8S series - <https://www.katacoda.com/courses/kubernetes>
 * K8S Windows Walkthrough - <https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md>
-* Learn K8S - <http://aka.ms/learnkubernetes>
+* Learn K8S - <http://aka.ms/learnkubernetes>2
 * Learn in 50 Days - <https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/>
 <https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/>
 * Workshop - basics - <https://aksworkshop.io/>

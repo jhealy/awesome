@@ -48,8 +48,9 @@ Exploration of things docker but not ACS/AKS/AppService container
 * Deploying Node to Docker on Azure - https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-Node-to-Docker-on-Azure
 * Nano + Node docker image - https://github.com/a11smiles/docker-nano-nodejs/blob/master/README.md
 * OFFICIAL node.js docker image - https://github.com/nodejs/docker-node/blob/master/README.md
-* OFFICIAL node.js docker image for Windows - https://github.com/nodejs/docker-node/pull/362
+* OFFICIAL node.js docker image for Windows - <https://github.com/nodejs/docker-node/pull/362>
 * Stefan Scherer's Windows node containers - Server Core and NanoServer - https://hub.docker.com/r/stefanscherer/node-windows/
+* Best Practices for containerizing Node JS - https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/
 
 ## TOOLS
 
@@ -92,7 +93,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 
 ## See also
 
-* Containers - https://github.com/jhealy/awesome/blob/master/containers.md
+* [Containers](containers.md)
 
 ## Docker cheat sheet (some basic commands)
 

@@ -61,4 +61,4 @@
 
 ## SEE ALSO
 
-* Docker - <https://github.com/jhealy/awesome/blob/master/docker.md>
+* [Docker](docker.md)

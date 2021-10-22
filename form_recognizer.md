@@ -27,3 +27,9 @@
 ## TRAIN
 
 * Build Training Data Set - https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/build-training-data-set
+
+## MISC
+
+* Covid19 cv19 with forms - https://techcommunity.microsoft.com/t5/azure-ai/building-a-vaccination-verification-system-using-azure-form/ba-p/2839701
+
+

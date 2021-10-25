@@ -45,6 +45,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * Facial Recognition - 10 transactions per second.  Can be increased by a service request.
 * Form Recognizer - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/form-recognizer/ - soft cap 5000 models
 * LUIS - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-limits
+* QnAMaker - https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/limits?tabs=v1
 * Search - https://docs.microsoft.com/en-us/azure/search/search-limits-quotas-capacity
 * Search synonyms map <https://docs.microsoft.com/en-us/rest/api/searchservice/create-synonym-map>
 * Translate <https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits>

@@ -26,4 +26,5 @@
   * deploy: https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/tree/master/labs 
   * live: https://kma.azurewebsites.net/ 
   * source: https://github.com/Azure/AIPlatform/tree/master/end-to-end-solutions/kma/src 
+* Github AI collection - https://github.com/Microsoft/AI
 * Robotic Process Automation - https://github.com/akshata29/msrpa - built off KMA sets

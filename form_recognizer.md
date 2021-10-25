@@ -1,15 +1,16 @@
 # FORMS RECOGNIZER
 
-* APIs - https://aka.ms/form-recongizer/api
-* Feedback - https://cognitive.uservoice.com/
 * Forms recognizers home - https://aka.ms/form-recognizer
 * Limits - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/form-recognizer/
 * Documentation - Https://aka.ms/form-recognizer/docs
-* Setup Forms Recog Preview - https://portal.azure.com/?microsoft_azure_marketplace_ItemHideKey=microsoft_azure_cognitiveservices_formUnderstandingPreview#create/Microsoft.CognitiveServicesFormRecognizer
+* What's new - https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/whats-new?tabs=csharp
+
+## HA/DR
+
+* Copy model - allows you to move models from one sub to another - https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/disaster-recovery
 
 ## LEARN
 
-* DataOps Pipeline - https://github.com/tayganr/DataOps
 * Form Recognizer with Az Functions - https://github.com/tayganr/form-recognizer
 * Quickstart using curl - https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/quickstarts/curl-train-extract
 * Quickstart using postman - https://www.taygan.co/blog/2019/06/30/form-recognizer

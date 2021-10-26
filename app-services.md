@@ -48,17 +48,6 @@
 * VNET - linux preview for app services - https://github.com/Azure/app-service-linux-docs/blob/master/app_service_linux_vnet_integration.md 
 * ASE - includes functions <https://docs.microsoft.com/en-us/azure/app-service/environment/intro>
 
-## STATIC WEB APPS
-
-Full stack JavaScript web apps with static frontends and optional dynamic backends powered by serverless APIs.
-
-* Calling authenticated web apps - https://techcommunity.microsoft.com/t5/apps-on-azure/calling-static-web-apps-authenticated-api-endpoints/
-* Docs - https://aka.ms/swadocs
-* CLI - https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-the-azure-static-web-apps-cli/ba-p/2257581?WT.mc_id=dotnet-0000-shboyer
-* Introducing Static Web Apps -https://techcommunity.microsoft.com/t5/azure-app-service/introducing-app-service-static-web-apps/ba-p/1394451
-* Getting started with Azure Static Web Apps - https://blog.codewithdan.com/getting-started-with-azure-static-web-apps/
-* Learn - https://aka.ms/learnswa
-
 ## WEB APPS
 
 * Value points for Web Apps (v Pivotal) <https://seroter.wordpress.com/2019/02/08/eight-things-your-existing-asp-net-apps-should-get-for-free-from-a-good-platform>

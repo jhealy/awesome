@@ -2,6 +2,7 @@
 
 * .NET Core documentation - https://docs.microsoft.com/en-us/dotnet/core/get-started
 * Awesome .NET Collection <https://github.com/quozd/awesome-dotnet>
+* Announcements (aka releases) from the pg - https://github.com/dotnet/announcements/labels/Monthly-Update
 * Bugs and Issues - File here - https://github.com/dotnet/corefx
 * API check - https://apisof.net/ .  For instance, to see if DataSet is there - https://apisof.net/catalog/System.Data.DataSet
 * API check - https://docs.microsoft.com/en-us/dotnet/api/?view=netstandard-2.0

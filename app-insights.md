@@ -2,7 +2,7 @@
 
 * **Overview** -  https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
 * API summary - https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics
-* Best Practices - https://devblogs.microsoft.com/premier-developer/azure-application-insights-best-practices/
+* developer guide- https://dev.applicationinsights.io/
 * Filtering telemetry - https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-filtering-sampling#filtering
 * Functions monitoring using App Insights - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring
 * IP Addresses - https://docs.microsoft.com/en-us/azure/azure-monitor/app/ip-addresses
@@ -42,3 +42,4 @@
 ## MISC
 
 * Cookies - turning off via isCoookUseDisabled=true ( https://docs.microsoft.com/en-us/azure/azure-monitor/app/javascript ).  This configuration disables the User and Session cookies, effectively rendering all experiences built on those fields useless. This includes all the Usage Blades and Experiences. Distributed tracing should continue to work, though events will not be correlated to a specific user.
+k

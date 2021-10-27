@@ -12,6 +12,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * API Management Limits - <https://github.com/MicrosoftDocs/azure-docs/blob/master/includes/api-management-service-limits.md>
 * API Management Limits and known issues - <https://docs.microsoft.com/en-us/azure/api-management/api-management-api-import-restrictions>
 * App Service Plan - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#app-service-limits
+* App Service - Static Web Apps - see Static Web Apps below
 * DevOps - Git - https://docs.microsoft.com/en-us/azure/devops/repos/git/limits?view=azure-devops
 * EventHub - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-quotas : 32 partition default max but can be bumped - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/?ref=msdn 
 * File - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-files-scale-targets> max file share size, max file size, more
@@ -36,6 +37,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * SQL, Azure - logical limits - https://docs.microsoft.com/en-us/azure/azure-sql/database/resource-limits-logical-server
 * SQL Database - VM - 32,767 user connections - https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/data-warehousing#key-selection-criteria
 * SQL Data Warehouse - 240 TB db size - lots of other goodies - https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-service-capacity-limits - 60 TB tables
+* Static Web Apps - https://docs.microsoft.com/en-us/azure/static-web-apps/quotas
 * Storage - see storage section below
 * Teams - https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#meetings-and-calls
 * Translate - https://docs.microsoft.com/en-us/azure/cognitive-services/translator/request-limits

@@ -5,6 +5,14 @@
 * Documentation - Https://aka.ms/form-recognizer/docs
 * What's new - https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/whats-new?tabs=csharp
 
+## ARCHITECTURES
+
+* Automate forms processing with Azure forms recognizer - https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2020/10/22/how-to-automate-forms-processing-with-azure-form-recognizer/
+* Knowledge mining in business process management - https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/business-process-management
+* Knowledge mining in contract management - https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/contract-management
+* Knowledge mining for content research - https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/content-research
+
+
 ## HA/DR
 
 * Copy model - allows you to move models from one sub to another - https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/disaster-recovery
@@ -31,6 +39,7 @@
 
 ## MISC
 
+* Containerizing FR - https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/containers/
 * Covid19 cv19 with forms - https://techcommunity.microsoft.com/t5/azure-ai/building-a-vaccination-verification-system-using-azure-form/ba-p/2839701
 
 

@@ -1,6 +1,7 @@
 # VSCODE
 
 * Awesome links collection <https://github.com/viatsko/awesome-vscode>
+* Browser driven - https://vscode.dev
 * Keyboard shortcuts for Windows <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf>
 
 ## LEARN
@@ -29,3 +30,4 @@
 * Linux > Install Nuget Package in VS Code on Linux -https://blogs.msdn.microsoft.com/benjaminperkins/2017/10/18/how-to-install-nuget-package-in-visual-studio-code-linux-ubuntu/
 * Linux > Unable to run on Ubuntu using RDP - https://github.com/Microsoft/vscode/issues/3451
 * Markdown in VSCode - https://code.visualstudio.com/Docs/languages/markdown
+* Python - * VSCode for python using Pylance - https://visualstudiomagazine.com/articles/2021/09/08/vscode-python-sep21.aspx

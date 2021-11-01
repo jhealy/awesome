@@ -34,6 +34,7 @@
 
 ## MISC
 * Async profiling - https://docs.microsoft.com/en-us/visualstudio/profiling/analyze-async?view=vs-2019
+* Async wait in sync methods - https://www.ryadel.com/en/asyncutil-c-helper-class-async-method-sync-result-wait
 * Enumerable v Lists/Arrays - https://medium.com/@ben.k.muller/c-ienumerable-vs-list-and-array-9f099f157f4f
 * Events tutorial - https://msdn.microsoft.com/en-us/library/aa645739(v=vs.71).aspx
 * Extension methods collection - http://extensionmethod.net/

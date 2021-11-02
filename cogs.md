@@ -8,6 +8,7 @@
 * Intelligent Kiosk - http://aka.ms/KioskApp, https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk/
 * Learn <https://aischool.microsoft.com/en-us/home>
 * OCR and Handwritten sections using Computer Vision and Azure COGS <https://www.microsoft.com/developerblog/2018/05/07/handwriting-detection-and-recognition-in-scanned-documents-using-azure-ml-package-computer-vision-azure-cognitive-services-ocr/>
+* Pricing - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/
 * Privacy - your data and privacy - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
 * Speech > Custom language model <https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-customize-language-model>
 * Speech > Speech to Text WebSockets Sample (js) - <https://github.com/Azure-Samples/SpeechToText-WebSockets-Javascript>

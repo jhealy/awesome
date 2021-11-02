@@ -3,6 +3,7 @@
 * Forms recognizers home - https://aka.ms/form-recognizer
 * Limits - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/form-recognizer/
 * Documentation - Https://aka.ms/form-recognizer/docs
+* Pricing - https://azure.microsoft.com/en-in/pricing/details/form-recognizer/
 * What's new - https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/whats-new?tabs=csharp
 
 ## ARCHITECTURES

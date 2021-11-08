@@ -17,7 +17,7 @@
 
 ## VS2022
 
-* VS2022 and .NET CORE 6.0 - https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-6/
+* VS2022 and .NET CORE 6.0 - release - https://docs.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.0.0 
 
 ## VS2019
 

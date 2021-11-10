@@ -39,6 +39,7 @@
 ## FUNCTIONS
 
 * Function Reference - https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference
+* Using Logic Apps and functions async with webhooks for callbacks - https://docs.microsoft.com/en-us/azure/connectors/connectors-native-webhook
 
 ## GOVERNANCE
 

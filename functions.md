@@ -3,6 +3,7 @@
 * **Doc** home <https://docs.microsoft.com/en-us/azure/azure-functions/>
 * Announcements aka broke things and how to fix.  Got issues check here <https://github.com/Azure/app-service-announcements/>
 * Availability of functions - watch out for Euro <https://azure.microsoft.com/en-us/global-infrastructure/services/>
+* Best practices for reliable Azure Functions - https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices?tabs=csharp
 * Bindings and triggers - https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
 * Blog - Jeff Hollan - Program Manager (no rss) <https://medium.com/@jeffhollan>
 * Choose between Flow, Logic Apps, Functions, and WebJobs - https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs

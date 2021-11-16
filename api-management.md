@@ -76,6 +76,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 * Admin UI (new) and Mocks <https://www.youtube.com/watch?v=i9PjUAvw7DQ&t=1s>
 * Bootcamp <https://github.com/shanepeckham/api_management>
+* HOL - https://azure.github.io/apim-lab/
 * Manage Change in your APIs with Azure API Management (Nov 2017) <https://www.youtube.com/watch?v=kVM-5vQymIA&t=14s> 
 * RBAC in API Management ( Jan 2017 ) <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Quick starts here (2) - <https://docs.microsoft.com/en-us/azure/api-management/>

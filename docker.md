@@ -7,6 +7,7 @@ Exploration of things docker but not ACS/AKS/AppService container
 * **Dockerfile Reference** - https://docs.docker.com/engine/reference/builder/
 * Best practices - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 * Kubernetes versus docker - https://rancher.com/blog/2018/2018-10-09-kubernetes-versus-docker
+* Licensing revisions - Jan 2022 - https://www.docker.com/blog/updating-product-subscriptions/?utm_campaign=2021-11-17-subscription-change-reminder
 
 ## CONTAINER SAMPLES
 

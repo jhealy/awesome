@@ -12,6 +12,7 @@
 * Compared with .NET Framework > https://stackoverflow.com/questions/42939454/what-is-the-difference-between-net-core-and-net-standard-class-library-project
 * Dependency injection in .net core 3.0 - https://medium.com/@alexalvess/dependency-injection-and-inversion-of-control-on-net-core-3136fe98b72
 * Diagnostics via EventFlow - https://github.com/Azure/diagnostics-eventflow
+* Diagnostics via dotnet monitor - https://devblogs.microsoft.com/dotnet/announcing-dotnet-monitor-in-net-6/
 * Inversion of control in .net core 3.0 - y-project
 * Dependency injection in .net core 3.0 - https://medium.com/@alexalvess/dependency-injection-and-inversion-of-control-on-net-core-3136fe98b72
 * Logging in .NET Core <https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-2.1#tracesource-provider>

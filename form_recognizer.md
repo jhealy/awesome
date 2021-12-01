@@ -3,7 +3,9 @@
 * Forms recognizers home - https://aka.ms/form-recognizer
 * Limits - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/form-recognizer/
 * Documentation - Https://aka.ms/form-recognizer/docs
-* Pricing - https://azure.microsoft.com/en-us/pricing/details/form-recognizer/#:~:text=Explore%20pricing%20options%20%20%20%20Instance%20,...%20%20%20%2410%20per%201%2C000%20pages%20
+* Multiple Model - https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/label-tool#compose-trained-models 
+* Pricing - https://azure.microsoft.com/en-us/pricing/details/form-recognizer/
+#:~:text=Explore%20pricing%20options%20%20%20%20Instance%20,...%20%20%20%2410%20per%201%2C000%20pages%20
 * What's new - https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/whats-new?tabs=csharp
 
 ## ARCHITECTURES

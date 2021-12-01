@@ -34,6 +34,7 @@
 * Azure Functions and .NET Core - preview - https://github.com/Azure/Azure-Functions/wiki/V4-early-preview
 * Installing, VS2022 and such (0823/21) https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-6/
 * Runtime options and targets - maui, blazor.... https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx
+* Winforms enhancements in .NET 6.0 - https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0/
 
 ## .NET 5.0
 

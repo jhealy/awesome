@@ -7,3 +7,7 @@
 * Getting started with Azure Static Web Apps - https://blog.codewithdan.com/getting-started-with-azure-static-web-apps/
 * Learn - https://aka.ms/learnswa
 * Quotas / limits - https://docs.microsoft.com/en-us/azure/static-web-apps/quotas
+
+## PRIVACY
+
+* Private endpoint w static - https://docs.microsoft.com/en-us/azure/static-web-apps/private-endpoint

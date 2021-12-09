@@ -1,7 +1,7 @@
 # AZURE APP SERVICES
 
 * **Azure Info Hub** - App Service - https://azureinfohub.azurewebsites.net/Service?serviceTitle=App%20Service 
-* **Blog** - https://antares-blog-staging-pr-154.azurewebsites.net/feed.xml
+* **Blog** - https://azure.github.io/AppService/
 * Announcements <https://github.com/Azure/app-service-announcements/>
 * Case Study > Migrating an on-premise solution to Azure PaaS services with automated deployment (may 2017) <https://microsoft.github.io/techcasestudies/devops/2017/05/12/Somerset_CC_DevOps.html> - Azure App services, Docker, PostgreSQL
 * Cloning - https://docs.microsoft.com/en-us/azure/app-service/app-service-web-app-cloning#current-restrictions
@@ -21,6 +21,12 @@
 ## DEVOPS
 
 * Az Devops for Web Apps <https://azure.microsoft.com/en-us/solutions/architecture/azure-devops-continuous-integration-and-continuous-deployment-for-azure-web-apps/>
+
+## HA/DR
+
+* Demystifying the magic behind App Service OS updates - https://azure.github.io/AppService/2018/01/18/Demystifying-the-magic-behind-App-Service-OS-updates.html
+* OS Runtime and patching for PaaS - https://docs.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime
+* Ultimate Guide to running Healthy Apps in the cloud - https://azure.github.io/AppService/2020/05/15/Robust-Apps-for-the-cloud.html
 
 ## MIGRATION FROM IIS
 
@@ -62,8 +68,6 @@
 ## MISC
 
 * Can you stop App Service to save costs? https://docs.microsoft.com/en-us/answers/questions/278494/can-we-stop-azure-app-service-to-save-cost-1.html
-* Demystifying the magic behind App Service OS updates - https://azure.github.io/AppService/2018/01/18/Demystifying-the-magic-behind-App-Service-OS-updates.html
-* OS Runtime and patching for PaaS - https://docs.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime
 * Storage - az cli to add storage - https://docs.microsoft.com/en-us/cli/azure/webapp/config/storage-account?view=azure-cli-latest#az-webapp-config-storage-account-add
 
 SEE ALSO Azure App Service Environments - https://github.com/jhealy/awesome/blob/master/azure-ase.md

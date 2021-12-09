@@ -61,6 +61,7 @@
 ## MISC
 
 * Federating ServiceBus with things like EventHub - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-overview
-* RabbitMQ Integration - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-integrate-with-rabbitmq
+* RabbitMQ Integration - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-integrate-with-rabbitmq - https://docs.microsoft.com/en-us/dotnet/api/azure.messaging.servicebus.servicebusprocessor?view=azure-dotnet
+* ServiceBusProcessor (aka Push)
 * SmartHive Meeting Room with Service Bus - https://github.com/Microsoft/MTC_SmartHive
 * Troubleshooting AMQP errors in Service Bus - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-troubleshoot

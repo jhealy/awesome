@@ -62,6 +62,7 @@
 ## MISC
 
 * Can you stop App Service to save costs? https://docs.microsoft.com/en-us/answers/questions/278494/can-we-stop-azure-app-service-to-save-cost-1.html
+* Demystifying the magic behind App Service OS updates - https://azure.github.io/AppService/2018/01/18/Demystifying-the-magic-behind-App-Service-OS-updates.html
 * OS Runtime and patching for PaaS - https://docs.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime
 * Storage - az cli to add storage - https://docs.microsoft.com/en-us/cli/azure/webapp/config/storage-account?view=azure-cli-latest#az-webapp-config-storage-account-add
 

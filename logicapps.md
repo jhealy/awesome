@@ -116,6 +116,7 @@ Will eventually move out to its own ISE page
 * Liquid templates (b2b) - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-liquid-transform
 * On-Premise Data Gateway - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-connection
 * SAP - https://aka.ms/saplogicapps
+* Sentiment analysis of SMS with Logic apps - https://techcommunity.microsoft.com/t5/azure-communication-services/prototyping-sentiment-analysis-of-sms-with-logic-apps
 * Using Logic Apps to assist with DevOps <https://azure.microsoft.com/en-us/resources/videos/extending-devops-with-serverless-logic-apps/>
 * VS2019 Extension - https://marketplace.visualstudio.com/items?itemName=VinaySinghMSFT.AzureLogicAppsToolsForVS2019 
 * XML Integration - http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-create-eai-logic-app-using-vetr/

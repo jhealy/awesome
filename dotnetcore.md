@@ -133,6 +133,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 
 ## MISC
 
+* App settings - https://docs.microsoft.com/en-us/dotnet/api/system.configuration.configurationmanager.appsettings?view=dotnet-plat-ext-6.0
 * Auth -> Two factor auth in .net core - https://www.meziantou.net/implementing-two-factor-authentication-in-an-asp-net-core-application.htm
 * AWS Lambda .NET Core 2.0 Support Released - https://aws.amazon.com/blogs/developer/aws-lambda-net-core-2-0-support-released/
 * Azure Service Stack Supported - https://blogs.msdn.microsoft.com/appserviceteam/2018/03/12/azure-app-service-on-azure-stack-update-one-released/

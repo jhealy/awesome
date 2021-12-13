@@ -54,6 +54,11 @@ Formerly known as Visual Studio Mobile Center
 * MS Learn - https://docs.microsoft.com/en-us/learn/browse/?term=devops
 * Hands on labs <https://almvm.azurewebsites.net/>
 
+## RELEASE GATES
+
+* Doc on Release Gates - https://docs.microsoft.com/en-us/azure/devops/pipelines/release/approvals/?view=azure-devops
+* Azure Policy and Release Gates - https://devblogs.microsoft.com/devops/controlling-release-pipelines-with-gates-and-azure-policy-compliance/
+
 ## SAMPLES
 
 * Microsoft Docs system as open source - how to build it out yourself - GitHub / DevOps / Az Storage - https://aka.ms/iwantdocs 

@@ -25,6 +25,7 @@
 ## DEAD LETTER QUEUES ( DLQ )
 
 * Overview - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dead-letter-queues
+* Dead letter expired messages - https://blog.tomkerkhove.be/2015/01/07/automatically-dead-letter-expired-messages-in-azure-service-bus-how-it-works/
 * Sample - https://github.com/Azure/azure-service-bus/tree/master/samples/DotNet/Microsoft.ServiceBus.Messaging/DeadletterQueue
 
 ## HA/DR
@@ -41,6 +42,10 @@
 * Portal Quickstart - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-portal
 * Samples -  https://github.com/Azure/azure-service-bus/tree/master/samples/DotNet 
 * Queues - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues
+
+## MONITOR
+
+* Monitor service bus subscriptions - https://blog.tomkerkhove.be/2020/12/11/monitoring-azure-service-bus-topic-subscriptions/
 
 ## PERFORMANCE
 

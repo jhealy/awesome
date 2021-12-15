@@ -51,16 +51,12 @@ Transpiler for ARM.  Similar to TypeScript for JS.  ARM <-> BICEP.
 
 ## TOOLS - ARM CLIENT SAMPLES
 
-<dt>Az Subs - List</dt><dd>armclient GET /subscriptions?api-version=2018-11-01</dd>
-<dt>Az Advisory Alerts to WebHook</dt><dd>https://docs.microsoft.com/en-us/azure/advisor/advisor-alerts</dd>
-<dt>Logic Apps parameter inspection</dt><dd>armclient get https://management.azure.com/$subid/providers/Microsoft.Logic/workflows?api-version=2017-07-01</dd>
-<dt>Microsoft.Web/connectors parameter inspection</dt><dd>armclient get https://management.azure.com/$subid/providers/Microsoft.Web/locations/centralus/managedApis/gmail?api-version=2018-07-01-preview<br/>
-armclient get https://management.azure.com/$subid/providers/Microsoft.Web/locations/centralus/managedApis/smtp?api-version=2018-07-01-preview<br/>
-armclient get https://management.azure.com/$subid/providers/Microsoft.Web/locations/centralus/managedApis/office365?api-version=2018-07-01-preview
-</dd>
-<dt>Resource Groups - List</dt><dd>armclient GET /subscriptions/{subid}/resourceGroups?api-version=2018-05-01</dd>
-<dt>Websites in an RG - List</dt><dd>armclient GET $subid/resourceGroups/madison/providers/Microsoft.Web/sites?api-version=2018-11-01</dd>
-</dl>
+* ARMClient home - https://github.com/projectkudu/ARMClient 
+* Az Subs - List: `armclient GET /subscriptions?api-version=2018-11-01`
+* Az Advisory Alerts to WebHook: `https://docs.microsoft.com/en-us/azure/advisor/advisor-alerts`
+* Logic Apps parameter inspection:  `armclient get https://management.azure.com/$subid/providers/Microsoft.Logic/workflows?api-version=2017-07-01`
+* Resource Groups - List: `armclient GET /subscriptions/{subid}/resourceGroups?api-version=2018-05-01`
+* Websites in an RG - List: `armclient GET $subid/resourceGroups/madison/providers/Microsoft.Web/sites?api-version=2018-11-01`
 
 ## MISC
 

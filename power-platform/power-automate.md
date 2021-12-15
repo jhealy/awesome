@@ -51,6 +51,7 @@ Renamed from Microsoft Flow at Ignite 2019 in October 2019 timeframe.
 * Copy files automatically - https://flow.microsoft.com/en-us/guided-learning/learning-copy-files/
 * Crisis template - https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/
 * Data collection - https://flow.microsoft.com/en-us/guided-learning/learning-collect-data/
+* Email - html formats - https://blog.sandro-pereira.com/2020/01/26/logic-apps-how-to-send-a-well-formatted-html-email-notification-with-office-365-outlook-connector/
 * Email - Post when emailed - https://ms.flow.microsoft.com/en-us/documentation/get-started-logic-template/
 * Email - Send form responses for approval - Forms, approvals and sharepoint - https://us.flow.microsoft.com/en-us/galleries/public/templates/4071c6b040c611e7ad68c1c80e905297/send-form-responses-for-approval/
 * Email - Send working from home email to manager - shows how to lookup manager - https://emea.flow.microsoft.com/en-us/galleries/public/templates/2971f500d14d4882bba3acaafceccc5f/send-a-working-from-home-today-email-to-your-manager/

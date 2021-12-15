@@ -38,6 +38,7 @@ Transpiler for ARM.  Similar to TypeScript for JS.  ARM <-> BICEP.
 
 * Master template reference on Az Docs <https://docs.microsoft.com/en-us/azure/templates/>
 * Non-profits center for Azure - arm templates and contoso store  plus ppts <https://github.com/Microsoft/Nonprofits>
+* Quickstart samples - https://docs.microsoft.com/en-us/azure/app-service/quickstart-arm-template?toc=%2Fazure%2Fazure-resource-manager%2Ftemplates%2Ftoc.json&pivots=platform-linux
 * Quickstart templates for ARM <https://azure.microsoft.com/en-us/resources/templates/>
 * Quickstart templates for ARM github <https://github.com/singhkays/azure-quickstart-templates>
 

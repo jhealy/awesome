@@ -2,7 +2,8 @@
 
 All the goodness I've found on Azure Resource Manager and templates. 
 
-* ARMMeet - ARM Community yammer group - https://aka.ms/ARMMeet
+* Docs - https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+* Docs for ARM templates with simple tutorials - https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/
 * Move operations by resource type - https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-support-resources#microsoftnetwork
 
 ## BICEP TRANSPILER
@@ -14,6 +15,11 @@ Transpiler for ARM.  Similar to TypeScript for JS.  ARM <-> BICEP.
 * Quickstart - https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code?tabs=CLI
 * Learn - https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep
 
+## DEPLOYMENT
+
+* AZDO pipeline - https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-tutorial-pipeline
+* Linked template - https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-tutorial-linked-template?tabs=azure-powershell
+
 ## KEY VAULT ( AKV )
 
 * ARM template reference for keyvault <https://docs.microsoft.com/en-us/azure/templates/microsoft.keyvault/vaults>
@@ -23,8 +29,10 @@ Transpiler for ARM.  Similar to TypeScript for JS.  ARM <-> BICEP.
 
 ## LEARN
 
-* Azure Citadel <https://azurecitadel.com/automation/>
+* Azure Citadel - https://azurecitadel.com/automation/
+* VS Code Quickstart - https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/quickstart-create-templates-use-visual-studio-code?tabs=CLI
 * What's new with ARM Templates (Nov 2019) - https://www.youtube.com/watch?v=3D-JIKShrws
+
 
 ## TEMPLATE COLLECTIONS
 

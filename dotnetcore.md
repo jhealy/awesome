@@ -33,6 +33,7 @@
 ## .NET 6.0
 
 * Azure Functions and .NET Core - preview - https://github.com/Azure/Azure-Functions/wiki/V4-early-preview
+* Distributed transactions - N/A in 5.0 and fwd - https://github.com/dotnet/runtime/issues/715
 * Installing, VS2022 and such (0823/21) https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-6/
 * Runtime options and targets - maui, blazor.... https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx
 * Winforms enhancements in .NET 6.0 - https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0/
@@ -42,6 +43,7 @@
 * .NET 5.0 Preview 3 Announce - https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-3/
 * Assembly trimming in .NET Core 5.0 - https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/
 * App service availability on GA - https://azure.microsoft.com/en-us/updates/net-5-now-available-in-app-service/
+* Distributed transactions - N/A in 5.0 and fwd - https://github.com/dotnet/runtime/issues/715
 
 ### MAUI
 * ASP.NET Core in .net 5 - https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/

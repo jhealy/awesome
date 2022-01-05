@@ -3,12 +3,12 @@
 Tenants around private endpoints, confidential computing, compliance for privacy, et al.....
 
 * Confidential Computing in Az - https://docs.microsoft.com/en-us/azure/confidential-computing/overview 
+* Confidential computing scenarios - https://docs.microsoft.com/en-us/azure/confidential-computing/use-cases-scenarios
 * Dedicated Hosts - physical servers dedicated to one Azure Subscription - https://docs.microsoft.com/en-us/azure/virtual-machines/dedicated-hosts
 
 ## PRIVATE LINK
 
 * Security baseline - https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/private-link-security-baseline
-
 
 ## PRODUCTS
 

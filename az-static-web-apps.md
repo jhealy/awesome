@@ -8,6 +8,10 @@
 * Learn - https://aka.ms/learnswa
 * Quotas / limits - https://docs.microsoft.com/en-us/azure/static-web-apps/quotas
 
+## MONITORING
+
+* App Insights with static websites - https://docs.microsoft.com/en-us/azure/static-web-apps/monitor
+
 ## PRIVACY
 
 * Private endpoint w static - https://docs.microsoft.com/en-us/azure/static-web-apps/private-endpoint

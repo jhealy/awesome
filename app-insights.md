@@ -42,4 +42,4 @@
 ## MISC
 
 * Cookies - turning off via isCoookUseDisabled=true ( https://docs.microsoft.com/en-us/azure/azure-monitor/app/javascript ).  This configuration disables the User and Session cookies, effectively rendering all experiences built on those fields useless. This includes all the Usage Blades and Experiences. Distributed tracing should continue to work, though events will not be correlated to a specific user.
-k
+* Static web sites and app insights - https://docs.microsoft.com/en-us/azure/static-web-apps/monitor 

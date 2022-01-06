@@ -20,3 +20,7 @@ The mainline scenarios are also focused on severless so we can handle your long 
 | Client | No client or protocol requirement | Bring your own websocket lib | Ref David Fowler - https://twitter.com/davidfowl/status/1387885009625780228 |
 | Graceful degredation | Downgrades protocols | WebSocket only | SR will degrade through various protocols depending on client capability, PubSub will not.  No long polling or server sent event fallback for pubsub.  Pure web socket. |
 
+## MISC
+
+* PubSub and API-M - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/expand-your-application-with-real-time-messaging-api-capability/ba-p/3039913?WT.mc_id=dotnet-0000-jhealy
+

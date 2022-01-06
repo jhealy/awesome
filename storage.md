@@ -54,6 +54,20 @@
   * Defensive functions - https://www.defenseagainstthedarkarts.com/defensive-functions/
 * Securing Azure Storage <https://docs.microsoft.com/en-us/azure/storage/common/storage-security-guide>
 
+## SFTP
+
+
+* Host key list - https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-host-keys
+* Known issues - https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-known-issues
+* SFTP support for blob protocol doc - https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support
+* Tutorial - Blob container sftp endpoint support (preview as of jan 05 2022) - https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-how-to
+* SFTP in Azure using ACI/Containers (not blob storage endpoint) - https://docs.microsoft.com/en-us/samples/azure-samples/sftp-creation-template/sftp-on-azure/
+
+### SFTP AND OTHER THINGS
+
+* ADF and SFTP - https://docs.microsoft.com/en-us/azure/data-factory/connector-sftp?tabs=data-factory
+* Logic Apps and SFTP - https://docs.microsoft.com/en-us/azure/connectors/connectors-sftp-ssh
+
 ## TOOLS
 
 * Azure Explorer - RedGate's free azure storage management tool <https://www.red-gate.com/products/azure-development/azure-explorer/index>
@@ -81,5 +95,4 @@
 * ADLS G2 Connector for PowerApps, Automate, Flow - https://docs.microsoft.com/en-us/connectors/azureblob/#azure-data-lake-storage-gen2
 * Fileshares - mounting on windows vms - https://docs.microsoft.com/en-us/azure/storage/files/storage-files-quick-create-use-windows
 * How to alert on az storage blob access using Az Monitor and Log Analytics - https://devblogs.microsoft.com/premier-developer/how-to-alert-on-azure-blob-metrics/
-* SFTP in Azure - https://docs.microsoft.com/en-us/samples/azure-samples/sftp-creation-template/sftp-on-azure/
 * Slicing large blobs - https://www.dynabyte.se/blog/2013/10/09/uploading-directly-to-windows-azure-blob-storage-f/

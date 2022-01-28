@@ -12,6 +12,10 @@
 * .NET Decision Tree for Docker <https://docs.microsoft.com/en-us/azure/app-service/quickstart-custom-container?tabs=dotnet&pivots=container-linux>
 * Using Windows Auth in ASP.NET Core via http.sys in containers - <https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/>
 
+## AZURE CONTAINER APPS ( ACA )
+
+* Connected Microservices with Azure Container Apps - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/connected-microservices-with-azure-container-apps/
+
 ## APP SERVICE CONTAINERS
 
 * CI/CD for App Service and Function Containers - <https://docs.microsoft.com/en-us/azure/app-service/containers/app-service-linux-ci-cd>

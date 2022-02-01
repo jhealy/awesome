@@ -26,6 +26,10 @@
 * Implementing a Serverless Architecture - functions, storage, cogs, cosmosdb <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
 * Tutorials - developer, migrate, query, replicate in sql, mongo, table, gremlin and cassandra - https://azure.microsoft.com/en-us/services/cosmos-db/
 
+## MONGODB MIGRATION
+
+* DMA tool planning tool - https://github.com/AzureCosmosDB/Cosmos-DB-Migration-Assistant-for-API-for-MongoDB
+
 # REQUEST UNITS
 
 * Find the charge for an operation programmatically - https://docs.microsoft.com/en-us/azure/cosmos-db/find-request-unit-charge

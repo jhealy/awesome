@@ -8,6 +8,7 @@ Tenants around private endpoints, confidential computing, compliance for privacy
 
 ## PRIVATE LINK
 
+* Private link Awesome collection - dauser - https://github.com/dmauser/PrivateLink
 * Security baseline - https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/private-link-security-baseline
 
 ## PRODUCTS

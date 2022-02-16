@@ -22,6 +22,10 @@ Formerly known as Visual Studio Mobile Center
 * Roadmap - https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline#features-under-development
 * Slack App for VSMC - https://blogs.msdn.microsoft.com/mobilecenter/introducing-the-mobile-center-slack-app/
 
+## BUILD AGENTS
+
+* Aks hosted build agents - https://github.com/ganrad/Az-DevOps-Agent-On-AKS
+
 ## BOARDS
 
 * Backlogs - https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/define-features-epics?view=azure-devops&tabs=agile-process

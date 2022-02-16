@@ -50,11 +50,18 @@ Monitoring microservice arch in AKS - <https://docs.microsoft.com/en-us/azure/ar
 
 ## SLA
 
-QUERY: SLA has verbage - "For customers who have purchased an Azure Kubernetes Service (AKS) Uptime SLA".   Does that mean we need to purchase something in order to have the SLA?  <https://azure.microsoft.com/en-us/support/legal/sla/kubernetes-service/v1_1/>
-
-RESOLUTION: Dig further into doc.  “This Service Level Agreement for Microsoft Online Services (this “SLA”) is a part of your Microsoft volume licensing agreement (the “Agreement”).”
+AKS control plane is free, but does not come with an SLA, to enable an SLA need to opt in -  <https://azure.microsoft.com/en-us/support/legal/sla/kubernetes-service/v1_1/>
 
 ## WINDOWS
 
 * K8S Windows Walkthrough - <https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md>
 * Windows Container Support Announce - April 2020 - <https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-windows-server-containers-and-private-clusters-for-azure-kubernetes-service/> :: <https://cloudblogs.microsoft.com/windowsserver/2020/04/28/windows-server-container-support-in-azure-kubernetes-service-is-now-generally-available/>
+
+## Tools
+
+* AKV2K8s: Solution for exposing Key Vault backed secrets to AKS - <https://akv2k8s.io/how-it-works/>
+* Key Vault CSI Driver: Alt solution for exposing Key Vault backed secrets to AKS - <https://docs.microsoft.com/en-us/azure/aks/csi-secrets-store-driver>
+* CSI Driver - <https://docs.microsoft.com/en-us/azure/aks/azure-disk-csi>
+* CSI Driver Git Repo - <https://github.com/kubernetes-sigs/azuredisk-csi-driver>
+* Kured: Utility to gracefully reboot nodes gracefully - <https://github.com/weaveworks/kured>
+* Lens: IDE for K8s - <https://k8slens.dev/>

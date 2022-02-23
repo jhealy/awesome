@@ -56,6 +56,7 @@
 ## PRIVACY
 
 * Integrating Service Bus with private link - https://docs.microsoft.com/en-us/azure/service-bus-messaging/private-link-service
+* Private link arm template - https://github.com/Azure/azure-quickstart-templates/blob/master/quickstarts/microsoft.servicebus/servicebus-private-endpoint/azuredeploy.json
 
 ## WINDOWS SERVICE BUS EOL
 

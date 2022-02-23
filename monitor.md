@@ -24,6 +24,7 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/usage-estimated-costs
 ## MONITOR
 
 * How to alert on az storage blob access using Az Monitor and Log Analytics - https://devblogs.microsoft.com/premier-developer/how-to-alert-on-azure-blob-metrics/
+* Prediction by trailing points - https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/series-decompose-forecastfunction
 
 ## .NET CORE AND APP INSIGHTS
 

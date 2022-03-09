@@ -107,6 +107,7 @@ See App Center above....
 * Functions and devops - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
 * Image generation - json for az pipelines image generation - https://github.com/Microsoft/azure-pipelines-image-generation/tree/master/images/win
 * Jenkins > Integrating VSTS with Jenkins - lab ( April 2018 ) - <https://almvm.azurewebsites.net/labs/vstsextend/jenkins/#approach-2-wrapping-jenkins-job-within-the-vsts-build>
+* Kudu API and App Services - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploy-your-app-service-flexibly-with-azure-devops-pipeline/
 * Load testing - alternatives - https://docs.microsoft.com/en-us/azure/devops/test/load-test/overview?view=azure-devops#alternatives
 * Load testing - https://dev.to/brpaz/load-testing-your-applications-with-artillery-4m1p
 * Managing Azure Secrets on GitHub Repos using Microsoft Credential Scanner <https://azure.microsoft.com/en-us/blog/managing-azure-secrets-on-github-repositories/>

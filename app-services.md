@@ -21,6 +21,7 @@
 ## DEVOPS
 
 * Az Devops for Web Apps <https://azure.microsoft.com/en-us/solutions/architecture/azure-devops-continuous-integration-and-continuous-deployment-for-azure-web-apps/>
+* Kudu api and app services - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploy-your-app-service-flexibly-with-azure-devops-pipeline/
 
 ## HA/DR
 

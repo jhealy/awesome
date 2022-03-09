@@ -27,6 +27,9 @@ Formerly known as Visual Studio Mobile Center
 ## BUILD AGENTS
 
 * Aks hosted build agents - https://github.com/ganrad/Az-DevOps-Agent-On-AKS
+* Host Azure DevOps Build Containers on AKS - https://medium.com/beyondthecorneroffice/host-azure-devops-build-containers-on-aks-beb7239026b2
+* Self Hosted AzDO Agents on AKS - A Follow-Up - https://medium.com/beyondthecorneroffice/self-hosted-azure-devops-agents-on-aks-a-follow-up-9115a4726f39
+* AKS Build Script repo (dated) - https://github.com/gambtho/aks-azuredevops-agent
 
 ## BOARDS
 

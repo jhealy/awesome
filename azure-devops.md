@@ -12,6 +12,7 @@ ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile
 https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-levels?view=azure-devops
 * Roadmap - https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline
 * Twelve factors of devops - https://12factor.net/
+* Youtube channel - https://www.youtube.com/c/AzureDevOps
 
 ## APP CENTER
 

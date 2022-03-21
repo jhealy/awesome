@@ -11,6 +11,7 @@ Tenants around private endpoints, confidential computing, compliance for privacy
 * Private link Awesome collection - dauser - https://github.com/dmauser/PrivateLink
 * Security baseline - https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/private-link-security-baseline
 * ServiceBus and PrivateLink - https://docs.microsoft.com/en-us/azure/service-bus-messaging/private-link-service
+* Service bus + private link arm template - https://github.com/Azure/azure-quickstart-templates/blob/master/quickstarts/microsoft.servicebus/servicebus-private-endpoint/azuredeploy.json
 
 ## PRODUCTS
 

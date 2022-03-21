@@ -7,10 +7,12 @@ ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile
 * DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
 * DevOps Demo Generator is now open sourced - https://devblogs.microsoft.com/devops/azure-devops-demo-generator-is-now-open-source/
 * DevOps Hands-On-Labs <https://almvm.azurewebsites.net/>
+* Feature request - https://developercommunity.visualstudio.com/spaces/21/index.html
 * Licensing - what users can and cannot do with the different levels  (StakeHolder, Basic, Basic+TestManagement)
 https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-levels?view=azure-devops
 * Roadmap - https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline
-* Feature request - https://developercommunity.visualstudio.com/spaces/21/index.html
+* Twelve factors of devops - https://12factor.net/
+* Youtube channel - https://www.youtube.com/c/AzureDevOps
 
 ## APP CENTER
 
@@ -21,6 +23,13 @@ Formerly known as Visual Studio Mobile Center
 * Announce - https://blogs.msdn.microsoft.com/vsappcenter/introducing-visual-studio-app-center/?utm_source=devfish
 * Roadmap - https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline#features-under-development
 * Slack App for VSMC - https://blogs.msdn.microsoft.com/mobilecenter/introducing-the-mobile-center-slack-app/
+
+## BUILD AGENTS
+
+* Aks hosted build agents - https://github.com/ganrad/Az-DevOps-Agent-On-AKS
+* Host Azure DevOps Build Containers on AKS - https://medium.com/beyondthecorneroffice/host-azure-devops-build-containers-on-aks-beb7239026b2
+* Self Hosted AzDO Agents on AKS - A Follow-Up - https://medium.com/beyondthecorneroffice/self-hosted-azure-devops-agents-on-aks-a-follow-up-9115a4726f39
+* AKS Build Script repo (dated) - https://github.com/gambtho/aks-azuredevops-agent
 
 ## BOARDS
 
@@ -101,6 +110,7 @@ See App Center above....
 * Functions and devops - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
 * Image generation - json for az pipelines image generation - https://github.com/Microsoft/azure-pipelines-image-generation/tree/master/images/win
 * Jenkins > Integrating VSTS with Jenkins - lab ( April 2018 ) - <https://almvm.azurewebsites.net/labs/vstsextend/jenkins/#approach-2-wrapping-jenkins-job-within-the-vsts-build>
+* Kudu API and App Services - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploy-your-app-service-flexibly-with-azure-devops-pipeline/
 * Load testing - alternatives - https://docs.microsoft.com/en-us/azure/devops/test/load-test/overview?view=azure-devops#alternatives
 * Load testing - https://dev.to/brpaz/load-testing-your-applications-with-artillery-4m1p
 * Managing Azure Secrets on GitHub Repos using Microsoft Credential Scanner <https://azure.microsoft.com/en-us/blog/managing-azure-secrets-on-github-repositories/>

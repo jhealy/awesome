@@ -108,6 +108,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Analytics - Monitoring - https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-use-azure-monitor
 * Azure Function Proxies - like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * httpbin - simple http request and response service - free - http://httpbin.org/ - about httpbin - https://www.kennethreitz.org/essays/httpbin
+* Large files - https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation?toc=%2Fazure%2Fapi-management%2Ftoc.json#optimize-requests-and-responses-that-involve-large-objects
 * OAuth and API-M - https://stackoverflow.com/questions/65463426/authenticate-azure-api-management-with-oauth2-using-azure-ad
 * Policies - Sample policies <https://aka.ms/apimpolicyexamples> - throttling https://docs.microsoft.com/en-us/azure/api-management/api-management-sample-flexible-throttling
 * PubSub and API-M - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/expand-your-application-with-real-time-messaging-api-capability/ba-p/3039913?WT.mc_id=dotnet-0000-jhealy

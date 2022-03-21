@@ -41,6 +41,10 @@ Things common to the Power Platform as a whole.
 
 * DLP - Connector blocking - https://powerapps.microsoft.com/en-us/blog/new-data-loss-prevention-capabilities-in-public-preview/
 
+## MISC
+
+* Visio stencils for Power Platform - https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio
+
 ## SEE ALSO
 
 * Power Automate (formerly flow) - [power-automate.md](./power-automate.md)

@@ -51,6 +51,7 @@
 
 ## SECURITY
 
+* Deploy webapp with azdo with restricted access - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-deploy-your-web-app-from-azure-pipeline-with-restricted/
 * IP Endpoint restrictions - https://docs.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions
 * Security Baseline for Azure App Service (checklist) - https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/app-service-security-baseline
 * VNET - includes functions <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>

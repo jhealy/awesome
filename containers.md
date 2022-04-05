@@ -14,7 +14,7 @@
 
 ## AZURE CONTAINER APPS ( ACA )
 
-* Connected Microservices with Azure Container Apps - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/connected-microservices-with-azure-container-apps/
+* Connected Microservices with Azure Container Apps - https://docs.microsoft.com/en-us/azure/container-apps/
 
 ## APP SERVICE CONTAINERS
 

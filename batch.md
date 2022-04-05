@@ -59,3 +59,4 @@
 * Application packages aka zips - https://docs.microsoft.com/en-us/azure/batch/batch-application-packages
 * Batch - Monitor .NET Azure Batch Using Application Insights - https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously
 * Batch Labs - monitor your azure batch jobs - https://azure.github.io/BatchLabs/
+* Cromwell Genetics Workflow on Az Batch - https://github.com/microsoft/CromwellOnAzure

@@ -14,6 +14,7 @@ Free or cheap data sets to play with
 ## ART
 
 * Biodiversity heritage library - Smithsonian - open - https://www.flickr.com/photos/biodivlibrary/
+* Book of Kells - https://digitalcollections.tcd.ie/concern/works/hm50tr726?locale=en
 * Paris museum art collection - 150k free pd images - http://www.parismusees.paris.fr/en/actualite/open-content-150000-works-from-the-museum-collections-of-the-city-of-paris-freely - API: http://apicollections.parismusees.paris.fr/ - collections home: http://parismuseescollections.paris.fr/fr
 
 

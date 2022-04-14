@@ -14,11 +14,8 @@ Free or cheap data sets to play with
 ## ART
 
 * Biodiversity heritage library - Smithsonian - open - https://www.flickr.com/photos/biodivlibrary/
-<<<<<<< HEAD
 * GIF - make animated gif from drawing - https://www.eatmy.art/
-=======
 * Book of Kells - https://digitalcollections.tcd.ie/concern/works/hm50tr726?locale=en
->>>>>>> fec89ff3d8f10a0d020d3f6251d3ca100f4c05f1
 * Paris museum art collection - 150k free pd images - http://www.parismusees.paris.fr/en/actualite/open-content-150000-works-from-the-museum-collections-of-the-city-of-paris-freely - API: http://apicollections.parismusees.paris.fr/ - collections home: http://parismuseescollections.paris.fr/fr
 
 

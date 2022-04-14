@@ -2,6 +2,7 @@
 
 * **Overview** -  https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
 * API summary - https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics
+* codeless injection - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/magic-behind-app-insights-codeless-integration-with-app-services/
 * developer guide- https://dev.applicationinsights.io/
 * Filtering telemetry - https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-filtering-sampling#filtering
 * Functions monitoring using App Insights - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring

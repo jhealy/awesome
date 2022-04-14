@@ -64,5 +64,4 @@ Transpiler for ARM.  Similar to TypeScript for JS.  ARM <-> BICEP.
 
 * ARM errors on deploy - https://github.com/projectkudu/kudu/wiki/Investigating-msdeploy-ARM-failures
 * Callback URL for Logic App in ARM <https://stackoverflow.com/questions/47012601/getting-callback-url-for-logic-app-in-arm>
-* REST specs for Azure - https://github.com/Azure/azure-rest-api-specs
 * Visualize ARM Templates in VS Code - https://marketplace.visualstudio.com/items?itemName=bencoleman.armview

@@ -13,6 +13,7 @@
 * Dependency injection in .net core 3.0 - https://medium.com/@alexalvess/dependency-injection-and-inversion-of-control-on-net-core-3136fe98b72
 * Diagnostics via EventFlow - https://github.com/Azure/diagnostics-eventflow
 * Diagnostics via dotnet monitor - https://devblogs.microsoft.com/dotnet/announcing-dotnet-monitor-in-net-6/
+* Github for runtime - https://github.com/dotnet/runtime
 * Inversion of control in .net core 3.0 - y-project
 * Dependency injection in .net core 3.0 - https://medium.com/@alexalvess/dependency-injection-and-inversion-of-control-on-net-core-3136fe98b72
 * Logging in .NET Core <https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-2.1#tracesource-provider>
@@ -24,6 +25,7 @@
 * Runtime - Book of the Runtime - https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
 * SDK downloads - https://dotnet.microsoft.com/download/dotnet-core
 * Support policy (timelines / LTS) - https://dotnet.microsoft.com/platform/support/policy/dotnet-core
+* Support - report bugs at issues - https://github.com/dotnet/runtime
 * System Requirements - https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements
 * Telemetry Reports -  https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/
 *https://themesof.net/?q=is:closed%20kinds:eu 

@@ -14,7 +14,7 @@
 
 ## AZURE CONTAINER APPS ( ACA )
 
-* Connected Microservices with Azure Container Apps - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/connected-microservices-with-azure-container-apps/
+* Connected Microservices with Azure Container Apps - https://docs.microsoft.com/en-us/azure/container-apps/
 
 ## APP SERVICE CONTAINERS
 
@@ -63,6 +63,7 @@
 * Selenium on Windows Docker - <https://medium.com/@aandryashin/selenium-on-windows-docker-revolution-f5a7eab205ad>
 * Support policy for win10 containers - <https://support.microsoft.com/en-us/help/4489234/support-policy-for-windows-containers-and-docker-on-premises>
 * Virus scanning for win/linux containers by McAfee - <https://kc.mcafee.com/corporate/index?page=content&id=KB90041&actp=null&viewlocale=en_US&showDraft=false&platinum_status=false&locale=en_US>
+* thttpd - tiny static web server - in a container - https://lipanski.com/posts/smallest-docker-image-static-website 
 
 ## SEE ALSO
 

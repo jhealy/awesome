@@ -28,6 +28,7 @@
 ## LEARN
 
 * Build and deploy a multi-container application in Azure Container Service - ASP.NET Core / K8S / Docker / (ebook)(march 2018) https://azure.microsoft.com/en-us/resources/build-and-deploy-a-multi-container-application-in-azure-container-service/en-us/
+* Create a web app with aspnetcore (mslearn) - https://docs.microsoft.com/en-us/learn/modules/create-razor-pages-aspnet-core/?view=aspnetcore-6.0
 * dotnetfoundation training - https://github.com/dotnet-presentations
 * LearnRazorPages - https://www.learnrazorpages.com
 * MVA - ASP.NET CORE Learning Path - https://mva.microsoft.com/learning-path/asp-net-core-6

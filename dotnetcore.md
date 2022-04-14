@@ -30,6 +30,10 @@
 * What's news - https://docs.microsoft.com/en-us/dotnet/whats-new/?WT.mc_id=blog-docs-shboyer
 * Windows Compatibility Pack - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack
 
+## .NET 7.0
+
+* Preview 3 - April 2022 - https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/
+
 ## .NET 6.0
 
 * Azure Functions and .NET Core - preview - https://github.com/Azure/Azure-Functions/wiki/V4-early-preview

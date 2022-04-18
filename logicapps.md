@@ -57,6 +57,10 @@
 * Introducing Azure Logic Apps - https://www.youtube.com/watch?v=ksU5OCf3cn0
 * Go from Zero to Hero with Logic Apps [June 2017] - https://channel9.msdn.com/Events/Build/2017/C9R17
 
+## MONITOR
+
+* Monitor logic apps with app insights - https://platform.deloitte.com.au/articles/monitoring-logic-apps-standard-with-app-insights-querying , https://platform.deloitte.com.au/articles/monitoring-logic-apps-standard-with-app-insights-implementation
+
 ## SAMPLES
 
 * Microsoft Samples - https://github.com/logicappsio

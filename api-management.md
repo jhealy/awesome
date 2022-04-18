@@ -46,6 +46,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 ## DEVOPS
 
 * **API-M Devops Home - https://aka.ms/apimdevops**
+* APIOps Hands on lab by WaelK - https://azure.github.io/apiops/
 * Automating deployment of Azure API Management changes using Azure Devops - https://waelkdouh.medium.com/automating-deployment-of-azure-api-management-changes-using-azure-devops-7af1985faa98
 * Az API-M DevOps Resource Kit - https://aka.ms/apimdevops
 * Build a CI/CD pipeline for API Management - https://azure.microsoft.com/en-us/blog/build-a-ci-cd-pipeline-for-api-management/

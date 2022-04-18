@@ -59,7 +59,7 @@
 
 ## MONITOR
 
-* Monitor logic apps with app insights - https://platform.deloitte.com.au/articles/monitoring-logic-apps-standard-with-app-insights-querying , https://platform.deloitte.com.au/articles/monitoring-logic-apps-standard-with-app-insights-implementation
+* Monitor logic apps with app insights - https://platform.deloitte.com.au/articles/monitoring-logic-apps-standard-with-app-insights-querying , https://platform.deloitte.com.au/articles/monitoring-logic-apps-standard-with-app-insights-implementation , https://platform.deloitte.com.au/articles/monitoring-logic-apps-standard-with-app-insights-querying
 
 ## SAMPLES
 

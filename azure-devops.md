@@ -6,7 +6,6 @@ ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile
 * DevOps at Microsoft - https://aka.ms/DevOpsAtMicrosoft
 * DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
 * DevOps Demo Generator is now open sourced - https://devblogs.microsoft.com/devops/azure-devops-demo-generator-is-now-open-source/
-* DevOps Hands-On-Labs <https://almvm.azurewebsites.net/>
 * Feature request - https://developercommunity.visualstudio.com/spaces/21/index.html
 * Licensing - what users can and cannot do with the different levels  (StakeHolder, Basic, Basic+TestManagement)
 https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-levels?view=azure-devops
@@ -61,7 +60,6 @@ Formerly known as Visual Studio Mobile Center
 * DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
 * DevOps hands on labs - tons of labs <https://www.azuredevopslabs.com/>
 * MS Learn - https://docs.microsoft.com/en-us/learn/browse/?term=devops
-* Hands on labs <https://almvm.azurewebsites.net/>
 
 ## RELEASE GATES
 

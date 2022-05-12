@@ -120,8 +120,7 @@ See App Center above....
 * PowerApps Devops add-in - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools
 * PowerBI Devops - https://social.technet.microsoft.com/wiki/contents/articles/53172.azuredevops-cicd-for-powerbi-reports.aspx
 * Python in AzDO - https://docs.microsoft.com/en-us/learn/modules/deploy-python/?WT.mc_id=twitter
-* Synapse - CI CD in Azure Synapse Analytics Part 1 https://lnkd.in/egxV3jG - CI CD in Azure Synapse Analytics Part 2
-https://lnkd.in/euwHQZt - Part 3 https://techcommunity.microsoft.com/t5/data-architecture-blog/ci-cd-in-azure-synapse-analytics-part-3/ba-p/1993201
+* Synapse - [see synapse.md](synapse.md)
 * Team Explorer Everywhere - Eclipse and command line plugin - https://github.com/Microsoft/team-explorer-everywhere
 * TechNet Virtual Labs - https://almvm.azurewebsites.net/labs/tfs/technet/
 * TerraForm > An Intro to TerraForm <https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/>

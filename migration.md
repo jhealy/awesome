@@ -30,6 +30,13 @@ Non-database data, such as files.
 * Migrate service overview - https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview
 * Step by step migration for physical VMs using Azure Migrate - https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines
 
+## MODERNIZATION
+
+* Microservices assessment checklist - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/microservices-assessment 
+* Modernize to service fabric - https://docs.microsoft.com/en-us/azure/architecture/service-fabric/modernize-app-azure-service-fabric
+* Pattern - anti corruption layer - https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer
+* Pattern - strangler fig - https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler-fig
+
 ## SQL SERVER
 
 * Data Migration Tool ( dma ) - https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-ver15#

@@ -6,7 +6,6 @@ ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile
 * DevOps at Microsoft - https://aka.ms/DevOpsAtMicrosoft
 * DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
 * DevOps Demo Generator is now open sourced - https://devblogs.microsoft.com/devops/azure-devops-demo-generator-is-now-open-source/
-* DevOps Hands-On-Labs <https://almvm.azurewebsites.net/>
 * Feature request - https://developercommunity.visualstudio.com/spaces/21/index.html
 * Licensing - what users can and cannot do with the different levels  (StakeHolder, Basic, Basic+TestManagement)
 https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-levels?view=azure-devops
@@ -61,7 +60,6 @@ Formerly known as Visual Studio Mobile Center
 * DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
 * DevOps hands on labs - tons of labs <https://www.azuredevopslabs.com/>
 * MS Learn - https://docs.microsoft.com/en-us/learn/browse/?term=devops
-* Hands on labs <https://almvm.azurewebsites.net/>
 
 ## RELEASE GATES
 
@@ -122,8 +120,7 @@ See App Center above....
 * PowerApps Devops add-in - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools
 * PowerBI Devops - https://social.technet.microsoft.com/wiki/contents/articles/53172.azuredevops-cicd-for-powerbi-reports.aspx
 * Python in AzDO - https://docs.microsoft.com/en-us/learn/modules/deploy-python/?WT.mc_id=twitter
-* Synapse - CI CD in Azure Synapse Analytics Part 1 https://lnkd.in/egxV3jG - CI CD in Azure Synapse Analytics Part 2
-https://lnkd.in/euwHQZt - Part 3 https://techcommunity.microsoft.com/t5/data-architecture-blog/ci-cd-in-azure-synapse-analytics-part-3/ba-p/1993201
+* Synapse - [see synapse.md](synapse.md)
 * Team Explorer Everywhere - Eclipse and command line plugin - https://github.com/Microsoft/team-explorer-everywhere
 * TechNet Virtual Labs - https://almvm.azurewebsites.net/labs/tfs/technet/
 * TerraForm > An Intro to TerraForm <https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/>

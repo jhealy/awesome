@@ -32,6 +32,7 @@ Non-database data, such as files.
 
 ## MODERNIZATION
 
+* Legacy application modernization - https://azure.microsoft.com/en-us/overview/legacy-application-modernization/
 * Microservices assessment checklist - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/microservices-assessment 
 * Modernize to service fabric - https://docs.microsoft.com/en-us/azure/architecture/service-fabric/modernize-app-azure-service-fabric
 * Pattern - anti corruption layer - https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer

@@ -32,6 +32,7 @@ Non-database data, such as files.
 
 ## MODERNIZATION
 
+* Legacy application modernization - https://azure.microsoft.com/en-us/overview/legacy-application-modernization/
 * Microservices assessment checklist - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/microservices-assessment 
 * Modernize existing .NET applications with Azure cloud and Windows Containers
 - https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/

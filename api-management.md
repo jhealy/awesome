@@ -59,11 +59,8 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 ## GRAPHQL AND API-M
 
-“Unfortunately, there isn't any support for GraphQL as of today.  There is a feature request to support introspection of a GraphQL schema document in APIM which you can up vote for it to gain traction.  That being said, since GraphQL requests are essential HTTP requests in the end, you could always serve them over HTTP but would end up losing lots of features APIM (or any pure REST API Gateway for that matter) provide - especially caching, authorization, etc.”  Pramod Valavala – Microsoft – Jan 29, 2019
-
-* Thread on GraphQL : https://social.msdn.microsoft.com/Forums/azure/en-US/afda077a-c3ec-4cde-af1b-0ba826f55d6d/is-graphql-supported?forum=azureapimgmt  
-* Feature request for schema parsing -439 votes -  https://feedback.azure.com/forums/248703-api-management/suggestions/32113882-graphql-introspective-support-within-api-managemen 
-* Apollo server for az function graphql integration - https://stackoverflow.com/questions/43123969/graphql-with-azure-functions - https://www.npmjs.com/package/apollo-server-azure-functions 
+* Announcement: https://docs.microsoft.com/azure/api-management/graphql-api?WT.mc_id=wwc-aces
+* Documentation: https://azure.microsoft.com/updates/general-availability-graphql-passthrough-support-in-azure-api-management/
 
 ## IP ADDRESSES
 

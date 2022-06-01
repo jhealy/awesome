@@ -96,7 +96,7 @@
 * Lockbox - 
 * Mobile Apps Using Xamarin and Azure - Good extensions around existing apps with Azure - https://developer.xamarin.com/guides/cross-platform/azure/Resources/poster.>
 * Move resources from one RG or subscription to another - <https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources>
-* Naming Conventions - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
+* Naming Conventions - https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming
 * Networking > Measuring latency and throughput between azure regions <https://blogs.msdn.microsoft.com/mioteg/2017/11/20/measuring-latency-and-throughput-between-azure-regions/>
 * Non-profits center for Azure - arm templates and contoso store  plus ppts <https://github.com/Microsoft/Nonprofits>
 * Portal - how to avoid preview portal - https://portal.azure.com/?feature.customportal=false

@@ -6,6 +6,7 @@
 * Backup and restore - <https://docs.microsoft.com/en-us/azure/cosmos-db/online-backup-and-restore>
 * Capacity calculator - https://cosmos.azure.com/capacitycalculator/
 * Change feed streams <https://docs.microsoft.com/en-us/azure/cosmos-db/change-feed>
+* China via 21viaNet - https://www.azure.cn/en-us/support/sla/cosmos-db/
 * CosmosDB and Azure Function Integration - https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/
 * CosmosDB Graph via Gremlin - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
 * FAQ - <https://docs.microsoft.com/en-us/azure/cosmos-db/faq>

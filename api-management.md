@@ -113,6 +113,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * OAuth and API-M - https://stackoverflow.com/questions/65463426/authenticate-azure-api-management-with-oauth2-using-azure-ad
 * Policies - Sample policies <https://aka.ms/apimpolicyexamples> - throttling https://docs.microsoft.com/en-us/azure/api-management/api-management-sample-flexible-throttling
 * PubSub and API-M - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/expand-your-application-with-real-time-messaging-api-capability/ba-p/3039913?WT.mc_id=dotnet-0000-jhealy
+* Request Tracing for DevOps - https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-api-inspector 
 * Security - RBAC <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Static IPs <https://feedback.azure.com/forums/248703-api-management/suggestions/32805958-ability-to-assign-public-static-ip-address-to-publ>
 * Swaggerhub with api-m - https://swagger.io/blog/api-development/api-management-with-azure-and-swaggerhub/

@@ -23,6 +23,7 @@
 
 ## AZURE SERVICES IN A CONTAINER
 
+* api-m - https://docs.microsoft.com/en-us/azure/api-management/self-hosted-gateway-overview
 * cogs - <https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support#prerequisites>
 * forms recognizer - https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/containers/
 * speech service - <https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-container-howto?tabs=stt%2Ccsharp>

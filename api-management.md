@@ -51,6 +51,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Az API-M DevOps Resource Kit - https://aka.ms/apimdevops
 * Build a CI/CD pipeline for API Management - https://azure.microsoft.com/en-us/blog/build-a-ci-cd-pipeline-for-api-management/
 * CLI / Powershell SDK ref - https://docs.microsoft.com/en-us/powershell/module/az.apimanagement/?view=azps-2.4.0#api_management
+* Containerized api-m - https://docs.microsoft.com/en-us/azure/api-management/self-hosted-gateway-overview
 * DevOps Extension by Stephane Ekskens - https://marketplace.visualstudio.com/items?itemName=stephane-eyskens.apim , https://github.com/stephaneey/azure-apim-extension
 * Example of Az API Management Devops - https://github.com/Azure/azure-api-management-devops-example
 * Service Management REST API (docs) - https://docs.microsoft.com/en-us/rest/api/apimanagement/?redirectedfrom=devfish

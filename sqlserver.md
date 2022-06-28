@@ -1,6 +1,7 @@
 # SQL SERVER
 
 * Decision guide for data stores - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree
+* Bulk migration tool for faster movemement of large data sources - https://github.com/azure-samples/smartbulkcopy/tree/master/
 
 ## LEARN
 

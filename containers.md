@@ -12,6 +12,10 @@
 * .NET Decision Tree for Docker <https://docs.microsoft.com/en-us/azure/app-service/quickstart-custom-container?tabs=dotnet&pivots=container-linux>
 * Using Windows Auth in ASP.NET Core via http.sys in containers - <https://artisticcheese.wordpress.com/2017/09/10/using-windows-authentication-in-asp-net-core-via-http-sys-server/>
 
+## AZURE CONTAINER APPS ( ACA )
+
+* Connected Microservices with Azure Container Apps - https://docs.microsoft.com/en-us/azure/container-apps/
+
 ## APP SERVICE CONTAINERS
 
 * CI/CD for App Service and Function Containers - <https://docs.microsoft.com/en-us/azure/app-service/containers/app-service-linux-ci-cd>
@@ -19,6 +23,7 @@
 
 ## AZURE SERVICES IN A CONTAINER
 
+* api-m - https://docs.microsoft.com/en-us/azure/api-management/self-hosted-gateway-overview
 * cogs - <https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support#prerequisites>
 * forms recognizer - https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/containers/
 * speech service - <https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-container-howto?tabs=stt%2Ccsharp>
@@ -59,6 +64,7 @@
 * Selenium on Windows Docker - <https://medium.com/@aandryashin/selenium-on-windows-docker-revolution-f5a7eab205ad>
 * Support policy for win10 containers - <https://support.microsoft.com/en-us/help/4489234/support-policy-for-windows-containers-and-docker-on-premises>
 * Virus scanning for win/linux containers by McAfee - <https://kc.mcafee.com/corporate/index?page=content&id=KB90041&actp=null&viewlocale=en_US&showDraft=false&platinum_status=false&locale=en_US>
+* thttpd - tiny static web server - in a container - https://lipanski.com/posts/smallest-docker-image-static-website 
 
 ## SEE ALSO
 

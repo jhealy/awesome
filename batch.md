@@ -17,6 +17,10 @@
 * Quotas and limits - <https://docs.microsoft.com/en-us/azure/batch/batch-quota-limit>
 * Shipyard for docker - <https://github.com/Azure/batch-shipyard/>
 
+## DEPLOY
+
+* CLI - Batch extensions - https://github.com/Azure/azure-batch-cli-extensions, parameterization - https://github.com/Azure/azure-batch-cli-extensions/blob/master/doc/templates.md , task factories - https://github.com/Azure/azure-batch-cli-extensions/blob/master/doc/taskFactories.md
+
 ## LEARN
 
 * Parallel with the Batch Explorer tool.  Also a good general intro to batch.  <https://github.com/tojozefi/azurebatch/tree/master/customcode>  
@@ -55,3 +59,4 @@
 * Application packages aka zips - https://docs.microsoft.com/en-us/azure/batch/batch-application-packages
 * Batch - Monitor .NET Azure Batch Using Application Insights - https://docs.microsoft.com/en-us/azure/batch/monitor-application-insights#monitor-compute-nodes-continuously
 * Batch Labs - monitor your azure batch jobs - https://azure.github.io/BatchLabs/
+* Cromwell Genetics Workflow on Az Batch - https://github.com/microsoft/CromwellOnAzure

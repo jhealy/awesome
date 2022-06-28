@@ -16,6 +16,9 @@
 
 ## LOG ANALYTICS
 
+Log Analytics does not support ADX “admin” commands (commands that start with dot).
+No  OOB support for ad-hoc data export - backlog). Use streaming data export, or use query API.
+
 * Costs - https://docs.microsoft.com/en-us/azure/azure-monitor/logs/manage-cost-storage
 https://docs.microsoft.com/en-us/azure/azure-monitor/usage-estimated-costs
 * How to alert on az storage blob access using Az Monitor and Log Analytics - https://devblogs.microsoft.com/premier-developer/how-to-alert-on-azure-blob-metrics/
@@ -24,6 +27,7 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/usage-estimated-costs
 ## MONITOR
 
 * How to alert on az storage blob access using Az Monitor and Log Analytics - https://devblogs.microsoft.com/premier-developer/how-to-alert-on-azure-blob-metrics/
+* Prediction by trailing points - https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/series-decompose-forecastfunction
 
 ## .NET CORE AND APP INSIGHTS
 
@@ -41,15 +45,3 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/app/ilogger
 * Powershell - built in function to log to app insights - https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell#logging
 * Splunk - Az Monitor setup - https://www.splunk.com/en_us/blog/cloud/splunking-microsoft-azure-monitor-data-part-1-azure-setup.html
 * Splunk - Az Monitor Addon - https://github.com/Microsoft/AzureMonitorAddonForSplunk/wiki/Azure-Monitor-Addon-For-Splunk
-
-
-
-Azure Updates:
-
-Documentation:
-
-Useful Skills & Courses:
-
-Monthly AMA:
-
-Case Studies:

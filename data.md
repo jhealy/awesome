@@ -4,6 +4,7 @@ Free or cheap data sets to play with
 
 * Data.gov - tons of government data sets - http://www.data.gov
 * FL-Orlando city data - https://data.cityoforlando.net/
+* HealthData.gov - US Gov health data sets - https://healthdata.gov/
 * National Archives documents - https://www.ianvisits.co.uk/blog/2020/04/23/national-archives-makes-its-entire-digital-archive-available-for-free/
 * NOAA Data - https://www.ncdc.noaa.gov/data-access/quick-links
 * NJ Death Index - https://www.newjerseydeathindex.com/
@@ -13,6 +14,8 @@ Free or cheap data sets to play with
 ## ART
 
 * Biodiversity heritage library - Smithsonian - open - https://www.flickr.com/photos/biodivlibrary/
+* GIF - make animated gif from drawing - https://www.eatmy.art/
+* Book of Kells - https://digitalcollections.tcd.ie/concern/works/hm50tr726?locale=en
 * Paris museum art collection - 150k free pd images - http://www.parismusees.paris.fr/en/actualite/open-content-150000-works-from-the-museum-collections-of-the-city-of-paris-freely - API: http://apicollections.parismusees.paris.fr/ - collections home: http://parismuseescollections.paris.fr/fr
 
 

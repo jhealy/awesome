@@ -13,6 +13,7 @@
 * Dependency injection in .net core 3.0 - https://medium.com/@alexalvess/dependency-injection-and-inversion-of-control-on-net-core-3136fe98b72
 * Diagnostics via EventFlow - https://github.com/Azure/diagnostics-eventflow
 * Diagnostics via dotnet monitor - https://devblogs.microsoft.com/dotnet/announcing-dotnet-monitor-in-net-6/
+* Github for runtime - https://github.com/dotnet/runtime
 * Inversion of control in .net core 3.0 - y-project
 * Dependency injection in .net core 3.0 - https://medium.com/@alexalvess/dependency-injection-and-inversion-of-control-on-net-core-3136fe98b72
 * Logging in .NET Core <https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-2.1#tracesource-provider>
@@ -24,11 +25,16 @@
 * Runtime - Book of the Runtime - https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
 * SDK downloads - https://dotnet.microsoft.com/download/dotnet-core
 * Support policy (timelines / LTS) - https://dotnet.microsoft.com/platform/support/policy/dotnet-core
+* Support - report bugs at issues - https://github.com/dotnet/runtime
 * System Requirements - https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements
 * Telemetry Reports -  https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/
 *https://themesof.net/?q=is:closed%20kinds:eu 
 * What's news - https://docs.microsoft.com/en-us/dotnet/whats-new/?WT.mc_id=blog-docs-shboyer
 * Windows Compatibility Pack - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack
+
+## .NET 7.0
+
+* Preview 3 - April 2022 - https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/
 
 ## .NET 6.0
 
@@ -36,6 +42,7 @@
 * Distributed transactions - N/A in 5.0 and fwd - https://github.com/dotnet/runtime/issues/715
 * Installing, VS2022 and such (0823/21) https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-6/
 * Runtime options and targets - maui, blazor.... https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx
+* Sockets keepalive - https://docs.microsoft.com/en-us/dotnet/api/system.net.servicepoint.settcpkeepalive?view=net-6.0
 * Winforms enhancements in .NET 6.0 - https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0/
 
 ## .NET 5.0

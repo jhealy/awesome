@@ -27,16 +27,19 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
   * Making the case to increase limits - https://docs.microsoft.com/en-us/azure/key-vault/general/overview-throttling#how-does-key-vault-handle-its-limits
 * Load Balancer - no bandwidth/throughput cap. It's backbone/wire speed - https://docs.microsoft.com/en-us/azure/load-balancer/concepts-limitations#skus
 * Monitor - https://docs.microsoft.com/en-us/azure/azure-monitor/service-limits#log-analytics-workspaces
+* Policy limits - https://docs.microsoft.com/en-us/azure/governance/policy/overview#maximum-count-of-azure-policy-objects
 * Power Automate -  https://docs.microsoft.com/en-us/power-automate/limits-and-config
 * Power BI Dataflow - Pro and Premium - https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview#dataflow-capabilities-on-power-bi-premium 
 * Power Platform Custom Connectors - https://docs.microsoft.com/en-us/connectors/custom-connectors/faq#limits
 * Power Virtual Agent Bot - https://docs.microsoft.com/en-us/power-virtual-agents/requirements-quotas
+* Role limits - 2000 per sub as of 01/21/22 - https://docs.microsoft.com/en-us/azure/role-based-access-control/troubleshooting#azure-role-assignments-limit
 * Service bus quotas - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quotas
 * SQL Database (Azure) - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-limits-database-server
-* Storage limits dtu single db - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dtu-resource-limits-single-databases
-* SQL, Azure - logical limits - https://docs.microsoft.com/en-us/azure/azure-sql/database/resource-limits-logical-server
-* SQL Database - VM - 32,767 user connections - https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/data-warehousing#key-selection-criteria
-* SQL Data Warehouse - 240 TB db size - lots of other goodies - https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-service-capacity-limits - 60 TB tables
+  * Elastic pool - https://docs.microsoft.com/en-us/azure/azure-sql/database/resource-limits-vcore-elastic-pools
+  * Storage limits dtu single db - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dtu-resource-limits-single-databases
+  * SQL, Azure - logical limits - https://docs.microsoft.com/en-us/azure/azure-sql/database/resource-limits-logical-server
+  * SQL Database - VM - 32,767 user connections - https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/data-warehousing#key-selection-criteria
+  * SQL Data Warehouse - 240 TB db size - lots of other goodies - https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-service-capacity-limits - 60 TB tables
 * Static Web Apps - https://docs.microsoft.com/en-us/azure/static-web-apps/quotas
 * Storage - see storage section below
 * Teams - https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#meetings-and-calls

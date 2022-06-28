@@ -7,6 +7,7 @@
 * Cloning - https://docs.microsoft.com/en-us/azure/app-service/app-service-web-app-cloning#current-restrictions
 * Deployment Credentials - setting <https://docs.microsoft.com/en-us/azure/app-service/deploy-configure-credentials>
 * Healthcheck feature - https://azure.github.io/AppService/2020/08/24/healthcheck-on-app-service.html
+* Healthcheck api - https://docs.microsoft.com/en-us/azure/app-service/monitor-instances-health-check
 * Let's Encrypt and Azure Web Apps <https://github.com/sjkp/letsencrypt-siteextension/wiki/How-to-install>
 * Limits - <https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits?toc=%2fazure%2fvpn-gateway%2ftoc.json#app-service-limits>
 * Limits - via Pricing <https://azure.microsoft.com/en-us/pricing/details/app-service/plans/>
@@ -21,6 +22,7 @@
 ## DEVOPS
 
 * Az Devops for Web Apps <https://azure.microsoft.com/en-us/solutions/architecture/azure-devops-continuous-integration-and-continuous-deployment-for-azure-web-apps/>
+* Kudu api and app services - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploy-your-app-service-flexibly-with-azure-devops-pipeline/
 
 ## HA/DR
 
@@ -49,6 +51,7 @@
 
 ## SECURITY
 
+* Deploy webapp with azdo with restricted access - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-deploy-your-web-app-from-azure-pipeline-with-restricted/
 * IP Endpoint restrictions - https://docs.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions
 * Security Baseline for Azure App Service (checklist) - https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/app-service-security-baseline
 * VNET - includes functions <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>

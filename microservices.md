@@ -2,6 +2,7 @@
 
 Also see service Fabric topic in this wiki
 
+* Checklist for microservices review - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/microservices-assessment
 * Choose the right micrososervices approach - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#choose-a-candidate-service
 * ISV > Microservice applications - https://azure.microsoft.com/en-us/solutions/microservice-applications/
 * Macroservices - for when you have too  many microservices - http://highscalability.com/blog/2020/4/8/one-team-at-uber-is-moving-from-microservices-to-macroservic.html

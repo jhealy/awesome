@@ -12,6 +12,14 @@
 * Supporting .NET Implementations - https://docs.microsoft.com/en-us/ef/core/platforms/
 * View Support - https://github.com/aspnet/EntityFrameworkCore/issues/827
 
+## DAPPER VERSUS ENTITY FRAMEWORK
+
+* Comparison project with code - https://github.com/exceptionnotfound/DapperEFCoreQueryPerformance2019
+* Dapper versus entity framework - https://entityframework.net/ef-vs-dapper
+* Medium - https://abdmhamd.medium.com/orm-dapper-vs-entity-framework-6c3f1875e5ad
+* Performance - https://stackoverflow.com/questions/25750154/latest-dapper-vs-entity-framework-6-performance-consideration
+* Performance - https://www.exceptionnotfound.net/dapper-vs-entity-framework-core-query-performance-benchmarking-2019/
+
 # ORACLE
 * .NET Core and Entity Framework Statement of Direction - March 2018 - www.oracle.com/technetwork/topics/dotnet/tech-info/odpnet-dotnet-ef-core-sod-4395108.pdf
 * ODP.NET Core Beta Download - http://www.oracle.com/technetwork/topics/dotnet/downloads/odpnetcorebeta-4077982.html

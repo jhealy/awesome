@@ -46,10 +46,12 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 ## DEVOPS
 
 * **API-M Devops Home - https://aka.ms/apimdevops**
+* APIOps Hands on lab by WaelK - https://azure.github.io/apiops/
 * Automating deployment of Azure API Management changes using Azure Devops - https://waelkdouh.medium.com/automating-deployment-of-azure-api-management-changes-using-azure-devops-7af1985faa98
 * Az API-M DevOps Resource Kit - https://aka.ms/apimdevops
 * Build a CI/CD pipeline for API Management - https://azure.microsoft.com/en-us/blog/build-a-ci-cd-pipeline-for-api-management/
 * CLI / Powershell SDK ref - https://docs.microsoft.com/en-us/powershell/module/az.apimanagement/?view=azps-2.4.0#api_management
+* Containerized api-m - https://docs.microsoft.com/en-us/azure/api-management/self-hosted-gateway-overview
 * DevOps Extension by Stephane Ekskens - https://marketplace.visualstudio.com/items?itemName=stephane-eyskens.apim , https://github.com/stephaneey/azure-apim-extension
 * Example of Az API Management Devops - https://github.com/Azure/azure-api-management-devops-example
 * Service Management REST API (docs) - https://docs.microsoft.com/en-us/rest/api/apimanagement/?redirectedfrom=devfish
@@ -58,11 +60,8 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 ## GRAPHQL AND API-M
 
-“Unfortunately, there isn't any support for GraphQL as of today.  There is a feature request to support introspection of a GraphQL schema document in APIM which you can up vote for it to gain traction.  That being said, since GraphQL requests are essential HTTP requests in the end, you could always serve them over HTTP but would end up losing lots of features APIM (or any pure REST API Gateway for that matter) provide - especially caching, authorization, etc.”  Pramod Valavala – Microsoft – Jan 29, 2019
-
-* Thread on GraphQL : https://social.msdn.microsoft.com/Forums/azure/en-US/afda077a-c3ec-4cde-af1b-0ba826f55d6d/is-graphql-supported?forum=azureapimgmt  
-* Feature request for schema parsing -439 votes -  https://feedback.azure.com/forums/248703-api-management/suggestions/32113882-graphql-introspective-support-within-api-managemen 
-* Apollo server for az function graphql integration - https://stackoverflow.com/questions/43123969/graphql-with-azure-functions - https://www.npmjs.com/package/apollo-server-azure-functions 
+* Announcement: https://docs.microsoft.com/azure/api-management/graphql-api?WT.mc_id=wwc-aces
+* Documentation: https://azure.microsoft.com/updates/general-availability-graphql-passthrough-support-in-azure-api-management/
 
 ## IP ADDRESSES
 
@@ -76,7 +75,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 
 * Admin UI (new) and Mocks <https://www.youtube.com/watch?v=i9PjUAvw7DQ&t=1s>
 * Bootcamp <https://github.com/shanepeckham/api_management>
-* HOL - https://azure.github.io/apim-lab/
+* ``HOL`` - https://azure.github.io/apim-lab/
 * Manage Change in your APIs with Azure API Management (Nov 2017) <https://www.youtube.com/watch?v=kVM-5vQymIA&t=14s> 
 * RBAC in API Management ( Jan 2017 ) <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Quick starts here (2) - <https://docs.microsoft.com/en-us/azure/api-management/>
@@ -108,9 +107,11 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Analytics - Monitoring - https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-use-azure-monitor
 * Azure Function Proxies - like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * httpbin - simple http request and response service - free - http://httpbin.org/ - about httpbin - https://www.kennethreitz.org/essays/httpbin
+* Large files - https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation?toc=%2Fazure%2Fapi-management%2Ftoc.json#optimize-requests-and-responses-that-involve-large-objects
 * OAuth and API-M - https://stackoverflow.com/questions/65463426/authenticate-azure-api-management-with-oauth2-using-azure-ad
 * Policies - Sample policies <https://aka.ms/apimpolicyexamples> - throttling https://docs.microsoft.com/en-us/azure/api-management/api-management-sample-flexible-throttling
 * PubSub and API-M - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/expand-your-application-with-real-time-messaging-api-capability/ba-p/3039913?WT.mc_id=dotnet-0000-jhealy
+* Request Tracing for DevOps - https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-api-inspector 
 * Security - RBAC <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Static IPs <https://feedback.azure.com/forums/248703-api-management/suggestions/32805958-ability-to-assign-public-static-ip-address-to-publ>
 * Swaggerhub with api-m - https://swagger.io/blog/api-development/api-management-with-azure-and-swaggerhub/

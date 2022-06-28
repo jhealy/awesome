@@ -6,6 +6,7 @@
 * Backup and restore - <https://docs.microsoft.com/en-us/azure/cosmos-db/online-backup-and-restore>
 * Capacity calculator - https://cosmos.azure.com/capacitycalculator/
 * Change feed streams <https://docs.microsoft.com/en-us/azure/cosmos-db/change-feed>
+* China via 21viaNet - https://www.azure.cn/en-us/support/sla/cosmos-db/
 * CosmosDB and Azure Function Integration - https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/
 * CosmosDB Graph via Gremlin - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
 * FAQ - <https://docs.microsoft.com/en-us/azure/cosmos-db/faq>
@@ -22,9 +23,15 @@
 
 ## LEARN
 
+* CosmosDB for Logs - TTL and templates - https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-scenario-error-and-exception-handling?toc=/azure/cosmos-db/toc.json&bc=/azure/cosmos-db/breadcrumb/toc.json
+* CosmosDB for Immutable audit logs - https://codesimple.blog/2018/07/10/immutable-audit-log-in-cosmos-db/
 * HOLs - go to https://www.microsoft.com/handsonlabs/selfpacedlabs and search CosmosDB 
 * Implementing a Serverless Architecture - functions, storage, cogs, cosmosdb <https://dachou.github.io/2018/11/07/implementing-serverless-architecture.html>
 * Tutorials - developer, migrate, query, replicate in sql, mongo, table, gremlin and cassandra - https://azure.microsoft.com/en-us/services/cosmos-db/
+
+## MONGODB MIGRATION
+
+* DMA tool planning tool - https://github.com/AzureCosmosDB/Cosmos-DB-Migration-Assistant-for-API-for-MongoDB
 
 # REQUEST UNITS
 

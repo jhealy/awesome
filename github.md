@@ -26,6 +26,7 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-f
 ## MISC
  
 * Binary file versioning - https://git-lfs.github.com/
+* Functions IaC using GitHub Actions - https://www.andrewconnell.com/blog/how-to-cicd-iac-for-azure-function-apps-with-github-actions-step-by-step/
 * Pages - GitHub pages - websites for you and your projects - https://pages.github.com/
 * Ignoring files - https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 * Remote github repositories extension for vscode ( 06/2021 ) - https://visualstudiomagazine.com/articles/2021/06/16/remote-repos.aspx

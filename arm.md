@@ -8,10 +8,12 @@ All the goodness I've found on Azure Resource Manager and templates.
 
 ## BICEP TRANSPILER
 
-Transpiler for ARM.  Similar to TypeScript for JS.  ARM <-> BICEP.
+Transpiler for ARM.  Similar to TypeScript for JS.  ARM <-> BICEP.  Soon to be its own page!
 
 * Docs - https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview
 * Azure Landing Zone Bicep modules - https://github.com/Azure/ALZ-Bicep
+* Functions with Bicep - https://www.andrewconnell.com/blog/how-to-create-azure-function-apps-with-bicep-step-by-step/
+* Functions IaC using GitHub Actions - https://www.andrewconnell.com/blog/how-to-cicd-iac-for-azure-function-apps-with-github-actions-step-by-step/
 * JSON v BICEP - https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/compare-template-syntax
 * Quickstart - https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code?tabs=CLI
 * Learn - https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep

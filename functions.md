@@ -90,6 +90,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Durable Function class - https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/
 * Learn - https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/
 * Patterns - https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp#application-patterns 
+* Status and stopping - https://stackoverflow.com/questions/55982540/how-to-check-running-status-and-stop-durable-function
 * Wait for files and process - durable/python - https://github.com/eavanvalkenburg/azure_durable_function_waitforfilesandprocess
 
 ## ISOLATED

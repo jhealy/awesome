@@ -167,6 +167,7 @@ Convert other proj to vs2017 <https://github.com/hvanbakel/CsprojToVs2017>
 * Runtime > Multi-framework targeting - https://blogs.msdn.microsoft.com/cesardelatorre/2016/06/28/running-net-core-apps-on-multiple-frameworks-and-what-the-target-framework-monikers-tfms-are-about/
 * Static code analysis in .NET Core <https://docs.microsoft.com/en-us/visualstudio/code-quality/use-roslyn-analyzers?view=vs-2017>
 * System.Drawing in .NET Core <https://www.hanselman.com/blog/HowDoYouUseSystemDrawingInNETCore.aspx>
+* System.Threading.CancellationToken in ASP.NET Core - https://www.meziantou.net/handling-aborted-requests-in-asp-net-core.htm
 * XProj depreciated - https://visualstudio.uservoice.com/forums/563332-visual-studio-for-mac/suggestions/17136148-support-for-visual-studio-xproj-format - https://stackoverflow.com/questions/43679083/how-to-open-xproj-file-in-vs2017-2015
 * .NET API Browser - awesome - filter to core - https://docs.microsoft.com/en-us/dotnet/api/
 * Windows Compatibility pack - lots of classes to make porting from Windows to other platforms easier - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack

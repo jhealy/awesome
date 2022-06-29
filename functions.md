@@ -88,6 +88,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Doc - https://github.com/Azure/azure-functions-durable-extension
 * Durable functions making serverless last - durable functions as orchestrator - https://thenewstack.io/durable-functions-making-serverless-last/
 * Durable Function class - https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/
+* Learn - https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/
 * Patterns - https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp#application-patterns 
 * Wait for files and process - durable/python - https://github.com/eavanvalkenburg/azure_durable_function_waitforfilesandprocess
 

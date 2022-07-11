@@ -21,6 +21,7 @@
 
 * Blazor University - https://blazor-university.com/
 * Blazor Conference Feb 2020 - https://aka.ms/blazorconf , presentation decks at https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnBlazor 
+* Blazor for the ASP.NET Web Forms developers e-book - https://docs.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/
 * Learn to make Shopping Cart using ASP.NET Core Blazor using EF and Web API <https://social.technet.microsoft.com/wiki/contents/articles/51755.let-s-learn-to-make-shopping-cart-using-asp-net-core-blazor-using-ef-and-web-api.aspx>
 * BlazorTrain - carl franklin's blazor site - https://blazortrain.com/
 * Tutorial - RealWorld - <https://github.com/torhovland/blazor-realworld-example-app>

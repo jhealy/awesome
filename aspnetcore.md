@@ -72,6 +72,7 @@
 * .NET 5 and ASP.NET Core - https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/
 * Analyzers - Top 10 Static Code Analyzers for ASP.NET Core - https://bharatdwarkani.medium.com/top-10-code-quality-static-analysers-for-asp-net-core-1660ad7a8d61
 * Auth - Google Auth with ASP.NET Core - http://ruimourato.com/2016/02/12/using-google-auth-middleware-aspnetcore.html
+* AWS UI - React.js framework - https://www.npmjs.com/package/@awsui/components-react
 * Case Study > Bing runs on .NET Core 2.1 / MVC Razor <https://blogs.msdn.microsoft.com/dotnet/2018/08/20/bing-com-runs-on-net-core-2-1/>
 * Case Study > Stack overflow moving to .NET Core <https://twitter.com/Nick_Craver/status/1031858480888639488>
 * Choosing between Core and .NET - https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server

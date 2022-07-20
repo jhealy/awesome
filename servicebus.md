@@ -31,6 +31,7 @@
 
 ## HA/DR
 
+* Autoscaling service bus message units (premium tier)  - https://docs.microsoft.com/en-us/azure/service-bus-messaging/automate-update-messaging-units
 * Best practices for isolating service bus from disaster - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters
 * Handling outages and disasters - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters
 * Geo DR for SB - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-geo-dr#availability-zones

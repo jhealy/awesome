@@ -5,6 +5,7 @@ The mainline scenarios are also focused on severless so we can handle your long 
 * Home - https://azure.microsoft.com/en-us/services/web-pubsub/
 * Docs - https://docs.microsoft.com/en-us/azure/azure-web-pubsub/
 * Easily Build real-time apps with WebSockets and Az Web PubSub - Previeew - https://azure.microsoft.com/en-us/blog/easily-build-realtime-apps-with-websockets-and-azure-web-pubsub-now-in-preview/
+* Samples - https://github.com/Azure/azure-webpubsub/tree/main/samples/
 
 ## LEARN
 

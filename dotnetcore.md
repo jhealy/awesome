@@ -19,6 +19,7 @@
 * Logging in .NET Core <https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-2.1#tracesource-provider>
 * OData Lib for .NET Core - https://www.nuget.org/packages/Microsoft.AspNetCore.OData/
 * Porting > .NET Portability Analyzer - https://docs.microsoft.com/en-us/dotnet/standard/portability-analyzer
+* Porting > AWS .NET Core Porting Tool - https://visualstudiomagazine.com/articles/2021/01/19/net-porting-tool.aspx
 * Pre-requisites - Linux - https://github.com/dotnet/docs/blob/master/docs/core/linux-prerequisites.md
 * Pre-requisities - Windows - https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites
 * Release cycles and support - https://devblogs.microsoft.com/dotnet/net-core-releases-and-support/
@@ -145,6 +146,7 @@ While WWF is in VS2017 and available for Windows, WWF is not being ported 100% t
 * App settings - https://docs.microsoft.com/en-us/dotnet/api/system.configuration.configurationmanager.appsettings?view=dotnet-plat-ext-6.0
 * Auth -> Two factor auth in .net core - https://www.meziantou.net/implementing-two-factor-authentication-in-an-asp-net-core-application.htm
 * AWS Lambda .NET Core 2.0 Support Released - https://aws.amazon.com/blogs/developer/aws-lambda-net-core-2-0-support-released/
+* AWS .NET Core Deployment Tool - https://visualstudiomagazine.com/articles/2021/03/19/aws-net-deploy.aspx?oly_enc_id=6878G9202956B3A
 * Azure Service Stack Supported - https://blogs.msdn.microsoft.com/appserviceteam/2018/03/12/azure-app-service-on-azure-stack-update-one-released/
 * Background processing - Hangfire - batch processing with pro license - combine with TPL for true background proc w .net core on local machine - https://www.hangfire.io/
 * binaryformatter deprecation - https://aka.ms/binaryformatter
@@ -167,6 +169,7 @@ Convert other proj to vs2017 <https://github.com/hvanbakel/CsprojToVs2017>
 * Runtime > Multi-framework targeting - https://blogs.msdn.microsoft.com/cesardelatorre/2016/06/28/running-net-core-apps-on-multiple-frameworks-and-what-the-target-framework-monikers-tfms-are-about/
 * Static code analysis in .NET Core <https://docs.microsoft.com/en-us/visualstudio/code-quality/use-roslyn-analyzers?view=vs-2017>
 * System.Drawing in .NET Core <https://www.hanselman.com/blog/HowDoYouUseSystemDrawingInNETCore.aspx>
+* System.Threading.CancellationToken in ASP.NET Core - https://www.meziantou.net/handling-aborted-requests-in-asp-net-core.htm
 * XProj depreciated - https://visualstudio.uservoice.com/forums/563332-visual-studio-for-mac/suggestions/17136148-support-for-visual-studio-xproj-format - https://stackoverflow.com/questions/43679083/how-to-open-xproj-file-in-vs2017-2015
 * .NET API Browser - awesome - filter to core - https://docs.microsoft.com/en-us/dotnet/api/
 * Windows Compatibility pack - lots of classes to make porting from Windows to other platforms easier - https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack

@@ -9,6 +9,7 @@
 * Quotas - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quotas
 * Service Bus Explorer - Portal - https://docs.microsoft.com/en-us/azure/service-bus-messaging/explorer
 * Service Bus Explorer - clientside - https://github.com/paolosalvatori/ServiceBusExplorer/ - installing: https://codingazure.net/?p=305
+* Service Bus in the wild - https://devblogs.microsoft.com/azure-sdk/using-azure-service-bus-in-the-wild/
 * Troubleshooting guide - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide
 
 ## CLIENTS
@@ -30,6 +31,7 @@
 
 ## HA/DR
 
+* Autoscaling service bus message units (premium tier)  - https://docs.microsoft.com/en-us/azure/service-bus-messaging/automate-update-messaging-units
 * Best practices for isolating service bus from disaster - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters
 * Handling outages and disasters - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters
 * Geo DR for SB - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-geo-dr#availability-zones

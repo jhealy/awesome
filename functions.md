@@ -73,6 +73,7 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * **Devops collection from the functions team** - https://aka.ms/functions-azure-devops
 * **DevOps for functions** - https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops
 * Azure Functions Continuos deployment with Azure Pipelines - <http://dontcodetired.com/blog/?tag=funcpipeseries>
+* Bicep and Function Apps - https://www.andrewconnell.com/blog/how-to-create-azure-function-apps-with-bicep-step-by-step/
 * Deploying functions with ARM templates <https://blog.kloud.com.au/2018/08/16/deploying-azure-functions-with-arm-templates/>
 * Deployment tech in devops - https://docs.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies
 * Serverless, DevOps, and CI/CD: Part1 -<https://medium.com/microsoftazure/serverless-devops-and-ci-cd-part-1-f76f0357cba4>, Part2 <https://medium.com/microsoftazure/serverless-devops-and-ci-cd-part-2-b6e0a6d05530>
@@ -87,7 +88,9 @@ SEE ALSO CosmosDB <https://github.com/jhealy/awesome/blob/master/azure-cosmosdb.
 * Doc - https://github.com/Azure/azure-functions-durable-extension
 * Durable functions making serverless last - durable functions as orchestrator - https://thenewstack.io/durable-functions-making-serverless-last/
 * Durable Function class - https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/
+* Learn - https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/
 * Patterns - https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp#application-patterns 
+* Status and stopping - https://stackoverflow.com/questions/55982540/how-to-check-running-status-and-stop-durable-function
 * Wait for files and process - durable/python - https://github.com/eavanvalkenburg/azure_durable_function_waitforfilesandprocess
 
 ## ISOLATED

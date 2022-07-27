@@ -21,6 +21,7 @@
 
 * Blazor University - https://blazor-university.com/
 * Blazor Conference Feb 2020 - https://aka.ms/blazorconf , presentation decks at https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnBlazor 
+* Blazor for the ASP.NET Web Forms developers e-book - https://docs.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/
 * Learn to make Shopping Cart using ASP.NET Core Blazor using EF and Web API <https://social.technet.microsoft.com/wiki/contents/articles/51755.let-s-learn-to-make-shopping-cart-using-asp-net-core-blazor-using-ef-and-web-api.aspx>
 * BlazorTrain - carl franklin's blazor site - https://blazortrain.com/
 * Tutorial - RealWorld - <https://github.com/torhovland/blazor-realworld-example-app>
@@ -30,6 +31,7 @@
 ## MISC
 
 * Assembly trimming - Blazor section - https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/
+* AWS Blazor Deployment Tool - https://visualstudiomagazine.com/articles/2021/03/19/aws-net-deploy.aspx
 * Bringing your Blazor apps to the Desktop with ElectronNET.Blazor -https://medium.com/cloudnimble/bringing-your-blazor-apps-to-the-desktop-with-electronnet-blazor-67701bff82f7
 * Creating interactive documentation - https://devblogs.microsoft.com/dotnet/creating-interactive-net-documentation/
 * File upload in blazor - https://blog.stevensanderson.com/2019/09/13/blazor-inputfile/

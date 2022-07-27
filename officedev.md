@@ -21,3 +21,4 @@
 
 * Automating outlook with powershell - https://devblogs.microsoft.com/premier-developer/outlook-email-automation-with-powershell/
 * Fabric ui components for office style dev - angular and react - <https://developer.microsoft.com/en-us/fabric>
+* Throttling - avoiding getting throttled or blocked in spo - https://docs.microsoft.com/en-us/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online

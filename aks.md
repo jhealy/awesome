@@ -65,3 +65,4 @@ AKS control plane is free, but does not come with an SLA, to enable an SLA need 
 * CSI Driver Git Repo - <https://github.com/kubernetes-sigs/azuredisk-csi-driver>
 * Kured: Utility to gracefully reboot nodes gracefully - <https://github.com/weaveworks/kured>
 * Lens: IDE for K8s - <https://k8slens.dev/>
+* Search K8s changes <https://relnotes.k8s.io/>

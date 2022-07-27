@@ -47,15 +47,6 @@
 
 * Monitor service bus subscriptions - https://blog.tomkerkhove.be/2020/12/11/monitoring-azure-service-bus-topic-subscriptions/
 
-Log Analytics Query
-
-```
-AzureDiagnostics
-| where ResourceProvider == "MICROSOFT.SERVICEBUS"
-| where Category == "OperationalLogs"
-| where EventName_s == "Create Subscription"
-```
-
 ## PERFORMANCE
 
 * Improving - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-performance-improvements 

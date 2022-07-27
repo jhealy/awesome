@@ -14,6 +14,7 @@ I'm being asked alot about Azure limits.  Soft limits, hard limits, how to incre
 * App Service Plan - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#app-service-limits
 * App Service - Static Web Apps - see Static Web Apps below
 * DevOps - Git - https://docs.microsoft.com/en-us/azure/devops/repos/git/limits?view=azure-devops
+* EventGrid  https://docs.microsoft.com/en-us/azure/event-grid/quotas-limits
 * EventHub - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-quotas : 32 partition default max but can be bumped - https://azure.microsoft.com/en-us/blog/processing-100-000-events-per-second-on-azure-functions/?ref=msdn 
 * File - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-files-scale-targets> max file share size, max file size, more
 * File Sync - Scale Targets <https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets#azure-file-sync-scale-targets> - region limits, sync group limits, max servers, cloud endpionts, more

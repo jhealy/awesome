@@ -71,6 +71,7 @@
 ## MISC
 
 * Can you stop App Service to save costs? https://docs.microsoft.com/en-us/answers/questions/278494/can-we-stop-azure-app-service-to-save-cost-1.html
+* Crash monitoring - https://azure.github.io/AppService/2020/08/11/Crash-Monitoring-Feature-in-Azure-App-Service.html
 * Storage - az cli to add storage - https://docs.microsoft.com/en-us/cli/azure/webapp/config/storage-account?view=azure-cli-latest#az-webapp-config-storage-account-add
 
 SEE ALSO Azure App Service Environments - https://github.com/jhealy/awesome/blob/master/azure-ase.md

@@ -122,13 +122,14 @@
 ## MIGRATION
 
 * .NET to Core - https://docs.microsoft.com/en-us/aspnet/core/migration/proper-to-2x/?view=aspnetcore-3.1
-* .NET to Core Upgrade Tool - https://github.com/dotnet/upgrade-assistant
 * Core v Framework 4.8 <https://devblogs.microsoft.com/dotnet/update-on-net-core-3-0-and-net-framework-4-8/>
 * Package conversion tool - https://docs.microsoft.com/en-us/nuget/consume-packages/migrate-packages-config-to-package-reference
 * Portability analyzer - https://aka.ms/portabilityAnalyzer
 * Porting libraries to .NET Core - https://docs.microsoft.com/en-us/dotnet/core/porting/libraries
 * Porting Guide - 
 Porting guide - https://docs.microsoft.com/nb-no/dotnet/core/porting/
+* Upgrade assistant - cli in place modify code directly in one pass - https://github.com/dotnet/upgrade-assistant
+* Upgrade assistant - incremental - https://devblogs.microsoft.com/dotnet/incremental-asp-net-to-asp-net-core-migration/
 * Try-convert automated migration tool - https://github.com/dotnet/try-convert/
 
 ## WINDOWS WORKFLOW

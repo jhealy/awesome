@@ -2,7 +2,10 @@
 
 ALM related topics such as CI/CD, TFS, VisualStudio online, Visual Studio Mobile Center and more.
 
-* Azure DevOps Resources <https://docs.microsoft.com/en-us/azure/devops/>
+* **Azure DevOps Resources - https://docs.microsoft.com/en-us/azure/devops/**
+* Architecture Center for DevOps - https://docs.microsoft.com/en-us/azure/architecture/guide/devops/devops-start-here
+* Capability Assessments for Azure DevOps - https://docs.microsoft.com/en-us/assessments/?mode=home
+* Checklist for Azure DevOps - https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops
 * DevOps at Microsoft - https://aka.ms/DevOpsAtMicrosoft
 * DevOps Demo Generator <https://azuredevopsdemogenerator.azurewebsites.net/> .  Create projects with pre-populated sample content including source code, work items, iterations, service endpionts, build and release defs based on templates you choose.
 * DevOps Demo Generator is now open sourced - https://devblogs.microsoft.com/devops/azure-devops-demo-generator-is-now-open-source/
@@ -13,16 +16,6 @@ https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-leve
 * Roadmap - https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline
 * Twelve factors of devops - https://12factor.net/
 * Youtube channel - https://www.youtube.com/c/AzureDevOps
-
-## APP CENTER
-
-Formerly known as Visual Studio Mobile Center
-
-* Home - https://docs.microsoft.com/en-us/appcenter/
-* DevOps Resource Center - https://docs.microsoft.com/en-us/devops/
-* Announce - https://blogs.msdn.microsoft.com/vsappcenter/introducing-visual-studio-app-center/?utm_source=devfish
-* Roadmap - https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline#features-under-development
-* Slack App for VSMC - https://blogs.msdn.microsoft.com/mobilecenter/introducing-the-mobile-center-slack-app/
 
 ## BUILD AGENTS
 
@@ -81,10 +74,6 @@ Formerly known as Visual Studio Mobile Center
 
 * Collect screenshots and videos from tests - https://docs.microsoft.com/en-us/azure/devops/pipelines/test/collect-screenshots-and-video?view=azure-devops
 * Guidance and framework for running HPC apps on Azure - Batch or CycleCloud <https://blogs.msdn.microsoft.com/azurecat/2018/11/12/running-hpc-applications-on-azure/>
-
-## VISUAL STUDIO MOBILE CENTER
-
-See App Center above....
 
 ## MISC
 

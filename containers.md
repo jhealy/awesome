@@ -14,6 +14,7 @@
 
 ## AZURE CONTAINER APPS ( ACA )
 
+* Comparing ACA with other options - https://docs.microsoft.com/en-us/azure/container-apps/compare-options
 * Connected Microservices with Azure Container Apps - https://docs.microsoft.com/en-us/azure/container-apps/
 
 ## APP SERVICE CONTAINERS

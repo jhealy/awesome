@@ -105,6 +105,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * App service integration - https://azure.microsoft.com/en-us/updates/azure-api-management-now-supports-integration-with-azure-app-service/
 * Analytics - Power BI Solution Template for API Management - LINKS ARE DEAD - https://azure.microsoft.com/en-us/updates/azure-api-management-analytics-powerbi-solution-template/
 * Analytics - Monitoring - https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-use-azure-monitor
+* Architecture - Data serving api - https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/build-a-data-serving-api/
 * Azure Function Proxies - like baby api management <https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies>
 * httpbin - simple http request and response service - free - http://httpbin.org/ - about httpbin - https://www.kennethreitz.org/essays/httpbin
 * Large files - https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation?toc=%2Fazure%2Fapi-management%2Ftoc.json#optimize-requests-and-responses-that-involve-large-objects

@@ -20,4 +20,5 @@
 
 * Azure landing zones Terraform module - https://github.com/Azure/terraform-azurerm-caf-enterprise-scale
 * Azure to Terraform - <https://azure-in-action.blog/2018/04/24/azure-to-terraform-az2tf/>
+* If/Else - https://build5nines.com/terraform-if-else-conditional-resource-and-module-deployment/?mkt_tok=devfish
 * Tool to generate .tf files from an Azure Subscription <https://github.com/andyt530/az2tf>

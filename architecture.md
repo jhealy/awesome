@@ -32,6 +32,7 @@
 * Amazon equiv - no assessment though - https://aws.amazon.com/architecture/well-architected/
 * Learning path - https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/ 
 * Reliability - Reliability blog series - https://azure.microsoft.com/en-us/blog/tag/advancing-reliability/
+* Why WAF by Todd Fine ( Sept 2022 ) - https://techcommunity.microsoft.com/t5/azure-architecture-blog/why-waf-driving-technical-excellence-in-delivery-for-your/ba-p/3612231
 
 ## MISC
 

@@ -36,6 +36,7 @@
 ## .NET 7.0
 
 * Preview 3 - April 2022 - https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/
+* .NET 7 SDK Now Supports Building Containerized Apps - https://www.infoq.com/news/2022/09/dotnet-sdk-container-support/
 
 ## .NET 6.0
 

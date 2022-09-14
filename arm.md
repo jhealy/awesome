@@ -49,6 +49,7 @@ Transpiler for ARM.  Similar to TypeScript for JS.  ARM <-> BICEP.  Soon to be i
 
 * ARMClient Command Tool <http://blog.davidebbo.com/2015/01/azure-resource-manager-client.html>
 * Deployment Manager - deploy arm templates across regions - https://docs.microsoft.com/en-us/azure/azure-resource-manager/deployment-manager-overview
+* Retrieving ARM templates - many diff ways if no portal access - https://sqlitybi.com/retrieving-azure-resource-manager-arm-template-information/
 * Template tester - https://github.com/Azure/azure-quickstart-templates/tree/master/test/arm-ttk
 * Template validator <https://github.com/singhkays/azure-arm-validator>
 * Visualizer for ARM - https://github.com/shenglol/arm-visualizer 

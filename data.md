@@ -2,6 +2,9 @@
 
 Free or cheap data sets to play with
 
+# SAMPLE DATA
+
+* Amazon Open Data <https://registry.opendata.aws/>
 * Data.gov - tons of government data sets - http://www.data.gov
 * FL-Orlando city data - https://data.cityoforlando.net/
 * HealthData.gov - US Gov health data sets - https://healthdata.gov/

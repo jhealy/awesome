@@ -69,6 +69,7 @@
 
 ## TOOLS
 
+* Azure Application Consistent Snapshot tool - command line for data protection on 3rd party db - SAP HANA, Oracle 12+ - https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-introduction
 * Azure Explorer - RedGate's free azure storage management tool <https://www.red-gate.com/products/azure-development/azure-explorer/index>
 * Blob Indexing (by tag) preview - https://azure.microsoft.com/en-gb/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/
 * BlofFuse - virtual file system on blob storage -https://github.com/Azure/azure-storage-fuse

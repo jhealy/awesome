@@ -37,3 +37,4 @@
 ## MISC
 
 * ASE - High availability enterprise deployment using ASE - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/enterprise-integration/ase-high-availability-deployment
+* Java Petstore - end to end devops and arch on spring - https://github.com/chtrembl/azure-cloud/tree/main/petstore 

@@ -6,3 +6,8 @@ As it related to Azure.
 * Function samples using py - https://docs.microsoft.com/en-us/samples/browse/?products=azure-functions&languages=python
 * Python SDK for Azure - https://azure.github.io/azure-sdk-for-python/
 * VSCode for python using Pylance - https://visualstudiomagazine.com/articles/2021/09/08/vscode-python-sep21.aspx
+
+## LEARN
+
+* Build real world apps with python - https://learn.microsoft.com/en-us/training/paths/python-language/
+* Free courses with python at microsoft learn - https://learn.microsoft.com/en-us/training/browse/?terms=python

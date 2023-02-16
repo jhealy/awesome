@@ -46,5 +46,6 @@ Free or cheap data sets to play with
 ## MISC
 
 * Cameras - NYC public webcam list - https://webcams.nyctmc.org/multiview2.php
+* Food - https://thesifter.com - food recipes
 * Medical - covid19 infections from John Hopkins - https://github.com/CSSEGISandData/COVID-19
 

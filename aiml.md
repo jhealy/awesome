@@ -8,6 +8,7 @@
 
 * API signup - https://openai.com/blog/openai-api/
 * Microsoft licenses gpt3 - https://blogs.microsoft.com/blog/2020/09/22/microsoft-teams-up-with-openai-to-exclusively-license-gpt-3-language-model/
+* Tuning open ai - https://platform.openai.com/docs/guides/fine-tuning , https://www.allabtai.com/fine-tuning-gpt3/
 * Waitlist signup (preview) - https://share.hsforms.com/1Lfc7WtPLRk2ppXhPjcYY-A4sk30
 
 ## LEARN

@@ -117,3 +117,8 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 * Security - RBAC <https://channel9.msdn.com/Blogs/AzureApiMgmt/Role-Based-Access-Control-in-API-Management>
 * Static IPs <https://feedback.azure.com/forums/248703-api-management/suggestions/32805958-ability-to-assign-public-static-ip-address-to-publ>
 * Swaggerhub with api-m - https://swagger.io/blog/api-development/api-management-with-azure-and-swaggerhub/
+
+## Networking
+* Network Topologies and DIP/VIP - https://techcommunity.microsoft.com/t5/azure-paas-blog/api-management-networking-faqs-demystifying-series-i/ba-p/1500996
+* NSG/UDR and VNET Peering behaviors - https://techcommunity.microsoft.com/t5/azure-paas-blog/api-management-networking-faqs-demystifying-series-i/ba-p/1500996
+* Azure Firewall, custom dns and force tunneling - https://techcommunity.microsoft.com/t5/azure-paas-blog/api-management-networking-faqs-demystifying-series-ii/ba-p/1502056

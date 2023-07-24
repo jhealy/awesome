@@ -1,0 +1,1 @@
+* Azure OpenAI Landing Zone Reference Architecture - https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102

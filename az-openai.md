@@ -1,1 +1,2 @@
 * Azure OpenAI Landing Zone Reference Architecture - https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102
+* Tutorial: Create an FAQ bot with question answering and Azure AI Bot Service - Azure AI services | Microsoft Learn - https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/bot-service#create-a-bot

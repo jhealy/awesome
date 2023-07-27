@@ -3,6 +3,13 @@
 * Roadmap - https://github.com/dotnet/csharplang/tree/master/proposals
 * Naming guidelines - dll, packages, namespaces, et cetera - https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines
 
+## ASYNC
+
+* Async profiling - https://docs.microsoft.com/en-us/visualstudio/profiling/analyze-async?view=vs-2019
+* Async wait in sync methods - https://www.ryadel.com/en/asyncutil-c-helper-class-async-method-sync-result-wait
+* Configure Await - Synchronization Context (S.Troub) - https://devblogs.microsoft.com/dotnet/configureawait-faq/
+* How Async/Await really works (S.Troub) - https://devblogs.microsoft.com/dotnet/how-async-await-really-works/
+
 ## Design
 
 * https://github.com/dotnet/csharplang
@@ -33,8 +40,6 @@
 * Default Expressions - https://blogs.msdn.microsoft.com/mazhou/2017/06/06/c-7-series-part-3-default-literals/
 
 ## MISC
-* Async profiling - https://docs.microsoft.com/en-us/visualstudio/profiling/analyze-async?view=vs-2019
-* Async wait in sync methods - https://www.ryadel.com/en/asyncutil-c-helper-class-async-method-sync-result-wait
 * Enumerable v Lists/Arrays - https://medium.com/@ben.k.muller/c-ienumerable-vs-list-and-array-9f099f157f4f
 * Events tutorial - https://msdn.microsoft.com/en-us/library/aa645739(v=vs.71).aspx
 * Extension methods collection - http://extensionmethod.net/

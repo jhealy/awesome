@@ -107,6 +107,7 @@ https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-leve
 * Packer to create Windows virtual machine images in Azure - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/build-image-with-packer
 * Parts Unlimited DevOps Demo - https://microsoft.github.io/PartsUnlimitedMRP/
 * Pipelines - create new using powershell - https://github.com/segraef/New-AzPipeline
+* Playwright and pipelines - https://techcommunity.microsoft.com/t5/azure-architecture-blog/automating-end-to-end-testing-with-playwright-and-azure
 * PowerApps Devops add-in - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools
 * PowerBI Devops - https://social.technet.microsoft.com/wiki/contents/articles/53172.azuredevops-cicd-for-powerbi-reports.aspx
 * Python in AzDO - https://docs.microsoft.com/en-us/learn/modules/deploy-python/?WT.mc_id=twitter

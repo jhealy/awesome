@@ -37,4 +37,5 @@
 ## MISC
 
 * ASE - High availability enterprise deployment using ASE - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/enterprise-integration/ase-high-availability-deployment
+* Azure Arc Jumpstart scenarios - https://azurearcjumpstart.io/azure_arc_jumpstart/
 * Java Petstore - end to end devops and arch on spring - https://github.com/chtrembl/azure-cloud/tree/main/petstore 

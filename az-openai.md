@@ -12,7 +12,11 @@
 
 * Az OpenAI Intro on LinkedIn Learning Course - https://www.linkedin.com/learning/azure-openai-generative-ai-models-and-how-to-use-them/
 * BYOD with Az OpenAI in Az OpenAI Studio - https://techcommunity.microsoft.com/t5/fasttrack-for-azure/get-insights-from-your-data-connecting-it-to-azure-openai/ba-p/3864513
-* Prompt Engineering for generative AI Course - https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution
+
+# PROMPTS
+
+* Awesome repo for prompts - https://github.com/f/awesome-chatgpt-prompts
+* Best chat gpt prompts (07/31/2023) - https://tech.co/news/best-chatgpt-prompts
 
 # MISC
 

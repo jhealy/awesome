@@ -108,6 +108,7 @@ https://docs.microsoft.com/en-us/azure/devops/organizations/security/access-leve
 * Parts Unlimited DevOps Demo - https://microsoft.github.io/PartsUnlimitedMRP/
 * Pipelines - create new using powershell - https://github.com/segraef/New-AzPipeline
 * Playwright and pipelines - https://techcommunity.microsoft.com/t5/azure-architecture-blog/automating-end-to-end-testing-with-playwright-and-azure
+* Playwright testing at scale (preview) - https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-microsoft-playwright-testing-private-preview/ba-p/3905705
 * PowerApps Devops add-in - https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools
 * PowerBI Devops - https://social.technet.microsoft.com/wiki/contents/articles/53172.azuredevops-cicd-for-powerbi-reports.aspx
 * Python in AzDO - https://docs.microsoft.com/en-us/learn/modules/deploy-python/?WT.mc_id=twitter

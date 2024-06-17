@@ -22,3 +22,4 @@
 
 * Calling functions from OpenAI Service - https://techcommunity.microsoft.com/t5/azure-ai-services-blog/function-calling-is-now-available-in-azure-openai-service/ba-p/3879241 
 * Gov cloud - https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/
+* Lib for .NET - https://www.infoq.com/news/2024/06/openai-microsoft-dotnet/

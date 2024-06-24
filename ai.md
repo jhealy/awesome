@@ -1,4 +1,4 @@
-# ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+# ARTIFICIAL INTELLIGENCE
 
 * IoT and AI Insider Labs <https://www.microsoftiotinsiderlabs.com/>
 * Developers Guide to Building AI Applications (Spring 2018) <https://info.microsoft.com/ww-landing-ai-developers-bot-ebook.html>
@@ -28,4 +28,5 @@
   * live: https://kma.azurewebsites.net/ 
   * source: https://github.com/Azure/AIPlatform/tree/master/end-to-end-solutions/kma/src 
 * Github AI collection - https://github.com/Microsoft/AI
+* Interior Design - https://www.tomsguide.com/opinion/i-used-ai-to-interior-design-my-home
 * Robotic Process Automation - https://github.com/akshata29/msrpa - built off KMA sets

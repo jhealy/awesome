@@ -9,5 +9,12 @@ As it related to Azure.
 
 ## LEARN
 
+* APIs in PY - https://www.kdnuggets.com/fastapi-tutorial-build-apis-with-python-in-minutes
 * Build real world apps with python - https://learn.microsoft.com/en-us/training/paths/python-language/
 * Free courses with python at microsoft learn - https://learn.microsoft.com/en-us/training/browse/?terms=python
+* Object oriented py - https://realpython.com/courses/interfaces-object-oriented-design-principles/
+
+## SOLUTIONS
+
+* Quantitative finance in py - https://github.com/goldmansachs/gs-quant
+

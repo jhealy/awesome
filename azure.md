@@ -65,10 +65,10 @@
 
 
 ## MISC
-
 * App Insights > Profile a live app using App Insights - <https://docs.microsoft.com/en-us/azure/application-insights/app-insights-profiler>
 * API - Costs - https://docs.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices
 * Azure, Cloud and Enterprise Symbol / Icon Set - Visio stencil, PowerPoint, PNG, SVG - https://www.microsoft.com/en-in/download/details.aspx?id=41937
+* Backup - Scripts to backup AAD Roles, RBAC Roles, group\groupmemberships, group\group attributes - https://github.com/debaxtermsft/debaxtermsft/tree/main
 * Bizspark - where did it go - best you get is $200 azure free on startups <https://startups.microsoft.com/en-us/>
 * Blog - https://anthonychu.ca/
 * Blog - https://www.appliedi.net/feed/

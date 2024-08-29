@@ -1,6 +1,7 @@
 # GENERAL
 * https://devdocs.io - all the javascripty interface in one nice search place.
 * Mozilla dev network - dont bank of stuff working 100% for chrome or edge - https://developer.mozilla.org/en-US/
+* Rebellion - against complicated JS frameworks! - https://thenewstack.io/developers-rail-against-javascript-merchants-of-complexity/
 
 # NODE
 * ASP.NET Core - Calling Node.js from ASP.NET Core - https://blogs.msdn.microsoft.com/waws/2017/10/23/calling-node-js-from-asp-net-core/

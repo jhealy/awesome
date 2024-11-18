@@ -1,10 +1,11 @@
 ## ARTIFICIAL INTELLIGENCE
 
-# GPT3
-
+* GraphRAG released July 2024 - https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/ 
 * Microsoft licenses gpt3 - https://blogs.microsoft.com/blog/2020/09/22/microsoft-teams-up-with-openai-to-exclusively-license-gpt-3-language-model/
 
 ## LEARN
+
+* Google Data Engineer learning path for free - https://www.kdnuggets.com/landing-a-data-engineer-role-free-courses-and-certifications
 
 ## PROMPTS
 
@@ -19,4 +20,5 @@
 
 ## MISC
 
+* SDK - .NET - https://github.com/openai/openai-dotnet
 * Skeleton key prompt bypass - https://www.digitaltrends.com/computing/skeleton-key-jailbreak-chatbot-exploit-dangerous-information/

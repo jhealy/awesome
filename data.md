@@ -8,6 +8,7 @@ Free or cheap data sets to play with
 * Data.gov - tons of government data sets - http://www.data.gov
 * FL-Orlando city data - https://data.cityoforlando.net/
 * HealthData.gov - US Gov health data sets - https://healthdata.gov/
+* Kaggle - variety of free datasets - https://www.kaggle.com/datasets
 * National Archives documents - https://www.ianvisits.co.uk/blog/2020/04/23/national-archives-makes-its-entire-digital-archive-available-for-free/
 * NOAA Data - https://www.ncdc.noaa.gov/data-access/quick-links
 * NJ Death Index - https://www.newjerseydeathindex.com/

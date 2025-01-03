@@ -5,8 +5,11 @@ Free or cheap data sets to play with
 # SAMPLE DATA
 
 * Amazon Open Data <https://registry.opendata.aws/>
+* DataHub - https://datahub.io/collections
 * Data.gov - tons of government data sets - http://www.data.gov
+* Edgar datasets - https://www.sec.gov/data-research
 * FL-Orlando city data - https://data.cityoforlando.net/
+* Google hosted dataset search - https://datasetsearch.research.google.com/
 * HealthData.gov - US Gov health data sets - https://healthdata.gov/
 * Kaggle - variety of free datasets - https://www.kaggle.com/datasets
 * National Archives documents - https://www.ianvisits.co.uk/blog/2020/04/23/national-archives-makes-its-entire-digital-archive-available-for-free/
@@ -14,6 +17,7 @@ Free or cheap data sets to play with
 * NJ Death Index - https://www.newjerseydeathindex.com/
 * NYC - Marriage index - csv, xls, sql -  https://www.nycmarriageindex.com/
 * Public data sets from the Microsoft SQL Database folks - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets 
+* United Nation datasets - https://data.un.org/
 
 ## ART
 

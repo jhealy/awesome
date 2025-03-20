@@ -15,8 +15,9 @@ Transpiler for ARM.  Similar to TypeScript for JS.  ARM <-> BICEP.  Soon to be i
 * Functions with Bicep - https://www.andrewconnell.com/blog/how-to-create-azure-function-apps-with-bicep-step-by-step/
 * Functions IaC using GitHub Actions - https://www.andrewconnell.com/blog/how-to-cicd-iac-for-azure-function-apps-with-github-actions-step-by-step/
 * JSON v BICEP - https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/compare-template-syntax
-* Quickstart - https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code?tabs=CLI
 * Learn - https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep
+* Login - add via Bicep to existing files - https://techcommunity.microsoft.com/blog/azuredevcommunityblog/easily-add-login-to-your-azure-app-with-bicep/4386493
+* Quickstart - https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code?tabs=CLI
 
 ## DEPLOYMENT
 

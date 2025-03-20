@@ -18,6 +18,18 @@
 * Awesome repo for prompts - https://github.com/f/awesome-chatgpt-prompts
 * Best chat gpt prompts (07/31/2023) - https://tech.co/news/best-chatgpt-prompts
 
+# REDTEAM
+
+Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak and redteam resources here until it gets too awkward.
+
+* Content Safety for AI - lots of resources - https://learn.microsoft.com/en-us/azure/ai-services/content-safety/ 
+* Enhancing AI safety: Insights and lessons from red teaming - https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/01/14/enhancing-ai-safety-insights-and-lessons-from-red-teaming/
+* Jailbreaks - AI jailbreaks: What they are and how they can be mitigated - https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/
+* Lessons from red teaming 100 generative AI products (ebook) - https://airedteamwhitepapers.blob.core.windows.net/lessonswhitepaper/MS_AIRT_Lessons_eBook.pdf
+* Prompt shields - https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection
+* Redteam resource page on ms learn - https://learn.microsoft.com/en-us/security/ai-red-team/
+
+
 # MISC
 
 * Calling functions from OpenAI Service - https://techcommunity.microsoft.com/t5/azure-ai-services-blog/function-calling-is-now-available-in-azure-openai-service/ba-p/3879241 

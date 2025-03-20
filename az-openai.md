@@ -29,9 +29,10 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
 * Prompt shields - https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection
 * Redteam resource page on ms learn - https://learn.microsoft.com/en-us/security/ai-red-team/
 
-
 # MISC
 
 * Calling functions from OpenAI Service - https://techcommunity.microsoft.com/t5/azure-ai-services-blog/function-calling-is-now-available-in-azure-openai-service/ba-p/3879241 
 * Gov cloud - https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/
 * Lib for .NET - https://www.infoq.com/news/2024/06/openai-microsoft-dotnet/
+* Responsible AI - https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2
+

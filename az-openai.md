@@ -31,8 +31,11 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
 
 # MISC
 
+* Agent - samples. R&D Agent - https://github.com/microsoft/RD-Agent
 * Calling functions from OpenAI Service - https://techcommunity.microsoft.com/t5/azure-ai-services-blog/function-calling-is-now-available-in-azure-openai-service/ba-p/3879241 
+* Documentation - Diagramming - https://www.eraser.io/pricing
 * Gov cloud - https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/
 * Lib for .NET - https://www.infoq.com/news/2024/06/openai-microsoft-dotnet/
+* RAG - Solution accelerator - https://techcommunity.microsoft.com/blog/AzureArchitectureBlog/advanced-rag-solution-accelerator/4394223
 * Responsible AI - https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2
-
+* Semantic Kernel - Github samples - https://github.com/microsoft/semantic-kernel/tree/main

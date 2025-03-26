@@ -17,6 +17,7 @@
 
 * Awesome repo for prompts - https://github.com/f/awesome-chatgpt-prompts
 * Best chat gpt prompts (07/31/2023) - https://tech.co/news/best-chatgpt-prompts
+* Prompt engineering guide - https://www.promptingguide.ai/
 
 # REDTEAM
 
@@ -39,6 +40,9 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
     * Announce - OpenAI for gov - https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/
     * Learn - https://learn.microsoft.com/en-us/azure/ai-services/openai/azure-government
 * Lib for .NET - https://www.infoq.com/news/2024/06/openai-microsoft-dotnet/
-* RAG - Solution accelerator - https://techcommunity.microsoft.com/blog/AzureArchitectureBlog/advanced-rag-solution-accelerator/4394223
+* RAG
+
+    * Learn - https://github.com/microsoft/rag-time 
+    * Solution accelerator - https://techcommunity.microsoft.com/blog/AzureArchitectureBlog/advanced-rag-solution-accelerator/4394223
 * Responsible AI - https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2
 * Semantic Kernel - Github samples - https://github.com/microsoft/semantic-kernel/tree/main

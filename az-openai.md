@@ -45,4 +45,6 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
     * Learn - https://github.com/microsoft/rag-time 
     * Solution accelerator - https://techcommunity.microsoft.com/blog/AzureArchitectureBlog/advanced-rag-solution-accelerator/4394223
 * Responsible AI - https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2
-* Semantic Kernel - Github samples - https://github.com/microsoft/semantic-kernel/tree/main
+* Semantic Kernel
+    * Github samples - https://github.com/microsoft/semantic-kernel/tree/main 
+    * Java with SK - Chris Tremblay - https://github.com/chtrembl/azure-cloud/blob/main/petstore/19-function-calling-with-semantic-kernel-and-azure-open-ai/README.md

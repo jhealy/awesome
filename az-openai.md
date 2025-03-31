@@ -10,8 +10,12 @@
 
 # LEARN
 
-* Az OpenAI Intro on LinkedIn Learning Course - https://www.linkedin.com/learning/azure-openai-generative-ai-models-and-how-to-use-them/
-* BYOD with Az OpenAI in Az OpenAI Studio - https://techcommunity.microsoft.com/t5/fasttrack-for-azure/get-insights-from-your-data-connecting-it-to-azure-openai/ba-p/3864513
+* Az OpenAI
+    * Designing and Implementing a Microsoft Azure AI Solution - https://learn.microsoft.com/en-us/training/courses/ai-102t00
+    * Intro on LinkedIn Learning Course - https://www.linkedin.com/learning/azure-openai-generative-ai-models-and-how-to-use-them/
+    * BYOD with Az OpenAI in Az OpenAI Studio - https://techcommunity.microsoft.com/t5/fasttrack-for-azure/get-insights-from-your-data-connecting-it-to-azure-openai/ba-p/3864513
+* Gen AI
+    * Fundamentals - https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/
 
 # PROMPTS
 
@@ -38,8 +42,12 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
 * Documentation - Diagramming - https://www.eraser.io/pricing
 * Gov cloud
     * Announce - OpenAI for gov - https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/
-    * Learn - https://learn.microsoft.com/en-us/azure/ai-services/openai/azure-government
+    * Azure OpenAI Service and features in Azure Government - https://learn.microsoft.com/en-us/azure/ai-services/openai/azure-government
 * Lib for .NET - https://www.infoq.com/news/2024/06/openai-microsoft-dotnet/
+* Orchestratoin - Logic Apps
+* Using Logic Apps with Azure AI - Connect to Azure AI services from workflows - https://learn.microsoft.com/en-us/azure/logic-apps/connectors/azure-ai
+* OpenAI connectors for Logic Apps -  Azure OpenAI and Azure AI Search Connectors- https://techcommunity.microsoft.com/blog/integrationsonazureblog/%F0%9F%93%A2-announcement-azure-openai-and-azure-ai-search-connectors-are-now-generally-av/4163682
+
 * RAG
 
     * Learn - https://github.com/microsoft/rag-time 
@@ -47,4 +55,5 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
 * Responsible AI - https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2
 * Semantic Kernel
     * Github samples - https://github.com/microsoft/semantic-kernel/tree/main 
+    * Intro to SK - https://learn.microsoft.com/en-us/semantic-kernel/overview/ 
     * Java with SK - Chris Tremblay - https://github.com/chtrembl/azure-cloud/blob/main/petstore/19-function-calling-with-semantic-kernel-and-azure-open-ai/README.md

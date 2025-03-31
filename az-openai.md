@@ -44,16 +44,19 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
     * Announce - OpenAI for gov - https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/
     * Azure OpenAI Service and features in Azure Government - https://learn.microsoft.com/en-us/azure/ai-services/openai/azure-government
 * Lib for .NET - https://www.infoq.com/news/2024/06/openai-microsoft-dotnet/
-* Orchestratoin - Logic Apps
-* Using Logic Apps with Azure AI - Connect to Azure AI services from workflows - https://learn.microsoft.com/en-us/azure/logic-apps/connectors/azure-ai
-* OpenAI connectors for Logic Apps -  Azure OpenAI and Azure AI Search Connectors- https://techcommunity.microsoft.com/blog/integrationsonazureblog/%F0%9F%93%A2-announcement-azure-openai-and-azure-ai-search-connectors-are-now-generally-av/4163682
-
+* MCP - Model Context Protocol
+    * Building a MCP server with SK - https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel/
+    * OpenAI agent support for mcp (20250331) - https://www.techrepublic.com/article/news-openai-anthropic-model-context-protocol/
+* Orchestration - Logic Apps
+    * Using Logic Apps with Azure AI - Connect to Azure AI services from workflows - https://learn.microsoft.com/en-us/azure/logic-apps/connectors/azure-ai
+    * OpenAI connectors for Logic Apps -  Azure OpenAI and Azure AI Search Connectors- https://techcommunity.microsoft.com/blog/integrationsonazureblog/%F0%9F%93%A2-announcement-azure-openai-and-azure-ai-search-connectors-are-now-generally-av/4163682
 * RAG
 
     * Learn - https://github.com/microsoft/rag-time 
     * Solution accelerator - https://techcommunity.microsoft.com/blog/AzureArchitectureBlog/advanced-rag-solution-accelerator/4394223
 * Responsible AI - https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2
 * Semantic Kernel
+    * Building a MCP server with SK - https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel/
     * Github samples - https://github.com/microsoft/semantic-kernel/tree/main 
     * Intro to SK - https://learn.microsoft.com/en-us/semantic-kernel/overview/ 
     * Java with SK - Chris Tremblay - https://github.com/chtrembl/azure-cloud/blob/main/petstore/19-function-calling-with-semantic-kernel-and-azure-open-ai/README.md

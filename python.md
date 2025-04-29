@@ -11,6 +11,7 @@ As it related to Azure.
 
 * APIs in PY - https://www.kdnuggets.com/fastapi-tutorial-build-apis-with-python-in-minutes
 * Build real world apps with python - https://learn.microsoft.com/en-us/training/paths/python-language/
+* Dive into python - free online book - Mark Pilgrim - https://diveintopython3.net/
 * Free courses with python at microsoft learn - https://learn.microsoft.com/en-us/training/browse/?terms=python
 * Object oriented py - https://realpython.com/courses/interfaces-object-oriented-design-principles/
 

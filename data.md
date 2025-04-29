@@ -38,6 +38,8 @@ Free or cheap data sets to play with
 
 ## MARINE
 
+* Marine Cadastre data catalog - https://hub.marinecadastre.gov/
+* Marine Cadastre - historic AIS data for martine vessells - https://hub.marinecadastre.gov/pages/vesseltraffic
 * NOAA Data - https://www.ncdc.noaa.gov/data-access/quick-links 
 * Public reefs (gpx,free) - https://strikelines.com/public-reefs/
 * Radar images - real time - https://radar.weather.gov/ridge/kmzgenerator.php 

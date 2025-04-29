@@ -1,3 +1,6 @@
+# ARTIFICIAL INTELLGENCE AI
+General holder for non platform specific AI
+
 ## ARTIFICIAL INTELLIGENCE
 
 * GraphRAG released July 2024 - https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/ 
@@ -19,6 +22,7 @@
 * Quantitative finance in py - https://github.com/goldmansachs/gs-quant
 
 ## MISC
-
+* Application Platform Designer - Radius - https://techcommunity.microsoft.com/blog/educatordeveloperblog/introducing-radius-a-new-open-source-project-for-teams-building-cloud-native-app/3976183
+* Gaming - world generator Muse - https://ai.azure.com/labs/projects/Muse
 * SDK - .NET - https://github.com/openai/openai-dotnet
 * Skeleton key prompt bypass - https://www.digitaltrends.com/computing/skeleton-key-jailbreak-chatbot-exploit-dangerous-information/

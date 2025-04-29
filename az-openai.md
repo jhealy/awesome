@@ -47,6 +47,7 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
 * MCP - Model Context Protocol
     * Building a MCP server with SK - https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel/
     * OpenAI agent support for mcp (20250331) - https://www.techrepublic.com/article/news-openai-anthropic-model-context-protocol/
+* Models - GPT-Image-1 - image generation - https://azure.microsoft.com/en-us/blog/unveiling-gpt-image-1-rising-to-new-heights-with-image-generation-in-azure-ai-foundry/
 * Orchestration - Logic Apps
     * Using Logic Apps with Azure AI - Connect to Azure AI services from workflows - https://learn.microsoft.com/en-us/azure/logic-apps/connectors/azure-ai
     * OpenAI connectors for Logic Apps -  Azure OpenAI and Azure AI Search Connectors- https://techcommunity.microsoft.com/blog/integrationsonazureblog/%F0%9F%93%A2-announcement-azure-openai-and-azure-ai-search-connectors-are-now-generally-av/4163682

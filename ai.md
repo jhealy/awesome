@@ -13,11 +13,13 @@ General holder for non platform specific AI
 ## PROMPTS
 
 * Prompts - Seven prompts for productivity - https://aitoolsclub.com/7-prompts-to-increase-productivity-using-google-gemini/
+* Red Teaming prompts - https://github.com/microsoft/AI-Red-Teaming-Playground-Labs
 
 ## SOLUTIONS
 
 * Image generators - best of 2024 - https://www.cnet.com/tech/services-and-software/best-ai-image-generators/
 * Interior Design - https://www.tomsguide.com/opinion/i-used-ai-to-interior-design-my-home
+* Use cases - https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders
 * Tuning open ai - https://platform.openai.com/docs/guides/fine-tuning , https://www.allabtai.com/fine-tuning-gpt3/
 * Quantitative finance in py - https://github.com/goldmansachs/gs-quant
 
@@ -25,4 +27,5 @@ General holder for non platform specific AI
 * Application Platform Designer - Radius - https://techcommunity.microsoft.com/blog/educatordeveloperblog/introducing-radius-a-new-open-source-project-for-teams-building-cloud-native-app/3976183
 * Gaming - world generator Muse - https://ai.azure.com/labs/projects/Muse
 * SDK - .NET - https://github.com/openai/openai-dotnet
+* Security -> Red teaming - https://github.com/microsoft/AI-Red-Teaming-Playground-Labs
 * Skeleton key prompt bypass - https://www.digitaltrends.com/computing/skeleton-key-jailbreak-chatbot-exploit-dangerous-information/

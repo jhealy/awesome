@@ -36,10 +36,14 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
 
 # MISC
 
-* Agent - samples. R&D Agent - https://github.com/microsoft/RD-Agent
+* Agent
+    * Agents Playbook - https://github.com/Azure-Samples/azure-ai-agents-playbook/
+    * R&D Agent - https://github.com/microsoft/RD-Agent
 * Azure Foundry - Responses API and Computer Using Agent - https://azure.microsoft.com/en-us/blog/announcing-the-responses-api-and-computer-using-agent-in-azure-ai-foundry/
 * Calling functions from OpenAI Service - https://techcommunity.microsoft.com/t5/azure-ai-services-blog/function-calling-is-now-available-in-azure-openai-service/ba-p/3879241 
+* C# - Foundry - https://devblogs.microsoft.com/foundry/building-ai-agents-a2a-dotnet-sdk/
 * Documentation - Diagramming - https://www.eraser.io/pricing
+* Foundry - https://devblogs.microsoft.com/foundry/building-ai-agents-a2a-dotnet-sdk/
 * Gov cloud
     * Announce - OpenAI for gov - https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/
     * Azure OpenAI Service and features in Azure Government - https://learn.microsoft.com/en-us/azure/ai-services/openai/azure-government
@@ -61,3 +65,4 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
     * Github samples - https://github.com/microsoft/semantic-kernel/tree/main 
     * Intro to SK - https://learn.microsoft.com/en-us/semantic-kernel/overview/ 
     * Java with SK - Chris Tremblay - https://github.com/chtrembl/azure-cloud/blob/main/petstore/19-function-calling-with-semantic-kernel-and-azure-open-ai/README.md
+    * Reinventing travel with SK - https://www.azure411.com/the-journey-is-the-destination/

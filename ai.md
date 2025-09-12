@@ -15,7 +15,7 @@ General holder for non platform specific AI
 See ai-prompt-samples.md
 
 ## SOLUTIONS
-
+* Finance - Path to GenAI Adoption in Finance - https://www.deloitte.com/us/en/services/consulting/articles/the-path-to-genai-adoption-in-finance.html - Deloitte 08/2025
 * Image generators - best of 2024 - https://www.cnet.com/tech/services-and-software/best-ai-image-generators/
 * Interior Design - https://www.tomsguide.com/opinion/i-used-ai-to-interior-design-my-home
 * Use cases - https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders
@@ -25,8 +25,10 @@ See ai-prompt-samples.md
 
 ## MISC
 * Application Platform Designer - Radius - https://techcommunity.microsoft.com/blog/educatordeveloperblog/introducing-radius-a-new-open-source-project-for-teams-building-cloud-native-app/3976183
+* Best practices - Accenture CEO weighs in on why so many AI projects have failed with 3 red flags to watch out for (Sept 2025) - https://fortune.com/2025/08/31/accenture-ceo-julie-sweet-ai-advice-success/?utm_source=flipboard&utm_content=fortune/magazine/Personal+finance
 * Gaming - world generator Muse - https://ai.azure.com/labs/projects/Muse
 * Models - open source - https://openai.com/index/introducing-gpt-oss/
 * SDK - .NET - https://github.com/openai/openai-dotnet
 * Security -> Red teaming - https://github.com/microsoft/AI-Red-Teaming-Playground-Labs
 * Skeleton key prompt bypass - https://www.digitaltrends.com/computing/skeleton-key-jailbreak-chatbot-exploit-dangerous-information/
+

@@ -29,6 +29,10 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/pipeline-options-f
 * ISO in gh roadmap - https://github.com/github/roadmap/issues/245
 * NIST in fedramp - https://government.github.com/fedramp-faq
 
+## COPILOT
+
+* Under the hood.  Exploring the models under GitHub Copilot ( Sept 25 ) - https://github.blog/ai-and-ml/github-copilot/under-the-hood-exploring-the-ai-models-powering-github-copilot/
+
 ## MISC
  
 * Binary file versioning - https://git-lfs.github.com/

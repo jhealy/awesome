@@ -34,6 +34,14 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
 * Prompt shields - https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection
 * Redteam resource page on ms learn - https://learn.microsoft.com/en-us/security/ai-red-team/
 
+# Semantic Kernel
+    * Building a MCP server with SK - https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel/
+    * Github samples - https://github.com/microsoft/semantic-kernel/tree/main 
+    * Intro to SK - https://learn.microsoft.com/en-us/semantic-kernel/overview/ 
+    * Java with SK - Chris Tremblay - https://github.com/chtrembl/azure-cloud/blob/main/petstore/19-function-calling-with-semantic-kernel-and-azure-open-ai/README.md
+    * Oracle db with SK - https://medium.com/oracledevs/announcing-the-oracle-database-vector-store-connector-for-semantic-kernel-adb83e806d4e
+    * Reinventing travel with SK - https://www.azure411.com/the-journey-is-the-destination/
+
 # MISC
 
 * Agent
@@ -50,6 +58,7 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
 * Lib for .NET - https://www.infoq.com/news/2024/06/openai-microsoft-dotnet/
 * MCP - Model Context Protocol
     * Building a MCP server with SK - https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel/
+    * MCP for Beginners Course - free - https://www.youtube.com/playlist?list=PLlrxD0HtieHjYfVUpGl_-ai7D6FRBjV-d
     * OpenAI agent support for mcp (20250331) - https://www.techrepublic.com/article/news-openai-anthropic-model-context-protocol/
 * Models - GPT-Image-1 - image generation - https://azure.microsoft.com/en-us/blog/unveiling-gpt-image-1-rising-to-new-heights-with-image-generation-in-azure-ai-foundry/
 * Orchestration - Logic Apps
@@ -60,9 +69,3 @@ Redteaming, or taking defensive posture on prompt jailbreaking.  Both jailbreak 
     * Learn - https://github.com/microsoft/rag-time 
     * Solution accelerator - https://techcommunity.microsoft.com/blog/AzureArchitectureBlog/advanced-rag-solution-accelerator/4394223
 * Responsible AI - https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2
-* Semantic Kernel
-    * Building a MCP server with SK - https://devblogs.microsoft.com/semantic-kernel/building-a-model-context-protocol-server-with-semantic-kernel/
-    * Github samples - https://github.com/microsoft/semantic-kernel/tree/main 
-    * Intro to SK - https://learn.microsoft.com/en-us/semantic-kernel/overview/ 
-    * Java with SK - Chris Tremblay - https://github.com/chtrembl/azure-cloud/blob/main/petstore/19-function-calling-with-semantic-kernel-and-azure-open-ai/README.md
-    * Reinventing travel with SK - https://www.azure411.com/the-journey-is-the-destination/

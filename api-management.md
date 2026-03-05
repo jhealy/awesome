@@ -1,6 +1,6 @@
 # API MANAGEMENT
 
-Turkey solution for publishing APIs to external and internal customers.  Secure and protect from abuse and overuse.  Health and usage insights.  Automate and scale developer onboarding.
+Turn-key solution for publishing APIs to external and internal customers.  Secure and protect from abuse and overuse.  Health and usage insights.  Automate and scale developer onboarding.
 
 * Documentation - <https://docs.microsoft.com/en-us/azure/api-management/>
 * Overview video - https://www.youtube.com/watch?v=0yf_xm5cPIo
@@ -103,6 +103,7 @@ Turkey solution for publishing APIs to external and internal customers.  Secure 
 ## MISC
 
 * Aggregation - https://www.c-sharpcorner.com/blogs/api-aggregation-using-azure-apim
+* Alternative gateway on Azure for dev portal + monetization - https://azuremarketplace.microsoft.com/en-us/marketplace/apps/zuploinc1742488780268.zuplo-api-gateway?tab=overview
 * App service integration - https://azure.microsoft.com/en-us/updates/azure-api-management-now-supports-integration-with-azure-app-service/
 * Analytics - Power BI Solution Template for API Management - LINKS ARE DEAD - https://azure.microsoft.com/en-us/updates/azure-api-management-analytics-powerbi-solution-template/
 * Analytics - Monitoring - https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-use-azure-monitor
